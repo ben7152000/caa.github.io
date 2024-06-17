@@ -1,10 +1,3 @@
 <template>
-  <div>
-    Hello World
-    <van-button type="primary">主要按钮</van-button>
-  </div>
+  <router-view />
 </template>
-
-<style scoped>
-
-</style>
