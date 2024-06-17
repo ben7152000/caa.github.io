@@ -1,0 +1,50 @@
+{
+  "lang": "chinese",
+  "subject": [
+    {
+      "id": 1,
+      "title": "民用航空法及相關法規",
+      "questionCounts": 294
+    },
+    {
+      "id": 2,
+      "title": "基本航行學",
+      "questionCounts": 221
+    },
+    {
+      "id": 3,
+      "title": "飛機飛航原理",
+      "questionCounts": 240
+    },
+    {
+      "id": 4,
+      "title": "飛航管理程序",
+      "questionCounts": 188
+    },
+    {
+      "id": 5,
+      "title": "航空氣象",
+      "questionCounts": 148
+    },
+    {
+      "id": 6,
+      "title": "航空器一般維護",
+      "questionCounts": 191
+    },
+    {
+      "id": 7,
+      "title": "陸空通訊",
+      "questionCounts": 128
+    },
+    {
+      "id": 8,
+      "title": "載重平衡",
+      "questionCounts": 75
+    },
+    {
+      "id": 9,
+      "title": "人為因素學",
+      "questionCounts": 205
+    }
+  ]
+}

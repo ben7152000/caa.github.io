@@ -6,22 +6,39 @@
       <div class="select-practice">
         <span>Commercial Airplane</span>
       </div>
+      <div class="select-lang">
+        <div :class="['tab', { active: activeLang === 'chinese' }]" @click="changeLang('chinese')">Chinese</div>
+        <div :class="['tab', { active: activeLang === 'english' }]" @click="changeLang('english')">English</div>
+      </div>
       <div class="select-topic">
         <div :class="['tab', { active: activeTopic === 'study' }]" @click="changeTopic('study')">Study</div>
         <div :class="['tab', { active: activeTopic === 'test' }]" @click="changeTopic('test')">Test</div>
       </div>
-      <button class="btn-start">Start</button>
+      <button class="btn-start" @click="goStart">Start</button>
     </div>
   </div>
 </template>
 
 <script setup>
 import { ref } from "vue";
+import { useRouter } from "vue-router";
 
+const router = useRouter()
+const activeLang = ref('chinese')
 const activeTopic = ref('study')
+
+const changeLang = (lang) => {
+  activeLang.value = lang
+}
 
 const changeTopic = (topic) => {
   activeTopic.value = topic
+}
+
+const goStart = () => {
+  localStorage.setItem('lang', activeLang.value)
+  localStorage.setItem('topic', activeTopic.value)
+  router.push('/subject')
 }
 </script>
 
@@ -55,7 +72,13 @@ const changeTopic = (topic) => {
 }
 
 .select-topic {
-  margin: 40px auto 20px;
+  margin: 10px auto 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.select-lang {
+  margin: 40px auto 10px;
   display: flex;
   justify-content: center;
 }

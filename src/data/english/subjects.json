@@ -1,0 +1,50 @@
+{
+  "lang": "english",
+  "subject": [
+    {
+      "id": 1,
+      "title": "Civil Aviation Law and Related Regulations",
+      "questionCounts": 294
+    },
+    {
+      "id": 2,
+      "title": "Navigation",
+      "questionCounts": 221
+    },
+    {
+      "id": 3,
+      "title": "Principles of Flight",
+      "questionCounts": 240
+    },
+    {
+      "id": 4,
+      "title": "Management Procedures",
+      "questionCounts": 188
+    },
+    {
+      "id": 5,
+      "title": "Weather",
+      "questionCounts": 148
+    },
+    {
+      "id": 6,
+      "title": "Maintenance",
+      "questionCounts": 191
+    },
+    {
+      "id": 7,
+      "title": "Communication",
+      "questionCounts": 128
+    },
+    {
+      "id": 8,
+      "title": "Weight And Balance",
+      "questionCounts": 75
+    },
+    {
+      "id": 9,
+      "title": "Human Factors",
+      "questionCounts": 205
+    }
+  ]
+}
