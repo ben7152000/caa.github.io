@@ -1,5 +1,8 @@
 <template>
-  <div>Hello World</div>
+  <div>
+    Hello World
+    <van-button type="primary">主要按钮</van-button>
+  </div>
 </template>
 
 <style scoped>
