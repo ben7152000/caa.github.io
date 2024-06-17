@@ -5,7 +5,7 @@
       <span>Commercial Airplane</span>
     </div>
     <div v-for="subject of activeSubjects" class="subjects">
-      <div class="subject" @click="goTest(subject.testTopic)">
+      <div :key="subject.id" class="subject" @click="goTest(subject.testTopic)">
         <div class="subject-info">
           <span>{{ subject.title }}</span>
           <span>Questions: {{ subject.questionCounts }}</span>
@@ -82,6 +82,9 @@ const goTest = (testTopic) => {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
+  span:last-child {
+    font-size: 12px;
+  }
 }
 
 .arrow {
