@@ -38,7 +38,7 @@ const changeTopic = (topic) => {
 const goStart = () => {
   localStorage.setItem('lang', activeLang.value)
   localStorage.setItem('topic', activeTopic.value)
-  router.push('/subject')
+  router.push('/subjects')
 }
 </script>
 
@@ -50,12 +50,13 @@ const goStart = () => {
   top: 0;
   left: 0;
   right: 0;
-  padding: 8px 0;
+  padding: 16px 0;
 }
 
 .logo {
   width: 250px;
   height: 250px;
+  margin-top: 50px;
 }
 
 .bottom-info {

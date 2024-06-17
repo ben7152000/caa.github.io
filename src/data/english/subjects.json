@@ -4,47 +4,56 @@
     {
       "id": 1,
       "title": "Civil Aviation Law and Related Regulations",
-      "questionCounts": 294
+      "questionCounts": 294,
+      "testTopic": "law"
     },
     {
       "id": 2,
       "title": "Navigation",
-      "questionCounts": 221
+      "questionCounts": 221,
+      "testTopic": "navigation"
     },
     {
       "id": 3,
       "title": "Principles of Flight",
-      "questionCounts": 240
+      "questionCounts": 240,
+      "testTopic": "principles"
     },
     {
       "id": 4,
       "title": "Management Procedures",
-      "questionCounts": 188
+      "questionCounts": 188,
+      "testTopic": "management"
     },
     {
       "id": 5,
       "title": "Weather",
-      "questionCounts": 148
+      "questionCounts": 148,
+      "testTopic": "weather"
     },
     {
       "id": 6,
       "title": "Maintenance",
-      "questionCounts": 191
+      "questionCounts": 191,
+      "testTopic": "maintenance"
     },
     {
       "id": 7,
       "title": "Communication",
-      "questionCounts": 128
+      "questionCounts": 128,
+      "testTopic": "communication"
     },
     {
       "id": 8,
       "title": "Weight And Balance",
-      "questionCounts": 75
+      "questionCounts": 75,
+      "testTopic": "weight"
     },
     {
       "id": 9,
       "title": "Human Factors",
-      "questionCounts": 205
+      "questionCounts": 205,
+      "testTopic": "human"
     }
   ]
 }
