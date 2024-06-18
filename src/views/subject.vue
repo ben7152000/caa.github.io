@@ -102,6 +102,10 @@ const resetData = () => {
 }
 
 const exit = () => {
+  if (topic.value === 'test') {
+    router.push('/')
+    return
+  }
   showGradeLists.value = false
 }
 
@@ -169,12 +173,12 @@ const checkAnswer = (option) => {
       }
     })
   }
-  if (!checked.value || checked.value !== option) return ''
+  if (!checked.value || checked.value !== option || topic.value === 'test') return ''
   return checked.value === question.value.answer ? 'text-green' : 'text-red'
 }
 
 const checkGradeAnswer = (answer, userAnswer) => {
-  if (!userAnswer) return ''
+  if (!userAnswer && topic.value === 'study') return ''
   return answer === userAnswer ? 'text-green' : 'text-red'
 }
 
