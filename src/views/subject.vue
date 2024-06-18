@@ -35,8 +35,8 @@
           <span>{{ passRate() }}%</span>
         </div>
         <div class="grade-subjects">
-          <div v-for="sub of getGradeLists()" class="grade-subject">
-            <span class="grade-number">({{ sub.id }}.)</span>
+          <div v-for="(sub, index) of getGradeLists()" class="grade-subject">
+            <span class="grade-number">({{ index + 1 }}.)</span>
             <span :class="['grade-title', checkGradeAnswer(sub.answer, sub.userAnswer)]">{{ sub.title }}</span>
           </div>
         </div>
@@ -54,12 +54,34 @@ import englishLawData from '../data/english/law/law.json'
 const router = useRouter()
 const route = useRoute()
 
+const activeIndex = ref(0)
+const testCount = ref(3)
+const checked = ref('')
+const showExit = ref(false)
+const showGrade = ref(false)
+const showGradeLists = ref(false)
+const saveSubjectData = ref([])
+
+const lang = computed(() => localStorage.getItem('lang'))
+const topic = computed(() => localStorage.getItem('topic'))
+const testTopic = computed(() => route.params.testTopic)
+const questionCounts = computed(() => topic.value === 'study' ? questionData[lang.value][testTopic.value].questions.length : testCount.value)
+const question = computed(() => questionData[lang.value][testTopic.value].questions[activeIndex.value])
+
+const getRandomNumbers = (obj, num) => {
+  const _questions = obj.questions.sort(() => 0.5 - Math.random()).slice(0, num)
+  return {
+    testTopic: obj.testTopic,
+    questions: _questions
+  };
+}
+
 const questionData = {
   chinese: {
-    law: chineseLawData
+    law: topic.value === 'study' ? chineseLawData : getRandomNumbers(chineseLawData, testCount.value)
   },
   english: {
-    law: englishLawData
+    law: topic.value === 'study' ? englishLawData : getRandomNumbers(englishLawData, testCount.value)
   }
 }
 
@@ -72,18 +94,6 @@ const gradeActions = [
   { id: 1, name: 'Grade Quiz' },
   { id: 2, name: 'Return to Quiz' }
 ]
-
-const activeIndex = ref(0)
-const checked = ref('')
-const showExit = ref(false)
-const showGrade = ref(false)
-const showGradeLists = ref(false)
-const saveSubjectData = ref([])
-
-const lang = computed(() => localStorage.getItem('lang'))
-const testTopic = computed(() => route.params.testTopic)
-const questionCounts = computed(() => questionData[lang.value][testTopic.value].questions.length)
-const question = computed(() => questionData[lang.value][testTopic.value].questions[activeIndex.value])
 
 const resetData = () => {
   activeIndex.value = 0
@@ -183,6 +193,7 @@ const passRate = () => {
 }
 
 onMounted(() => {
+  localStorage.removeItem('subject')
   localStorage.setItem('subject', JSON.stringify(questionData[lang.value][testTopic.value].questions))
   saveSubjectData.value = questionData[lang.value][testTopic.value].questions
 })
