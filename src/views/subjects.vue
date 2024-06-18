@@ -17,7 +17,7 @@
 </template>
 
 <script setup>
-import { computed } from "vue";
+import {computed, onMounted} from "vue";
 import { useRouter } from "vue-router";
 import ChineseData from '../data/chinese/subjects.json'
 import EnglishData from '../data/english/subjects.json'
@@ -29,14 +29,16 @@ const activeSubjects = computed(() => {
 })
 
 const goBack = () => {
-  localStorage.removeItem('lang')
-  localStorage.removeItem('topic')
   router.push('/')
 }
 
 const goTest = (testTopic) => {
   router.push(`/subjects/${testTopic}`)
 }
+
+onMounted(() => {
+  localStorage.removeItem('subject')
+})
 </script>
 
 <style scoped>

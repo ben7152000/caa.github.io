@@ -20,7 +20,7 @@
 </template>
 
 <script setup>
-import { ref } from "vue";
+import {onMounted, ref} from "vue";
 import { useRouter } from "vue-router";
 
 const router = useRouter()
@@ -40,6 +40,12 @@ const goStart = () => {
   localStorage.setItem('topic', activeTopic.value)
   router.push('/subjects')
 }
+
+onMounted(() => {
+  localStorage.removeItem('lang')
+  localStorage.removeItem('topic')
+  localStorage.removeItem('subject')
+})
 </script>
 
 <style scoped>

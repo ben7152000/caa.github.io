@@ -3,7 +3,7 @@
     <div class="nav-bar">
       <span class="back" @click="exitQuiz">Exit Quiz</span>
       <span>{{ activeIndex + 1 }} of {{ questionCounts }}</span>
-      <span class="grade">Grade</span>
+      <span class="grade" @click="gradeQuiz">Grade</span>
     </div>
     <div class="question">
       <span class="title">QUESTION</span>
@@ -26,13 +26,30 @@
       <span :class="[{ disable: activeIndex === 0 }]" @click="goPrev">Prev</span>
       <span :class="[{ disable: activeIndex === questionCounts - 1 }]" @click="goNext">Next</span>
     </div>
+    <van-action-sheet v-model:show="showExit" :actions="exitActions" @select="exitSelect" description="Exit Quiz?" />
+    <van-action-sheet v-model:show="showGrade" :actions="gradeActions" @select="gradeSelect" description="Are you sure you want to submit the quiz?" />
+    <van-popup v-model:show="showGradeLists"  position="bottom">
+      <div class="popup-grade">
+        <div class="nav-bar">
+          <span class="back" @click="exit">Exit</span>
+          <span>{{ passRate() }}%</span>
+        </div>
+        <div class="grade-subjects">
+          <div v-for="sub of getGradeLists()" class="grade-subject">
+            <span class="grade-number">({{ sub.id }}.)</span>
+            <span :class="['grade-title', checkGradeAnswer(sub.answer, sub.userAnswer)]">{{ sub.title }}</span>
+          </div>
+        </div>
+      </div>
+    </van-popup>
   </div>
 </template>
 
 <script setup>
-import { ref, computed } from "vue";
+import {ref, computed, onMounted} from "vue";
 import { useRouter, useRoute } from "vue-router";
 import chineseLawData from '../data/chinese/law/law.json'
+import englishLawData from '../data/english/law/law.json'
 
 const router = useRouter()
 const route = useRoute()
@@ -42,15 +59,68 @@ const questionData = {
     law: chineseLawData
   },
   english: {
-    law: chineseLawData
+    law: englishLawData
   }
 }
 
+const exitActions = [
+  { id: 1, name: 'Exit Quiz' },
+  { id: 2, name: 'Return to Quiz' }
+]
+
+const gradeActions = [
+  { id: 1, name: 'Grade Quiz' },
+  { id: 2, name: 'Return to Quiz' }
+]
+
 const activeIndex = ref(0)
 const checked = ref('')
+const showExit = ref(false)
+const showGrade = ref(false)
+const showGradeLists = ref(false)
+const saveSubjectData = ref([])
+
+const lang = computed(() => localStorage.getItem('lang'))
+const testTopic = computed(() => route.params.testTopic)
+const questionCounts = computed(() => questionData[lang.value][testTopic.value].questions.length)
+const question = computed(() => questionData[lang.value][testTopic.value].questions[activeIndex.value])
+
+const resetData = () => {
+  activeIndex.value = 0
+  checked.value = ''
+  localStorage.setItem('subject', JSON.stringify(saveSubjectData.value))
+}
+
+const exit = () => {
+  showGradeLists.value = false
+}
 
 const exitQuiz = () => {
-  router.push('/subjects')
+  showExit.value = true
+}
+
+const exitSelect = (i) => {
+  showExit.value = false
+  if (i.id === 1) {
+    router.push('/subjects')
+  }
+  if (i.id === 2) {
+    resetData()
+  }
+}
+
+const gradeQuiz = () => {
+  showGrade.value = true
+}
+
+const gradeSelect = (i) => {
+  showGrade.value = false
+  if (i.id === 1) {
+    showGradeLists.value = true
+  }
+  if (i.id === 2) {
+    resetData()
+  }
 }
 
 const goPrev = () => {
@@ -67,17 +137,55 @@ const goNext = () => {
 
 const selectOption = (option) => {
   checked.value = option
+  const localSubject = localStorage.getItem('subject')
+  const _subject = JSON.parse(localSubject).map(i => {
+    if (i.id === question.value.id) {
+      return {
+        ...i,
+        userAnswer: option
+      }
+    }
+    return i
+  })
+  localStorage.setItem('subject', JSON.stringify(_subject))
 }
 
 const checkAnswer = (option) => {
+  const localSubject = localStorage.getItem('subject')
+  if (localSubject) {
+    JSON.parse(localSubject).forEach(i => {
+      if (i.id === question.value.id) {
+        checked.value = i.userAnswer
+      }
+    })
+  }
   if (!checked.value || checked.value !== option) return ''
   return checked.value === question.value.answer ? 'text-green' : 'text-red'
 }
 
-const lang = computed(() => localStorage.getItem('lang'))
-const testTopic = computed(() => route.params.testTopic)
-const questionCounts = computed(() => questionData[lang.value][testTopic.value].questions.length)
-const question = computed(() => questionData[lang.value][testTopic.value].questions[activeIndex.value])
+const checkGradeAnswer = (answer, userAnswer) => {
+  if (!userAnswer) return ''
+  return answer === userAnswer ? 'text-green' : 'text-red'
+}
+
+const getGradeLists = () => {
+  return JSON.parse(localStorage.getItem('subject'))
+}
+
+const passRate = () => {
+  let correct = 0
+  getGradeLists().forEach(i => {
+    if (i.answer === i.userAnswer) {
+      correct++
+    }
+  })
+  return Number((correct / questionCounts.value) * 100).toFixed(2)
+}
+
+onMounted(() => {
+  localStorage.setItem('subject', JSON.stringify(questionData[lang.value][testTopic.value].questions))
+  saveSubjectData.value = questionData[lang.value][testTopic.value].questions
+})
 </script>
 
 <style scoped>
@@ -172,5 +280,36 @@ const question = computed(() => questionData[lang.value][testTopic.value].questi
 
 .text-red::v-deep(.van-radio__label) {
   color: #d30e0e !important;
+}
+
+.popup-grade {
+  background: #eee;
+  height: 100%;
+}
+
+.grade-subjects {
+  padding-top: 50px;
+}
+
+.grade-subject {
+  padding: 8px 10px 8px 20px;
+  text-align: left;
+  background: #cbc3c3;
+  border-bottom: 1px solid #eee;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.grade-number {
+  margin-right: 8px;
+}
+
+.text-green {
+  color: #32c77a;
+}
+
+.text-red {
+  color: #d30e0e;
 }
 </style>

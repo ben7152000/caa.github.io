@@ -3,131 +3,131 @@
   "questions": [
     {
       "id": 1,
-      "title": "航空器使用人指以航空器從事飛航作業之",
+      "title": "Operator of an aircraft is referred to",
       "answer": "D",
       "userAnswer": "",
       "options": [
         {
           "id": 1,
           "option": "A",
-          "text": "自然人"
+          "text": "natural person"
         },
         {
           "id": 2,
           "option": "B",
-          "text": "法人"
+          "text": "legal person"
         },
         {
           "id": 3,
           "option": "C",
-          "text": "政府機關"
+          "text": "government organization"
         },
         {
           "id": 4,
           "option": "D",
-          "text": "全部皆對"
+          "text": "Other answers are correct"
         }
       ]
     },
     {
       "id": 2,
-      "title": "組員指由航空器使用人指派於",
+      "title": "Crew is referred to personnel assigned by the operator to work",
       "answer": "A",
       "userAnswer": "",
       "options": [
         {
           "id": 1,
           "option": "A",
-          "text": "飛航時在航空器內工作之人員"
+          "text": "on aboard aircraft during flight."
         },
         {
           "id": 2,
           "option": "B",
-          "text": "飛航時在地面工作之人員"
+          "text": "on ground."
         },
         {
           "id": 3,
           "option": "C",
-          "text": "地面時在航空器內工作之人員。"
+          "text": "in aircraft while on ground."
         }
       ]
     },
     {
       "id": 3,
-      "title": "下列何者為飛航組員?",
+      "title": "Which of the following is a member of flight crew?",
       "answer": "A",
       "userAnswer": "",
       "options": [
         {
           "id": 1,
           "option": "A",
-          "text": "航空器駕駛員"
+          "text": "pilot."
         },
         {
           "id": 2,
           "option": "B",
-          "text": "客艙組員"
+          "text": "flight attendant."
         },
         {
           "id": 3,
           "option": "C",
-          "text": "機械員。"
+          "text": "engineer."
         }
       ]
     },
     {
       "id": 4,
-      "title": "下列哪一項是巡航駕駛員的資格/限制?",
+      "title": "What is the qualification or limitation of a cruise relief pilot?",
       "answer": "D",
       "userAnswer": "",
       "options": [
         {
           "id": 1,
           "option": "A",
-          "text": "符合正駕駛員審查資格"
+          "text": "Be qualified as a Captain."
         },
         {
           "id": 2,
           "option": "B",
-          "text": "完成巡航駕駛員訓練"
+          "text": "Has completed the cruise relief pilot training."
         },
         {
           "id": 3,
           "option": "C",
-          "text": "僅能於巡航時擔任接替正駕駛員任務。"
+          "text": "May perform pilot tasks of that type of aircraft during cruise flight."
         },
         {
           "id": 4,
           "option": "D",
-          "text": "全部皆對"
+          "text": "Other answers are correct."
         }
       ]
     },
     {
       "id": 5,
-      "title": "備用機場包括：",
+      "title": "Alternate airport includes:",
       "answer": "D",
       "userAnswer": "",
       "options": [
         {
           "id": 1,
           "option": "A",
-          "text": "起飛備用機場"
+          "text": "departure alternate airport"
         },
         {
           "id": 2,
           "option": "B",
-          "text": "航路備用機場"
+          "text": "en-route alternate airport"
         },
         {
           "id": 3,
           "option": "C",
-          "text": "目的地備用機場"
+          "text": "destination alternate airport"
         },
         {
           "id": 4,
           "option": "D",
-          "text": "全部皆對"
+          "text": "Other answers are correct"
         }
       ]
     }
