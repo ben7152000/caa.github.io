@@ -55,7 +55,7 @@ const router = useRouter()
 const route = useRoute()
 
 const activeIndex = ref(0)
-const testCount = ref(3)
+const testCount = ref(100)
 const checked = ref('')
 const showExit = ref(false)
 const showGrade = ref(false)
