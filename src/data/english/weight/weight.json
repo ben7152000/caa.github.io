@@ -14,890 +14,827 @@
     },
     {
       "id": 2,
-      "title": "",
+      "title": "Given: MZFW=130000, MLDW=130000, MTOW=160000, DOW=90000, TIF=20000, TOF=30000, Payload=30000, what is the take off weight for this flight?",
       "answer": "A",
       "userAnswer": "",
       "options": [
-        {"id": 1, "option": "A", "text": ""},
-        {"id": 2, "option": "B", "text": ""},
-        {"id": 3, "option": "C", "text": ""},
-        {"id": 4, "option": "D", "text": ""}
+        {"id": 1, "option": "A", "text": "150000"},
+        {"id": 2, "option": "B", "text": "160000"},
+        {"id": 3, "option": "C", "text": "170000"}
       ]
     },
     {
       "id": 3,
-      "title": "",
+      "title": "Given: MZFW=130000, MLDW=140000, MTOW=170000, DOW=90000, TIF=20000, TOF=30000, Payload=40000, what is the take off weight for this flight?",
       "answer": "C",
       "userAnswer": "",
       "options": [
-        {"id": 1, "option": "A", "text": ""},
-        {"id": 2, "option": "B", "text": ""},
-        {"id": 3, "option": "C", "text": ""},
-        {"id": 4, "option": "D", "text": ""}
+        {"id": 1, "option": "A", "text": "120000"},
+        {"id": 2, "option": "B", "text": "140000"},
+        {"id": 3, "option": "C", "text": "160000"}
       ]
     },
     {
       "id": 4,
-      "title": "",
+      "title": "Given: MZFW=130000, MLDW=140000, MTOW=170000, DOW=90000, TIF=20000, TOF=30000, Payload=40000, what is the operating weight for this flight?",
       "answer": "A",
       "userAnswer": "",
       "options": [
-        {"id": 1, "option": "A", "text": ""},
-        {"id": 2, "option": "B", "text": ""},
-        {"id": 3, "option": "C", "text": ""},
-        {"id": 4, "option": "D", "text": ""}
+        {"id": 1, "option": "A", "text": "120000"},
+        {"id": 2, "option": "B", "text": "150000"},
+        {"id": 3, "option": "C", "text": "160000"}
       ]
     },
     {
       "id": 5,
-      "title": "",
+      "title": "Given: ZFW=A, LDW=B, TOW=C, DOW=D, TIF=E, TOF=F, Operating weight=G, Payload=H, I what is true?",
       "answer": "A",
       "userAnswer": "",
       "options": [
-        {"id": 1, "option": "A", "text": ""},
-        {"id": 2, "option": "B", "text": ""},
-        {"id": 3, "option": "C", "text": ""},
-        {"id": 4, "option": "D", "text": ""}
+        {"id": 1, "option": "A", "text": "A=D+H"},
+        {"id": 2, "option": "B", "text": "A=C-E"},
+        {"id": 3, "option": "C", "text": "A=G-F"}
       ]
     },
     {
       "id": 6,
-      "title": "",
+      "title": "Given: ZFW=A, LDW=B, TOW=C, DOW=D, TIF=E, TOF=F, Operating weight=G, Payload=H, I what is true?",
       "answer": "A",
       "userAnswer": "",
       "options": [
-        {"id": 1, "option": "A", "text": ""},
-        {"id": 2, "option": "B", "text": ""},
-        {"id": 3, "option": "C", "text": ""},
-        {"id": 4, "option": "D", "text": ""}
+        {"id": 1, "option": "A", "text": "A=D+H"},
+        {"id": 2, "option": "B", "text": "C=D+E"},
+        {"id": 3, "option": "C", "text": "B=C-F"}
       ]
     },
     {
       "id": 7,
-      "title": "",
+      "title": "Weight X Arm ÷ the Reduction Factor is the formula used to determine?",
       "answer": "A",
       "userAnswer": "",
       "options": [
-        {"id": 1, "option": "A", "text": ""},
-        {"id": 2, "option": "B", "text": ""},
-        {"id": 3, "option": "C", "text": ""},
-        {"id": 4, "option": "D", "text": ""}
+        {"id": 1, "option": "A", "text": "index units"},
+        {"id": 2, "option": "B", "text": "total moments"},
+        {"id": 3, "option": "C", "text": "CG from LEMAC"}
       ]
     },
     {
       "id": 8,
-      "title": "",
+      "title": "The term mean aerodynamic chord may be defined as the?",
       "answer": "C",
       "userAnswer": "",
       "options": [
-        {"id": 1, "option": "A", "text": ""},
-        {"id": 2, "option": "B", "text": ""},
-        {"id": 3, "option": "C", "text": ""},
-        {"id": 4, "option": "D", "text": ""}
+        {"id": 1, "option": "A", "text": "ratio of the average wing chord to its aerodynamic center of pressure."},
+        {"id": 2, "option": "B", "text": "distance from the leading edge to the trailing edge of the wing, measured at the wing root."},
+        {"id": 3, "option": "C", "text": "chord of an imaginary airfoil which has the same aerodynamic characteristics as the actual airfoil."}
       ]
     },
     {
       "id": 9,
-      "title": "",
+      "title": "If the nosewheel of an airplane moves forward upon gear retraction, the CG will?",
       "answer": "C",
       "userAnswer": "",
       "options": [
-        {"id": 1, "option": "A", "text": ""},
-        {"id": 2, "option": "B", "text": ""},
-        {"id": 3, "option": "C", "text": ""},
-        {"id": 4, "option": "D", "text": ""}
+        {"id": 1, "option": "A", "text": "move aft"},
+        {"id": 2, "option": "B", "text": "not move"},
+        {"id": 3, "option": "C", "text": "move forward"}
       ]
     },
     {
       "id": 10,
-      "title": "",
+      "title": "The CG of an airplane can be determined by?",
       "answer": "B",
       "userAnswer": "",
       "options": [
-        {"id": 1, "option": "A", "text": ""},
-        {"id": 2, "option": "B", "text": ""},
-        {"id": 3, "option": "C", "text": ""},
-        {"id": 4, "option": "D", "text": ""}
+        {"id": 1, "option": "A", "text": "multiplying total arms by total weight"},
+        {"id": 2, "option": "B", "text": "dividing total moments by total weight"},
+        {"id": 3, "option": "C", "text": "multiplying total weight by total moments"}
       ]
     },
     {
       "id": 11,
-      "title": "",
+      "title": "Which of the following weight factors determine ramp or taxi weight?",
       "answer": "B",
       "userAnswer": "",
       "options": [
-        {"id": 1, "option": "A", "text": ""},
-        {"id": 2, "option": "B", "text": ""},
-        {"id": 3, "option": "C", "text": ""},
-        {"id": 4, "option": "D", "text": ""}
+        {"id": 1, "option": "A", "text": "Payload plus operating weight"},
+        {"id": 2, "option": "B", "text": "Zero fuel weight plus total fuel load"},
+        {"id": 3, "option": "C", "text": "Zero fuel weight plus payload, fuel, and oil"}
       ]
     },
     {
       "id": 12,
-      "title": "",
+      "title": "For what reason there is a standard procedure for fuel loading?",
       "answer": "B",
       "userAnswer": "",
       "options": [
-        {"id": 1, "option": "A", "text": ""},
-        {"id": 2, "option": "B", "text": ""},
-        {"id": 3, "option": "C", "text": ""},
-        {"id": 4, "option": "D", "text": ""}
+        {"id": 1, "option": "A", "text": "For fire fighting"},
+        {"id": 2, "option": "B", "text": "Reduce the bending moment of the wing"},
+        {"id": 3, "option": "C", "text": "Prevent tail down during refueling"}
       ]
     },
     {
       "id": 13,
-      "title": "",
+      "title": "TOW includes?",
       "answer": "B",
       "userAnswer": "",
       "options": [
-        {"id": 1, "option": "A", "text": ""},
-        {"id": 2, "option": "B", "text": ""},
-        {"id": 3, "option": "C", "text": ""},
-        {"id": 4, "option": "D", "text": ""}
+        {"id": 1, "option": "A", "text": "ZFW + Trip fuel"},
+        {"id": 2, "option": "B", "text": "DOW + Payload + TOF"},
+        {"id": 3, "option": "C", "text": "DOW + Trip fuel"}
       ]
     },
     {
       "id": 14,
-      "title": "",
+      "title": "Caculate the TOW : OW=3800kg ZFW=4200kg TOF=700kg Trip Fuel= 500kg",
       "answer": "C",
       "userAnswer": "",
       "options": [
-        {"id": 1, "option": "A", "text": ""},
-        {"id": 2, "option": "B", "text": ""},
-        {"id": 3, "option": "C", "text": ""},
-        {"id": 4, "option": "D", "text": ""}
+        {"id": 1, "option": "A", "text": "4700kg"},
+        {"id": 2, "option": "B", "text": "5100kg"},
+        {"id": 3, "option": "C", "text": "4900kg"}
       ]
     },
     {
       "id": 15,
-      "title": "",
+      "title": "ZFW + TOF = ?",
       "answer": "C",
       "userAnswer": "",
       "options": [
-        {"id": 1, "option": "A", "text": ""},
-        {"id": 2, "option": "B", "text": ""},
-        {"id": 3, "option": "C", "text": ""},
-        {"id": 4, "option": "D", "text": ""}
+        {"id": 1, "option": "A", "text": "DOW"},
+        {"id": 2, "option": "B", "text": "Landing weight"},
+        {"id": 3, "option": "C", "text": "TOW"},
+        {"id": 4, "option": "D", "text": "Aircraft gross weight"}
       ]
     },
     {
       "id": 16,
-      "title": "",
+      "title": "Payload not includes?",
       "answer": "B",
       "userAnswer": "",
       "options": [
-        {"id": 1, "option": "A", "text": ""},
-        {"id": 2, "option": "B", "text": ""},
-        {"id": 3, "option": "C", "text": ""},
-        {"id": 4, "option": "D", "text": ""}
+        {"id": 1, "option": "A", "text": "Passenger"},
+        {"id": 2, "option": "B", "text": "Fuel"},
+        {"id": 3, "option": "C", "text": "Cargo"}
       ]
     },
     {
       "id": 17,
-      "title": "",
+      "title": "For fuel saving, the C.G. of the transport aircraft should be",
       "answer": "B",
       "userAnswer": "",
       "options": [
-        {"id": 1, "option": "A", "text": ""},
-        {"id": 2, "option": "B", "text": ""},
-        {"id": 3, "option": "C", "text": ""},
-        {"id": 4, "option": "D", "text": ""}
+        {"id": 1, "option": "A", "text": "in the forward of C.G.limitation"},
+        {"id": 2, "option": "B", "text": "in the aftward of C.G.limitation"},
+        {"id": 3, "option": "C", "text": "the C.G. position has no effect on fuel saving"}
       ]
     },
     {
       "id": 18,
-      "title": "",
+      "title": "The main reason of carrying Ballast Fuel is because of",
       "answer": "A",
       "userAnswer": "",
       "options": [
-        {"id": 1, "option": "A", "text": ""},
-        {"id": 2, "option": "B", "text": ""},
-        {"id": 3, "option": "C", "text": ""},
-        {"id": 4, "option": "D", "text": ""}
+        {"id": 1, "option": "A", "text": "the C.G. out of trim"},
+        {"id": 2, "option": "B", "text": "the weight out of limit"},
+        {"id": 3, "option": "C", "text": "fuel not enough"}
       ]
     },
     {
       "id": 19,
-      "title": "",
+      "title": "In case of carrying Ballast Fuel, what weight should the ballast fuel be included?",
       "answer": "C",
       "userAnswer": "",
       "options": [
-        {"id": 1, "option": "A", "text": ""},
-        {"id": 2, "option": "B", "text": ""},
-        {"id": 3, "option": "C", "text": ""},
-        {"id": 4, "option": "D", "text": ""}
+        {"id": 1, "option": "A", "text": "aircraft basic weight"},
+        {"id": 2, "option": "B", "text": "take off fuel"},
+        {"id": 3, "option": "C", "text": "zero fuel weight"}
       ]
     },
     {
       "id": 20,
-      "title": "",
+      "title": "which of the following description is FALSE",
       "answer": "C",
       "userAnswer": "",
       "options": [
-        {"id": 1, "option": "A", "text": ""},
-        {"id": 2, "option": "B", "text": ""},
-        {"id": 3, "option": "C", "text": ""},
-        {"id": 4, "option": "D", "text": ""}
+        {"id": 1, "option": "A", "text": "ZFW=DOW+Payload"},
+        {"id": 2, "option": "B", "text": "TOW=ZFW+T/O fuel"},
+        {"id": 3, "option": "C", "text": "LDW=TOW-T/O fuel"}
       ]
     },
     {
       "id": 21,
-      "title": "",
+      "title": "Among ZFW,LDW,TOW, how to identify the most critical weight which limits the maximum allowable payload for specific flight?",
       "answer": "C",
       "userAnswer": "",
       "options": [
-        {"id": 1, "option": "A", "text": ""},
-        {"id": 2, "option": "B", "text": ""},
-        {"id": 3, "option": "C", "text": ""},
-        {"id": 4, "option": "D", "text": ""}
+        {"id": 1, "option": "A", "text": "the lightest weight of MZFW,MLDW,MTOW"},
+        {"id": 2, "option": "B", "text": "the heaviest weight of MZFW,MLDW,MTOW"},
+        {"id": 3, "option": "C", "text": "The weight which is closest to its respective max. weight"}
       ]
     },
     {
       "id": 22,
-      "title": "",
+      "title": "For longitudinal stability, the relation between LIFT force center and C.G. for transport airplane is?",
       "answer": "C",
       "userAnswer": "",
       "options": [
-        {"id": 1, "option": "A", "text": ""},
-        {"id": 2, "option": "B", "text": ""},
-        {"id": 3, "option": "C", "text": ""},
-        {"id": 4, "option": "D", "text": ""}
+        {"id": 1, "option": "A", "text": "lift force center is forward of C.G."},
+        {"id": 2, "option": "B", "text": "lift force center overlap with C.G."},
+        {"id": 3, "option": "C", "text": "lift force center is aftward of C.G."}
       ]
     },
     {
       "id": 23,
-      "title": "",
+      "title": "For better control ability, which is TRUE?",
       "answer": "B",
       "userAnswer": "",
       "options": [
-        {"id": 1, "option": "A", "text": ""},
-        {"id": 2, "option": "B", "text": ""},
-        {"id": 3, "option": "C", "text": ""},
-        {"id": 4, "option": "D", "text": ""}
+        {"id": 1, "option": "A", "text": "AFT C.G. is preferred"},
+        {"id": 2, "option": "B", "text": "FWD C.G. is preferred"},
+        {"id": 3, "option": "C", "text": "independent of C.G."}
       ]
     },
     {
       "id": 24,
-      "title": "",
+      "title": "For better maneuver ability, which is TRUE?",
       "answer": "A",
       "userAnswer": "",
       "options": [
-        {"id": 1, "option": "A", "text": ""},
-        {"id": 2, "option": "B", "text": ""},
-        {"id": 3, "option": "C", "text": ""},
-        {"id": 4, "option": "D", "text": ""}
+        {"id": 1, "option": "A", "text": "AFT C.G. is preferred"},
+        {"id": 2, "option": "B", "text": ")FWD C.G. is preferred"},
+        {"id": 3, "option": "C", "text": "independent of C.G."}
       ]
     },
     {
       "id": 25,
-      "title": "",
+      "title": "The aircraft C.G. is finalized when completely loaded. What direction will the C.G. move if we load something on specific direction?",
       "answer": "B",
       "userAnswer": "",
       "options": [
-        {"id": 1, "option": "A", "text": ""},
-        {"id": 2, "option": "B", "text": ""},
-        {"id": 3, "option": "C", "text": ""},
-        {"id": 4, "option": "D", "text": ""}
+        {"id": 1, "option": "A", "text": "The reverse direction on which something was loaded"},
+        {"id": 2, "option": "B", "text": "The same direction on which something was loaded"},
+        {"id": 3, "option": "C", "text": "C.G. will not change"}
       ]
     },
     {
       "id": 26,
-      "title": "",
+      "title": "For commerical airplane, what is the normal fuel usage sequence?",
       "answer": "A",
       "userAnswer": "",
       "options": [
-        {"id": 1, "option": "A", "text": ""},
-        {"id": 2, "option": "B", "text": ""},
-        {"id": 3, "option": "C", "text": ""},
-        {"id": 4, "option": "D", "text": ""}
+        {"id": 1, "option": "A", "text": "Ceter tank first , then main wing tank."},
+        {"id": 2, "option": "B", "text": "Main wing tank, then center tank"},
+        {"id": 3, "option": "C", "text": "depend on aircraft type"}
       ]
     },
     {
       "id": 27,
-      "title": "",
+      "title": "For long haul flight, the critical weight for allowable traffic load is normally limited by",
       "answer": "B",
       "userAnswer": "",
       "options": [
-        {"id": 1, "option": "A", "text": ""},
-        {"id": 2, "option": "B", "text": ""},
-        {"id": 3, "option": "C", "text": ""},
-        {"id": 4, "option": "D", "text": ""}
+        {"id": 1, "option": "A", "text": "Maxomum landing weight"},
+        {"id": 2, "option": "B", "text": "Maximum take off weight"},
+        {"id": 3, "option": "C", "text": "maximum zero fuel weight"}
       ]
     },
     {
       "id": 28,
-      "title": "",
+      "title": "Given: C.G. at 1400inch,LEMAC at 1300 inch, MAC=300, How much percent MAC is C.G.position?",
       "answer": "A",
       "userAnswer": "",
       "options": [
-        {"id": 1, "option": "A", "text": ""},
-        {"id": 2, "option": "B", "text": ""},
-        {"id": 3, "option": "C", "text": ""},
-        {"id": 4, "option": "D", "text": ""}
+        {"id": 1, "option": "A", "text": "33.3%MAC"},
+        {"id": 2, "option": "B", "text": "21.4%MAC"},
+        {"id": 3, "option": "C", "text": "23.1%MAC"}
       ]
     },
     {
       "id": 29,
-      "title": "",
+      "title": "Given: MTOW=283 tons, MLDW=213 tons, MZFW=204 tons, DOW=114 tons, Trip fuel = 75 tons, take off fuel=85 tons, , what is the maximum allowable payload for this flight?",
       "answer": "C",
       "userAnswer": "",
       "options": [
-        {"id": 1, "option": "A", "text": ""},
-        {"id": 2, "option": "B", "text": ""},
-        {"id": 3, "option": "C", "text": ""},
-        {"id": 4, "option": "D", "text": ""}
+        {"id": 1, "option": "A", "text": "90 tons"},
+        {"id": 2, "option": "B", "text": "89 tons"},
+        {"id": 3, "option": "C", "text": "84 tons"}
       ]
     },
     {
       "id": 30,
-      "title": "",
+      "title": "GIVEN: Empty weight 1100 with Arm 30, Pilot (fwd seat) weight 170 with Arm -45, Passenger (aft seat) weight 160 with Arm +2, Ballast weight 50 with Arm -50, the CG is located at station",
       "answer": "B",
       "userAnswer": "",
       "options": [
-        {"id": 1, "option": "A", "text": ""},
-        {"id": 2, "option": "B", "text": ""},
-        {"id": 3, "option": "C", "text": ""},
-        {"id": 4, "option": "D", "text": ""}
+        {"id": 1, "option": "A", "text": "+15.91"},
+        {"id": 2, "option": "B", "text": "+15.66"},
+        {"id": 3, "option": "C", "text": "+15.48"}
       ]
     },
     {
       "id": 31,
-      "title": "",
+      "title": "GIVEN: Empty weight 937 with Arm 29.07, Pilot (fwd seat) weight 170 with Arm -45.30, Passenger (aft seat) weight 160 with Arm +1.60, Ballast weight 15 with Arm -45.30, the CG is located at station",
       "answer": "A",
       "userAnswer": "",
       "options": [
-        {"id": 1, "option": "A", "text": ""},
-        {"id": 2, "option": "B", "text": ""},
-        {"id": 3, "option": "C", "text": ""},
-        {"id": 4, "option": "D", "text": ""}
+        {"id": 1, "option": "A", "text": "+14.91"},
+        {"id": 2, "option": "B", "text": "+16.43"},
+        {"id": 3, "option": "C", "text": "+27.38"}
       ]
     },
     {
       "id": 32,
-      "title": "",
+      "title": "GIVEN: Empty weight 1100 with Arm 35, Pilot (fwd seat) weight 170 with Arm -40, Passenger (aft seat) weight 160 with Arm +5, Ballast weight 50 with Arm -50, the CG is located at station",
       "answer": "C",
       "userAnswer": "",
       "options": [
-        {"id": 1, "option": "A", "text": ""},
-        {"id": 2, "option": "B", "text": ""},
-        {"id": 3, "option": "C", "text": ""},
-        {"id": 4, "option": "D", "text": ""}
+        {"id": 1, "option": "A", "text": "19.27"},
+        {"id": 2, "option": "B", "text": "18.27"},
+        {"id": 3, "option": "C", "text": "20.27"},
+        {"id": 4, "option": "D", "text": "17.27"}
       ]
     },
     {
       "id": 33,
-      "title": "",
+      "title": "GIVEN: Weight A - 155 pounds at 55 inches aft of datum, Weight B - 165 pounds at 155 inches aft of datum, Weight C - 95 pounds at 175 inches aft of datum, Based on this information, the CG would be located how far aft of datum?",
       "answer": "B",
       "userAnswer": "",
       "options": [
-        {"id": 1, "option": "A", "text": ""},
-        {"id": 2, "option": "B", "text": ""},
-        {"id": 3, "option": "C", "text": ""},
-        {"id": 4, "option": "D", "text": ""}
+        {"id": 1, "option": "A", "text": "120.5 inches"},
+        {"id": 2, "option": "B", "text": "122.2 inches"},
+        {"id": 3, "option": "C", "text": "124.5 inches"}
       ]
     },
     {
       "id": 34,
-      "title": "",
+      "title": "GIVEN: Weight A - 155 pounds at 55 inches aft of datum, Weight B - 165 pounds at 145 inches aft of datum, Weight C - 95 pounds at 185 inches aft of datum, Based on this information, the CG would be located how far aft of datum?",
       "answer": "A",
       "userAnswer": "",
       "options": [
-        {"id": 1, "option": "A", "text": ""},
-        {"id": 2, "option": "B", "text": ""},
-        {"id": 3, "option": "C", "text": ""},
-        {"id": 4, "option": "D", "text": ""}
+        {"id": 1, "option": "A", "text": "120.5 inches"},
+        {"id": 2, "option": "B", "text": "116.8 inches"},
+        {"id": 3, "option": "C", "text": "124.5 inches"}
       ]
     },
     {
       "id": 35,
-      "title": "",
+      "title": "GIVEN: Weight A - 155 pounds at 45 inches aft of datum, Weight B - 165 pounds at 145 inches aft of datum, Weight C - 95 pounds at 195 inches aft of datum, Based on this information, the CG would be located how far aft of datum?",
       "answer": "C",
       "userAnswer": "",
       "options": [
-        {"id": 1, "option": "A", "text": ""},
-        {"id": 2, "option": "B", "text": ""},
-        {"id": 3, "option": "C", "text": ""},
-        {"id": 4, "option": "D", "text": ""}
+        {"id": 1, "option": "A", "text": "126.8 inches"},
+        {"id": 2, "option": "B", "text": "122.2 inches"},
+        {"id": 3, "option": "C", "text": "119.1 inches"}
       ]
     },
     {
       "id": 36,
-      "title": "",
+      "title": "Given: MZFW=130634, MLDW=145149, MTOW=170000, DOW=89886, TIF=20000, TOF=30000, what is the allowed weight for take off for this flight?",
       "answer": "A",
       "userAnswer": "",
       "options": [
-        {"id": 1, "option": "A", "text": ""},
-        {"id": 2, "option": "B", "text": ""},
-        {"id": 3, "option": "C", "text": ""},
-        {"id": 4, "option": "D", "text": ""}
+        {"id": 1, "option": "A", "text": "160634"},
+        {"id": 2, "option": "B", "text": "170000"},
+        {"id": 3, "option": "C", "text": "165149"}
       ]
     },
     {
       "id": 37,
-      "title": "",
+      "title": "Given: MZFW=15830, MLDW=17000, MTOW=18370, DOW=10950, PAYLOAD=4640, TIF=1400, min TOF=2130, what is maximum extra fuel the airplane can carry for this flight?",
       "answer": "B",
       "userAnswer": "",
       "options": [
-        {"id": 1, "option": "A", "text": ""},
-        {"id": 2, "option": "B", "text": ""},
-        {"id": 3, "option": "C", "text": ""},
-        {"id": 4, "option": "D", "text": ""}
+        {"id": 1, "option": "A", "text": "1990"},
+        {"id": 2, "option": "B", "text": "650"},
+        {"id": 3, "option": "C", "text": "970"}
       ]
     },
     {
       "id": 38,
-      "title": "",
+      "title": "Given: MZFW=130634, MLDW=145149, MTOW=170000, DOW=89886, TIF=23000, TOF=40000, what is the maximum allowed traffic load for this flight?",
       "answer": "C",
       "userAnswer": "",
       "options": [
-        {"id": 1, "option": "A", "text": ""},
-        {"id": 2, "option": "B", "text": ""},
-        {"id": 3, "option": "C", "text": ""},
-        {"id": 4, "option": "D", "text": ""}
+        {"id": 1, "option": "A", "text": "40748"},
+        {"id": 2, "option": "B", "text": "40114"},
+        {"id": 3, "option": "C", "text": "38263"}
       ]
     },
     {
       "id": 39,
-      "title": "",
+      "title": "Given: MZFW=130634, MLDW=145149, MTOW=170000, DOW=89886, TIF=30000, TOF=40000, what is the allowed weight for take off for this flight?",
       "answer": "B",
       "userAnswer": "",
       "options": [
-        {"id": 1, "option": "A", "text": ""},
-        {"id": 2, "option": "B", "text": ""},
-        {"id": 3, "option": "C", "text": ""},
-        {"id": 4, "option": "D", "text": ""}
+        {"id": 1, "option": "A", "text": "160634"},
+        {"id": 2, "option": "B", "text": "170000"},
+        {"id": 3, "option": "C", "text": "165149"}
       ]
     },
     {
       "id": 40,
-      "title": "",
+      "title": "What is the maximum allowable weight that may be carried on a pallet which has the dimensions of 48 x 48 inches? Floor load limit: 159 lbs/sq ft, Pallet weight: 50 lbs, Tiedown devices: 30 lbs",
       "answer": "C",
       "userAnswer": "",
       "options": [
-        {"id": 1, "option": "A", "text": ""},
-        {"id": 2, "option": "B", "text": ""},
-        {"id": 3, "option": "C", "text": ""},
-        {"id": 4, "option": "D", "text": ""}
+        {"id": 1, "option": "A", "text": "1,948.0 pounds"},
+        {"id": 2, "option": "B", "text": "2624.0 pounds"},
+        {"id": 3, "option": "C", "text": "2464.0 pounds"}
       ]
     },
     {
       "id": 41,
-      "title": "",
+      "title": "What is the maximum allowable weight that may be carried on a pallet which has the dimensions of 48 x 48 inches? Floor load limit: 169 lbs/sq ft, Pallet weight: 47 lbs, Tiedown devices: 33 lbs",
       "answer": "B",
       "userAnswer": "",
       "options": [
-        {"id": 1, "option": "A", "text": ""},
-        {"id": 2, "option": "B", "text": ""},
-        {"id": 3, "option": "C", "text": ""},
-        {"id": 4, "option": "D", "text": ""}
+        {"id": 1, "option": "A", "text": "1,948.0 pounds"},
+        {"id": 2, "option": "B", "text": "2624.0 pounds"},
+        {"id": 3, "option": "C", "text": "2784.0 pounds"}
       ]
     },
     {
       "id": 42,
-      "title": "",
+      "title": "What is the maximum allowable weight that may be carried on a pallet which has the dimensions of 60 x 48 inches? Floor load limit: 159 lbs/sq ft, Pallet weight: 63 lbs, Tiedown devices: 37 lbs",
       "answer": "C",
       "userAnswer": "",
       "options": [
-        {"id": 1, "option": "A", "text": ""},
-        {"id": 2, "option": "B", "text": ""},
-        {"id": 3, "option": "C", "text": ""},
-        {"id": 4, "option": "D", "text": ""}
+        {"id": 1, "option": "A", "text": "2080.0 pounds"},
+        {"id": 2, "option": "B", "text": "2800.0 pounds"},
+        {"id": 3, "option": "C", "text": "3080.0 pounds"}
       ]
     },
     {
       "id": 43,
-      "title": "",
+      "title": "What minimum floor load limit must an aircraft have to carry the following pallet of cargo? Pallet size is 100 inches wide and 100 inches long, Pallet weight = 190 lb, Tiedown devices = 60 lb, Cargo weight = 10,000 lb.",
       "answer": "A",
       "userAnswer": "",
       "options": [
-        {"id": 1, "option": "A", "text": ""},
-        {"id": 2, "option": "B", "text": ""},
-        {"id": 3, "option": "C", "text": ""},
-        {"id": 4, "option": "D", "text": ""}
+        {"id": 1, "option": "A", "text": "148 lb/sq ft"},
+        {"id": 2, "option": "B", "text": "138 lb/sq ft"},
+        {"id": 3, "option": "C", "text": "128 lb/sq ft"}
       ]
     },
     {
       "id": 44,
-      "title": "",
+      "title": "What minimum floor load limit must an aircraft have to carry the following pallet of cargo? Pallet size is 78.9 inches wide and 78.9 inches long, Pallet weight = 161 lb, Tiedown devices = 44 lb, Cargo weight = 11,820.5 lb.",
       "answer": "B",
       "userAnswer": "",
       "options": [
-        {"id": 1, "option": "A", "text": ""},
-        {"id": 2, "option": "B", "text": ""},
-        {"id": 3, "option": "C", "text": ""},
-        {"id": 4, "option": "D", "text": ""}
+        {"id": 1, "option": "A", "text": "283 lb/sq ft"},
+        {"id": 2, "option": "B", "text": "279 lb/sq ft"},
+        {"id": 3, "option": "C", "text": "183 lb/sq ft"}
       ]
     },
     {
       "id": 45,
-      "title": "",
+      "title": "What minimum floor load limit must an aircraft have to carry the following pallet of cargo? Pallet size is 78.9 inches wide and 98.7 inches long, Pallet weight = 161 lb, Tiedown devices = 54 lb, Cargo weight = 11,810.5 lb.",
       "answer": "B",
       "userAnswer": "",
       "options": [
-        {"id": 1, "option": "A", "text": ""},
-        {"id": 2, "option": "B", "text": ""},
-        {"id": 3, "option": "C", "text": ""},
-        {"id": 4, "option": "D", "text": ""}
+        {"id": 1, "option": "A", "text": "213 lb/sq ft"},
+        {"id": 2, "option": "B", "text": "223 lb/sq ft"},
+        {"id": 3, "option": "C", "text": "183 lb/sq ft"}
       ]
     },
     {
       "id": 46,
-      "title": "",
+      "title": "GIVEN: Total Weight 3037 lb CG location Station 56.6, Fuel consumption 12.7 gal/hr, Fuel CG Station 68.0, After I hour 45 minutes of flight time, the CG would be located at station",
       "answer": "C",
       "userAnswer": "",
       "options": [
-        {"id": 1, "option": "A", "text": ""},
-        {"id": 2, "option": "B", "text": ""},
-        {"id": 3, "option": "C", "text": ""},
-        {"id": 4, "option": "D", "text": ""}
+        {"id": 1, "option": "A", "text": "56.58"},
+        {"id": 2, "option": "B", "text": "55.88"},
+        {"id": 3, "option": "C", "text": "56.08"}
       ]
     },
     {
       "id": 47,
-      "title": "",
+      "title": "GIVEN: Total Weight 3037 lb, CG location Station 65, Fuel consumption 12.7 gal/hr, Fuel CG Station 68.0, After I hour 45 minutes of flight time, the CG would be located at station",
       "answer": "A",
       "userAnswer": "",
       "options": [
-        {"id": 1, "option": "A", "text": ""},
-        {"id": 2, "option": "B", "text": ""},
-        {"id": 3, "option": "C", "text": ""},
-        {"id": 4, "option": "D", "text": ""}
+        {"id": 1, "option": "A", "text": "64.86"},
+        {"id": 2, "option": "B", "text": "65.86"},
+        {"id": 3, "option": "C", "text": "63.86"}
       ]
     },
     {
       "id": 48,
-      "title": "",
+      "title": "GIVEN: Total Weight 3037 lb, CG location Station 66.6, Fuel consumption 12.7 gal/hr, Fuel CG Station 68.0, After I hour 45 minutes of flight time, the CG would be located at station",
       "answer": "C",
       "userAnswer": "",
       "options": [
-        {"id": 1, "option": "A", "text": ""},
-        {"id": 2, "option": "B", "text": ""},
-        {"id": 3, "option": "C", "text": ""},
-        {"id": 4, "option": "D", "text": ""}
+        {"id": 1, "option": "A", "text": "64.86"},
+        {"id": 2, "option": "B", "text": "65.86"},
+        {"id": 3, "option": "C", "text": "66.54"}
       ]
     },
     {
       "id": 49,
-      "title": "",
+      "title": "GIVEN: Total Weight 3900 lb, CG location Station 70, Fuel consumption 13.7 GPH, Fuel CG Station 68.0, After 1 hour 30 minutes of flight time, the CG would be located at station",
       "answer": "C",
       "userAnswer": "",
       "options": [
-        {"id": 1, "option": "A", "text": ""},
-        {"id": 2, "option": "B", "text": ""},
-        {"id": 3, "option": "C", "text": ""},
-        {"id": 4, "option": "D", "text": ""}
+        {"id": 1, "option": "A", "text": "71.13"},
+        {"id": 2, "option": "B", "text": "72.12"},
+        {"id": 3, "option": "C", "text": "70.07"}
       ]
     },
     {
       "id": 50,
-      "title": "",
+      "title": "GIVEN: Total Weight 4000 lb, CG location Station 72, Fuel consumption 14 GPH, Fuel CG Station 60, After 2 hour 30 minutes of flight time, the CG would be located at station",
       "answer": "A",
       "userAnswer": "",
       "options": [
-        {"id": 1, "option": "A", "text": ""},
-        {"id": 2, "option": "B", "text": ""},
-        {"id": 3, "option": "C", "text": ""},
-        {"id": 4, "option": "D", "text": ""}
+        {"id": 1, "option": "A", "text": "72.66"},
+        {"id": 2, "option": "B", "text": "72.12"},
+        {"id": 3, "option": "C", "text": "70.07"}
       ]
     },
     {
       "id": 51,
-      "title": "",
+      "title": "An aircraft is loaded to a gross weight of 4,800 pounds with three pieces of luggage in the rear baggage compartment. The CG is located 94 inches aft of datum, which is 1 inch aft of limits. If luggage which weights 90 pounds is moved from the rear baggage compartment (145 inches aft of datum) to the front compartment (45 inches aft of datum), what is the new CG?",
       "answer": "B",
       "userAnswer": "",
       "options": [
-        {"id": 1, "option": "A", "text": ""},
-        {"id": 2, "option": "B", "text": ""},
-        {"id": 3, "option": "C", "text": ""},
-        {"id": 4, "option": "D", "text": ""}
+        {"id": 1, "option": "A", "text": "93.13 inches aft of datum"},
+        {"id": 2, "option": "B", "text": "92.13 inches aft of datum"},
+        {"id": 3, "option": "C", "text": "94.13 inches aft of datum"}
       ]
     },
     {
       "id": 52,
-      "title": "",
+      "title": "An aircraft is loaded to a gross weight of 4,800 pounds with three pieces of luggage in the rear baggage compartment. The CG is located 96 inches aft of datum, which is 1 inch aft of limits. If luggage which weights 90 pounds is moved from the rear baggage compartment (145 inches aft of datum) to the front compartment (45 inches aft of datum), what is the new CG?",
       "answer": "C",
       "userAnswer": "",
       "options": [
-        {"id": 1, "option": "A", "text": ""},
-        {"id": 2, "option": "B", "text": ""},
-        {"id": 3, "option": "C", "text": ""},
-        {"id": 4, "option": "D", "text": ""}
+        {"id": 1, "option": "A", "text": "96.13 inches aft of datum"},
+        {"id": 2, "option": "B", "text": "95.13 inches aft of datum"},
+        {"id": 3, "option": "C", "text": "94.13 inches aft of datum"}
       ]
     },
     {
       "id": 53,
-      "title": "",
+      "title": "An aircraft is loaded to a gross weight of 4,800 pounds with three pieces of luggage in the rear baggage compartment. The CG is located 98 inches aft of datum, which is 1 inch aft of limits. If luggage which weights 300 pounds is moved from the rear baggage compartment (145 inches aft of datum) to the front compartment (45 inches aft of datum), what is the new CG?",
       "answer": "A",
       "userAnswer": "",
       "options": [
-        {"id": 1, "option": "A", "text": ""},
-        {"id": 2, "option": "B", "text": ""},
-        {"id": 3, "option": "C", "text": ""},
-        {"id": 4, "option": "D", "text": ""}
+        {"id": 1, "option": "A", "text": "91.75 inches aft of datum"},
+        {"id": 2, "option": "B", "text": "87.58 inches aft of datum"},
+        {"id": 3, "option": "C", "text": "83.58 inches aft of datum"}
       ]
     },
     {
       "id": 54,
-      "title": "",
+      "title": "An aircraft is loaded with a ramp weight of 3,650 pounds and having a CG of 96.0, approximately how much baggage would have to be moved from the rear baggage area at station 180 to the forward baggage area at station 80 in order to move the CG to 94.0?",
       "answer": "A",
       "userAnswer": "",
       "options": [
-        {"id": 1, "option": "A", "text": ""},
-        {"id": 2, "option": "B", "text": ""},
-        {"id": 3, "option": "C", "text": ""},
-        {"id": 4, "option": "D", "text": ""}
+        {"id": 1, "option": "A", "text": "73.0 pounds"},
+        {"id": 2, "option": "B", "text": "36.5 pounds"},
+        {"id": 3, "option": "C", "text": "26.07 pounds"}
       ]
     },
     {
       "id": 55,
-      "title": "",
+      "title": "An aircraft is loaded with a ramp weight of 3,650 pounds and having a CG of 96.0, approximately how much baggage would have to be moved from the rear baggage area at station 180 to the forward baggage area at station 40 in order to move the CG to 95.0?",
       "answer": "C",
       "userAnswer": "",
       "options": [
-        {"id": 1, "option": "A", "text": ""},
-        {"id": 2, "option": "B", "text": ""},
-        {"id": 3, "option": "C", "text": ""},
-        {"id": 4, "option": "D", "text": ""}
+        {"id": 1, "option": "A", "text": "52.14 pounds"},
+        {"id": 2, "option": "B", "text": "104.29 pounds"},
+        {"id": 3, "option": "C", "text": "26.07 pounds"}
       ]
     },
     {
       "id": 56,
-      "title": "",
+      "title": "From takeoff to landing the weight of airplane changes because:",
       "answer": "A",
       "userAnswer": "",
       "options": [
-        {"id": 1, "option": "A", "text": ""},
-        {"id": 2, "option": "B", "text": ""},
-        {"id": 3, "option": "C", "text": ""},
-        {"id": 4, "option": "D", "text": ""}
+        {"id": 1, "option": "A", "text": "the fuel is reduced"},
+        {"id": 2, "option": "B", "text": "the water is reduced"},
+        {"id": 3, "option": "C", "text": "the serving supplies are reduced"}
       ]
     },
     {
       "id": 57,
-      "title": "",
+      "title": "Before takeoff, the payload of airplane should:",
       "answer": "C",
       "userAnswer": "",
       "options": [
-        {"id": 1, "option": "A", "text": ""},
-        {"id": 2, "option": "B", "text": ""},
-        {"id": 3, "option": "C", "text": ""},
-        {"id": 4, "option": "D", "text": ""}
+        {"id": 1, "option": "A", "text": "consider the maximum takeoff weight."},
+        {"id": 2, "option": "B", "text": "consider the maximum landing weight."},
+        {"id": 3, "option": "C", "text": "The other answers are all correct."}
       ]
     },
     {
       "id": 58,
-      "title": "",
+      "title": "After an airplane is loaded completely, the position of C.G normally shows:",
       "answer": "B",
       "userAnswer": "",
       "options": [
-        {"id": 1, "option": "A", "text": ""},
-        {"id": 2, "option": "B", "text": ""},
-        {"id": 3, "option": "C", "text": ""},
-        {"id": 4, "option": "D", "text": ""}
+        {"id": 1, "option": "A", "text": "（INDEX UNIT）"},
+        {"id": 2, "option": "B", "text": "MAC％"},
+        {"id": 3, "option": "C", "text": "MOMENT"}
       ]
     },
     {
       "id": 59,
-      "title": "",
+      "title": "The range between FWD LIMIT and AFT LIMIT is called:",
       "answer": "C",
       "userAnswer": "",
       "options": [
-        {"id": 1, "option": "A", "text": ""},
-        {"id": 2, "option": "B", "text": ""},
-        {"id": 3, "option": "C", "text": ""},
-        {"id": 4, "option": "D", "text": ""}
+        {"id": 1, "option": "A", "text": "M.A.C."},
+        {"id": 2, "option": "B", "text": "chord line"},
+        {"id": 3, "option": "C", "text": "C.G. range"}
       ]
     },
     {
       "id": 60,
-      "title": "",
+      "title": "The leading edge of M.A.C is abbreviated to:",
       "answer": "C",
       "userAnswer": "",
       "options": [
-        {"id": 1, "option": "A", "text": ""},
-        {"id": 2, "option": "B", "text": ""},
-        {"id": 3, "option": "C", "text": ""},
-        {"id": 4, "option": "D", "text": ""}
+        {"id": 1, "option": "A", "text": "TEMAC"},
+        {"id": 2, "option": "B", "text": "MAC"},
+        {"id": 3, "option": "C", "text": "LEMAC"}
       ]
     },
     {
       "id": 61,
-      "title": "",
+      "title": "The trailing edge of M.A.C. is abbreviated to:",
       "answer": "A",
       "userAnswer": "",
       "options": [
-        {"id": 1, "option": "A", "text": ""},
-        {"id": 2, "option": "B", "text": ""},
-        {"id": 3, "option": "C", "text": ""},
-        {"id": 4, "option": "D", "text": ""}
+        {"id": 1, "option": "A", "text": "TEMAC"},
+        {"id": 2, "option": "B", "text": "MAC"},
+        {"id": 3, "option": "C", "text": "LEMAC"}
       ]
     },
     {
       "id": 62,
-      "title": "",
+      "title": "The CG of an airplane will be _____ by the fuel carried.",
       "answer": "A",
       "userAnswer": "",
       "options": [
-        {"id": 1, "option": "A", "text": ""},
-        {"id": 2, "option": "B", "text": ""},
-        {"id": 3, "option": "C", "text": ""},
-        {"id": 4, "option": "D", "text": ""}
+        {"id": 1, "option": "A", "text": "affected greatly"},
+        {"id": 2, "option": "B", "text": "no effect"},
+        {"id": 3, "option": "C", "text": "affected less"}
       ]
     },
     {
       "id": 63,
-      "title": "",
+      "title": "he CG of aircraft is located at LEMAC 52 inches and TEMAC 98 inches, determine the length of MAC.",
       "answer": "C",
       "userAnswer": "",
       "options": [
-        {"id": 1, "option": "A", "text": ""},
-        {"id": 2, "option": "B", "text": ""},
-        {"id": 3, "option": "C", "text": ""},
-        {"id": 4, "option": "D", "text": ""}
+        {"id": 1, "option": "A", "text": "46 inches"},
+        {"id": 2, "option": "B", "text": "98 inches"},
+        {"id": 3, "option": "C", "text": "150 inches"},
+        {"id": 4, "option": "D", "text": "52 inches"}
       ]
     },
     {
       "id": 64,
-      "title": "",
+      "title": "The distance from DATUM LINE to CG is",
       "answer": "C",
       "userAnswer": "",
       "options": [
-        {"id": 1, "option": "A", "text": ""},
-        {"id": 2, "option": "B", "text": ""},
-        {"id": 3, "option": "C", "text": ""},
-        {"id": 4, "option": "D", "text": ""}
+        {"id": 1, "option": "A", "text": "M.A.C."},
+        {"id": 2, "option": "B", "text": "moment"},
+        {"id": 3, "option": "C", "text": "arm"},
+        {"id": 4, "option": "D", "text": "CG shift range"}
       ]
     },
     {
       "id": 65,
-      "title": "",
+      "title": "When two different weights of objects balance, the heavier one must be",
       "answer": "C",
       "userAnswer": "",
       "options": [
-        {"id": 1, "option": "A", "text": ""},
-        {"id": 2, "option": "B", "text": ""},
-        {"id": 3, "option": "C", "text": ""},
-        {"id": 4, "option": "D", "text": ""}
+        {"id": 1, "option": "A", "text": "the lesser moment"},
+        {"id": 2, "option": "B", "text": "the more moment"},
+        {"id": 3, "option": "C", "text": "the shorter arm"},
+        {"id": 4, "option": "D", "text": "the longer arm"}
       ]
     },
     {
       "id": 66,
-      "title": "",
+      "title": "Three axes of airplane pass through:",
       "answer": "B",
       "userAnswer": "",
       "options": [
-        {"id": 1, "option": "A", "text": ""},
-        {"id": 2, "option": "B", "text": ""},
-        {"id": 3, "option": "C", "text": ""},
-        {"id": 4, "option": "D", "text": ""}
+        {"id": 1, "option": "A", "text": "the CG of wing"},
+        {"id": 2, "option": "B", "text": "CG"},
+        {"id": 3, "option": "C", "text": "LEMAC"},
+        {"id": 4, "option": "D", "text": "TEMAC"}
       ]
     },
     {
       "id": 67,
-      "title": "",
+      "title": "Which is the definition of C.G?",
       "answer": "B",
       "userAnswer": "",
       "options": [
-        {"id": 1, "option": "A", "text": ""},
-        {"id": 2, "option": "B", "text": ""},
-        {"id": 3, "option": "C", "text": ""},
-        {"id": 4, "option": "D", "text": ""}
+        {"id": 1, "option": "A", "text": "An unbalance point in airplane"},
+        {"id": 2, "option": "B", "text": "A balance point in airplane"},
+        {"id": 3, "option": "C", "text": "An equal pressure center point in airplane"},
+        {"id": 4, "option": "D", "text": "A fix point that never changes in airplane"}
       ]
     },
     {
       "id": 68,
-      "title": "",
+      "title": "The sum of airplane weight, fix equipment, unusable fuel and oil is:",
       "answer": "C",
       "userAnswer": "",
       "options": [
-        {"id": 1, "option": "A", "text": ""},
-        {"id": 2, "option": "B", "text": ""},
-        {"id": 3, "option": "C", "text": ""},
-        {"id": 4, "option": "D", "text": ""}
+        {"id": 1, "option": "A", "text": "zero fuel weight"},
+        {"id": 2, "option": "B", "text": "operational weight"},
+        {"id": 3, "option": "C", "text": "empty weight"},
+        {"id": 4, "option": "D", "text": "gross weight"}
       ]
     },
     {
       "id": 69,
-      "title": "",
+      "title": "( Weight * Arm ) / Reduction Factor = ?",
       "answer": "B",
       "userAnswer": "",
       "options": [
-        {"id": 1, "option": "A", "text": ""},
-        {"id": 2, "option": "B", "text": ""},
-        {"id": 3, "option": "C", "text": ""},
-        {"id": 4, "option": "D", "text": ""}
+        {"id": 1, "option": "A", "text": "Distance from CG to DATUM LINE"},
+        {"id": 2, "option": "B", "text": "Index unit"},
+        {"id": 3, "option": "C", "text": "Basic moment"}
       ]
     },
     {
       "id": 70,
-      "title": "",
+      "title": "What is the main purpose to follow weight and balance limit during loading airplane?",
       "answer": "B",
       "userAnswer": "",
       "options": [
-        {"id": 1, "option": "A", "text": ""},
-        {"id": 2, "option": "B", "text": ""},
-        {"id": 3, "option": "C", "text": ""},
-        {"id": 4, "option": "D", "text": ""}
+        {"id": 1, "option": "A", "text": "To obey CAA regulation"},
+        {"id": 2, "option": "B", "text": "To consider flight safety and economy"},
+        {"id": 3, "option": "C", "text": "For takeoff / landing possiblely encourter crosswind"},
+        {"id": 4, "option": "D", "text": "For passenger comfort"}
       ]
     },
     {
       "id": 71,
-      "title": "",
+      "title": "If CG exceed limit. How can we solve the problem?",
       "answer": "C",
       "userAnswer": "",
       "options": [
-        {"id": 1, "option": "A", "text": ""},
-        {"id": 2, "option": "B", "text": ""},
-        {"id": 3, "option": "C", "text": ""},
-        {"id": 4, "option": "D", "text": ""}
+        {"id": 1, "option": "A", "text": "By increasing or decreasing some weight, make CG back to limit."},
+        {"id": 2, "option": "B", "text": "By shifting some weight, make CG back to limit."},
+        {"id": 3, "option": "C", "text": "The other are correct"},
+        {"id": 4, "option": "D", "text": "The other are incorrect"}
       ]
     },
     {
       "id": 72,
-      "title": "",
+      "title": "If MAC long 280 inches, CG is at MAC22%. CG is:",
       "answer": "A",
       "userAnswer": "",
       "options": [
-        {"id": 1, "option": "A", "text": ""},
-        {"id": 2, "option": "B", "text": ""},
-        {"id": 3, "option": "C", "text": ""},
-        {"id": 4, "option": "D", "text": ""}
+        {"id": 1, "option": "A", "text": "after the LEMAC 61.6 inches"},
+        {"id": 2, "option": "B", "text": "before the LEMAC 61.6 inches"},
+        {"id": 3, "option": "C", "text": "before the TEMAC 61.6 inches"},
+        {"id": 4, "option": "D", "text": "after the TEMAC 61.6 inches"}
       ]
     },
     {
       "id": 73,
-      "title": "",
+      "title": "GIVEN: MZFW=130634, MLDW=145149, MTOW=170000, DOW=89886, TIF=20000, TOF=30000, what is the maximum allowed traffic load?",
       "answer": "A",
       "userAnswer": "",
       "options": [
-        {"id": 1, "option": "A", "text": ""},
-        {"id": 2, "option": "B", "text": ""},
-        {"id": 3, "option": "C", "text": ""},
-        {"id": 4, "option": "D", "text": ""}
+        {"id": 1, "option": "A", "text": "40748"},
+        {"id": 2, "option": "B", "text": "40114"},
+        {"id": 3, "option": "C", "text": "38263"}
       ]
     },
     {
       "id": 74,
-      "title": "",
+      "title": "GIVEN: MZFW=130634, MLDW=145149, MTOW=170000, DOW=89886, TIF=20000, TOF=40000, what is the allowed weight for take off?",
       "answer": "C",
       "userAnswer": "",
       "options": [
-        {"id": 1, "option": "A", "text": ""},
-        {"id": 2, "option": "B", "text": ""},
-        {"id": 3, "option": "C", "text": ""},
-        {"id": 4, "option": "D", "text": ""}
+        {"id": 1, "option": "A", "text": "160634"},
+        {"id": 2, "option": "B", "text": "170000"},
+        {"id": 3, "option": "C", "text": "165149"}
       ]
     },
     {
       "id": 75,
-      "title": "",
+      "title": "GIVEN: MZFW=130634, MLDW=145149, MTOW=170000, DOW=89886, TIF=30000, TOF=40000, what is the maximum allowed traffic load?",
       "answer": "B",
       "userAnswer": "",
       "options": [
-        {"id": 1, "option": "A", "text": ""},
-        {"id": 2, "option": "B", "text": ""},
-        {"id": 3, "option": "C", "text": ""},
-        {"id": 4, "option": "D", "text": ""}
+        {"id": 1, "option": "A", "text": "40748"},
+        {"id": 2, "option": "B", "text": "40114"},
+        {"id": 3, "option": "C", "text": "38263"}
       ]
     }
   ]
