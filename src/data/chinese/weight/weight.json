@@ -1,0 +1,1925 @@
+{
+  "testTopic": "weight",
+  "questions": [
+    {
+      "id": 1,
+      "title": "已知:DOW=45680, MZFW=62600, MLDW=68040, MTOW=76850, TIF=9200, TOF=15600, 最大酬載為何 ?",
+      "answer": "A",
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "option": "A",
+          "text": "15570"
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "text": "16920"
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "text": "16190"
+        },
+        {
+          "id": 4,
+          "option": "D",
+          "text": "全部皆非"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "已知: MZFW=130000, MLDW=130000, MTOW=160000, DOW=90000, TIF=20000, TOF=30000 酬載為30000, 此趟飛行之起飛重量take off weight為何?",
+      "answer": "A",
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "option": "A",
+          "text": "150000"
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "text": "160000"
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "text": "170000"
+        },
+        {
+          "id": 4,
+          "option": "D",
+          "text": "全部皆非"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "已知: MZFW=130000, MLDW=140000, MTOW=170000, DOW=90000, TIF=20000, TOF=30000 酬載為40000, 此趟飛行之起飛重量take off weight為何?",
+      "answer": "C",
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "option": "A",
+          "text": "120000"
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "text": "140000"
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "text": "160000"
+        },
+        {
+          "id": 4,
+          "option": "D",
+          "text": "全部皆非"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "已知: MZFW=130000, MLDW=140000, MTOW=170000, DOW=90000, TIF=20000, TOF=30000 Payload=40000, 此趟飛行之可操作重量operating weight為何?",
+      "answer": "A",
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "option": "A",
+          "text": "120000"
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "text": "150000"
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "text": "160000"
+        },
+        {
+          "id": 4,
+          "option": "D",
+          "text": "全部皆非"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "已知: ZFW=A, LDW=B, TOW=C, DOW=D, TIF=E, TOF=F, 可操作重量為G (Operating weight), 酬載為H, 下列何者正確?",
+      "answer": "A",
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "option": "A",
+          "text": "A=D+H"
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "text": "A=C-E"
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "text": "A=G-F"
+        },
+        {
+          "id": 4,
+          "option": "D",
+          "text": "全部皆非"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "已知: ZFW=A, LDW=B, TOW=C, DOW=D, TIF=E, TOF=F, 可操作重量為G (Operating weight), 酬載為H, 下列何者正確?",
+      "answer": "A",
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "option": "A",
+          "text": "A=D+H"
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "text": "C=D+E"
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "text": "B=C-F"
+        },
+        {
+          "id": 4,
+          "option": "D",
+          "text": "全部皆非"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "重量 X 力臂 ÷ 降減係數(Reduction Factor) = ?",
+      "answer": "A",
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "option": "A",
+          "text": "index units."
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "text": "total moments."
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "text": "CG from LEMAC."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Aerodynamic chord 之定義為何?",
+      "answer": "C",
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "option": "A",
+          "text": "ratio of the average wing chord to its aerodynamic center of pressure."
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "text": "distance from the leading edge to the trailing edge of the wing, measured at the wing root."
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "text": "chord of an imaginary airfoil which has the same aerodynamic characteristics as the actual airfoil."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "收起落架時若鼻輪向前收入機身, 則CG會向何處移動?",
+      "answer": "C",
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "option": "A",
+          "text": "向後"
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "text": "不變"
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "text": "向前"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "飛機的CG如何決定?",
+      "answer": "B",
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "option": "A",
+          "text": "multiplying total arms by total weight."
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "text": "dividing total moments by total weight."
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "text": "multiplying total weight by total moments."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Taxi weight 等於?",
+      "answer": "B",
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "option": "A",
+          "text": "Payload plus operating weight."
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "text": "Zero fuel weight plus total fuel load."
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "text": "Zero fuel weight plus payload, fuel, and oil."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "為何需要制定加油的標準程序?",
+      "answer": "B",
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "option": "A",
+          "text": "For fire fighting"
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "text": "Reduce the bending moment of the wing"
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "text": "Prevent tail down during refueling"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "TOW 包括?",
+      "answer": "B",
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "option": "A",
+          "text": "ZFW + Trip fuel"
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "text": "DOW + Payload + TOF"
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "text": "DOW + Trip fuel"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "計算 TOW : OW=3800kg ZFW=4200kg TOF=700kg Trip Fuel= 500kg",
+      "answer": "C",
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "option": "A",
+          "text": "4700kg"
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "text": "5100kg"
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "text": "4900kg"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "title": "ZFW 加上 TOF 等於?",
+      "answer": "C",
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "option": "A",
+          "text": "DOW"
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "text": "Landing weight"
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "text": "TOW"
+        },
+        {
+          "id": 4,
+          "option": "D",
+          "text": "Aircraft gross weight"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Payload不包括?",
+      "answer": "B",
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "option": "A",
+          "text": "乘客"
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "text": "燃油"
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "text": "貨物"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "title": "民航機的重心位於何處較省油",
+      "answer": "B",
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "option": "A",
+          "text": "位於CG範圍之前段"
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "text": "位於CG範圍之後段"
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "text": "與C.G.位置無關"
+        },
+        {
+          "id": 4,
+          "option": "D",
+          "text": "全部皆非"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "title": "飛機攜帶壓艙油之主要原因為何?",
+      "answer": "A",
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "option": "A",
+          "text": "C.G.位置超出限制範圍"
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "text": "重量超過限制"
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "text": "油量不足"
+        },
+        {
+          "id": 4,
+          "option": "D",
+          "text": "全部皆非"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "title": "壓艙油應屬於下列何者?",
+      "answer": "C",
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "option": "A",
+          "text": "飛機基本重量(basic weight)"
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "text": "起飛油量(take off fuel)"
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "text": "零油重量(zero fuel weight)"
+        },
+        {
+          "id": 4,
+          "option": "D",
+          "text": "全部皆非"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "title": "下列敘述何者錯誤?",
+      "answer": "C",
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "option": "A",
+          "text": "零油重=dry operating weight+酬載"
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "text": "起飛重=零油重+起飛油重"
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "text": "落地重=起飛重- 起飛油重 "
+        },
+        {
+          "id": 4,
+          "option": "D",
+          "text": "全部皆非"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "title": "如何決定ZFW,LDW,TOW何者限制某趟飛行之最大允許酬載重?",
+      "answer": "C",
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "option": "A",
+          "text": "以三者中最輕者為準"
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "text": "以三者中最重者為準"
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "text": "以三者中最接近其相對最大限制重量者為準"
+        },
+        {
+          "id": 4,
+          "option": "D",
+          "text": "全部皆非"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "title": "針對民航客機, 其升力中心與重心之相對位置關係為何?",
+      "answer": "C",
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "option": "A",
+          "text": "升力中心在重心之前"
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "text": "升力中心與重心在同一點"
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "text": "升力中心在重心之後"
+        },
+        {
+          "id": 4,
+          "option": "D",
+          "text": "全部皆非"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "title": "民航飛機要有較佳之穩定性,下列敘述何者正確?",
+      "answer": "B",
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "option": "A",
+          "text": "重心往後接近升力中心"
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "text": "重心往前遠離升力中心"
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "text": "與重心位置無關"
+        },
+        {
+          "id": 4,
+          "option": "D",
+          "text": "全部皆非"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "title": "民航飛機要有較靈活之操控性,下列敘述何者正確?",
+      "answer": "A",
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "option": "A",
+          "text": "重心往後接近升力中心"
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "text": "重心往前遠離升力中心"
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "text": "與重心位置無關"
+        },
+        {
+          "id": 4,
+          "option": "D",
+          "text": "全部皆非"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "title": "當飛機裝載完成,重心確定後,如果再於某位置加載貨物,則飛機重心會往何處移動?",
+      "answer": "B",
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "option": "A",
+          "text": "往加載貨物位置之相反方向移動"
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "text": "往加載貨物位置之方向移動"
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "text": "重心不會改變"
+        },
+        {
+          "id": 4,
+          "option": "D",
+          "text": "全部皆非"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "title": "民航客機之用油順序一般為何?",
+      "answer": "A",
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "option": "A",
+          "text": "先用機身油箱,再用機翼油箱"
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "text": "先用機翼油箱,再用機身油箱"
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "text": "不一定,依據機型而定"
+        },
+        {
+          "id": 4,
+          "option": "D",
+          "text": "全部皆非"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "title": "對於長程航班,允許酬載通常受下列那一個重量限制?",
+      "answer": "B",
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "option": "A",
+          "text": "最大落地重量"
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "text": "最大起飛重量"
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "text": "最大零油重量"
+        },
+        {
+          "id": 4,
+          "option": "D",
+          "text": "全部皆非"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "title": "已知:重心位置為1400英吋 ,LEMAC位置為1300 英吋,MAC長度為300 英吋,重心位置可以用多少%MAC表示?",
+      "answer": "A",
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "option": "A",
+          "text": "33.3%MAC"
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "text": "21.4%MAC"
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "text": "23.1%MAC"
+        },
+        {
+          "id": 4,
+          "option": "D",
+          "text": "全部皆非"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "title": "已知: MTOW=283 噸, MLDW=213 噸, MZFW=204噸, DOW=114 噸, Trip fuel = 75 噸, take off fuel=85 噸,此趟飛行可裝載之最大酬載maximum allowable payload為何?",
+      "answer": "C",
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "option": "A",
+          "text": "90噸"
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "text": "89噸"
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "text": "84噸"
+        },
+        {
+          "id": 4,
+          "option": "D",
+          "text": "全部皆非"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "title": "已知：空重 - 1100/位置30 駕駛員（前座）重170/位置-45 旅客重160/位置+2 壓艙物重50/位置-50 重心位於？",
+      "answer": "B",
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "option": "A",
+          "text": "+15.91"
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "text": "+15.66"
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "text": "+15.48"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "title": "已知：空重 - 937/位置29.07 駕駛員（前座）重170/位置-45.3 旅客重160/位置+1.60 壓艙物重15/位置-45.30 重心位於？",
+      "answer": "A",
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "option": "A",
+          "text": "+14.91"
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "text": "+16.43"
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "text": "+27.38"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "title": "已知：空重 1100/位置35, 駕駛員（前座）重170/位置-40, 旅客重160/位置+5, 壓艙物重50/位置-50, 重心位於？",
+      "answer": "C",
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "option": "A",
+          "text": "19.27"
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "text": "18.27"
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "text": "20.27"
+        },
+        {
+          "id": 4,
+          "option": "D",
+          "text": "17.27"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "title": "已知：重量A - 155磅，位置55英吋, 重量B - 165磅，位置155英吋, 重量C - 95磅，位置175英吋, 根據以上資訊，重心位置？",
+      "answer": "B",
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "option": "A",
+          "text": "120.5英吋"
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "text": "122.2英吋"
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "text": "124.5英吋"
+        },
+        {
+          "id": 4,
+          "option": "D",
+          "text": "全部皆非"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "title": "已知：重量A - 155磅，位置55英吋, 重量B - 165磅，位置145英吋, 重量C - 95磅，位置185英吋, 根據以上資訊，重心位置？",
+      "answer": "A",
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "option": "A",
+          "text": "120.5英吋"
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "text": "116.8英吋"
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "text": "124.5英吋"
+        },
+        {
+          "id": 4,
+          "option": "D",
+          "text": "全部皆非"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "title": "已知：重量A - 155磅，位置45英吋重量B - 165磅，位置145英吋重量C - 95磅，位置195英吋根據以上資訊，重心位置？",
+      "answer": "C",
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "option": "A",
+          "text": "126.8英吋"
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "text": "122.2英吋"
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "text": "119.1英吋"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "title": "已知: MZFW=130634, MLDW=145149, MTOW=170000, DOW=89886, TIF=20000, TOF=30000, 此趟飛行允許之最大起飛重量為何?",
+      "answer": "A",
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "option": "A",
+          "text": "160634"
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "text": "170000"
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "text": "165149"
+        },
+        {
+          "id": 4,
+          "option": "D",
+          "text": "全部皆非"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "title": "已知: MZFW=15830, MLDW=17000, MTOW=18370, DOW=10950, 酬載為4640, TIF=1400, 最低起飛油量為2130, 最多可再多載多少額外油量?",
+      "answer": "B",
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "option": "A",
+          "text": "1990"
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "text": "650"
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "text": "970"
+        },
+        {
+          "id": 4,
+          "option": "D",
+          "text": "全部皆非"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "title": "已知: MZFW=130634, MLDW=145149, MTOW=170000, DOW=89886, TIF=23000, TOF=40000 此趟飛行允許之最大酬載重量maximum allowed traffic load為何?",
+      "answer": "C",
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "option": "A",
+          "text": "40748"
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "text": "40114"
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "text": "38263"
+        },
+        {
+          "id": 4,
+          "option": "D",
+          "text": "全部皆非"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "title": "已知: MZFW=130634, MLDW=145149, MTOW=170000, DOW=89886, TIF=30000, TOF=40000 此趟飛行允許之最大起飛重量 allowed weight for take off為何?",
+      "answer": "B",
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "option": "A",
+          "text": "160634"
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "text": "170000"
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "text": "165149"
+        },
+        {
+          "id": 4,
+          "option": "D",
+          "text": "全部皆非"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "title": "根據以下結構及裝載條件，48x48英吋盤上最多可裝多重？ 單位面積酬載限制：159英磅/每平方英尺 盤重：50英磅 綑綁裝備重：30英磅",
+      "answer": "C",
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "option": "A",
+          "text": "1948.0英磅"
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "text": "2624.0英磅"
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "text": "2464.0英磅"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "title": "根據以下結構及裝載條件，48x48英吋盤上最多可裝多重？ 單位面積酬載限制：169英磅/每平方英尺 盤重：47英磅 綑綁裝備重：33英磅",
+      "answer": "B",
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "option": "A",
+          "text": "1948.0英磅"
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "text": "2624.0英磅"
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "text": "2784.0英磅"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "title": "根據以下結構及裝載條件，60x48英吋盤上最多可裝多重？ 單位面積酬載限制：159英磅/每平方英呎、盤重：63英磅、綑綁裝備重：37英磅。",
+      "answer": "C",
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "option": "A",
+          "text": "2080.0英磅"
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "text": "2800.0英磅"
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "text": "3080.0英磅"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "title": "航空器必須具備至少每單位面積多少的承載能力才能承載下列貨盤？ 貨盤尺寸：100英吋寬，100英吋長、盤重：190英磅、綑綁裝備重：60英磅、貨重：10,000英磅",
+      "answer": "A",
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "option": "A",
+          "text": "148 英磅/平方英呎"
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "text": "138 英磅/平方英呎"
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "text": "128 英磅/平方英呎"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "title": "航空器必須具備至少每單位面積多少的承載能力才能承載下列貨盤？ 貨盤尺寸：78.9英吋寬，78.9英吋長、盤重：161英磅、綑綁裝備重：44英磅、貨重：11820.5英磅",
+      "answer": "B",
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "option": "A",
+          "text": "283 英磅/平方英呎"
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "text": "279 英磅/平方英呎"
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "text": "183 英磅/平方英呎"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "title": "航空器必須具備至少每單位面積多少的承載能力才能承載下列貨盤？ 貨盤尺寸：78.9英吋寬，98.7英吋長、盤重：161英磅、綑綁裝備重：54英磅、貨重：11810.5英磅",
+      "answer": "B",
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "option": "A",
+          "text": "213 英磅/平方英呎"
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "text": "223 英磅/平方英呎"
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "text": "183 英磅/平方英呎"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "title": "已知：總重 - 3037磅，重心位置56.6 燃油消耗率每小時12.7加侖 油箱重心位置68.0 經過1小時45分飛時後，重心位於？",
+      "answer": "C",
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "option": "A",
+          "text": "56.58"
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "text": "55.88"
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "text": "56.08"
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "title": "已知：總重 - 3037磅，重心位置65 燃油消耗率每小時12.7加侖 油箱重心位置68.0 經過1小時45分飛時後，重心位於？",
+      "answer": "A",
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "option": "A",
+          "text": "64.86"
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "text": "65.86"
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "text": "63.86"
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "title": "已知：總重 - 3037磅，重心位置66.6 燃油消耗率每小時12.7加侖 油箱重心位置68.0 經過1小時45分飛時後，重心位於？",
+      "answer": "C",
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "option": "A",
+          "text": "64.86"
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "text": "65.86"
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "text": "66.54"
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "title": "已知：總重 - 3900磅，重心位置70 燃油消耗率每小時13.7加侖 油箱重心位置68.0 經過1小時30分飛時後，重心位於？",
+      "answer": "C",
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "option": "A",
+          "text": "70.13"
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "text": "72.12"
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "text": "70.07"
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "title": "已知：總重 - 4000磅，重心位置72 燃油消耗率每小時14加侖 油箱重心位置60 經過2小時30分飛時後，重心位於？",
+      "answer": "A",
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "option": "A",
+          "text": "72.66"
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "text": "72.12"
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "text": "70.57"
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "title": "一航空器重4,800磅，其重心位於參考位置後94英吋，裝了三件行李在後行李艙，如果從後行李艙（位於參考位置後145英吋）移動90磅行李至前行李艙（位於參考位置後45英吋），新重心位置？",
+      "answer": "B",
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "option": "A",
+          "text": "參考位置之後 93.13 英吋"
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "text": "參考位置之後 92.13 英吋"
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "text": "參考位置之後 94.13 英吋"
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "title": "一航空器重4,800磅，其重心位於參考位置後96英吋，裝了三件行李在後行李艙，如果\n從後行李艙（位於參考位置後145英吋）移動90磅行李至前行李艙（位於參考位置後45英吋），新重心位置？",
+      "answer": "C",
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "option": "A",
+          "text": "參考位置之後 96.13 英吋"
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "text": "參考位置之後 95.13 英吋"
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "text": "參考位置之後 94.13 英吋"
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "title": "一航空器重4,800磅，其重心位於參考位置後98英吋，裝了三件行李在後行李艙，如果\n從後行李艙（位於參考位置後145英吋）移動300磅行李至前行李艙（位於參考位置後45英吋），新重心位置？",
+      "answer": "A",
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "option": "A",
+          "text": "參考位置之後 91.75 英吋"
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "text": "參考位置之後87.58 英吋"
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "text": "參考位置之後 83.58 英吋"
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "title": "一航空器重量及重心分別為3,650磅及96，為了使重心前移至94位置，大約要從位於180後行李艙移動多少行李至位於80的前行李艙？",
+      "answer": "A",
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "option": "A",
+          "text": "73.0英磅"
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "text": "36.5英磅"
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "text": "26.07英磅"
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "title": "一航空器重量及重心分別為3,650磅及96，為了使重心前移至95位置，大約要從位於180後行李艙移動多少行李至位於40的前行李艙？",
+      "answer": "C",
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "option": "A",
+          "text": "52.14英磅"
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "text": "104.29英磅"
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "text": "26.07英磅"
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "title": "飛機從起飛至落地，其重量之改變是因：",
+      "answer": "A",
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "option": "A",
+          "text": "油量減少"
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "text": "用水減少"
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "text": "侍應品減少"
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "title": "飛機之起飛前之裝載量：",
+      "answer": "C",
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "option": "A",
+          "text": "應顧及最大起飛重量"
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "text": "應顧及最大落地重量"
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "text": "全部皆對"
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "title": "飛機裝載後，其重心位置，通常是以何者來表示：",
+      "answer": "B",
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "option": "A",
+          "text": "參考指數"
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "text": "MAC％"
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "text": "力距"
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "title": "重心前限至重心後限之距離稱為：",
+      "answer": "C",
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "option": "A",
+          "text": "平均氣動力弦"
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "text": "翼弦"
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "text": "重心範圍"
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "title": "平均氣動力弦之前緣簡寫為：",
+      "answer": "C",
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "option": "A",
+          "text": "TEMAC"
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "text": "MAC"
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "text": "LEMAC"
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "title": "平均氣動力弦之後緣簡寫為：",
+      "answer": "A",
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "option": "A",
+          "text": "TEMAC"
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "text": "MAC"
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "text": "LEMAC"
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "title": "飛機所攜帶之燃油量對其重心位置之影響：",
+      "answer": "A",
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "option": "A",
+          "text": "影響甚大"
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "text": "不影響"
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "text": "影響不大"
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "title": "假設某機之CG位置距LEMAC 52吋，距TEMAC 98吋，則MAC為多少吋？",
+      "answer": "C",
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "option": "A",
+          "text": "46吋"
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "text": "98吋"
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "text": "150吋"
+        },
+        {
+          "id": 4,
+          "option": "D",
+          "text": "52吋"
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "title": "從參考線至一物體重心之水平距離是為：",
+      "answer": "C",
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "option": "A",
+          "text": "平均空氣動力弦"
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "text": "力矩"
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "text": "力臂"
+        },
+        {
+          "id": 4,
+          "option": "D",
+          "text": "重心移動範圍"
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "title": "當重量不等之兩物體呈平衡之狀態時，其較重之物體必具有：",
+      "answer": "C",
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "option": "A",
+          "text": "較小之力矩"
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "text": "較大之力矩"
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "text": "較短之力臂"
+        },
+        {
+          "id": 4,
+          "option": "D",
+          "text": "較長之力臂"
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "title": "飛機之三軸交叉通過下列何者：",
+      "answer": "B",
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "option": "A",
+          "text": "機翼之重心"
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "text": "重心"
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "text": "平均空氣動力弦前緣"
+        },
+        {
+          "id": 4,
+          "option": "D",
+          "text": "平均空氣動力弦"
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "title": "重心一詞之釋義為：",
+      "answer": "B",
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "option": "A",
+          "text": "飛機上之不平衡點"
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "text": "飛機上之一平衡點"
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "text": "飛機上某一與壓力中心對等之處"
+        },
+        {
+          "id": 4,
+          "option": "D",
+          "text": "飛機上在任何情況均不會改變之一固定點"
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "title": "飛機本身重量以及其固定裝備，不可使用之燃油與滑油等之和稱為：",
+      "answer": "C",
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "option": "A",
+          "text": "零油重量"
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "text": "操作重量"
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "text": "空機重量"
+        },
+        {
+          "id": 4,
+          "option": "D",
+          "text": "總重量"
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "title": "（重量*力臂）／減少因子＝？此公式所求得之值為：",
+      "answer": "B",
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "option": "A",
+          "text": "重心至參考線之距離"
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "text": "指數單位"
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "text": "基本力矩"
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "title": "飛機在裝載時，務使其切合“載重平衡限制”其主要目的為：",
+      "answer": "B",
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "option": "A",
+          "text": "遵循民航局的規定"
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "text": "安全上的顧慮及經濟有效的運用"
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "text": "起落時可能遭遇側風"
+        },
+        {
+          "id": 4,
+          "option": "D",
+          "text": "旅客的舒適"
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "title": "若飛機重心位置超限，其解決的方法為：",
+      "answer": "C",
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "option": "A",
+          "text": "增加或除去部份重量，使重心位置符合限制"
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "text": "移動部份重量，使重心位置符合限制"
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "text": "以上均可"
+        },
+        {
+          "id": 4,
+          "option": "D",
+          "text": "以上都不對"
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "title": "如MAC長度為280吋，重心在MAC22％處，則重心位於：",
+      "answer": "A",
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "option": "A",
+          "text": "LEMAC後方61.6吋"
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "text": "LEMAC前方61.6吋"
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "text": "TEMAC前方61.6吋"
+        },
+        {
+          "id": 4,
+          "option": "D",
+          "text": "TEMAC後方61.6吋"
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "title": "已知: MZFW=130634, MLDW=145149, MTOW=170000, DOW=89886, TIF=20000, TOF=30000 此趟飛行允許之最大酬載重量maximum allowed traffic load 為何?",
+      "answer": "A",
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "option": "A",
+          "text": "40748"
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "text": "40114"
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "text": "38263"
+        },
+        {
+          "id": 4,
+          "option": "D",
+          "text": "全部皆非"
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "title": "已知: MZFW=130634, MLDW=145149, MTOW=170000, DOW=89886, TIF=20000, TOF=40000 此趟飛行允許之最大起飛重量 allowed weight for take off為何?",
+      "answer": "C",
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "option": "A",
+          "text": "160634"
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "text": "170000"
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "text": "165149"
+        },
+        {
+          "id": 4,
+          "option": "D",
+          "text": "全部皆非"
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "title": "已知: MZFW=130634, MLDW=145149, MTOW=170000, DOW=89886, TIF=30000, TOF=40000 此趟飛行允許之最大酬載重量maximum allowed traffic load為何?",
+      "answer": "B",
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "option": "A",
+          "text": "40748"
+        },
+        {
+          "id": 2,
+          "option": "B",
+          "text": "40114"
+        },
+        {
+          "id": 3,
+          "option": "C",
+          "text": "38263"
+        },
+        {
+          "id": 4,
+          "option": "D",
+          "text": "全部皆非"
+        }
+      ]
+    }
+  ]
+}
