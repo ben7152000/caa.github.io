@@ -49,13 +49,15 @@
 import {ref, computed, onMounted} from "vue";
 import { useRouter, useRoute } from "vue-router";
 import chineseLawData from '../data/chinese/law/law.json'
+import chineseWeightData from '../data/chinese/weight/weight.json'
 import englishLawData from '../data/english/law/law.json'
+import englishWeightData from '../data/english/weight/weight.json'
 
 const router = useRouter()
 const route = useRoute()
 
 const activeIndex = ref(0)
-const testCount = ref(100)
+const testCount = ref(50)
 const checked = ref('')
 const showExit = ref(false)
 const showGrade = ref(false)
@@ -78,10 +80,12 @@ const getRandomNumbers = (obj, num) => {
 
 const questionData = {
   chinese: {
-    law: topic.value === 'study' ? chineseLawData : getRandomNumbers(chineseLawData, testCount.value)
+    law: topic.value === 'study' ? chineseLawData : getRandomNumbers(chineseLawData, testCount.value),
+    weight: topic.value === 'study' ? chineseWeightData : getRandomNumbers(chineseWeightData, testCount.value)
   },
   english: {
-    law: topic.value === 'study' ? englishLawData : getRandomNumbers(englishLawData, testCount.value)
+    law: topic.value === 'study' ? englishLawData : getRandomNumbers(englishLawData, testCount.value),
+    weight: topic.value === 'study' ? englishWeightData : getRandomNumbers(englishWeightData, testCount.value)
   }
 }
 

@@ -5,55 +5,64 @@
       "id": 1,
       "title": "民用航空法及相關法規",
       "questionCounts": 294,
-      "testTopic": "law"
+      "testTopic": "law",
+      "finished": false
     },
     {
       "id": 2,
       "title": "基本航行學",
       "questionCounts": 221,
-      "testTopic": "navigation"
+      "testTopic": "navigation",
+      "finished": false
     },
     {
       "id": 3,
       "title": "飛機飛航原理",
       "questionCounts": 240,
-      "testTopic": "principles"
+      "testTopic": "principles",
+      "finished": false
     },
     {
       "id": 4,
       "title": "飛航管理程序",
       "questionCounts": 188,
-      "testTopic": "management"
+      "testTopic": "management",
+      "finished": false
     },
     {
       "id": 5,
       "title": "航空氣象",
       "questionCounts": 148,
-      "testTopic": "weather"
+      "testTopic": "weather",
+      "finished": false
     },
     {
       "id": 6,
       "title": "航空器一般維護",
       "questionCounts": 191,
-      "testTopic": "maintenance"
+      "testTopic": "maintenance",
+      "finished": false
     },
     {
       "id": 7,
       "title": "陸空通訊",
       "questionCounts": 128,
-      "testTopic": "communication"
+      "testTopic": "communication",
+      "finished": false
     },
     {
       "id": 8,
       "title": "載重平衡",
       "questionCounts": 75,
-      "testTopic": "weight"
+      "testTopic": "weight",
+      "finished": true
     },
     {
       "id": 9,
       "title": "人為因素學",
       "questionCounts": 205,
-      "testTopic": "human"
+      "testTopic": "human",
+      "finished": false
     }
   ]
 }

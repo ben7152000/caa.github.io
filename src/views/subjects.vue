@@ -5,7 +5,7 @@
       <span>Commercial Airplane</span>
     </div>
     <div v-for="subject of activeSubjects" class="subjects">
-      <div :key="subject.id" class="subject" @click="goTest(subject.testTopic)">
+      <div :key="subject.id" class="subject" @click="goTest(subject.testTopic, subject.finished)">
         <div class="subject-info">
           <span>{{ subject.title }}</span>
           <span>Questions: {{ subject.questionCounts }}</span>
@@ -17,7 +17,8 @@
 </template>
 
 <script setup>
-import {computed, onMounted} from "vue";
+import { computed, onMounted } from "vue";
+import { showFailToast } from 'vant'
 import { useRouter } from "vue-router";
 import ChineseData from '../data/chinese/subjects.json'
 import EnglishData from '../data/english/subjects.json'
@@ -32,7 +33,11 @@ const goBack = () => {
   router.push('/')
 }
 
-const goTest = (testTopic) => {
+const goTest = (testTopic, finished) => {
+  if (!finished) {
+    showFailToast('題目尚未建置');
+    return
+  }
   router.push(`/subjects/${testTopic}`)
 }
 
