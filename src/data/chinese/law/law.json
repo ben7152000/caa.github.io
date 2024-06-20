@@ -7,26 +7,10 @@
       "answer": "D",
       "userAnswer": "",
       "options": [
-        {
-          "id": 1,
-          "option": "A",
-          "text": "自然人"
-        },
-        {
-          "id": 2,
-          "option": "B",
-          "text": "法人"
-        },
-        {
-          "id": 3,
-          "option": "C",
-          "text": "政府機關"
-        },
-        {
-          "id": 4,
-          "option": "D",
-          "text": "全部皆對"
-        }
+        {"id": 1, "option": "A", "text": "自然人"},
+        {"id": 2, "option": "B", "text": "法人"},
+        {"id": 3, "option": "C", "text": "政府機關"},
+        {"id": 4, "option": "D", "text": "全部皆對"}
       ]
     },
     {
@@ -35,21 +19,9 @@
       "answer": "A",
       "userAnswer": "",
       "options": [
-        {
-          "id": 1,
-          "option": "A",
-          "text": "飛航時在航空器內工作之人員"
-        },
-        {
-          "id": 2,
-          "option": "B",
-          "text": "飛航時在地面工作之人員"
-        },
-        {
-          "id": 3,
-          "option": "C",
-          "text": "地面時在航空器內工作之人員。"
-        }
+        {"id": 1, "option": "A", "text": "飛航時在航空器內工作之人員。"},
+        {"id": 2, "option": "B", "text": "飛航時在地面工作之人員。"},
+        {"id": 3, "option": "C", "text": "地面時在航空器內工作之人員。"}
       ]
     },
     {
@@ -58,21 +30,9 @@
       "answer": "A",
       "userAnswer": "",
       "options": [
-        {
-          "id": 1,
-          "option": "A",
-          "text": "航空器駕駛員"
-        },
-        {
-          "id": 2,
-          "option": "B",
-          "text": "客艙組員"
-        },
-        {
-          "id": 3,
-          "option": "C",
-          "text": "機械員。"
-        }
+        {"id": 1, "option": "A", "text": "航空器駕駛員。"},
+        {"id": 2, "option": "B", "text": "客艙組員。"},
+        {"id": 3, "option": "C", "text": "機械員。"}
       ]
     },
     {
@@ -81,26 +41,10 @@
       "answer": "D",
       "userAnswer": "",
       "options": [
-        {
-          "id": 1,
-          "option": "A",
-          "text": "符合正駕駛員審查資格"
-        },
-        {
-          "id": 2,
-          "option": "B",
-          "text": "完成巡航駕駛員訓練"
-        },
-        {
-          "id": 3,
-          "option": "C",
-          "text": "僅能於巡航時擔任接替正駕駛員任務。"
-        },
-        {
-          "id": 4,
-          "option": "D",
-          "text": "全部皆對"
-        }
+        {"id": 1, "option": "A", "text": "符合正駕駛員審查資格。"},
+        {"id": 2, "option": "B", "text": "完成巡航駕駛員訓練。"},
+        {"id": 3, "option": "C", "text": "僅能於巡航時擔任接替正駕駛員任務"},
+        {"id": 4, "option": "D", "text": "全部皆對"}
       ]
     },
     {
@@ -109,26 +53,775 @@
       "answer": "D",
       "userAnswer": "",
       "options": [
-        {
-          "id": 1,
-          "option": "A",
-          "text": "起飛備用機場"
-        },
-        {
-          "id": 2,
-          "option": "B",
-          "text": "航路備用機場"
-        },
-        {
-          "id": 3,
-          "option": "C",
-          "text": "目的地備用機場"
-        },
-        {
-          "id": 4,
-          "option": "D",
-          "text": "全部皆對"
-        }
+        {"id": 1, "option": "A", "text": "起飛備用機場"},
+        {"id": 2, "option": "B", "text": "航路備用機場"},
+        {"id": 3, "option": "C", "text": "目的地備用機場"},
+        {"id": 4, "option": "D", "text": "全部皆對"}
+      ]
+    },
+    {
+      "id": 6,
+      "title": "飛機為起飛目的，開始移動時起至著陸後停止移動時止之時間定義為：",
+      "answer": "C",
+      "userAnswer": "",
+      "options": [
+        {"id": 1, "option": "A", "text": "使用時間"},
+        {"id": 2, "option": "B", "text": "動力時間"},
+        {"id": 3, "option": "C", "text": "飛航時間"}
+      ]
+    },
+    {
+      "id": 7,
+      "title": "航空器起飛離地至降落接觸地面之時間，除相關維護手冊另有規定外，為航空器、發動機、螺旋槳、各項裝備及其零組件計算及登錄使用時間用。此時間稱為：",
+      "answer": "C",
+      "userAnswer": "",
+      "options": [
+        {"id": 1, "option": "A", "text": "飛航時間"},
+        {"id": 2, "option": "B", "text": "儀航時間"},
+        {"id": 3, "option": "C", "text": "使用時間"}
+      ]
+    },
+    {
+      "id": 8,
+      "title": "機場最低飛航限度：指機場適於起降之限度，通常以 _____ 來表示。",
+      "answer": "D",
+      "userAnswer": "",
+      "options": [
+        {"id": 1, "option": "A", "text": "跑道視程"},
+        {"id": 2, "option": "B", "text": "能見度、決定高度"},
+        {"id": 3, "option": "C", "text": "最低下降高度"},
+        {"id": 4, "option": "D", "text": "全部皆對"}
+      ]
+    },
+    {
+      "id": 9,
+      "title": "指按機艙內氣壓相對於標準狀況之大氣壓力換算所得之高度稱為：",
+      "answer": "A",
+      "userAnswer": "",
+      "options": [
+        {"id": 1, "option": "A", "text": "艙壓高度"},
+        {"id": 2, "option": "B", "text": "絕對高度"},
+        {"id": 3, "option": "C", "text": "飛航高度"}
+      ]
+    },
+    {
+      "id": 10,
+      "title": "決定實際高度為低於六十公尺 (二百呎)但不低於三十公尺(一百呎)及跑道視程低於五百五十公尺但不低於三百公尺之精確儀器進場及降落作業稱為：",
+      "answer": "B",
+      "userAnswer": "",
+      "options": [
+        {"id": 1, "option": "A", "text": "第一類儀器進場"},
+        {"id": 2, "option": "B", "text": "第二類儀器進場"},
+        {"id": 3, "option": "C", "text": "第三類儀器進場"}
+      ]
+    },
+    {
+      "id": 11,
+      "title": "何謂大型航空器?",
+      "answer": "B",
+      "userAnswer": "",
+      "options": [
+        {"id": 1, "option": "A", "text": "最大起飛重量：飛機大於五千公斤、直昇機大於二千五百公斤之航空器。"},
+        {"id": 2, "option": "B", "text": "最大起飛重量：飛機大於五千七百公斤、直昇機大於三千一百七十五公斤之航空器。"},
+        {"id": 3, "option": "C", "text": "最大起飛重量：飛機大於七千七百公斤、直昇機大於三千八百五十公斤之航空器。"}
+      ]
+    },
+    {
+      "id": 12,
+      "title": "何謂小型航空器?",
+      "answer": "B",
+      "userAnswer": "",
+      "options": [
+        {"id": 1, "option": "A", "text": "最大起飛重量：飛機小於五千公斤、直昇機小於二千五百公斤之航空器。"},
+        {"id": 2, "option": "B", "text": "最大起飛重量：飛機小於五千七百公斤、直昇機小於三千一百七十五公斤之航空器。"},
+        {"id": 3, "option": "C", "text": "最大起飛重量：飛機小於七千七百公斤、直昇機小於三千八百五十公斤之航空器。"}
+      ]
+    },
+    {
+      "id": 13,
+      "title": "何謂飛航計畫?",
+      "answer": "A",
+      "userAnswer": "",
+      "options": [
+        {"id": 1, "option": "A", "text": "指向飛航業務單位提供有關航空器意欲飛航或部份飛航之特定資料。"},
+        {"id": 2, "option": "B", "text": "指依氣象、航空器性能、油量需求、航路架構及其他操作限制等相關資料交互運算構成安全可行之飛航計畫，以提供飛航組員操作航空器所需之航行資訊。"},
+        {"id": 3, "option": "C", "text": "全部皆對"}
+      ]
+    },
+    {
+      "id": 14,
+      "title": "何謂操作飛航計畫",
+      "answer": "B",
+      "userAnswer": "",
+      "options": [
+        {"id": 1, "option": "A", "text": "指向飛航業務單位提供有關航空器意欲飛航或部份飛航之特定資料。"},
+        {"id": 2, "option": "B", "text": "指依氣象、航空器性能、油量需求、航路架構及其他操作限制等相關資料交互運算構成安全可行之飛航計畫，以提供飛航組員操作航空器所需之航行資訊。"},
+        {"id": 3, "option": "C", "text": "全部皆對"}
+      ]
+    },
+    {
+      "id": 15,
+      "title": "飛航中遇有危及航空器或人員安全之緊急情況發生時，機長得為一切緊急處置。如該緊急處置違反當地國家有關法令規章時，機長除應立即通知當地主管機關外，並應於_____ 小時內通知民航局。",
+      "answer": "B",
+      "userAnswer": "",
+      "options": [
+        {"id": 1, "option": "A", "text": "12"},
+        {"id": 2, "option": "B", "text": "24"},
+        {"id": 3, "option": "C", "text": "36"}
+      ]
+    },
+    {
+      "id": 16,
+      "title": "航空器使用人應確使其駕駛員於執行職務時，熟知其______等有關之規則及程序。",
+      "answer": "D",
+      "userAnswer": "",
+      "options": [
+        {"id": 1, "option": "A", "text": "所飛航之地區"},
+        {"id": 2, "option": "B", "text": "起降之機場"},
+        {"id": 3, "option": "C", "text": "助航設備"},
+        {"id": 4, "option": "D", "text": "全部皆是"}
+      ]
+    },
+    {
+      "id": 17,
+      "title": "航空器使用人或其指定之代理人，應負飛航安全及飛航作業管制之責任。前項飛航作業管制得由航空器使用人指派______執行。",
+      "answer": "C",
+      "userAnswer": "",
+      "options": [
+        {"id": 1, "option": "A", "text": "機長單獨"},
+        {"id": 2, "option": "B", "text": "機長及簽派員共同"},
+        {"id": 3, "option": "C", "text": "機長或簽派員"}
+      ]
+    },
+    {
+      "id": 18,
+      "title": "航空器使用人應利用所有資訊管道，並於確保各項直接影響______之設施均已完備後，始得飛航。",
+      "answer": "D",
+      "userAnswer": "",
+      "options": [
+        {"id": 1, "option": "A", "text": "航空器飛航"},
+        {"id": 2, "option": "B", "text": "旅客安全"},
+        {"id": 3, "option": "C", "text": "航空器飛航或旅客安全"},
+        {"id": 4, "option": "D", "text": "航空器飛航及旅客安全"}
+      ]
+    },
+    {
+      "id": 19,
+      "title": "航空器使用人應檢附______，報請民航局審查合格並發給______核准項目表後，始可從事民用航空運輸作業。",
+      "answer": "B",
+      "userAnswer": "",
+      "options": [
+        {"id": 1, "option": "A", "text": "適航證"},
+        {"id": 2, "option": "B", "text": "營運規範"},
+        {"id": 3, "option": "C", "text": "登記證"}
+      ]
+    },
+    {
+      "id": 20,
+      "title": "航空器使用人應設置何全職且適任之主管，並報民航局備查。",
+      "answer": "D",
+      "userAnswer": "",
+      "options": [
+        {"id": 1, "option": "A", "text": "航務主管"},
+        {"id": 2, "option": "B", "text": "機隊主管"},
+        {"id": 3, "option": "C", "text": "機務主管"},
+        {"id": 4, "option": "D", "text": "全部皆對"}
+      ]
+    },
+    {
+      "id": 21,
+      "title": "運輸業航務主管除應熟悉與其業務相關各類手冊、營運規範及相關民航法規外，並應具備下列條件之一：",
+      "answer": "C",
+      "userAnswer": "",
+      "options": [
+        {"id": 1, "option": "A", "text": "持有或曾持有民航業運輸駕駛員檢定證並擔任小型航空器機長三年以上經驗。"},
+        {"id": 2, "option": "B", "text": "持有或曾持有民航業運輸駕駛員檢定證並擔任大型航空器機長一年以上經驗。"},
+        {"id": 3, "option": "C", "text": "持有或曾持有民航業運輸駕駛員檢定證並擔任大型航空器機長三年以上經驗。"}
+      ]
+    },
+    {
+      "id": 22,
+      "title": "運輸業機隊主管應具備下列何條件：",
+      "answer": "C",
+      "userAnswer": "",
+      "options": [
+        {"id": 1, "option": "A", "text": "持有至少一種該航空器使用人所用機型之有效民航運輸駕駛員檢定證並擔任大型航空器機長一年以上經驗。"},
+        {"id": 2, "option": "B", "text": "持有至少一種該航空器使用人所用機型之有效民航運輸駕駛員檢定證並擔任大型航空器機長二年以上經驗。"},
+        {"id": 3, "option": "C", "text": "持有至少一種該航空器使用人所用機型之有效民航運輸駕駛員檢定證並擔任大型航空器機長三年以上經驗。"}
+      ]
+    },
+    {
+      "id": 23,
+      "title": "運輸業機務主管應具備下列何條件：",
+      "answer": "A",
+      "userAnswer": "",
+      "options": [
+        {"id": 1, "option": "A", "text": "運輸類航空器五年以上之維護經驗，且其中有一年以上曾擔任管理職之經驗。"},
+        {"id": 2, "option": "B", "text": "運輸類航空器三年以上之維護經驗，且其中有一年以上曾擔任管理職之經驗。"},
+        {"id": 3, "option": "C", "text": "運輸類航空器二年以上之維護經驗，且其中有一年以上曾擔任管理職之經驗。"}
+      ]
+    },
+    {
+      "id": 244,
+      "title": "運輸業航空器使用人每次發布之組員勤務表應包含至少 _____ 之執勤及休息安排。",
+      "answer": "B",
+      "userAnswer": "",
+      "options": [
+        {"id": 1, "option": "A", "text": "連續7天"},
+        {"id": 2, "option": "B", "text": "連續14天"},
+        {"id": 3, "option": "C", "text": "1個月"}
+      ]
+    },
+    {
+      "id": 245,
+      "title": "運輸業飛航組員飛航二地之時間差如於六小時以上 ， 且在不同時區超過四十八小時停留者，於執勤完畢返回基地後至少於 _____ 小時內，航空器使用人不得再派遣任何飛航任務。但再派遣之目的地為前述停留地或與前述停留地時間差在三小時以內者，不在此限。",
+      "answer": "C",
+      "userAnswer": "",
+      "options": [
+        {"id": 1, "option": "A", "text": "24"},
+        {"id": 2, "option": "B", "text": "36"},
+        {"id": 3, "option": "C", "text": "48"}
+      ]
+    },
+    {
+      "id": 246,
+      "title": "運輸業組員於執行飛航任務或待命勤務前，應給予連續 _____ 小時以上之休息。",
+      "answer": "B",
+      "userAnswer": "",
+      "options": [
+        {"id": 1, "option": "A", "text": "8"},
+        {"id": 2, "option": "B", "text": "10"},
+        {"id": 3, "option": "C", "text": "12"}
+      ]
+    },
+    {
+      "id": 247,
+      "title": "運輸業航空器使用人不得超過連續 _____ 日派遣組員執行飛航執勤期間跨及起飛地時間午前二時至五時之飛航任務。",
+      "answer": "C",
+      "userAnswer": "",
+      "options": [
+        {"id": 1, "option": "A", "text": "1"},
+        {"id": 2, "option": "B", "text": "2"},
+        {"id": 3, "option": "C", "text": "3"}
+      ]
+    },
+    {
+      "id": 248,
+      "title": "(運輸業)飛航執勤期間超過 _____ 小時，航空器使用人應安排組員有用餐時機。",
+      "answer": "C",
+      "userAnswer": "",
+      "options": [
+        {"id": 1, "option": "A", "text": "4"},
+        {"id": 2, "option": "B", "text": "5"},
+        {"id": 3, "option": "C", "text": "6"}
+      ]
+    },
+    {
+      "id": 249,
+      "title": "(運輸業)飛航任務前之連續執勤期間得不列入飛航執勤期間計算。",
+      "answer": "B",
+      "userAnswer": "",
+      "options": [
+        {"id": 1, "option": "A", "text": "正確。"},
+        {"id": 2, "option": "B", "text": "錯誤。"},
+        {"id": 3, "option": "C", "text": "視狀況。"}
+      ]
+    },
+    {
+      "id": 250,
+      "title": "(運輸業)組員之待命地點位於休息處所者，其飛航執勤期間自 _____ 起算。",
+      "answer": "A",
+      "userAnswer": "",
+      "options": [
+        {"id": 1, "option": "A", "text": "報到"},
+        {"id": 2, "option": "B", "text": "待命時"},
+        {"id": 3, "option": "C", "text": "離開休息處所"}
+      ]
+    },
+    {
+      "id": 251,
+      "title": "(運輸業)組員執勤期間連續三十日不得超過 _____ 小時。",
+      "answer": "C",
+      "userAnswer": "",
+      "options": [
+        {"id": 1, "option": "A", "text": "210"},
+        {"id": 2, "option": "B", "text": "220"},
+        {"id": 3, "option": "C", "text": "230"}
+      ]
+    },
+    {
+      "id": 252,
+      "title": "於精確進場通過外信標台或最後進場點「前」(以先到為準)，如依最新獲得之天氣報告，顯示該機場之能見度或跑道視程低於其最低飛航限度時，航空器",
+      "answer": "A",
+      "userAnswer": "",
+      "options": [
+        {"id": 1, "option": "A", "text": "應中止其進場作業。"},
+        {"id": 2, "option": "B", "text": "得繼續進場下降至決定高度/決定實際高度。"},
+        {"id": 3, "option": "C", "text": "得繼續進場下降至誤失進場點(Missed Approach Point)。"}
+      ]
+    },
+    {
+      "id": 253,
+      "title": "於精確進場通過外信標台或最後進場點 「後」 (以先到為準)， 如依最新獲得之天氣報告，顯示該機場之能見度或跑道視程低於其最低飛航限度時，航空器",
+      "answer": "B",
+      "userAnswer": "",
+      "options": [
+        {"id": 1, "option": "A", "text": "應中止其進場作業。"},
+        {"id": 2, "option": "B", "text": "得繼續進場下降至決定高度/決定實際高度。"},
+        {"id": 3, "option": "C", "text": "得繼續進場下降至誤失進場點(Missed Approach Point)。"}
+      ]
+    },
+    {
+      "id": 254,
+      "title": "飛航組員於航空器飛航至各飛航情報區規定之轉換空層高度以下時 ， 是否可於工作席位使用手持式麥克風交談?",
+      "answer": "B",
+      "userAnswer": "",
+      "options": [
+        {"id": 1, "option": "A", "text": "可以。"},
+        {"id": 2, "option": "B", "text": "不可以。"},
+        {"id": 3, "option": "C", "text": "駕駛員自行判斷。"}
+      ]
+    },
+    {
+      "id": 255,
+      "title": "(運輸業)機長於不當干擾行為發生並採取處置行為後，應向 _____ 提出報告。",
+      "answer": "A",
+      "userAnswer": "",
+      "options": [
+        {"id": 1, "option": "A", "text": "民航局及發生地之相關主管機關。"},
+        {"id": 2, "option": "B", "text": "民航局或發生地之相關主管機關(任一單位)。"},
+        {"id": 3, "option": "C", "text": "當地航空警察單位。"}
+      ]
+    },
+    {
+      "id": 256,
+      "title": "(普通業)如預定降落機場已訂有標準儀器進場程序 ， 依儀器飛航規則製作之操作飛航計畫是否需要至少列有一處備用機場?",
+      "answer": "A",
+      "userAnswer": "",
+      "options": [
+        {"id": 1, "option": "A", "text": "需要。"},
+        {"id": 2, "option": "B", "text": "不需要。"},
+        {"id": 3, "option": "C", "text": "視起飛機場的天氣狀況。"}
+      ]
+    },
+    {
+      "id": 257,
+      "title": "(普通業) 飛機依儀器飛航規則飛航者，當符合不需要備用機場之條件時，除應攜帶飛抵操作飛航計畫中之目的地機場油量外，應再攜帶 _____ 分鐘正常巡航油量。",
+      "answer": "B",
+      "userAnswer": "",
+      "options": [
+        {"id": 1, "option": "A", "text": "30"},
+        {"id": 2, "option": "B", "text": "45"},
+        {"id": 3, "option": "C", "text": "60"}
+      ]
+    },
+    {
+      "id": 258,
+      "title": "(普通業) 飛機依儀器飛航規則飛航者，當需要備用機場時，除應攜帶飛抵操作飛航計畫中之目的地機場並轉赴備用機場油量外，應再攜帶 _____ 分鐘正常巡航油量。",
+      "answer": "B",
+      "userAnswer": "",
+      "options": [
+        {"id": 1, "option": "A", "text": "30"},
+        {"id": 2, "option": "B", "text": "45"},
+        {"id": 3, "option": "C", "text": "60"}
+      ]
+    },
+    {
+      "id": 259,
+      "title": "航空器依儀器飛航規則飛航者，其作業應遵守 _____民航主管機關公告之儀器離、到場程序。",
+      "answer": "A",
+      "userAnswer": "",
+      "options": [
+        {"id": 1, "option": "A", "text": "機場所在地"},
+        {"id": 2, "option": "B", "text": "中華民國"},
+        {"id": 3, "option": "C", "text": "航空器註冊國"}
+      ]
+    },
+    {
+      "id": 260,
+      "title": "下列哪類普通航空業飛航組員於其檢定考驗及格日期或恢復資格考驗及格日起每十二個月內，至少執行一次考驗程序即可?",
+      "answer": "C",
+      "userAnswer": "",
+      "options": [
+        {"id": 1, "option": "A", "text": "執行商務專機飛航業務之飛航組員。"},
+        {"id": 2, "option": "B", "text": "執行普通航空業飛航業務之機長。"},
+        {"id": 3, "option": "C", "text": "執行普通航空業飛航業務之副駕駛員。"}
+      ]
+    },
+    {
+      "id": 261,
+      "title": "普通業飛航組員，其連續30天內之總飛航時間不得超過_______小時。",
+      "answer": "B",
+      "userAnswer": "",
+      "options": [
+        {"id": 1, "option": "A", "text": "80"},
+        {"id": 2, "option": "B", "text": "100"},
+        {"id": 3, "option": "C", "text": "120"}
+      ]
+    },
+    {
+      "id": 262,
+      "title": "執行商務專機之飛航業務，適用 _____ 飛航組員之飛航時間、飛航執勤期間、執勤期間及休息期間之規定。",
+      "answer": "A",
+      "userAnswer": "",
+      "options": [
+        {"id": 1, "option": "A", "text": "運輸業"},
+        {"id": 2, "option": "B", "text": "普通業"},
+        {"id": 3, "option": "C", "text": "空軍"}
+      ]
+    },
+    {
+      "id": 263,
+      "title": "非在運作中所發生之地面安全事件是否屬於飛航安全相關事件?",
+      "answer": "A",
+      "userAnswer": "",
+      "options": [
+        {"id": 1, "option": "A", "text": "是。"},
+        {"id": 2, "option": "B", "text": "否。"},
+        {"id": 3, "option": "C", "text": "視狀況。"}
+      ]
+    },
+    {
+      "id": 264,
+      "title": "外國人是否可以從事自用航空器飛航活動?",
+      "answer": "B",
+      "userAnswer": "",
+      "options": [
+        {"id": 1, "option": "A", "text": "是。"},
+        {"id": 2, "option": "B", "text": "否。"},
+        {"id": 3, "option": "C", "text": "視狀況。"}
+      ]
+    },
+    {
+      "id": 265,
+      "title": "中華民國國民、法人及政府各級機關，向外國承租之非中華民國航空器，租賃期間在\n_____ 個月以上，且航空器之操作及人員配備均由承租人負責者，經撤銷他國之登記後，得登記為中華民國國籍。",
+      "answer": "B",
+      "userAnswer": "",
+      "options": [
+        {"id": 1, "option": "A", "text": "3"},
+        {"id": 2, "option": "B", "text": "6"},
+        {"id": 3, "option": "C", "text": "12"}
+      ]
+    },
+    {
+      "id": 266,
+      "title": "航空器 _____ 後，應將中華民國國籍標誌及登記號碼，標明於航空器上顯著之處。",
+      "answer": "B",
+      "userAnswer": "",
+      "options": [
+        {"id": 1, "option": "A", "text": "進口"},
+        {"id": 2, "option": "B", "text": "登記"},
+        {"id": 3, "option": "C", "text": "給證"}
+      ]
+    },
+    {
+      "id": 267,
+      "title": "除民用航空法或其他法律有特別規定外，在哪個期間內不得對航空器施行扣留、扣押或假扣押?",
+      "answer": "C",
+      "userAnswer": "",
+      "options": [
+        {"id": 1, "option": "A", "text": "自關艙門時起，至開艙門時止。"},
+        {"id": 2, "option": "B", "text": "自第一具發動機啟動時起，至所有發動機關車時止。"},
+        {"id": 3, "option": "C", "text": "自開始飛航時起，至完成該次飛航時止。"}
+      ]
+    },
+    {
+      "id": 268,
+      "title": "航空器及其裝載之客貨，應於何時機依法接受有關機關之檢查?",
+      "answer": "C",
+      "userAnswer": "",
+      "options": [
+        {"id": 1, "option": "A", "text": "僅需於起飛前"},
+        {"id": 2, "option": "B", "text": "僅需於降落後。"},
+        {"id": 3, "option": "C", "text": "起飛前及降落後。"}
+      ]
+    },
+    {
+      "id": 269,
+      "title": "民航局為應公共利益之需要，得報請交通部核准後，通知民用航空運輸業調整或增闢指定航線。",
+      "answer": "A",
+      "userAnswer": "",
+      "options": [
+        {"id": 1, "option": "A", "text": "正確。"},
+        {"id": 2, "option": "B", "text": "錯誤。"},
+        {"id": 3, "option": "C", "text": "視狀況。"}
+      ]
+    },
+    {
+      "id": 270,
+      "title": "普通航空業經營商務專機業務，應以座位數 _____ 人以下之飛機或直昇機提供單一客戶專屬客運服務，不得有個別攬客行為。",
+      "answer": "C",
+      "userAnswer": "",
+      "options": [
+        {"id": 1, "option": "A", "text": "9"},
+        {"id": 2, "option": "B", "text": "15"},
+        {"id": 3, "option": "C", "text": "19"}
+      ]
+    },
+    {
+      "id": 271,
+      "title": "申請檢定證者，其學科檢定應於第一次檢定日起一年內完成，並以 _____ 次為限，未完成者應申請重新檢定。",
+      "answer": "C",
+      "userAnswer": "",
+      "options": [
+        {"id": 1, "option": "A", "text": "2"},
+        {"id": 2, "option": "B", "text": "4"},
+        {"id": 3, "option": "C", "text": "6"}
+      ]
+    },
+    {
+      "id": 272,
+      "title": "申請檢定證者，術科檢定應於學科檢定完成檢定日起 _____ 年內完成，並以三次為限。",
+      "answer": "B",
+      "userAnswer": "",
+      "options": [
+        {"id": 1, "option": "A", "text": "1"},
+        {"id": 2, "option": "B", "text": "2"},
+        {"id": 3, "option": "C", "text": "3"}
+      ]
+    },
+    {
+      "id": 273,
+      "title": "航空人員檢定證持有人除經撤銷或廢止外，得於屆期前 _____ 個月內辦理重簽。",
+      "answer": "C",
+      "userAnswer": "",
+      "options": [
+        {"id": 1, "option": "A", "text": "1"},
+        {"id": 2, "option": "B", "text": "2"},
+        {"id": 3, "option": "C", "text": "3"}
+      ]
+    },
+    {
+      "id": 274,
+      "title": "航空人員檢定證屆期重簽逾期 _____ 個月以上，應經學、術科重新檢定合格後，始得辦理。",
+      "answer": "C",
+      "userAnswer": "",
+      "options": [
+        {"id": 1, "option": "A", "text": "6"},
+        {"id": 2, "option": "B", "text": "9"},
+        {"id": 3, "option": "C", "text": "12"}
+      ]
+    },
+    {
+      "id": 275,
+      "title": "所謂飛航訓練設備係指",
+      "answer": "D",
+      "userAnswer": "",
+      "options": [
+        {"id": 1, "option": "A", "text": "航空器"},
+        {"id": 2, "option": "B", "text": "飛行模擬機"},
+        {"id": 3, "option": "C", "text": "飛行訓練器"},
+        {"id": 4, "option": "D", "text": "全部皆是"}
+      ]
+    },
+    {
+      "id": 276,
+      "title": "訓練機構所稱飛行訓練係指訓練駕駛員",
+      "answer": "B",
+      "userAnswer": "",
+      "options": [
+        {"id": 1, "option": "A", "text": "地面學科訓練活動"},
+        {"id": 2, "option": "B", "text": "實際飛行訓練活動"},
+        {"id": 3, "option": "C", "text": "地面學科訓練活動及實際飛行訓練活動"}
+      ]
+    },
+    {
+      "id": 277,
+      "title": "民用航空人員訓練可分為",
+      "answer": "D",
+      "userAnswer": "",
+      "options": [
+        {"id": 1, "option": "A", "text": "航空器駕駛員訓練"},
+        {"id": 2, "option": "B", "text": "航空人員適職訓練"},
+        {"id": 3, "option": "C", "text": "航空維修訓練"},
+        {"id": 4, "option": "D", "text": "全部皆是"}
+      ]
+    },
+    {
+      "id": 278,
+      "title": "學校設立之民用航空人員訓練機構，其名稱應冠以何字樣?",
+      "answer": "A",
+      "userAnswer": "",
+      "options": [
+        {"id": 1, "option": "A", "text": "訓練中心"},
+        {"id": 2, "option": "B", "text": "訓練學園"},
+        {"id": 3, "option": "C", "text": "訓練學院"}
+      ]
+    },
+    {
+      "id": 279,
+      "title": "訓練機構應設若干單位，辦理哪些業務?",
+      "answer": "C",
+      "userAnswer": "",
+      "options": [
+        {"id": 1, "option": "A", "text": "教務、訓練技術服務"},
+        {"id": 2, "option": "B", "text": "總務、人事及會計業務"},
+        {"id": 3, "option": "C", "text": "全部皆是"}
+      ]
+    },
+    {
+      "id": 280,
+      "title": "附設之訓練機構，其業務是否得由設立主體之相關單位兼辦?",
+      "answer": "A",
+      "userAnswer": "",
+      "options": [
+        {"id": 1, "option": "A", "text": "可以。"},
+        {"id": 2, "option": "B", "text": "不可以。"},
+        {"id": 3, "option": "C", "text": "視狀況"}
+      ]
+    },
+    {
+      "id": 281,
+      "title": "訓練機構申請人擬於國外訓練機構執行術科訓練者，應另檢附何種文件?",
+      "answer": "A",
+      "userAnswer": "",
+      "options": [
+        {"id": 1, "option": "A", "text": "該國民航主管機關核發之訓練機構設立許可證明文件。"},
+        {"id": 2, "option": "B", "text": "該國教育主管機關核發之訓練機構設立許可證明文件。"},
+        {"id": 3, "option": "C", "text": "該國勞動主管機關核發之訓練機構設立許可證明文件。"}
+      ]
+    },
+    {
+      "id": 282,
+      "title": "民航局認有何種情形時，得報請交通部不予核准訓練機構申請?",
+      "answer": "C",
+      "userAnswer": "",
+      "options": [
+        {"id": 1, "option": "A", "text": "機場航空器起降額度或時間帶不足。"},
+        {"id": 2, "option": "B", "text": "航空站、飛行場設施或空域不足。"},
+        {"id": 3, "option": "C", "text": "全部皆是。"}
+      ]
+    },
+    {
+      "id": 283,
+      "title": "訓練機構航空器之飛航申請 ， 其每週飛航時間表應於預計實施幾日前向航空站或飛行場申請核准?",
+      "answer": "A",
+      "userAnswer": "",
+      "options": [
+        {"id": 1, "option": "A", "text": "7"},
+        {"id": 2, "option": "B", "text": "10"},
+        {"id": 3, "option": "C", "text": "14"}
+      ]
+    },
+    {
+      "id": 284,
+      "title": "訓練機構從事飛行訓練活動，應投保 _____。",
+      "answer": "A",
+      "userAnswer": "",
+      "options": [
+        {"id": 1, "option": "A", "text": "責任保險"},
+        {"id": 2, "option": "B", "text": "意外保險"},
+        {"id": 3, "option": "C", "text": "醫療保險"}
+      ]
+    },
+    {
+      "id": 285,
+      "title": "訓練機構之航空器，不得從事何種飛行活動?",
+      "answer": "C",
+      "userAnswer": "",
+      "options": [
+        {"id": 1, "option": "A", "text": "經核准之飛行訓練活動。"},
+        {"id": 2, "option": "B", "text": "經核准之試飛。"},
+        {"id": 3, "option": "C", "text": "空中遊覽飛行。"}
+      ]
+    },
+    {
+      "id": 286,
+      "title": "訓練機構許可證有效期間為 _____ 月",
+      "answer": "B",
+      "userAnswer": "",
+      "options": [
+        {"id": 1, "option": "A", "text": "12"},
+        {"id": 2, "option": "B", "text": "24"},
+        {"id": 3, "option": "C", "text": "36"}
+      ]
+    },
+    {
+      "id": 287,
+      "title": "訓練機構變更訓練課程之訓練大綱時，應報請民航局 _____。",
+      "answer": "A",
+      "userAnswer": "",
+      "options": [
+        {"id": 1, "option": "A", "text": "備查"},
+        {"id": 2, "option": "B", "text": "核准"},
+        {"id": 3, "option": "C", "text": "檢視"}
+      ]
+    },
+    {
+      "id": 288,
+      "title": "訓練機構修正訓練規範時，應報請民航局 _____。",
+      "answer": "B",
+      "userAnswer": "",
+      "options": [
+        {"id": 1, "option": "A", "text": "備查"},
+        {"id": 2, "option": "B", "text": "核准"},
+        {"id": 3, "option": "C", "text": "檢視"}
+      ]
+    },
+    {
+      "id": 289,
+      "title": "考驗飛航教師是否可以對其專任教學之學員實施階段考驗或結業考驗?",
+      "answer": "B",
+      "userAnswer": "",
+      "options": [
+        {"id": 1, "option": "A", "text": "可以。"},
+        {"id": 2, "option": "B", "text": "不可以。"},
+        {"id": 3, "option": "C", "text": "視狀況。"}
+      ]
+    },
+    {
+      "id": 290,
+      "title": "航空器駕駛員訓練機構應自學員結業日期、中止訓練日期或轉校日期起，保存學員之訓練紀錄至少 _____ 年",
+      "answer": "A",
+      "userAnswer": "",
+      "options": [
+        {"id": 1, "option": "A", "text": "2"},
+        {"id": 2, "option": "B", "text": "3"},
+        {"id": 3, "option": "C", "text": "4"}
+      ]
+    },
+    {
+      "id": 291,
+      "title": "何謂同儕壓力?",
+      "answer": "B",
+      "userAnswer": "",
+      "options": [
+        {"id": 1, "option": "A", "text": "組織領導者對組織成員的影響力。"},
+        {"id": 2, "option": "B", "text": "團體其他成員的影響。"},
+        {"id": 3, "option": "C", "text": "某個會影響整個團體的人的影響。"}
+      ]
+    },
+    {
+      "id": 292,
+      "title": "時差反應(Jet Lag)之癥兆不包括下列何者?",
+      "answer": "C",
+      "userAnswer": "",
+      "options": [
+        {"id": 1, "option": "A", "text": "睡眠失調。"},
+        {"id": 2, "option": "B", "text": "習慣改變。"},
+        {"id": 3, "option": "C", "text": "精神亢進。"}
+      ]
+    },
+    {
+      "id": 293,
+      "title": "墨菲法則是什麼?",
+      "answer": "C",
+      "userAnswer": "",
+      "options": [
+        {"id": 1, "option": "A", "text": "只要是人，就會錯誤。"},
+        {"id": 2, "option": "B", "text": "人們會欺騙使生活更自在。"},
+        {"id": 3, "option": "C", "text": "會出錯的事情一定會出錯。"}
+      ]
+    },
+    {
+      "id": 294,
+      "title": "SHELL Model之人為因素樞紐為何?",
+      "answer": "C",
+      "userAnswer": "",
+      "options": [
+        {"id": 1, "option": "A", "text": "硬體。"},
+        {"id": 2, "option": "B", "text": "軟體。"},
+        {"id": 3, "option": "C", "text": "人。"}
       ]
     }
   ]
