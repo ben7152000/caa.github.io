@@ -3,2462 +3,2258 @@
   "questions": [
     {
       "id": 1,
-      "title": "",
-      "answer": "",
+      "title": "CRM是",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "一種立刻見效的特效藥。" },
+        { "id": 2, "option": "B", "text": "一種用以改善組員績效的廣義系統。" },
+        { "id": 3, "option": "C", "text": "一種消極的講授課程。" }
       ]
     },
     {
       "id": 2,
-      "title": "",
-      "answer": "",
+      "title": "下列何者不屬於CRM訓練階段：",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "認知階段。" },
+        { "id": 2, "option": "B", "text": "練習與回饋階段。" },
+        { "id": 3, "option": "C", "text": "突破階段。" }
       ]
     },
     {
       "id": 3,
-      "title": "",
-      "answer": "",
+      "title": "CRM訓練的第一階段為：",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "認知階段。" },
+        { "id": 2, "option": "B", "text": "練習與回饋階段。" },
+        { "id": 3, "option": "C", "text": "持續增強階段。" }
       ]
     },
     {
       "id": 4,
-      "title": "",
-      "answer": "",
+      "title": "CRM訓練的第二階段為：",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "認知階段。" },
+        { "id": 2, "option": "B", "text": "練習與回饋階段。" },
+        { "id": 3, "option": "C", "text": "持續增強階段。" }
       ]
     },
     {
       "id": 5,
-      "title": "",
-      "answer": "",
+      "title": "CRM訓練的第三階段為：",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "認知階段。" },
+        { "id": 2, "option": "B", "text": "練習與回饋階段。" },
+        { "id": 3, "option": "C", "text": "持續增強階段。" }
       ]
     },
     {
       "id": 6,
-      "title": "",
-      "answer": "",
+      "title": "CRM訓練可分為三個階段，其中第一階段的重點在於確認何者的重要性？",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "操作技巧。" },
+        { "id": 2, "option": "B", "text": "技術知識。" },
+        { "id": 3, "option": "C", "text": "組員協調。" }
       ]
     },
     {
       "id": 7,
-      "title": "",
-      "answer": "",
+      "title": "有效的CRM訓練需要誰的支持?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "高階主管。" },
+        { "id": 2, "option": "B", "text": "旅客。" },
+        { "id": 3, "option": "C", "text": "航管。" }
       ]
     },
     {
       "id": 8,
-      "title": "",
-      "answer": "",
+      "title": "下列有關SHELL模型的哪個敘述不正確：",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "S代表情境。" },
+        { "id": 2, "option": "B", "text": "H代表硬體。" },
+        { "id": 3, "option": "C", "text": "E代表環境。" }
       ]
     },
     {
       "id": 9,
-      "title": "",
-      "answer": "",
+      "title": "在SHELL模型中，軟體(software)意指",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "機器、裝備等。 " },
+        { "id": 2, "option": "B", "text": "文件、程序、信號等。 " },
+        { "id": 3, "option": "C", "text": "工作場合的內部與外部。" }
       ]
     },
     {
       "id": 10,
-      "title": "",
-      "answer": "",
+      "title": "在SHELL模型中，硬體(hardware)意指",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "機器、裝備等。 " },
+        { "id": 2, "option": "B", "text": "文件、程序、信號等。 " },
+        { "id": 3, "option": "C", "text": "工作場合的內部與外部。" }
       ]
     },
     {
       "id": 11,
-      "title": "",
-      "answer": "",
+      "title": "在SHELL模型中，環境(environment)意指",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "機器、裝備等。 " },
+        { "id": 2, "option": "B", "text": "文件、程序、信號等。 " },
+        { "id": 3, "option": "C", "text": "工作場合的內部與外部。" }
       ]
     },
     {
       "id": 12,
-      "title": "",
-      "answer": "",
+      "title": "在SHELL模型中，生命體(liveware)意指",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "人員。 " },
+        { "id": 2, "option": "B", "text": "文件、程序、信號等。" },
+        { "id": 3, "option": "C", "text": "工作場合的內部與外部。" }
       ]
     },
     {
       "id": 13,
-      "title": "",
-      "answer": "",
+      "title": "SHELL模型中的核心元素是：",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "情境。" },
+        { "id": 2, "option": "B", "text": "硬體。" },
+        { "id": 3, "option": "C", "text": "人員。" }
       ]
     },
     {
       "id": 14,
-      "title": "",
-      "answer": "",
+      "title": "SHELL模型中，勞資關係是屬於下列哪一介面的範疇?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "人員與人員。" },
+        { "id": 2, "option": "B", "text": "人員與硬體。" },
+        { "id": 3, "option": "C", "text": "人員與軟體。" }
       ]
     },
     {
       "id": 15,
-      "title": "",
-      "answer": "",
+      "title": "SHELL模型中，駕駛艙的設計是屬於下列哪一介面的範疇?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "人員與人員。" },
+        { "id": 2, "option": "B", "text": "人員與硬體。" },
+        { "id": 3, "option": "C", "text": "人員與軟體。" }
       ]
     },
     {
       "id": 16,
-      "title": "",
-      "answer": "",
+      "title": "SHELL模型中，法規、手冊、標準操作程序是屬於下列哪一介面的範疇?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "人員與人員。" },
+        { "id": 2, "option": "B", "text": "人員與硬體。" },
+        { "id": 3, "option": "C", "text": "人員與軟體。" }
       ]
     },
     {
       "id": 17,
-      "title": "",
-      "answer": "",
+      "title": "SHELL模型中，天氣、地形、場站設施是屬於下列哪一介面的範疇?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "人員與人員。" },
+        { "id": 2, "option": "B", "text": "人員與硬體。" },
+        { "id": 3, "option": "C", "text": "人員與軟體。" }
       ]
     },
     {
       "id": 18,
-      "title": "",
-      "answer": "",
+      "title": "正常狀況下，當飛機自動化的程度愈高",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "飛行員的工作負荷愈高。" },
+        { "id": 2, "option": "B", "text": "飛行員的飛行技巧更精進。" },
+        { "id": 3, "option": "C", "text": "飛行員覺得比較無聊。" }
       ]
     },
     {
       "id": 19,
-      "title": "",
-      "answer": "",
+      "title": "正常狀況下，當飛機自動化的程度愈高，飛行員所扮演的角色",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "監控性質較高。" },
+        { "id": 2, "option": "B", "text": "控制性質較高。" },
+        { "id": 3, "option": "C", "text": "監控性質與控制性質都升高。" }
       ]
     },
     {
       "id": 20,
-      "title": "",
-      "answer": "",
+      "title": "通常能夠阻止一連串事件造成失事的最後屏障是",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "法規。" },
+        { "id": 2, "option": "B", "text": "人員。" },
+        { "id": 3, "option": "C", "text": "裝備。" }
       ]
     },
     {
       "id": 21,
-      "title": "",
-      "answer": "",
+      "title": "在事故或事件的調查中，有系統的追尋肇事原因是為了",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "追究責任。" },
+        { "id": 2, "option": "B", "text": "找出單一原因。" },
+        { "id": 3, "option": "C", "text": "找出潛在問題。" }
       ]
     },
     {
       "id": 22,
-      "title": "",
-      "answer": "",
+      "title": "為了達成調查的目的，調查單位必須採取何種觀點?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "飛行員觀點。" },
+        { "id": 2, "option": "B", "text": "旅客觀點。" },
+        { "id": 3, "option": "C", "text": "全方位觀點。" }
       ]
     },
     {
       "id": 23,
-      "title": "",
-      "answer": "",
+      "title": "團體中，全體或幾乎全體成員所共同分享的信念或價值觀，吾人稱為",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "法律。" },
+        { "id": 2, "option": "B", "text": "氣氛。" },
+        { "id": 3, "option": "C", "text": "文化。" }
       ]
     },
     {
       "id": 24,
-      "title": "",
-      "answer": "",
+      "title": "下列何者不是安全文化的特徵？",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "高級主管重視安全。" },
+        { "id": 2, "option": "B", "text": "高級主管不迴避批評。" },
+        { "id": 3, "option": "C", "text": "尊重資深人員。" }
       ]
     },
     {
       "id": 25,
-      "title": "",
-      "answer": "",
+      "title": "下列何者不是安全組織的特徵？",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "對於法規的倚賴多過於內部責任感" },
+        { "id": 2, "option": "B", "text": "擁有適當的危機管理架構" },
+        { "id": 3, "option": "C", "text": "視安全為生產力的重要因素" }
       ]
     },
     {
       "id": 26,
-      "title": "",
-      "answer": "",
+      "title": "當作業人員對新的自動系統的性能太過於習慣，可能會發生何種現象？",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "失去系統知覺" },
+        { "id": 2, "option": "B", "text": "過度倚賴" },
+        { "id": 3, "option": "C", "text": "不信任" }
       ]
     },
     {
       "id": 27,
-      "title": "",
-      "answer": "",
+      "title": "當人員與自動系統對於狀況的判斷出現差異時，可能會發生何種現象？",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "失去系統知覺。" },
+        { "id": 2, "option": "B", "text": "系統性決策錯誤。" },
+        { "id": 3, "option": "C", "text": "不信任。" }
       ]
     },
     {
       "id": 28,
-      "title": "",
-      "answer": "",
+      "title": "人員與機器之間的訊息傳遞，屬於哪個範疇的問題？",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "過度倚賴。" },
+        { "id": 2, "option": "B", "text": "系統性決策錯誤。" },
+        { "id": 3, "option": "C", "text": "介面設計。" }
       ]
     },
     {
       "id": 29,
-      "title": "",
-      "answer": "",
+      "title": "當自動系統提供的選擇太多時，可能會發生何種現象？",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "模式混淆。" },
+        { "id": 2, "option": "B", "text": "系統性決策錯誤。" },
+        { "id": 3, "option": "C", "text": "不信任。" }
       ]
     },
     {
       "id": 30,
-      "title": "",
-      "answer": "",
+      "title": "自動化技術必須是",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "以環境為中心。" },
+        { "id": 2, "option": "B", "text": "以機器為中心。" },
+        { "id": 3, "option": "C", "text": "以人為中心。" }
       ]
     },
     {
       "id": 31,
-      "title": "",
-      "answer": "",
+      "title": "在航空系統中，人員必須負起飛安的最終責任，因此",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "機器必須做主。" },
+        { "id": 2, "option": "B", "text": "自動系統必須設計得很複雜。" },
+        { "id": 3, "option": "C", "text": "人員必須能夠監督自動系統。" }
       ]
     },
     {
       "id": 32,
-      "title": "",
-      "answer": "",
+      "title": "領導者的職責不包括",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "建立團隊。" },
+        { "id": 2, "option": "B", "text": "決策。" },
+        { "id": 3, "option": "C", "text": "掩飾部屬的錯誤。" }
       ]
     },
     {
       "id": 33,
-      "title": "",
-      "answer": "",
+      "title": "當飛航組員因生理或心理因素而無法執行任務，吾人稱之為",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "積極性錯誤。" },
+        { "id": 2, "option": "B", "text": "消極性錯誤。" },
+        { "id": 3, "option": "C", "text": "失能。" }
       ]
     },
     {
       "id": 34,
-      "title": "",
-      "answer": "",
+      "title": "下列何者是克服壓力的行動方式?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "改變現況。" },
+        { "id": 2, "option": "B", "text": "取得先機。" },
+        { "id": 3, "option": "C", "text": "領導團隊。" }
       ]
     },
     {
       "id": 35,
-      "title": "",
-      "answer": "",
+      "title": "個人感受到的壓力大小主要取決於",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "個人能力與加諸其上之要求。" },
+        { "id": 2, "option": "B", "text": "遇到刺激的生理反應。" },
+        { "id": 3, "option": "C", "text": "遇到刺激的心理反應。" }
       ]
     },
     {
       "id": 36,
-      "title": "",
-      "answer": "",
+      "title": "有關建立適當的輪班制度，以下敘述何者有誤？",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "建立一個可預測的輪班制度，使工作人員得以妥善的規劃個人的休息及睡眠時間，以降發生疲勞的可能性。" },
+        { "id": 2, "option": "B", "text": "考量體能及精神負荷，避免在夜間安排執行高時間壓力的工作。" },
+        { "id": 3, "option": "C", "text": "採用循環更動輪值時間(Rotating Shift Pattern)的制度，較能有效避免發生疲勞的狀況。" }
       ]
     },
     {
       "id": 37,
-      "title": "",
-      "answer": "",
+      "title": "何謂同儕壓力？",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "組織領導者對組織成員的影響力。" },
+        { "id": 2, "option": "B", "text": "團體其他成員的影響。" },
+        { "id": 3, "option": "C", "text": "某個會影響整個團體的人的影響。" }
       ]
     },
     {
       "id": 38,
-      "title": "",
-      "answer": "",
+      "title": "有關「工作環境因素所帶來的壓力」的敘述何者正確?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "包括噪音、煙塵、高溫與震動。" },
+        { "id": 2, "option": "B", "text": "通常不會累積。" },
+        { "id": 3, "option": "C", "text": "大家都能忍受。" }
       ]
     },
     {
       "id": 39,
-      "title": "",
-      "answer": "",
+      "title": "好的交接班程序應：",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "書面交接資料。" },
+        { "id": 2, "option": "B", "text": "書面交接資料與口頭交接。" },
+        { "id": 3, "option": "C", "text": "口頭交接。" }
       ]
     },
     {
       "id": 40,
-      "title": "",
-      "answer": "",
+      "title": "在使用工作單執行例行性檢查工作時會碰到的問題是：",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "工作人員的反應會變成制式化而不用心。" },
+        { "id": 2, "option": "B", "text": "以不同顏色標釋出的重點說明在晚上看不清楚。" },
+        { "id": 3, "option": "C", "text": "過多的細節說明使工作人員找不到執行步驟。" }
       ]
     },
     {
       "id": 41,
-      "title": "",
-      "answer": "",
+      "title": "在高度壓力下的生理反應有",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "流汗、口乾舌燥、呼吸困難。" },
+        { "id": 2, "option": "B", "text": "缺乏判斷力、注意力不集中、行為退縮。" },
+        { "id": 3, "option": "C", "text": "害怕、焦慮、沮喪。" }
       ]
     },
     {
       "id": 42,
-      "title": "",
-      "answer": "",
+      "title": "曝露在噪音環境下對聽力造成的損壞程度因何而異",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "噪音的強度與曝露時間的長短。" },
+        { "id": 2, "option": "B", "text": "只與噪音的強度有關。" },
+        { "id": 3, "option": "C", "text": "只與曝露時間的長短有關。" }
       ]
     },
     {
       "id": 43,
-      "title": "",
-      "answer": "",
+      "title": "當你正在執行工作時仍然能聽到旁人提到你名字，這叫做",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "感知力。" },
+        { "id": 2, "option": "B", "text": "決斷力。" },
+        { "id": 3, "option": "C", "text": "雞尾酒會效應。" }
       ]
     },
     {
       "id": 44,
-      "title": "",
-      "answer": "",
+      "title": "技巧性的行為模式與下列何者有關？",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "過去的經驗。" },
+        { "id": 2, "option": "B", "text": "檢查表。" },
+        { "id": 3, "option": "C", "text": "機械化行為模式。" }
       ]
     },
     {
       "id": 45,
-      "title": "",
-      "answer": "",
+      "title": "諮商是屬於克服壓力的的哪一種方式？",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "解決行動式。" },
+        { "id": 2, "option": "B", "text": "認知理解式。" },
+        { "id": 3, "option": "C", "text": "情境引導式。" }
       ]
     },
     {
       "id": 46,
-      "title": "",
-      "answer": "",
+      "title": "在團體討論中，人們傾向於附和誰的意見？",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "最高階者。" },
+        { "id": 2, "option": "B", "text": "最會辯論者。" },
+        { "id": 3, "option": "C", "text": "最堅持已見者。" }
       ]
     },
     {
       "id": 47,
-      "title": "",
-      "answer": "",
+      "title": "在夜班結束後，哪一種食物適合用來增加血糖含量?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "碳水化合物含量高的食物。" },
+        { "id": 2, "option": "B", "text": "碳水化合物含量低的食物。" },
+        { "id": 3, "option": "C", "text": "高蛋白質食物。" }
       ]
     },
     {
       "id": 48,
-      "title": "",
-      "answer": "",
+      "title": "長時加班工作會",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "增加你的判斷能力。" },
+        { "id": 2, "option": "B", "text": "降低你的判斷能力。" },
+        { "id": 3, "option": "C", "text": "讓你逐漸習慣適應。" }
       ]
     },
     {
       "id": 49,
-      "title": "",
-      "answer": "",
+      "title": "人格特質是",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "與生俱來不會改變的。" },
+        { "id": 2, "option": "B", "text": "隨著年齡增長與經演累積而改變。" },
+        { "id": 3, "option": "C", "text": "穩定但可以藉由修練來輕易改變。" }
       ]
     },
     {
       "id": 50,
-      "title": "",
-      "answer": "",
+      "title": "在SHELL模型中，位於中心的元素是",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "硬體" },
+        { "id": 2, "option": "B", "text": "人" },
+        { "id": 3, "option": "C", "text": "環境" }
       ]
     },
     {
       "id": 51,
-      "title": "",
-      "answer": "",
+      "title": "在SHELL模型中，組織屬於",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "環境" },
+        { "id": 2, "option": "B", "text": "軟體" },
+        { "id": 3, "option": "C", "text": "人" }
       ]
     },
     {
       "id": 52,
-      "title": "",
-      "answer": "",
+      "title": "在SHELL模型中，人為失誤的發生主要來自",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "硬體" },
+        { "id": 2, "option": "B", "text": "軟體" },
+        { "id": 3, "option": "C", "text": "介面" }
       ]
     },
     {
       "id": 53,
-      "title": "",
-      "answer": "",
+      "title": "在航空發展歷史上，最早與人有關的問題來自於",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "人-環境界面" },
+        { "id": 2, "option": "B", "text": "人-人界面" },
+        { "id": 3, "option": "C", "text": "人-硬體界面" }
       ]
     },
     {
       "id": 54,
-      "title": "",
-      "answer": "",
+      "title": "從SHELL模型的觀點，領導統御的問題屬於那一個界面?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "人-硬體" },
+        { "id": 2, "option": "B", "text": "人-環境" },
+        { "id": 3, "option": "C", "text": "人-人" }
       ]
     },
     {
       "id": 55,
-      "title": "",
-      "answer": "",
+      "title": "從SHELL模型的觀點，空間迷向的問題屬於那一個界面",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "人-硬體" },
+        { "id": 2, "option": "B", "text": "人-環境" },
+        { "id": 3, "option": "C", "text": "人-軟體" }
       ]
     },
     {
       "id": 56,
-      "title": "",
-      "answer": "",
+      "title": "下列那一種是克服睡眠問題的適當方法?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "合理安排組員作息時間" },
+        { "id": 2, "option": "B", "text": "使用藥物或鎮定劑" },
+        { "id": 3, "option": "C", "text": "運動" }
       ]
     },
     {
       "id": 57,
-      "title": "",
-      "answer": "",
+      "title": "下列那一個功能不屬於人為資訊流程的三階段模式？",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "感知" },
+        { "id": 2, "option": "B", "text": "決策" },
+        { "id": 3, "option": "C", "text": "認知" }
       ]
     },
     {
       "id": 58,
-      "title": "",
-      "answer": "",
+      "title": "透過常規訓練無法改變一個人的",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "態度" },
+        { "id": 2, "option": "B", "text": "知識" },
+        { "id": 3, "option": "C", "text": "性格" }
       ]
     },
     {
       "id": 59,
-      "title": "",
-      "answer": "",
+      "title": "決定人際溝通的品質與有效性的因素是",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "完整性" },
+        { "id": 2, "option": "B", "text": "清晰度" },
+        { "id": 3, "option": "C", "text": "可理解性" }
       ]
     },
     {
       "id": 60,
-      "title": "",
-      "answer": "",
+      "title": "工作人員必需立即採取行動以保持系統安全的資訊類別屬於",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "警告(warning)" },
+        { "id": 2, "option": "B", "text": "提醒(alert)" },
+        { "id": 3, "option": "C", "text": "咨詢(advisory)" }
       ]
     },
     {
       "id": 61,
-      "title": "",
-      "answer": "",
+      "title": "在起司模型的方塊中，會發生主動失效的方塊是",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "防衛措施" },
+        { "id": 2, "option": "B", "text": "線上管理" },
+        { "id": 3, "option": "C", "text": "生產活動" }
       ]
     },
     {
       "id": 62,
-      "title": "",
-      "answer": "",
+      "title": "在起司模型的方塊中，潛在失效與顯性失效都會發生的方塊是",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "防衛措施" },
+        { "id": 2, "option": "B", "text": "線上管理" },
+        { "id": 3, "option": "C", "text": "決策人員" }
       ]
     },
     {
       "id": 63,
-      "title": "",
-      "answer": "",
+      "title": "人員訓練不足就上線工作，從起司模型觀點，是屬於那一個層面的問題？",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "先決條件" },
+        { "id": 2, "option": "B", "text": "防衛措施" },
+        { "id": 3, "option": "C", "text": "線上管理" }
       ]
     },
     {
       "id": 64,
-      "title": "",
-      "answer": "",
+      "title": "人為因素中最重要的議題之一是維修資訊的溝通，從SHELL模型的觀點，本項因素位於",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "人-環境介面" },
+        { "id": 2, "option": "B", "text": "人-軟體介面" },
+        { "id": 3, "option": "C", "text": "人-硬體介面" }
       ]
     },
     {
       "id": 65,
-      "title": "",
-      "answer": "",
+      "title": "大部份與維修人為疏失有關的事故，都是來自於夜班維修工作，從SHELL模型觀點，本項人為疏失產生於那個介面？",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "人-環境介面" },
+        { "id": 2, "option": "B", "text": "人-軟體介面" },
+        { "id": 3, "option": "C", "text": "人-硬體介面" }
       ]
     },
     {
       "id": 66,
-      "title": "",
-      "answer": "",
+      "title": "在維修工作中，自動化科技最能夠改善的領域是",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "物料管理" },
+        { "id": 2, "option": "B", "text": "資訊管理" },
+        { "id": 3, "option": "C", "text": "工具管理" }
       ]
     },
     {
       "id": 67,
-      "title": "",
-      "answer": "",
+      "title": "下列那一項關於解決睡眠障礙的方式是不正確的?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "學會放鬆技巧" },
+        { "id": 2, "option": "B", "text": "改善睡眠環境" },
+        { "id": 3, "option": "C", "text": "使用藥物" }
       ]
     },
     {
       "id": 68,
-      "title": "",
-      "answer": "",
+      "title": "人優於自動化科技的地方是",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "決策(decision making)" },
+        { "id": 2, "option": "B", "text": "偵測(detection)" },
+        { "id": 3, "option": "C", "text": "推理(reasoning)" }
       ]
     },
     {
       "id": 69,
-      "title": "",
-      "answer": "",
+      "title": "人類感官中最重要的是",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "視覺" },
+        { "id": 2, "option": "B", "text": "味覺" },
+        { "id": 3, "option": "C", "text": "聽覺" }
       ]
     },
     {
       "id": 70,
-      "title": "",
-      "answer": "",
+      "title": "下列那一項因素是屬於操作人員的人為疏失",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "不當的人機介面" },
+        { "id": 2, "option": "B", "text": "人為表現不佳" },
+        { "id": 3, "option": "C", "text": "不良的硬體設計" }
       ]
     },
     {
       "id": 71,
-      "title": "",
-      "answer": "",
+      "title": "下列那一項不屬於語音的四個主要特徵",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "強度" },
+        { "id": 2, "option": "B", "text": "頻率" },
+        { "id": 3, "option": "C", "text": "情緒" }
       ]
     },
     {
       "id": 72,
-      "title": "",
-      "answer": "",
+      "title": "人類大腦處理資訊所依賴的基礎是",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "知識" },
+        { "id": 2, "option": "B", "text": "經驗" },
+        { "id": 3, "option": "C", "text": "記憶" }
       ]
     },
     {
       "id": 73,
-      "title": "",
-      "answer": "",
+      "title": "下列何者是飛航的最終目標：",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "經濟效益" },
+        { "id": 2, "option": "B", "text": "飛航安全" },
+        { "id": 3, "option": "C", "text": "快速省時" }
       ]
     },
     {
       "id": 74,
-      "title": "",
-      "answer": "",
+      "title": "時差反應(Jet Lag)之癥兆不包括下列何者：",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "睡眠失調" },
+        { "id": 2, "option": "B", "text": "習慣改變" },
+        { "id": 3, "option": "C", "text": "精神亢進" }
       ]
     },
     {
       "id": 75,
-      "title": "",
-      "answer": "",
+      "title": "急性疲勞是由於",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "長時間工作或在短時間內執行一連串艱鉅的任務" },
+        { "id": 2, "option": "B", "text": "一段長時間的疲勞積累" },
+        { "id": 3, "option": "C", "text": "感情壓力" }
       ]
     },
     {
       "id": 76,
-      "title": "",
-      "answer": "",
+      "title": "影響身體生理節奏之最普遍因素為?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "加班" },
+        { "id": 2, "option": "B", "text": "時差" },
+        { "id": 3, "option": "C", "text": "周末" }
       ]
     },
     {
       "id": 77,
-      "title": "",
-      "answer": "",
+      "title": "失眠是",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "睡眠品質差" },
+        { "id": 2, "option": "B", "text": "睡眠時間不足" },
+        { "id": 3, "option": "C", "text": "睡眠太多" }
       ]
     },
     {
       "id": 78,
-      "title": "",
-      "answer": "",
+      "title": "最常見的飛機意外事件都可以追溯為",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "技術問題" },
+        { "id": 2, "option": "B", "text": "人為疏失" },
+        { "id": 3, "option": "C", "text": "管理失誤" }
       ]
     },
     {
       "id": 79,
-      "title": "",
-      "answer": "",
+      "title": "執行交接班，相關交接事項應用何種方式交接",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "書面交接" },
+        { "id": 2, "option": "B", "text": "口頭交接" },
+        { "id": 3, "option": "C", "text": "書面及口頭交接" }
       ]
     },
     {
       "id": 80,
-      "title": "",
-      "answer": "",
+      "title": "長時間加班會造成",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "效率增加" },
+        { "id": 2, "option": "B", "text": "降低效率" },
+        { "id": 3, "option": "C", "text": "對效率沒有影響" }
       ]
     },
     {
       "id": 81,
-      "title": "",
-      "answer": "",
+      "title": "同儕壓力是誰造成的?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "老闆" },
+        { "id": 2, "option": "B", "text": "家人" },
+        { "id": 3, "option": "C", "text": "同事" }
       ]
     },
     {
       "id": 82,
-      "title": "",
-      "answer": "",
+      "title": "有錯誤或違反規定立即產生不利影響，通常與工作人員有關稱之為",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "主動錯誤" },
+        { "id": 2, "option": "B", "text": "潛在錯誤" },
+        { "id": 3, "option": "C", "text": "系統錯誤" }
       ]
     },
     {
       "id": 83,
-      "title": "",
-      "answer": "",
+      "title": "一個決定或行動，其後果可能會保持很長一段時間處於穩定狀態，但會由不利系統條件觸發，稱之為",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "主動錯誤" },
+        { "id": 2, "option": "B", "text": "潛在錯誤" },
+        { "id": 3, "option": "C", "text": "系統錯誤" }
       ]
     },
     {
       "id": 84,
-      "title": "",
-      "answer": "",
+      "title": "SHELL Model 是由哪五個字組成",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "Software 軟體, Hardware 硬體, Environment 環境, Liveware 人體, Liveware 人體" },
+        { "id": 2, "option": "B", "text": "Standard 標準, Health 健康, Engineering 工程, Life 生活, Life 生活" },
+        { "id": 3, "option": "C", "text": "Structure 結構, Horizontal stabilizer 水平安定面, Engine 發動機, Landing Gear 起落架, Life 生活" }
       ]
     },
     {
       "id": 85,
-      "title": "",
-      "answer": "",
+      "title": "視覺感官功能分為3個組成部分：",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "光, 形式, 色彩" },
+        { "id": 2, "option": "B", "text": "光, 形狀, 大小" },
+        { "id": 3, "option": "C", "text": "長度, 寬度, 面積" }
       ]
     },
     {
       "id": 86,
-      "title": "",
-      "answer": "",
+      "title": "短期記憶， ...",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "可以處理大規模資訊" },
+        { "id": 2, "option": "B", "text": "必須不斷複習才能確保長期保留資訊" },
+        { "id": 3, "option": "C", "text": "資訊可以保留很長一段時間" }
       ]
     },
     {
       "id": 87,
-      "title": "",
-      "answer": "",
+      "title": "人類具有對周遭資訊處理及感知的功能，如期望、經驗、態度等，稱之為...",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "知覺(Perception)" },
+        { "id": 2, "option": "B", "text": "聽覺(Listening)" },
+        { "id": 3, "option": "C", "text": "學習(Learning)" }
       ]
     },
     {
       "id": 88,
-      "title": "",
-      "answer": "",
+      "title": "長期記憶是由於以下哪一種能力被加強了",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "資訊處理及掌握" },
+        { "id": 2, "option": "B", "text": "資訊管理及安排" },
+        { "id": 3, "option": "C", "text": "資訊保留及檢索" }
       ]
     },
     {
       "id": 89,
-      "title": "",
-      "answer": "",
+      "title": "維修及檢驗人員不依照建立的程序與方法，是為",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "主動錯誤" },
+        { "id": 2, "option": "B", "text": "潛在錯誤" },
+        { "id": 3, "option": "C", "text": "監督錯誤" }
       ]
     },
     {
       "id": 90,
-      "title": "",
-      "answer": "",
+      "title": "依系統的能力，嘗試使錯誤不至於造成嚴重事故的策略謂之？",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "減少錯誤" },
+        { "id": 2, "option": "B", "text": "抓取錯誤" },
+        { "id": 3, "option": "C", "text": "容錯範圍" }
       ]
     },
     {
       "id": 91,
-      "title": "",
-      "answer": "",
+      "title": "環境壓力是",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "噪音、油煙、熱、振動造成的" },
+        { "id": 2, "option": "B", "text": "不正常的累積" },
+        { "id": 3, "option": "C", "text": "容忍人人平等的狀況" }
       ]
     },
     {
       "id": 92,
-      "title": "",
-      "answer": "",
+      "title": "長期性的壓力是指",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "通常緊張而短暫的" },
+        { "id": 2, "option": "B", "text": "經常復發或長期的壓力" },
+        { "id": 3, "option": "C", "text": "長期的巨大壓力" }
       ]
     },
     {
       "id": 93,
-      "title": "",
-      "answer": "",
+      "title": "疲勞導致視力敏銳度",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "提高" },
+        { "id": 2, "option": "B", "text": "降低" },
+        { "id": 3, "option": "C", "text": "不影響視力的疲勞" }
       ]
     },
     {
       "id": 94,
-      "title": "",
-      "answer": "",
+      "title": "下列何種情形會造成兩名工程師之間技術性的溝通發生錯誤",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "接受者對發送的信息作出假設的含義" },
+        { "id": 2, "option": "B", "text": "發件人使用的草圖，以增強信息傳送" },
+        { "id": 3, "option": "C", "text": "收件人使用身體語言來反饋給予發件人" }
       ]
     },
     {
       "id": 95,
-      "title": "",
-      "answer": "",
+      "title": "哪種類型的人為錯誤是最容易被改正？",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "變化無常的錯誤" },
+        { "id": 2, "option": "B", "text": "不斷地錯誤" },
+        { "id": 3, "option": "C", "text": "可逆的錯誤" }
       ]
     },
     {
       "id": 96,
-      "title": "",
-      "answer": "",
+      "title": "人員感冒或流感時",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "如果工作合約包含他的病假工資時，則他可以休息" },
+        { "id": 2, "option": "B", "text": "在他的工作地點或團隊沒有工作人員短缺,，則他可以休息" },
+        { "id": 3, "option": "C", "text": "不管任何因素，應休息至康復為止" }
       ]
     },
     {
       "id": 97,
-      "title": "",
-      "answer": "",
+      "title": "「工作記憶」是指...",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "超短期記憶" },
+        { "id": 2, "option": "B", "text": "短期記憶" },
+        { "id": 3, "option": "C", "text": "長期記憶" }
       ]
     },
     {
       "id": 98,
-      "title": "",
-      "answer": "",
+      "title": "忘記更換發動機整流罩在「疏忽、失誤和過失」錯誤的定義中，被視為",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "疏忽" },
+        { "id": 2, "option": "B", "text": "失誤" },
+        { "id": 3, "option": "C", "text": "過失" }
       ]
     },
     {
       "id": 99,
-      "title": "",
-      "answer": "",
+      "title": "壓力的症狀是：",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "提高工作績效的跡象" },
+        { "id": 2, "option": "B", "text": "暴力，疾病，缺席，吸毒和酗酒" },
+        { "id": 3, "option": "C", "text": "煩躁，健忘，疾病，缺席，吸毒和酗酒" }
       ]
     },
     {
       "id": 100,
-      "title": "",
-      "answer": "",
+      "title": "一個好的團隊是每個成員都有",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "意見" },
+        { "id": 2, "option": "B", "text": "投入" },
+        { "id": 3, "option": "C", "text": "工作" }
       ]
     },
     {
       "id": 101,
-      "title": "",
-      "answer": "",
+      "title": "信息處理的第一階段是",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "感知" },
+        { "id": 2, "option": "B", "text": "記憶" },
+        { "id": 3, "option": "C", "text": "決定" }
       ]
     },
     {
       "id": 102,
-      "title": "",
-      "answer": "",
+      "title": "有效率的工作團隊是...",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "大家只討論想法和意見" },
+        { "id": 2, "option": "B", "text": "人人有工作做" },
+        { "id": 3, "option": "C", "text": "每個人都以某種方式作出貢獻" }
       ]
     },
     {
       "id": 103,
-      "title": "",
-      "answer": "",
+      "title": "一個錯誤是",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "故意背離規則" },
+        { "id": 2, "option": "B", "text": "一個意外的錯誤" },
+        { "id": 3, "option": "C", "text": "故意破壞行為" }
       ]
     },
     {
       "id": 104,
-      "title": "",
-      "answer": "",
+      "title": "體溫的週期、睡眠需求和警覺是所謂的",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "地球週期" },
+        { "id": 2, "option": "B", "text": "表面的-經絡循環" },
+        { "id": 3, "option": "C", "text": "晝夜節律" }
       ]
     },
     {
       "id": 105,
-      "title": "",
-      "answer": "",
+      "title": "從理論上來說，人為疏失最有可能發生在",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "當體溫穩定" },
+        { "id": 2, "option": "B", "text": "在炎熱的天氣" },
+        { "id": 3, "option": "C", "text": "當體溫達到其最低點" }
       ]
     },
     {
       "id": 106,
-      "title": "",
-      "answer": "",
+      "title": "過失與違規之間的差異是",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "過失的嚴重性不如違規" },
+        { "id": 2, "option": "B", "text": "違規不是蓄意" },
+        { "id": 3, "option": "C", "text": "過失是無意，違規是蓄意" }
       ]
     },
     {
       "id": 107,
-      "title": "",
-      "answer": "",
+      "title": "人為因素SHELL模型的中心是",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "人件" },
+        { "id": 2, "option": "B", "text": "硬體" },
+        { "id": 3, "option": "C", "text": "環境" }
       ]
     },
     {
       "id": 108,
-      "title": "",
-      "answer": "",
+      "title": "群體兩極化可能導致",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "一組作出更謹慎的或極端的決定" },
+        { "id": 2, "option": "B", "text": "一個小組作出比個人更好的決策" },
+        { "id": 3, "option": "C", "text": "群體成員彼此不說話" }
       ]
     },
     {
       "id": 109,
-      "title": "",
-      "answer": "",
+      "title": "誰負責保持你的身體及精神狀態？",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "同事" },
+        { "id": 2, "option": "B", "text": "民航局" },
+        { "id": 3, "option": "C", "text": "你" }
       ]
     },
     {
       "id": 110,
-      "title": "",
-      "answer": "",
+      "title": "負面同儕壓力的安全意涵包括？ (1)分擔工作負荷會增加風險 (2)隱性壓力會增加風險 (3)降低的標準會增加風險",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "(1) 和 (2)。" },
+        { "id": 2, "option": "B", "text": "(2) 和 (3)。" },
+        { "id": 3, "option": "C", "text": "(1) 和 (3)。" }
       ]
     },
     {
       "id": 111,
-      "title": "",
-      "answer": "",
+      "title": "什麼是正向同儕壓力的安全意涵？ (1)隱藏的壓力，降低風險 (2)更多的適應性，降低風險 (3)更高的標準，降低風險",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "僅1和2" },
+        { "id": 2, "option": "B", "text": "僅2和3" },
+        { "id": 3, "option": "C", "text": "僅1和3" }
       ]
     },
     {
       "id": 112,
-      "title": "",
-      "answer": "",
+      "title": "哪些是組織文化的要素？ (1)程序 (2)選擇和培訓標準 (3)品質保證系統",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "僅1和2" },
+        { "id": 2, "option": "B", "text": "僅2和3" },
+        { "id": 3, "option": "C", "text": "1，2和3" }
       ]
     },
     {
       "id": 113,
-      "title": "",
-      "answer": "",
+      "title": "在一個強有力的安全文化組織什麼不是重要的成份？",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "態度" },
+        { "id": 2, "option": "B", "text": "規範" },
+        { "id": 3, "option": "C", "text": "秘密" }
       ]
     },
     {
       "id": 114,
-      "title": "",
-      "answer": "",
+      "title": "在一個強而有力的安全文化組織中，下列何者不是重要的部分？",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "信息共享" },
+        { "id": 2, "option": "B", "text": "信任的氣氛" },
+        { "id": 3, "option": "C", "text": "秘密會議" }
       ]
     },
     {
       "id": 115,
-      "title": "",
-      "answer": "",
+      "title": "關係到一個團隊的觀念,追隨者要如何做呢？",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "代表的職責" },
+        { "id": 2, "option": "B", "text": "監控任務" },
+        { "id": 3, "option": "C", "text": "提供支持" }
       ]
     },
     {
       "id": 116,
-      "title": "",
-      "answer": "",
+      "title": "涉及到一個正常運作的團隊要如何相互支持？",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "每個人都提高自己的能力" },
+        { "id": 2, "option": "B", "text": "每個人都找到團隊成員的缺點" },
+        { "id": 3, "option": "C", "text": "每個人在弱點上工作" }
       ]
     },
     {
       "id": 117,
-      "title": "",
-      "answer": "",
+      "title": "是什麼讓一個領導成為有效的領導者？",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "一個有效的領導者是雙方之間的調解" },
+        { "id": 2, "option": "B", "text": "一個有效的領導者激勵他人去達到目標" },
+        { "id": 3, "option": "C", "text": "一個有效的領導者使用職權來完成任務" }
       ]
     },
     {
       "id": 118,
-      "title": "",
-      "answer": "",
+      "title": "什麼是一個領導者最需要的特質？",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "可以使用職權來完成工作" },
+        { "id": 2, "option": "B", "text": "能承受工作壓力" },
+        { "id": 3, "option": "C", "text": "瞭解人的感覺和思考" }
       ]
     },
     {
       "id": 119,
-      "title": "",
-      "answer": "",
+      "title": "自然光在工作環境中的優勢？",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "是最好的識別顏色" },
+        { "id": 2, "option": "B", "text": "它給人最淺的陰影" },
+        { "id": 3, "option": "C", "text": "方便在飛機內使用" }
       ]
     },
     {
       "id": 120,
-      "title": "",
-      "answer": "",
+      "title": "工作前,書面指導的重要性是什麼？",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "它消除了同事之間的溝通需求" },
+        { "id": 2, "option": "B", "text": "可免除對執行工作的疑慮" },
+        { "id": 3, "option": "C", "text": "減少疲勞和壓力" }
       ]
     },
     {
       "id": 121,
-      "title": "",
-      "answer": "",
+      "title": "相關於重複工作的危險性是什麼？",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "工作程序是自覺地遵循" },
+        { "id": 2, "option": "B", "text": "工作程序是不自覺地修改" },
+        { "id": 3, "option": "C", "text": "假設被事實取代" }
       ]
     },
     {
       "id": 122,
-      "title": "",
-      "answer": "",
+      "title": "人為因素研究最初目的是什麼？",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "人機配合" },
+        { "id": 2, "option": "B", "text": "減少壓力" },
+        { "id": 3, "option": "C", "text": "減少人為錯誤" }
       ]
     },
     {
       "id": 123,
-      "title": "",
-      "answer": "",
+      "title": "SHELL模式是如何作為人為因素的架構？",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "它顯示個別標題是如何的相互分離" },
+        { "id": 2, "option": "B", "text": "它顯示個別標題如何相互影響" },
+        { "id": 3, "option": "C", "text": "它顯示人為疏失的領域" }
       ]
     },
     {
       "id": 124,
-      "title": "",
-      "answer": "",
+      "title": "打斷錯誤鏈是什麼意思?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "引起一次事故" },
+        { "id": 2, "option": "B", "text": "停止一次事故" },
+        { "id": 3, "option": "C", "text": "做更好的工作程序" }
       ]
     },
     {
       "id": 125,
-      "title": "",
-      "answer": "",
+      "title": "墨菲法則是什麼？",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "只要是人，就會錯誤" },
+        { "id": 2, "option": "B", "text": "人們會欺騙使生活更自在" },
+        { "id": 3, "option": "C", "text": "會出錯的事情一定會出錯" }
       ]
     },
     {
       "id": 126,
-      "title": "",
-      "answer": "",
+      "title": "在工作環境中表現自滿進而導致疏失發生，此為？",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "馬斯洛的需求層次" },
+        { "id": 2, "option": "B", "text": "框架模式" },
+        { "id": 3, "option": "C", "text": "墨菲定律" }
       ]
     },
     {
       "id": 127,
-      "title": "",
-      "answer": "",
+      "title": "積極傾聽的過程，正確順序是什麼？",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "理解、解釋和評估" },
+        { "id": 2, "option": "B", "text": "解釋、理解和評估" },
+        { "id": 3, "option": "C", "text": "解釋、評估和理解" }
       ]
     },
     {
       "id": 128,
-      "title": "",
-      "answer": "",
+      "title": "正向壓力將引起什麼？",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "掩蓋你的感情" },
+        { "id": 2, "option": "B", "text": "低品質的工作" },
+        { "id": 3, "option": "C", "text": "高品質的工作" }
       ]
     },
     {
       "id": 129,
-      "title": "",
-      "answer": "",
+      "title": "下列何者為真？",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "壓力如果被變成行動為正壓力。" },
+        { "id": 2, "option": "B", "text": "壓力如果被變成行動為負壓力。" },
+        { "id": 3, "option": "C", "text": "壓力如果掩蓋你的感情為正壓力。" }
       ]
     },
     {
       "id": 130,
-      "title": "",
-      "answer": "",
+      "title": "當你執行一份工作，卻比其他人要花費更多時間，最可能的原因是...",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "受到過度刺激" },
+        { "id": 2, "option": "B", "text": "未受到過度刺激" },
+        { "id": 3, "option": "C", "text": "壓力增大" }
       ]
     },
     {
       "id": 131,
-      "title": "",
-      "answer": "",
+      "title": "你被賦予去執行數個新的工作，因為你是一個好的工作者. 你最有可能犯錯由於 ...",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "過度刺激" },
+        { "id": 2, "option": "B", "text": "未受到刺激" },
+        { "id": 3, "option": "C", "text": "環境因素" }
       ]
     },
     {
       "id": 132,
-      "title": "",
-      "answer": "",
+      "title": "什麼是晝夜節律?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "容易生活的一種方法" },
+        { "id": 2, "option": "B", "text": "某種腦電波" },
+        { "id": 3, "option": "C", "text": "身體時鐘" }
       ]
     },
     {
       "id": 133,
-      "title": "",
-      "answer": "",
+      "title": "何者是慢性疲勞的症狀？",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
+        { "id": 1, "option": "A", "text": "充滿活力和感覺良好" },
+        { "id": 2, "option": "B", "text": "無聊和厭煩" },
+        { "id": 3, "option": "C", "text": "活力不足和感覺不良" },
         { "id": 4, "option": "D", "text": "" }
       ]
     },
     {
       "id": 134,
-      "title": "",
-      "answer": "",
+      "title": "何者是正確的工作場所危險認知與通報？",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "雇主必須認識到潛在的危險和僱員必須報告它們" },
+        { "id": 2, "option": "B", "text": "雇主必須認識到的危害和報告它們" },
+        { "id": 3, "option": "C", "text": "員工必須認識到潛在的危險，雇主必須他們報告它們" }
       ]
     },
     {
       "id": 135,
-      "title": "",
-      "answer": "",
+      "title": "什麼型態的工作易造成到自滿？",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "新的工作" },
+        { "id": 2, "option": "B", "text": "困難的工作" },
+        { "id": 3, "option": "C", "text": "重複性的工作" }
       ]
     },
     {
       "id": 136,
-      "title": "",
-      "answer": "",
+      "title": "重複性工作的危險是什麼？",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "自主地修改工作程序" },
+        { "id": 2, "option": "B", "text": "自主地遵循工作程序" },
+        { "id": 3, "option": "C", "text": "隨機應變" }
       ]
     },
     {
       "id": 137,
-      "title": "",
-      "answer": "",
+      "title": "如何打破「錯誤鏈」以防止發生意外？",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "阻止根本因素" },
+        { "id": 2, "option": "B", "text": "阻止任何後續可能因素發生" },
+        { "id": 3, "option": "C", "text": "阻止任何先決因素" }
       ]
     },
     {
       "id": 138,
-      "title": "",
-      "answer": "",
+      "title": "墨菲定律是什麼呢？",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "五種感官限制性的規則" },
+        { "id": 2, "option": "B", "text": "體能限制的規則" },
+        { "id": 3, "option": "C", "text": "可能性和或然性的規則" }
       ]
     },
     {
       "id": 139,
-      "title": "",
-      "answer": "",
+      "title": "何者是有效雙向溝通之重要因素？",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "肢體語言" },
+        { "id": 2, "option": "B", "text": "文字表達" },
+        { "id": 3, "option": "C", "text": "回應" }
       ]
     },
     {
       "id": 140,
-      "title": "",
-      "answer": "",
+      "title": "長期記憶之訊息",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "易於轉為短期記憶。" },
+        { "id": 2, "option": "B", "text": "易於喪失。" },
+        { "id": 3, "option": "C", "text": "不易喪失。" }
       ]
     },
     {
       "id": 141,
-      "title": "",
-      "answer": "",
+      "title": "警示標誌之設計目的為",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "當操作者持續進行手邊的工作時，警示標誌能增加操作者的注意力。" },
+        { "id": 2, "option": "B", "text": "使操作者投入完全的注意力於手邊的工作。" },
+        { "id": 3, "option": "C", "text": "吸引操作者全部的注意力。" }
       ]
     },
     {
       "id": 142,
-      "title": "",
-      "answer": "",
+      "title": "動作再學習法",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "是行為的部分例行機制。" },
+        { "id": 2, "option": "B", "text": "需要意識思維啟動之。" },
+        { "id": 3, "option": "C", "text": "以工作常規儲存為長期記憶。" }
       ]
     },
     {
       "id": 143,
-      "title": "",
-      "answer": "",
+      "title": "「錯誤」是指",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "蓄意偏離規定。" },
+        { "id": 2, "option": "B", "text": "蓄意之破壞行為。" },
+        { "id": 3, "option": "C", "text": "非蓄意之失誤。" }
       ]
     },
     {
       "id": 144,
-      "title": "",
-      "answer": "",
+      "title": "錯誤與違規之差異在於？",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "錯誤較違規不嚴重。" },
+        { "id": 2, "option": "B", "text": "違規並非蓄意。" },
+        { "id": 3, "option": "C", "text": "錯誤屬非蓄意，而違規屬蓄意。" }
       ]
     },
     {
       "id": 145,
-      "title": "",
-      "answer": "",
+      "title": "SHELL Model之人為因素樞紐為何？",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "硬體。" },
+        { "id": 2, "option": "B", "text": "軟體。" },
+        { "id": 3, "option": "C", "text": "人。" }
       ]
     },
     {
       "id": 146,
-      "title": "",
-      "answer": "",
+      "title": "何謂潛在失效(latent failure)？",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "未被預測到之失效。" },
+        { "id": 2, "option": "B", "text": "遵從不熟悉飛機維修之管理者指示。" },
+        { "id": 3, "option": "C", "text": "可被預測到之失效。" }
       ]
     },
     {
       "id": 147,
-      "title": "",
-      "answer": "",
+      "title": "當你打破失誤鏈時，下列何者將發生？",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "事故發生。" },
+        { "id": 2, "option": "B", "text": "機師在72小時內呈交報告。" },
+        { "id": 3, "option": "C", "text": "事故未發生。" }
       ]
     },
     {
       "id": 148,
-      "title": "",
-      "answer": "",
+      "title": "風險評估與管理",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "降低風險至可接受標準並監控各項情形。" },
+        { "id": 2, "option": "B", "text": "調查各項風險，將其予以排除，並監控新的工作常規。" },
+        { "id": 3, "option": "C", "text": "選擇較便宜之零件供應商或製造商。" }
       ]
     },
     {
       "id": 149,
-      "title": "",
-      "answer": "",
+      "title": "當執行風險評估",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "人員需配戴安全工作帽。" },
+        { "id": 2, "option": "B", "text": "有必要識別出工作裝備或程序可能出錯的地方。" },
+        { "id": 3, "option": "C", "text": "監督人員應負完全之責任。" }
       ]
     },
     {
       "id": 150,
-      "title": "",
-      "answer": "",
+      "title": "人為因素（Human Factors）探討的層面不包括下列何項？",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "硬體設計" },
+        { "id": 2, "option": "B", "text": "組織文化" },
+        { "id": 3, "option": "C", "text": "空氣動力" }
       ]
     },
     {
       "id": 151,
-      "title": "",
-      "answer": "",
+      "title": "下列人為因素相關訓練課程的優先或重要順序何者正確? (1)法律要求 (2)減少錯誤 (3)安全",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "(1), (2), (3)" },
+        { "id": 2, "option": "B", "text": "(2), (3), (1)" },
+        { "id": 3, "option": "C", "text": "(3), (2), (1)" }
       ]
     },
     {
       "id": 152,
-      "title": "",
-      "answer": "",
+      "title": "情境警覺可分為三個階段，哪一項是情境警覺的第一階段?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "感知" },
+        { "id": 2, "option": "B", "text": "理解" },
+        { "id": 3, "option": "C", "text": "預測" }
       ]
     },
     {
       "id": 153,
-      "title": "",
-      "answer": "",
+      "title": "情境警覺可分為三個階段，以下哪一項不是屬於情境警覺的三個階段?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "感知" },
+        { "id": 2, "option": "B", "text": "回饋" },
+        { "id": 3, "option": "C", "text": "預測" }
       ]
     },
     {
       "id": 154,
-      "title": "",
-      "answer": "",
+      "title": "當重要資訊到達腦部後，仍因缺乏資料而發生錯誤。 這是因為資訊處理過程中，資料的缺乏會被什麼所取代?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "回饋" },
+        { "id": 2, "option": "B", "text": "運動神經元的編碼" },
+        { "id": 3, "option": "C", "text": "知識與經驗" }
       ]
     },
     {
       "id": 155,
-      "title": "",
-      "answer": "",
+      "title": "什麼是群體責任?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "個人責任的加總" },
+        { "id": 2, "option": "B", "text": "合併責任的結果" },
+        { "id": 3, "option": "C", "text": "群體的整體目標" }
       ]
     },
     {
       "id": 156,
-      "title": "",
-      "answer": "",
+      "title": "群體責任意味著若干人負擔起責任。 此因素...?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "改善可追朔性" },
+        { "id": 2, "option": "B", "text": "視眾人意願而定" },
+        { "id": 3, "option": "C", "text": "有優點，但也有缺點" }
       ]
     },
     {
       "id": 157,
-      "title": "",
-      "answer": "",
+      "title": "下列何者是有動機的人所具有的特徵?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "冷淡" },
+        { "id": 2, "option": "B", "text": "接受改變" },
+        { "id": 3, "option": "C", "text": "誇大困難" }
       ]
     },
     {
       "id": 158,
-      "title": "",
-      "answer": "",
+      "title": "下列何者是缺乏動機的人所具有的特徵?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "接受改變" },
+        { "id": 2, "option": "B", "text": "設定目標" },
+        { "id": 3, "option": "C", "text": "誇大困難" }
       ]
     },
     {
       "id": 159,
-      "title": "",
-      "answer": "",
+      "title": "經常性的缺席、誇大困難並且漠不關心等現象可能會被誤認為是缺乏動機，然而這些現象也可能是何者所引起的?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "武斷" },
+        { "id": 2, "option": "B", "text": "缺乏意識" },
+        { "id": 3, "option": "C", "text": "壓力" }
       ]
     },
     {
       "id": 160,
-      "title": "",
-      "answer": "",
+      "title": "下列何者讓你容易被同儕壓力影響：(1)文化環境 (2)自我認同 (3) 人際關係",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "(1)、(2)" },
+        { "id": 2, "option": "B", "text": "(2)、(3)" },
+        { "id": 3, "option": "C", "text": "(1)、(2)、(3)" }
       ]
     },
     {
       "id": 161,
-      "title": "",
-      "answer": "",
+      "title": "同儕壓力...?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "對工作能力一點影響都沒有" },
+        { "id": 2, "option": "B", "text": "總是很負面" },
+        { "id": 3, "option": "C", "text": "可能是正面也可能是負面" }
       ]
     },
     {
       "id": 162,
-      "title": "",
-      "answer": "",
+      "title": "感受到同儕壓力意味著被要求要...？",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "負責任" },
+        { "id": 2, "option": "B", "text": "被激勵" },
+        { "id": 3, "option": "C", "text": "順應" }
       ]
     },
     {
       "id": 163,
-      "title": "",
-      "answer": "",
+      "title": "在人為因素訓練中，文化議題多針對下列何者?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "國家文化" },
+        { "id": 2, "option": "B", "text": "公司文化" },
+        { "id": 3, "option": "C", "text": "國際文化" }
       ]
     },
     {
       "id": 164,
-      "title": "",
-      "answer": "",
+      "title": "根據國際民航組織(ICAO)，以下何者綜合納入態度、規範、角色、社會與技術實務，據以降低危害及風險?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "技術文化" },
+        { "id": 2, "option": "B", "text": "商業文化" },
+        { "id": 3, "option": "C", "text": "安全文化" }
       ]
     },
     {
       "id": 165,
-      "title": "",
-      "answer": "",
+      "title": "甚麼職位的人最適合影響公司的文化?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "公司的領導者" },
+        { "id": 2, "option": "B", "text": "第一線員工" },
+        { "id": 3, "option": "C", "text": "民航局" }
       ]
     },
     {
       "id": 166,
-      "title": "",
-      "answer": "",
+      "title": "下列何者是團隊合作中互相支援的要素：(1)了解員工的長處與短處 (2)衡量員工個人的貢獻 (3)善用每個員工的能力",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "(1) (2)" },
+        { "id": 2, "option": "B", "text": "(1) (3)" },
+        { "id": 3, "option": "C", "text": "(2) (3)" }
       ]
     },
     {
       "id": 167,
-      "title": "",
-      "answer": "",
+      "title": "管理階層與工作團隊之間的連結為何？",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "民航局檢查員" },
+        { "id": 2, "option": "B", "text": "公司高層" },
+        { "id": 3, "option": "C", "text": "工作團隊的領班/領工" }
       ]
     },
     {
       "id": 168,
-      "title": "",
-      "answer": "",
+      "title": "管理階層或是現場作業人員都應該把安全當作是...？",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "你的責任" },
+        { "id": 2, "option": "B", "text": "我的責任" },
+        { "id": 3, "option": "C", "text": "我們大家的責任" }
       ]
     },
     {
       "id": 169,
-      "title": "",
-      "answer": "",
+      "title": "在SHELL模型中，領導階層應屬於...？",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "軟體" },
+        { "id": 2, "option": "B", "text": "硬體" },
+        { "id": 3, "option": "C", "text": "人員" }
       ]
     },
     {
       "id": 170,
-      "title": "",
-      "answer": "",
+      "title": "蒐集、分析並提供飛安事件及查核報告結論的資訊系統是下列何者的一部分？",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "安全文化" },
+        { "id": 2, "option": "B", "text": "商業文化" },
+        { "id": 3, "option": "C", "text": "技術文化" }
       ]
     },
     {
       "id": 171,
-      "title": "",
-      "answer": "",
+      "title": "壓力源以及壓力的敘述何者正確?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "壓力源是事件，壓力則是人的反應" },
+        { "id": 2, "option": "B", "text": "壓力源是人的反應，壓力則是事件" },
+        { "id": 3, "option": "C", "text": "壓力源與壓力都是事件" }
       ]
     },
     {
       "id": 172,
-      "title": "",
-      "answer": "",
+      "title": "壓力源導致壓力是因為...？",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "只有內在的因素" },
+        { "id": 2, "option": "B", "text": "只有外在的因素" },
+        { "id": 3, "option": "C", "text": "內在與外在的因素都有" }
       ]
     },
     {
       "id": 173,
-      "title": "",
-      "answer": "",
+      "title": "噪音、環境毒害與過度刺激是屬於？",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "內向壓力源" },
+        { "id": 2, "option": "B", "text": "外在壓力源" },
+        { "id": 3, "option": "C", "text": "外向壓力源" }
       ]
     },
     {
       "id": 174,
-      "title": "",
-      "answer": "",
+      "title": "面對壓力，最好的方法包括：(1)減少壓力源 (2)轉移壓力 (3)等壓力自己消失",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "(1) (2)" },
+        { "id": 2, "option": "B", "text": "(1) (3)" },
+        { "id": 3, "option": "C", "text": "(2) (3)" }
       ]
     },
     {
       "id": 175,
-      "title": "",
-      "answer": "",
+      "title": "期限接近所帶來的壓力會因為下列何者而增加？",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "被時間控制" },
+        { "id": 2, "option": "B", "text": "專心完成自己的工作" },
+        { "id": 3, "option": "C", "text": "工作太多但時間不夠" }
       ]
     },
     {
       "id": 176,
-      "title": "",
-      "answer": "",
+      "title": "以下何者可以減少期限接近所帶來的壓力：(1)要求更多時間 (2)尋求協助 (3)要求事後接受更多的訓練",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "(1) (2)" },
+        { "id": 2, "option": "B", "text": "(1) (3)" },
+        { "id": 3, "option": "C", "text": "(2) (3)" }
       ]
     },
     {
-      "id": 171,
-      "title": "",
-      "answer": "",
+      "id": 177,
+      "title": "雖然期限不可避免會造成工作壓力，但是良好的團隊合作可以用甚麼方式來減少壓力：(1)增加每個人的責任 (2)互相支援 (3)依照個人能力分派工作",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "(1) (2)" },
+        { "id": 2, "option": "B", "text": "(1) (3)" },
+        { "id": 3, "option": "C", "text": "(2) (3)" }
       ]
     },
     {
       "id": 178,
-      "title": "",
-      "answer": "",
+      "title": "雖然期限不可避免會造成工作壓力，但為了減少壓力，溝通該如何進行? (1)模糊 (2)簡單 (3)清楚",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "(1) (2)" },
+        { "id": 2, "option": "B", "text": "(1) (3)" },
+        { "id": 3, "option": "C", "text": "(2) (3)" }
       ]
     },
     {
       "id": 179,
-      "title": "",
-      "answer": "",
+      "title": "工作感到無聊可能是因為 ...",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "工作量較少" },
+        { "id": 2, "option": "B", "text": "具挑戰性的工作" },
+        { "id": 3, "option": "C", "text": "有時間壓力" }
       ]
     },
     {
       "id": 180,
-      "title": "",
-      "answer": "",
+      "title": "過度刺激可能是因為 ...",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "有多餘的時間完成工作" },
+        { "id": 2, "option": "B", "text": "工作量太大" },
+        { "id": 3, "option": "C", "text": "有其他人協助完成工作" }
       ]
     },
     {
       "id": 181,
-      "title": "",
-      "answer": "",
+      "title": "甚麼情況下的刺激反應，會讓人們的工作績效達到最大?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "接受最大的刺激" },
+        { "id": 2, "option": "B", "text": "接受比最大的刺激略小的刺激" },
+        { "id": 3, "option": "C", "text": "接受中等的刺激" }
       ]
     },
     {
       "id": 182,
-      "title": "",
-      "answer": "",
+      "title": "下列何者是工作量不足的可能反應：(1)注意力渙散 (2)生理疲勞 (3) 工作動機減少",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "(1) (2)" },
+        { "id": 2, "option": "B", "text": "(1) (3)" },
+        { "id": 3, "option": "C", "text": "(2) (3)" }
       ]
     },
     {
       "id": 183,
-      "title": "",
-      "answer": "",
+      "title": "出現工作績效、判斷能力、反應時間、解決問題的能力、記憶力、心情都比平常表現差的情況，可能是甚麼原因造成的?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "睡眠不足" },
+        { "id": 2, "option": "B", "text": "警覺性不足" },
+        { "id": 3, "option": "C", "text": "信心不足" }
       ]
     },
     {
       "id": 184,
-      "title": "",
-      "answer": "",
+      "title": "規律的睡眠習慣可以減少 ...?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "疲勞" },
+        { "id": 2, "option": "B", "text": "體力消耗" },
+        { "id": 3, "option": "C", "text": "生產力" }
       ]
     },
     {
       "id": 185,
-      "title": "",
-      "answer": "",
+      "title": "關於急性疲勞與慢性疲勞的敘述何者正確?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "兩者都屬於長期徵狀" },
+        { "id": 2, "option": "B", "text": "急性疲勞屬於長期徵狀，慢性疲勞則屬於短期" },
+        { "id": 3, "option": "C", "text": "急性疲勞屬於短期徵狀，慢性疲勞則屬於長期" }
       ]
     },
     {
       "id": 186,
-      "title": "",
-      "answer": "",
+      "title": "為了工作忽略休息會造成：(1) 降低效率 (2)容易受傷 (3) 身體疲勞",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "(1) (2)" },
+        { "id": 2, "option": "B", "text": "(1) (3)" },
+        { "id": 3, "option": "C", "text": "(2) (3)" }
       ]
     },
     {
       "id": 187,
-      "title": "",
-      "answer": "",
+      "title": "工作到極限狀況時，以下何者情況不會出現?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "減少疲勞" },
+        { "id": 2, "option": "B", "text": "判斷力降低" },
+        { "id": 3, "option": "C", "text": "工作水準降低" }
       ]
     },
     {
       "id": 188,
-      "title": "",
-      "answer": "",
+      "title": "重複性的工作容易造成 ...?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "自滿" },
+        { "id": 2, "option": "B", "text": "警覺" },
+        { "id": 3, "option": "C", "text": "同儕壓力" }
       ]
     },
     {
       "id": 189,
-      "title": "",
-      "answer": "",
+      "title": "有關錯誤鏈的敘述何者較為貼切?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "一連串的失誤造成失事" },
+        { "id": 2, "option": "B", "text": "潛在錯誤往往可能造成嚴重的損害或疏失" },
+        { "id": 3, "option": "C", "text": "工作的動機" }
       ]
     },
     {
       "id": 190,
-      "title": "",
-      "answer": "",
+      "title": "有關冰山理論的敘述何者較為貼切?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "一連串的失誤造成失事" },
+        { "id": 2, "option": "B", "text": "潛在錯誤往往可能造成嚴重的損害或疏失" },
+        { "id": 3, "option": "C", "text": "工作的動機" }
       ]
     },
     {
       "id": 191,
-      "title": "",
-      "answer": "",
+      "title": "瑞士起司模型中，起司上的洞與起司片分別代表甚麼?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "沒有回報的錯誤、顯見的錯誤" },
+        { "id": 2, "option": "B", "text": "未被察覺的錯誤、防範機制" },
+        { "id": 3, "option": "C", "text": "自我滿足的需求、生理需求" }
       ]
     },
     {
       "id": 192,
-      "title": "",
-      "answer": "",
+      "title": "未中斷的失誤鍊會得到甚麼結果?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "安全的文化" },
+        { "id": 2, "option": "B", "text": "改善的維修" },
+        { "id": 3, "option": "C", "text": "失事" }
       ]
     },
     {
       "id": 193,
-      "title": "",
-      "answer": "",
+      "title": "瑞士起司模型中的安全箭頭呈現何種狀態時表示會發生危險?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "穿過起司的洞時" },
+        { "id": 2, "option": "B", "text": "被起司片擋住時" },
+        { "id": 3, "option": "C", "text": "穿過起司之後中斷了" }
       ]
     },
     {
       "id": 194,
-      "title": "",
-      "answer": "",
+      "title": "失誤鍊模型中，最危險的情況會發生在下列何時?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "意外沒有回報時" },
+        { "id": 2, "option": "B", "text": "失誤鍊沒有中斷時" },
+        { "id": 3, "option": "C", "text": "失誤鍊中斷時" }
       ]
     },
     {
       "id": 195,
-      "title": "",
-      "answer": "",
+      "title": "冰山模型中，浮出水面可見的部分 ...",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "是最安全的部分" },
+        { "id": 2, "option": "B", "text": "是最危險的部分" },
+        { "id": 3, "option": "C", "text": "跟隱藏的部分一樣危險" }
       ]
     },
     {
       "id": 196,
-      "title": "",
-      "answer": "",
+      "title": "以下哪一項屬於潛在或隱性的失誤?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "安全檢查" },
+        { "id": 2, "option": "B", "text": "失誤回報" },
+        { "id": 3, "option": "C", "text": "工作排程太緊" }
       ]
     },
     {
       "id": 197,
-      "title": "",
-      "answer": "",
+      "title": "對於沒有釀成失事但仍產生些許問題的疏失，下列分類何者正確?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "事變" },
+        { "id": 2, "option": "B", "text": "意外" },
+        { "id": 3, "option": "C", "text": "情節" }
       ]
     },
     {
       "id": 198,
-      "title": "",
-      "answer": "",
+      "title": "對於人為疏失，以下何者是正面的看法?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "不好的因素已經被移除掉" },
+        { "id": 2, "option": "B", "text": "我們可以從錯誤中學習" },
+        { "id": 3, "option": "C", "text": "可以決定責任歸屬" }
       ]
     },
     {
       "id": 199,
-      "title": "",
-      "answer": "",
+      "title": "失誤管理的兩大要素包括 ...",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "失誤的遏阻與降低" },
+        { "id": 2, "option": "B", "text": "失誤的消除與責任" },
+        { "id": 3, "option": "C", "text": "失誤的可能性與機率" }
       ]
     },
     {
       "id": 200,
-      "title": "",
-      "answer": "",
+      "title": "失誤管理的基本原則是甚麼?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "失誤是隨機發生的事件" },
+        { "id": 2, "option": "B", "text": "失誤是無法避免的" },
+        { "id": 3, "option": "C", "text": "失誤可以被消除" }
       ]
     },
     {
       "id": 201,
-      "title": "",
-      "answer": "",
+      "title": "以下何者不是減少失誤的方法?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "減少對失誤的容忍度" },
+        { "id": 2, "option": "B", "text": "減少失誤發生的可能性" },
+        { "id": 3, "option": "C", "text": "減少特定工作失誤的危險性" }
       ]
     },
     {
       "id": 202,
-      "title": "",
-      "answer": "",
+      "title": "以下何者是減少失誤的方法?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "讓潛在的狀況更不清楚" },
+        { "id": 2, "option": "B", "text": "減少對失誤的容忍度" },
+        { "id": 3, "option": "C", "text": "遵照程序" }
       ]
     },
     {
       "id": 203,
-      "title": "",
-      "answer": "",
+      "title": "誰最應該負責確認工作是否按照安全規定或訓練完成?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "工作人員" },
+        { "id": 2, "option": "B", "text": "主管" },
+        { "id": 3, "option": "C", "text": "民航局的檢查員" }
       ]
     },
     {
       "id": 204,
-      "title": "",
-      "answer": "",
+      "title": "以下何者對於個人的安全及健康態度有最多的影響?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "團隊的架構" },
+        { "id": 2, "option": "B", "text": "品管的效率" },
+        { "id": 3, "option": "C", "text": "組織的文化" }
       ]
     },
     {
       "id": 205,
-      "title": "",
-      "answer": "",
+      "title": "維持工作場所的安全與健康的目的為何?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "創造最大的利益" },
+        { "id": 2, "option": "B", "text": "將風險最小化" },
+        { "id": 3, "option": "C", "text": "運用資源" }
       ]
     }
   ]
