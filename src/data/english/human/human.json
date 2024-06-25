@@ -3,2462 +3,2257 @@
   "questions": [
     {
       "id": 1,
-      "title": "",
-      "answer": "",
+      "title": "CRM is",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "a quick fix that can be implemented overnight" },
+        { "id": 2, "option": "B", "text": "a comprehensive system for improving crew performance" },
+        { "id": 3, "option": "C", "text": "a passive lecture-style classroom course" }
       ]
     },
     {
       "id": 2,
-      "title": "",
-      "answer": "",
+      "title": "Which of the following is not included in CRM training phases:",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "awareness phase" },
+        { "id": 2, "option": "B", "text": "practice and feedback phase" },
+        { "id": 3, "option": "C", "text": "breakthrough phase" }
       ]
     },
     {
       "id": 3,
-      "title": "",
-      "answer": "",
+      "title": "The first phase of CRM training is:",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "awareness phase" },
+        { "id": 2, "option": "B", "text": "practice and feedback phase" },
+        { "id": 3, "option": "C", "text": "continual reinforcement phase" }
       ]
     },
     {
       "id": 4,
-      "title": "",
-      "answer": "",
+      "title": "The second phase of CRM training is:",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "awareness phase" },
+        { "id": 2, "option": "B", "text": "practice and feedback phase" },
+        { "id": 3, "option": "C", "text": "continual reinforcement phase" }
       ]
     },
     {
       "id": 5,
-      "title": "",
-      "answer": "",
+      "title": "The third phase of CRM training is:",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "awareness phase" },
+        { "id": 2, "option": "B", "text": "practice and feedback phase" },
+        { "id": 3, "option": "C", "text": "continual reinforcement phase" }
       ]
     },
     {
       "id": 6,
-      "title": "",
-      "answer": "",
+      "title": "CRM trainings include three phases, and the first phase focuses on the importance of",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "operational skills" },
+        { "id": 2, "option": "B", "text": "technical knowledge" },
+        { "id": 3, "option": "C", "text": "crew coordination" }
       ]
     },
     {
       "id": 7,
-      "title": "",
-      "answer": "",
+      "title": "Effective CRM training needs the support from",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "Top management" },
+        { "id": 2, "option": "B", "text": "Passenger" },
+        { "id": 3, "option": "C", "text": "ATC" }
       ]
     },
     {
       "id": 8,
-      "title": "",
-      "answer": "",
+      "title": "Which description is not correct about the 'SHELL' model:",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "S means situation" },
+        { "id": 2, "option": "B", "text": "H means hardware" },
+        { "id": 3, "option": "C", "text": "E means environment" }
       ]
     },
     {
       "id": 9,
-      "title": "",
-      "answer": "",
+      "title": "In the 'SHELL' model, software means",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "machinery, equipment, etc." },
+        { "id": 2, "option": "B", "text": "documentation, procedures, symbols, etc." },
+        { "id": 3, "option": "C", "text": "Both internal and external to the workplace." }
       ]
     },
     {
       "id": 10,
-      "title": "",
-      "answer": "",
+      "title": "In the 'SHELL' model, hardware means",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "machinery, equipment, etc." },
+        { "id": 2, "option": "B", "text": "documentation, procedures, symbols, etc." },
+        { "id": 3, "option": "C", "text": "Both internal and external to the workplace." }
       ]
     },
     {
       "id": 11,
-      "title": "",
-      "answer": "",
+      "title": "In the 'SHELL' model, environment means",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "machinery, equipment, etc." },
+        { "id": 2, "option": "B", "text": "documentation, procedures, symbols, etc." },
+        { "id": 3, "option": "C", "text": "Both internal and external to the workplace." }
       ]
     },
     {
       "id": 12,
-      "title": "",
-      "answer": "",
+      "title": "In the 'SHELL' model, liveware means",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "Human" },
+        { "id": 2, "option": "B", "text": "Documentation, procedures, symbols, etc." },
+        { "id": 3, "option": "C", "text": "Both internal and external to the workplace." }
       ]
     },
     {
       "id": 13,
-      "title": "",
-      "answer": "",
+      "title": "The central component of the SHELL model is",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "Situation" },
+        { "id": 2, "option": "B", "text": "Hardware" },
+        { "id": 3, "option": "C", "text": "Liveware" }
       ]
     },
     {
       "id": 14,
-      "title": "",
-      "answer": "",
+      "title": "In the SHELL model, the relationship between labor and management is an issue of",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "liveware-liveware interface" },
+        { "id": 2, "option": "B", "text": "liveware-hardware interface" },
+        { "id": 3, "option": "C", "text": "liveware-software interface" }
       ]
     },
     {
       "id": 15,
-      "title": "",
-      "answer": "",
+      "title": "In the SHELL model, cockpit configuration is an issue of",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "liveware-liveware interface" },
+        { "id": 2, "option": "B", "text": "liveware-hardware interface" },
+        { "id": 3, "option": "C", "text": "liveware-software interface" }
       ]
     },
     {
       "id": 16,
       "title": "",
-      "answer": "",
-      "userAnswer": "",
+      "answer": "C",
+      "userAnswer": "In the SHELL model, the regulations, manuals and SOPs are the issues of",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "liveware-liveware interface" },
+        { "id": 2, "option": "B", "text": "liveware-hardware interface" },
+        { "id": 3, "option": "C", "text": "liveware-software interface" }
       ]
     },
     {
       "id": 17,
-      "title": "",
-      "answer": "",
+      "title": "In the SHELL model, the weather, terrain and physical facilities are the issues of",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "liveware-liveware interface" },
+        { "id": 2, "option": "B", "text": "liveware-environment interface" },
+        { "id": 3, "option": "C", "text": "liveware-software interface" }
       ]
     },
     {
       "id": 18,
-      "title": "",
-      "answer": "",
+      "title": "Normally, the higher degree an aircraft on automation is,",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "the higher the pilot's workload becomes" },
+        { "id": 2, "option": "B", "text": "the more skillful the pilot's flying technique is" },
+        { "id": 3, "option": "C", "text": "the more boring the pilot feels" }
       ]
     },
     {
       "id": 19,
-      "title": "",
-      "answer": "",
+      "title": "Normally, when an aircraft is more automated, the role of a pilot is",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "more in monitoring" },
+        { "id": 2, "option": "B", "text": "more in controlling" },
+        { "id": 3, "option": "C", "text": "more in both monitoring and controlling" }
       ]
     },
     {
       "id": 20,
-      "title": "",
-      "answer": "",
+      "title": "Normally the last barrier that stops the sequence of events from causing an accident is",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "Regulation" },
+        { "id": 2, "option": "B", "text": "Human" },
+        { "id": 3, "option": "C", "text": "Equipment" }
       ]
     },
     {
       "id": 21,
-      "title": "",
-      "answer": "",
+      "title": "Systematic search for 'WHY' in the investigation is to",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "assign blame or liability" },
+        { "id": 2, "option": "B", "text": "pinpoint a single cause" },
+        { "id": 3, "option": "C", "text": "identify the underlying deficiencies" }
       ]
     },
     {
       "id": 22,
-      "title": "",
-      "answer": "",
+      "title": "To fulfill the purpose of investigation, the investigating authority must take view from",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "pilot" },
+        { "id": 2, "option": "B", "text": "passenger" },
+        { "id": 3, "option": "C", "text": "all aspects" }
       ]
     },
     {
       "id": 23,
-      "title": "",
-      "answer": "",
+      "title": "The beliefs and values which are shared by all or almost all members of a group is defined as",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "law" },
+        { "id": 2, "option": "B", "text": "atmosphere" },
+        { "id": 3, "option": "C", "text": "culture" }
       ]
     },
     {
       "id": 24,
-      "title": "",
-      "answer": "",
+      "title": "Which is not a characteristic of a safe culture?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "Top management emphasizes safety." },
+        { "id": 2, "option": "B", "text": "Top management do not avoid criticism." },
+        { "id": 3, "option": "C", "text": "People respect seniors." }
       ]
     },
     {
       "id": 25,
-      "title": "",
-      "answer": "",
+      "title": "Which is not a trait of a safe organization?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "rely on regulatory rather than internal responsibility" },
+        { "id": 2, "option": "B", "text": "have appropriate risk management structure" },
+        { "id": 3, "option": "C", "text": "regard safety as a major contributor to productivity" }
       ]
     },
     {
       "id": 26,
-      "title": "",
-      "answer": "",
+      "title": "What may happen when an operator is too accustomed to the new automated system's performance?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "Loss of system awareness" },
+        { "id": 2, "option": "B", "text": "Over reliance" },
+        { "id": 3, "option": "C", "text": "Distrust" }
       ]
     },
     {
       "id": 27,
-      "title": "",
-      "answer": "",
+      "title": "What may happen when the assessment of a particular situation by a human differs from the one by an automated system?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "Loss of system awareness" },
+        { "id": 2, "option": "B", "text": "Systematic decision error" },
+        { "id": 3, "option": "C", "text": "Distrust" }
       ]
     },
     {
       "id": 28,
-      "title": "",
-      "answer": "",
+      "title": "The information transmission between human and machine is an issue of",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "Over-reliance" },
+        { "id": 2, "option": "B", "text": "Systematic decision error" },
+        { "id": 3, "option": "C", "text": "Interface design" }
       ]
     },
     {
       "id": 29,
-      "title": "",
-      "answer": "",
+      "title": "What may happen when too many possibilities are offered by automation?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "Mode confusion" },
+        { "id": 2, "option": "B", "text": "Systematic decision error" },
+        { "id": 3, "option": "C", "text": "Distrust" }
       ]
     },
     {
       "id": 30,
-      "title": "",
-      "answer": "",
+      "title": "Automation technology must be",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "Environment-centered" },
+        { "id": 2, "option": "B", "text": "Machine-centered" },
+        { "id": 3, "option": "C", "text": "Human-centered" }
       ]
     },
     {
       "id": 31,
-      "title": "",
-      "answer": "",
+      "title": "The human has the final responsibility for the safety, therefore",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "machine must be in command" },
+        { "id": 2, "option": "B", "text": "automation must be designed to be complicated" },
+        { "id": 3, "option": "C", "text": "the human must be able to monitor the automated system" }
       ]
     },
     {
       "id": 32,
-      "title": "",
-      "answer": "",
+      "title": "Which is not a leader's responsibility?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "Building the team" },
+        { "id": 2, "option": "B", "text": "Making decision" },
+        { "id": 3, "option": "C", "text": "Covering team member's mistake" }
       ]
     },
     {
       "id": 33,
-      "title": "",
-      "answer": "",
+      "title": "When flight crew member is unable to perform his/her duty due to physical or psychological inability, we call it",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "active failure" },
+        { "id": 2, "option": "B", "text": "passive failure" },
+        { "id": 3, "option": "C", "text": "incapacitation" }
       ]
     },
     {
       "id": 34,
-      "title": "",
-      "answer": "",
+      "title": "What is an action to deal with the stress?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "Changing the situation" },
+        { "id": 2, "option": "B", "text": "Taking the initiative" },
+        { "id": 3, "option": "C", "text": "Leading the group" }
       ]
     },
     {
       "id": 35,
-      "title": "",
-      "answer": "",
+      "title": "Stress of an individual is largely dependent on:",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "individual's ability and the demands placed on him/her" },
+        { "id": 2, "option": "B", "text": "physiological reaction to stimulus" },
+        { "id": 3, "option": "C", "text": "psychological reaction to stimulus" }
       ]
     },
     {
       "id": 36,
-      "title": "",
-      "answer": "",
+      "title": "In order to build up a proper shift-work system, which of the following is incorrect?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "Establish a predictable shift-work system, to enable staff could properly planning of individuals rest and sleep time, and minimize the possibility of the occurrence of fatigue." },
+        { "id": 2, "option": "B", "text": "Take account of reduced physical and mental capacity at night by avoiding the scheduling of such work under strong time pressures." },
+        { "id": 3, "option": "C", "text": "Establish a Rotating Shift Pattern system to effectively prevent the occurrence of fatigue." }
       ]
     },
     {
       "id": 37,
-      "title": "",
-      "answer": "",
+      "title": "What is peer pressure?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "The influence of the leader to the member of a group." },
+        { "id": 2, "option": "B", "text": "The influence by the member of a group." },
+        { "id": 3, "option": "C", "text": "The influence by someone who influences the group." }
       ]
     },
     {
       "id": 38,
-      "title": "",
-      "answer": "",
+      "title": "Which statement is correct? The stress of the environment",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "comes from noise, fumes, heat and vibration" },
+        { "id": 2, "option": "B", "text": "is not cumulative" },
+        { "id": 3, "option": "C", "text": "can be tolerated by everyone" }
       ]
     },
     {
       "id": 39,
-      "title": "",
-      "answer": "",
+      "title": "What is a better way of a hand over?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "Written only" },
+        { "id": 2, "option": "B", "text": "Both written and verbal" },
+        { "id": 3, "option": "C", "text": "Verbal only" }
       ]
     },
     {
       "id": 40,
-      "title": "",
-      "answer": "",
+      "title": "What is the potential problem when using the checklist to conduct a routine check:",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "Individual responses may become automatic rather than diligent." },
+        { "id": 2, "option": "B", "text": "The use of colored pages to highlight important points make them useless at night." },
+        { "id": 3, "option": "C", "text": "Too much information in the lists makes an operator difficult to find his/her immediate action." }
       ]
     },
     {
       "id": 41,
-      "title": "",
-      "answer": "",
+      "title": "The physiological responses to high level of stress are:",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "Sweating, dryness of the mouth, breathing difficulties" },
+        { "id": 2, "option": "B", "text": "Indecision, inattention, withdrawal" },
+        { "id": 3, "option": "C", "text": "Fear, anxiety, depression" }
       ]
     },
     {
       "id": 42,
-      "title": "",
-      "answer": "",
+      "title": "The degree of hearing damage following exposure to loud noise depends upon:",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "Noise intensity and exposure duration" },
+        { "id": 2, "option": "B", "text": "Noise intensity only" },
+        { "id": 3, "option": "C", "text": "Exposure duration only" }
       ]
     },
     {
       "id": 43,
-      "title": "",
-      "answer": "",
+      "title": "The ability to hear your name when you are engaged in another task is known as:",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "Perception" },
+        { "id": 2, "option": "B", "text": "Central decision making" },
+        { "id": 3, "option": "C", "text": "The cocktail party effect" }
       ]
     },
     {
       "id": 44,
-      "title": "",
-      "answer": "",
+      "title": "Skill-based behavior is associated with:",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "Past experience" },
+        { "id": 2, "option": "B", "text": "Checklists" },
+        { "id": 3, "option": "C", "text": "Motor programs" }
       ]
     },
     {
       "id": 45,
-      "title": "",
-      "answer": "",
+      "title": "Counselling is a tool that can be used to cope with stress. It is a form of:",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "Action coping." },
+        { "id": 2, "option": "B", "text": "Cognitive coping." },
+        { "id": 3, "option": "C", "text": "Symptom directed coping." }
       ]
     },
     {
       "id": 46,
-      "title": "",
-      "answer": "",
+      "title": "The person who is most likely to be agreed with in a discussion is:",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "The one with the highest rank." },
+        { "id": 2, "option": "B", "text": "The best debater." },
+        { "id": 3, "option": "C", "text": "The one who sticks to one's opinion." }
       ]
     },
     {
       "id": 47,
-      "title": "",
-      "answer": "",
+      "title": "What meal is recommended to increase sugar levels after a long night shift?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "One in high carbohydrates." },
+        { "id": 2, "option": "B", "text": "One in low carbohydrates." },
+        { "id": 3, "option": "C", "text": "One that is high in protein." }
       ]
     },
     {
       "id": 48,
-      "title": "",
-      "answer": "",
+      "title": "Prolonged extra work will",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "increase your ability of judgement." },
+        { "id": 2, "option": "B", "text": "decrease your ability of judgement." },
+        { "id": 3, "option": "C", "text": "make you get used to it." }
       ]
     },
     {
       "id": 49,
-      "title": "",
-      "answer": "",
+      "title": "Personality is",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "difficult to change." },
+        { "id": 2, "option": "B", "text": "changed with experience and age." },
+        { "id": 3, "option": "C", "text": "stable but can be relatively easily changed with discipline." }
       ]
     },
     {
       "id": 50,
-      "title": "",
-      "answer": "",
+      "title": "In SHELL model, the element at the center is",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "hardware" },
+        { "id": 2, "option": "B", "text": "liveware" },
+        { "id": 3, "option": "C", "text": "environment" }
       ]
     },
     {
       "id": 51,
-      "title": "",
-      "answer": "",
+      "title": "In SHELL model, organization belongs to",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "environment" },
+        { "id": 2, "option": "B", "text": "software" },
+        { "id": 3, "option": "C", "text": "liveware" }
       ]
     },
     {
       "id": 52,
-      "title": "",
-      "answer": "",
+      "title": "In SHELL model, human errors mainly come from",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "hardware" },
+        { "id": 2, "option": "B", "text": "software" },
+        { "id": 3, "option": "C", "text": "interface" }
       ]
     },
     {
       "id": 53,
-      "title": "",
-      "answer": "",
+      "title": "In aviation history, the initial human related problems come from",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "human-environment interface" },
+        { "id": 2, "option": "B", "text": "human-human interface" },
+        { "id": 3, "option": "C", "text": "human-hardware interface" }
       ]
     },
     {
       "id": 54,
-      "title": "",
-      "answer": "",
+      "title": "In SHELL model, the leadership problems belong to which interface?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "liveware-hardware" },
+        { "id": 2, "option": "B", "text": "liveware-environment" },
+        { "id": 3, "option": "C", "text": "liveware-liveware" }
       ]
     },
     {
       "id": 55,
-      "title": "",
-      "answer": "",
+      "title": "In SHELL model, the space disorientation problems belong to which interface?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "liveware-hardware" },
+        { "id": 2, "option": "B", "text": "liveware-environment" },
+        { "id": 3, "option": "C", "text": "liveware-software" }
       ]
     },
     {
       "id": 56,
-      "title": "",
-      "answer": "",
+      "title": "Which method is appropriate to solve the sleeping problem?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "scheduling crew with consideration of circadian rhythms" },
+        { "id": 2, "option": "B", "text": "using drug or tranquilizers" },
+        { "id": 3, "option": "C", "text": "exercise" }
       ]
     },
     {
       "id": 57,
-      "title": "",
-      "answer": "",
+      "title": "Which of the following functions does not belong to the three stages model of human information processing？",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "perception" },
+        { "id": 2, "option": "B", "text": "decision making" },
+        { "id": 3, "option": "C", "text": "cognition" }
       ]
     },
     {
       "id": 58,
-      "title": "",
-      "answer": "",
+      "title": "Through routine training it is unrealistic to expect a change in",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "attitude" },
+        { "id": 2, "option": "B", "text": "knowledge" },
+        { "id": 3, "option": "C", "text": "personality" }
       ]
     },
     {
       "id": 59,
-      "title": "",
-      "answer": "",
+      "title": "The quality and effectiveness of communication is determined by its",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "completeness" },
+        { "id": 2, "option": "B", "text": "clearness" },
+        { "id": 3, "option": "C", "text": "intelligibility" }
       ]
     },
     {
       "id": 60,
-      "title": "",
-      "answer": "",
+      "title": "A signal that a crew must react in order to maintain the system safety is",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "a warning" },
+        { "id": 2, "option": "B", "text": "an alert" },
+        { "id": 3, "option": "C", "text": "an advisory" }
       ]
     },
     {
       "id": 61,
-      "title": "",
-      "answer": "",
+      "title": "In cheese model, the block with possible occurrence of active failures is",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "defences" },
+        { "id": 2, "option": "B", "text": "line management" },
+        { "id": 3, "option": "C", "text": "productive activities" }
       ]
     },
     {
       "id": 62,
-      "title": "",
-      "answer": "",
+      "title": "In cheese model, the block with possible occurrence of both latent and active failures is",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "defences" },
+        { "id": 2, "option": "B", "text": "line management" },
+        { "id": 3, "option": "C", "text": "decision makers" }
       ]
     },
     {
       "id": 63,
-      "title": "",
-      "answer": "",
+      "title": "Using cheese model, the problem about inadequate training of personnel is at the stage of",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "preconditions" },
+        { "id": 2, "option": "B", "text": "defences" },
+        { "id": 3, "option": "C", "text": "line management" }
       ]
     },
     {
       "id": 64,
-      "title": "",
-      "answer": "",
+      "title": "One of the most important issue in human factors is communication. Thus, with SHELL model, this core concern locates at the interface between",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "liveware-environment" },
+        { "id": 2, "option": "B", "text": "liveware-software" },
+        { "id": 3, "option": "C", "text": "liveware-hardware" }
       ]
     },
     {
       "id": 65,
-      "title": "",
-      "answer": "",
+      "title": "In most maintenance-error accidents, the faulty maintenance work was performed during night shift working hour. With SHELL model, this error locates at the interface between",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "liveware-environment" },
+        { "id": 2, "option": "B", "text": "liveware-software" },
+        { "id": 3, "option": "C", "text": "liveware-hardware" }
       ]
     },
     {
       "id": 66,
-      "title": "",
-      "answer": "",
+      "title": "The area that has benefited most from applications of automation is",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "materials management" },
+        { "id": 2, "option": "B", "text": "information management" },
+        { "id": 3, "option": "C", "text": "tools management" }
       ]
     },
     {
       "id": 67,
-      "title": "",
-      "answer": "",
+      "title": "Which of the following descriptions about improving sleeping difficulty is not correct?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "learning relaxation techniques" },
+        { "id": 2, "option": "B", "text": "optimizing the sleeping environment" },
+        { "id": 3, "option": "C", "text": "using drug" }
       ]
     },
     {
       "id": 68,
-      "title": "",
-      "answer": "",
+      "title": "What a human superior to automation is",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "decision making" },
+        { "id": 2, "option": "B", "text": "detection" },
+        { "id": 3, "option": "C", "text": "reasoning" }
       ]
     },
     {
       "id": 69,
-      "title": "",
-      "answer": "",
+      "title": "Among the human sensors, the most important one is",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "vision" },
+        { "id": 2, "option": "B", "text": "taste" },
+        { "id": 3, "option": "C", "text": "hearing" }
       ]
     },
     {
       "id": 70,
-      "title": "",
-      "answer": "",
+      "title": "Which of following items can be attributed to operators human errors？",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "improper man-machine interface" },
+        { "id": 2, "option": "B", "text": "deficient human performance" },
+        { "id": 3, "option": "C", "text": "poor hardware design" }
       ]
     },
     {
       "id": 71,
-      "title": "",
-      "answer": "",
+      "title": "Which of the following is not the primary characteristic of sound?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "intensity" },
+        { "id": 2, "option": "B", "text": "frequency" },
+        { "id": 3, "option": "C", "text": "emotion" }
       ]
     },
     {
       "id": 72,
-      "title": "",
-      "answer": "",
+      "title": "The essential base of human information processing is",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "knowledge" },
+        { "id": 2, "option": "B", "text": "experience" },
+        { "id": 3, "option": "C", "text": "memory" }
       ]
     },
     {
       "id": 73,
-      "title": "",
-      "answer": "",
+      "title": "Which of the following item is the ultimate objective of all those involved in aviation？",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "Economy profit" },
+        { "id": 2, "option": "B", "text": "Flight safety" },
+        { "id": 3, "option": "C", "text": "Fast and time saving" }
       ]
     },
     {
       "id": 74,
-      "title": "",
-      "answer": "",
+      "title": "Which of the following item is not the symptom of Jet lag？",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "Sleep disturbance" },
+        { "id": 2, "option": "B", "text": "Elimination habits" },
+        { "id": 3, "option": "C", "text": "Exciting" }
       ]
     },
     {
       "id": 75,
-      "title": "",
-      "answer": "",
+      "title": "Acute fatigue is induced by",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "long duty period or by string of particular demanding tasks perform in short term" },
+        { "id": 2, "option": "B", "text": "cumulative effects of fatigue over long term" },
+        { "id": 3, "option": "C", "text": "emotional stress" }
       ]
     },
     {
       "id": 76,
-      "title": "",
-      "answer": "",
+      "title": "What is the most common terms of disturbance of body rhythm?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "Overtime" },
+        { "id": 2, "option": "B", "text": "Jet lag" },
+        { "id": 3, "option": "C", "text": "weekend" }
       ]
     },
     {
       "id": 77,
-      "title": "",
-      "answer": "",
+      "title": "Insomnia is",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "quality of sleep is poor" },
+        { "id": 2, "option": "B", "text": "lack of sleep" },
+        { "id": 3, "option": "C", "text": "too much sleep" }
       ]
     },
     {
       "id": 78,
-      "title": "",
-      "answer": "",
+      "title": "Most of the aircraft incidents can be traced to",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "technical problems" },
+        { "id": 2, "option": "B", "text": "human error" },
+        { "id": 3, "option": "C", "text": "Management error" }
       ]
     },
     {
       "id": 79,
-      "title": "",
-      "answer": "",
+      "title": "When conducting a shift hand-over, instructions should be",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "written only" },
+        { "id": 2, "option": "B", "text": "verbal only" },
+        { "id": 3, "option": "C", "text": "both written and verbal" }
       ]
     },
     {
       "id": 80,
-      "title": "",
-      "answer": "",
+      "title": "Prolonged extra work will",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "increase efficiency" },
+        { "id": 2, "option": "B", "text": "decrease efficiency" },
+        { "id": 3, "option": "C", "text": "have no effect on efficiency" }
       ]
     },
     {
       "id": 81,
-      "title": "",
-      "answer": "",
+      "title": "Peer pressure comes from",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "Boss" },
+        { "id": 2, "option": "B", "text": "Families" },
+        { "id": 3, "option": "C", "text": "Colleagues" }
       ]
     },
     {
       "id": 82,
-      "title": "",
-      "answer": "",
+      "title": "The error or violation having an immediate adverse effect, generally associated with operation personnel is called",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "Active failures" },
+        { "id": 2, "option": "B", "text": "Latent failures" },
+        { "id": 3, "option": "C", "text": "System failures" }
       ]
     },
     {
       "id": 83,
-      "title": "",
-      "answer": "",
+      "title": "The decision or actions and its consequence of may remain dormant for a long time, but trigger by adverse system conditions is called",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "Active failures" },
+        { "id": 2, "option": "B", "text": "Latent failures" },
+        { "id": 3, "option": "C", "text": "System failures" }
       ]
     },
     {
       "id": 84,
-      "title": "",
-      "answer": "",
+      "title": "SHELL stands for",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "Software, Hardware, Environment, Liveware, Liveware" },
+        { "id": 2, "option": "B", "text": "Standard, Health ,Engineering, Life, Life" },
+        { "id": 3, "option": "C", "text": "Structure, Horizontal stabilizer, Engine, Landing Gear, Life" }
       ]
     },
     {
       "id": 85,
-      "title": "",
-      "answer": "",
+      "title": "It is convenient to separate the visual function into 3 component senses:",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "light, form, color" },
+        { "id": 2, "option": "B", "text": "light, shape, size" },
+        { "id": 3, "option": "C", "text": "length, width, area" }
       ]
     },
     {
       "id": 86,
-      "title": "",
-      "answer": "",
+      "title": "Information in the short term memory",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "can process large amount information" },
+        { "id": 2, "option": "B", "text": "must be actively rehearsed to ensure long-term retention" },
+        { "id": 3, "option": "C", "text": "can be retained for long periods" }
       ]
     },
     {
       "id": 87,
-      "title": "",
-      "answer": "",
+      "title": "Humans have information processing & sensing function around them. Such as expectation, experiences, attitude ...etc. It is called",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "Perception" },
+        { "id": 2, "option": "B", "text": "Listening" },
+        { "id": 3, "option": "C", "text": "Learning" }
       ]
     },
     {
       "id": 88,
-      "title": "",
-      "answer": "",
+      "title": "Long term memory can be enhanced with",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "Information process and handling" },
+        { "id": 2, "option": "B", "text": "Information management & arrangement" },
+        { "id": 3, "option": "C", "text": "Information retention and retrieval" }
       ]
     },
     {
       "id": 89,
-      "title": "",
-      "answer": "",
+      "title": "Maintenance and inspection personnel fail to adhere to the established method & procedures is an",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "Active failures" },
+        { "id": 2, "option": "B", "text": "Latent failures" },
+        { "id": 3, "option": "C", "text": "Supervisory failure" }
       ]
     },
     {
       "id": 90,
-      "title": "",
-      "answer": "",
+      "title": "The strategy refers to the ability of a system to allow room for an error without causing catastrophic consequences called",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "Error reduction" },
+        { "id": 2, "option": "B", "text": "Error capturing" },
+        { "id": 3, "option": "C", "text": "Error tolerance" }
       ]
     },
     {
       "id": 91,
-      "title": "",
-      "answer": "",
+      "title": "Environmental stresses are",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "caused by noise, fumes, heat and vibration" },
+        { "id": 2, "option": "B", "text": "not cumulative" },
+        { "id": 3, "option": "C", "text": "tolerated by everyone equally" }
       ]
     },
     {
       "id": 92,
-      "title": "",
-      "answer": "",
+      "title": "Chronic stress is",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "typically intense but of short duration" },
+        { "id": 2, "option": "B", "text": "a frequently reoccurring stress or of long duration" },
+        { "id": 3, "option": "C", "text": "intense stress of long duration" }
       ]
     },
     {
       "id": 93,
-      "title": "",
-      "answer": "",
+      "title": "Tiredness causes visual acuity to",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "increase" },
+        { "id": 2, "option": "B", "text": "decrease" },
+        { "id": 3, "option": "C", "text": "Visual acuity is not affected by tiredness" }
       ]
     },
     {
       "id": 94,
-      "title": "",
-      "answer": "",
+      "title": "Technical communication between two engineers can go wrong if",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "the recipient makes an assumption of the meaning of the information being transmitted" },
+        { "id": 2, "option": "B", "text": "the sender uses a sketch to augment the information transmittal" },
+        { "id": 3, "option": "C", "text": "the recipient uses body language to provide feedback to the sender" }
       ]
     },
     {
       "id": 95,
-      "title": "",
-      "answer": "",
+      "title": "Which type of human error is easiest to correct?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "variable error" },
+        { "id": 2, "option": "B", "text": "constant error" },
+        { "id": 3, "option": "C", "text": "reversible error" }
       ]
     },
     {
       "id": 96,
-      "title": "",
-      "answer": "",
+      "title": "If a worker has a cold or flu, he/she should",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "only absent himself from duty if his work contract includes sickness pay" },
+        { "id": 2, "option": "B", "text": "only absent himself from duty if there are no staff shortages at his workplace or within his work team" },
+        { "id": 3, "option": "C", "text": "absent himself from duty until fully recovered, regardless of other factors" }
       ]
     },
     {
       "id": 97,
-      "title": "",
-      "answer": "",
+      "title": "The 'working memory' is ...",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "ultra short term memory" },
+        { "id": 2, "option": "B", "text": "short term memory" },
+        { "id": 3, "option": "C", "text": "long term memory" }
       ]
     },
     {
       "id": 98,
-      "title": "",
-      "answer": "",
+      "title": "Forgetting to replace an engine cowling will be considered a",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "slip" },
+        { "id": 2, "option": "B", "text": "lapse" },
+        { "id": 3, "option": "C", "text": "mistake" }
       ]
     },
     {
       "id": 99,
-      "title": "",
-      "answer": "",
+      "title": "The symptoms of stress are",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "indications of improved work performance" },
+        { "id": 2, "option": "B", "text": "violence, sickness, absence from work, drug and alcohol abuse" },
+        { "id": 3, "option": "C", "text": "irritability, forgetfulness, sickness, absence from work, drug and alcohol abuse" }
       ]
     },
     {
       "id": 100,
-      "title": "",
-      "answer": "",
+      "title": "A good team is one where every member has",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "an opinion" },
+        { "id": 2, "option": "B", "text": "an input" },
+        { "id": 3, "option": "C", "text": "a job" }
       ]
     },
     {
       "id": 101,
-      "title": "",
-      "answer": "",
+      "title": "The first stage in information processing is",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "perception" },
+        { "id": 2, "option": "B", "text": "memorizing" },
+        { "id": 3, "option": "C", "text": "decision" }
       ]
     },
     {
       "id": 102,
-      "title": "",
-      "answer": "",
+      "title": "An effective team work is when ...",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "everyone discusses ideas and opinions" },
+        { "id": 2, "option": "B", "text": "everyone has a job to do" },
+        { "id": 3, "option": "C", "text": "everyone contributes in some way" }
       ]
     },
     {
       "id": 103,
-      "title": "",
-      "answer": "",
+      "title": "A mistake is",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "a deliberate departure from the rules" },
+        { "id": 2, "option": "B", "text": "an unintentional error" },
+        { "id": 3, "option": "C", "text": "an intentional act of sabotage" }
       ]
     },
     {
       "id": 104,
-      "title": "",
-      "answer": "",
+      "title": "The cycles of body temperature, sleep requirement and alertness are called",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "earth cycles" },
+        { "id": 2, "option": "B", "text": "ecto - meridian cycles" },
+        { "id": 3, "option": "C", "text": "circadian rhythms" }
       ]
     },
     {
       "id": 105,
-      "title": "",
-      "answer": "",
+      "title": "In theory, human error is most likely to occur",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "when the body temperature is stable" },
+        { "id": 2, "option": "B", "text": "during very hot weather" },
+        { "id": 3, "option": "C", "text": "when the body temperature is at its lowest" }
       ]
     },
     {
       "id": 106,
-      "title": "",
-      "answer": "",
+      "title": "The difference between a mistake and a violation is",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "a mistake is less serious than a violation" },
+        { "id": 2, "option": "B", "text": "a violation is not deliberate" },
+        { "id": 3, "option": "C", "text": "a mistake is unintentional and a violation is deliberate" }
       ]
     },
     {
       "id": 107,
-      "title": "",
-      "answer": "",
+      "title": "The hub of the SHELL model of human factors is",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "liveware" },
+        { "id": 2, "option": "B", "text": "hardware" },
+        { "id": 3, "option": "C", "text": "environment" }
       ]
     },
     {
       "id": 108,
-      "title": "",
-      "answer": "",
+      "title": "Group polarisation can result in",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "a group making a more cautious or extreme decision" },
+        { "id": 2, "option": "B", "text": "a group making a better decision than the individual" },
+        { "id": 3, "option": "C", "text": "members of the group not talking to one another" }
       ]
     },
     {
       "id": 109,
-      "title": "",
-      "answer": "",
+      "title": "Who is responsible for maintaining your physical or mental condition?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "colleague" },
+        { "id": 2, "option": "B", "text": "CAA" },
+        { "id": 3, "option": "C", "text": "you" }
       ]
     },
     {
       "id": 110,
-      "title": "",
-      "answer": "",
+      "title": "What are the safety implications of negative peer pressure? (1)Shared work loads increase risk. (2)Hidden pressure increases risk. (3)Lower standards increase risk.",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "(1) and (2) only" },
+        { "id": 2, "option": "B", "text": "(2) and (3) only" },
+        { "id": 3, "option": "C", "text": "(1) and (3) only" }
       ]
     },
     {
       "id": 111,
-      "title": "",
-      "answer": "",
+      "title": "What are the safety implications of positive peer pressure? (1)Hidden pressure decreases risk. (2)More adaptability decreases risk. (3)Higher standards decrease risk.",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "(1) and (2) only" },
+        { "id": 2, "option": "B", "text": "(2) and (3) only" },
+        { "id": 3, "option": "C", "text": "(1) and (3) only" }
       ]
     },
     {
       "id": 112,
-      "title": "",
-      "answer": "",
+      "title": "What is part of organizational culture? (1)procedures (2)selection and training criteria (3)quality assurance system",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "(1) and (2) only" },
+        { "id": 2, "option": "B", "text": "(2) and (3) only" },
+        { "id": 3, "option": "C", "text": "(1), (2) and (3)" }
       ]
     },
     {
       "id": 113,
-      "title": "",
-      "answer": "",
+      "title": "What is NOT a key component in an organization with a strong safety culture?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "attitudes" },
+        { "id": 2, "option": "B", "text": "norms" },
+        { "id": 3, "option": "C", "text": "secrets" }
       ]
     },
     {
       "id": 114,
-      "title": "",
-      "answer": "",
+      "title": "What is NOT a key component in an organization with a strong safety culture?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "sharing of information" },
+        { "id": 2, "option": "B", "text": "an atmosphere of trust" },
+        { "id": 3, "option": "C", "text": "a hidden agenda" }
       ]
     },
     {
       "id": 115,
-      "title": "",
-      "answer": "",
+      "title": "How do 'followers' relate to the concept of a team?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "delegates responsibilities" },
+        { "id": 2, "option": "B", "text": "monitor tasks" },
+        { "id": 3, "option": "C", "text": "offer support" }
       ]
     },
     {
       "id": 116,
-      "title": "",
-      "answer": "",
+      "title": "How does mutual support relate to a properly functioning team?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "Everyone improves their abilities." },
+        { "id": 2, "option": "B", "text": "Everyone finds team member faults." },
+        { "id": 3, "option": "C", "text": "Everyone works on a weak point." }
       ]
     },
     {
       "id": 117,
-      "title": "",
-      "answer": "",
+      "title": "What makes a leader effective?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "An effective leader mediates between two sides." },
+        { "id": 2, "option": "B", "text": "An effective leader motivates others to achieve the goal." },
+        { "id": 3, "option": "C", "text": "An effective leader uses authority to accomplish tasks." }
       ]
     },
     {
       "id": 118,
-      "title": "",
-      "answer": "",
+      "title": "What is the most needed quality of an effective leader?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "can use authority to get work done" },
+        { "id": 2, "option": "B", "text": "can work under pressure" },
+        { "id": 3, "option": "C", "text": "understands how people feel and think" }
       ]
     },
     {
       "id": 119,
-      "title": "",
-      "answer": "",
+      "title": "What is the advantage of natural light in the working environment?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "It is best for recognizing colors." },
+        { "id": 2, "option": "B", "text": "It gives the lightest shadow." },
+        { "id": 3, "option": "C", "text": "It is easy to use inside the airplane." }
       ]
     },
     {
       "id": 120,
-      "title": "",
-      "answer": "",
+      "title": "What is the importance of written guidance material when preparing a task?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "It eliminates the need to communicate between colleagues." },
+        { "id": 2, "option": "B", "text": "They eliminate doubts on the work to be performed." },
+        { "id": 3, "option": "C", "text": "They minimize exhaustion and stress." }
       ]
     },
     {
       "id": 121,
-      "title": "",
-      "answer": "",
+      "title": "What is a danger associated with repetitive tasks?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "Work procedures are consciously followed." },
+        { "id": 2, "option": "B", "text": "Work procedures are unconsciously modified." },
+        { "id": 3, "option": "C", "text": "Assumptions are replaced with facts." }
       ]
     },
     {
       "id": 122,
-      "title": "",
-      "answer": "",
+      "title": "What is the original purpose of human factors research?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "man machine fit" },
+        { "id": 2, "option": "B", "text": "reduction of stress" },
+        { "id": 3, "option": "C", "text": "reduction of human error" }
       ]
     },
     {
       "id": 123,
-      "title": "",
-      "answer": "",
+      "title": "How does the SHELL model work as a framework for human factors?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "It shows how individual topics are separated from each other." },
+        { "id": 2, "option": "B", "text": "It shows how individual topics affect each other." },
+        { "id": 3, "option": "C", "text": "It shows the areas for human error." }
       ]
     },
     {
       "id": 124,
-      "title": "",
-      "answer": "",
+      "title": "What does it mean to break the chain of errors?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "to cause an accident" },
+        { "id": 2, "option": "B", "text": "to stop an accident" },
+        { "id": 3, "option": "C", "text": "to make better work procedures" }
       ]
     },
     {
       "id": 125,
-      "title": "",
-      "answer": "",
+      "title": "What is Murphy's law?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "We make mistakes because we are human." },
+        { "id": 2, "option": "B", "text": "People will cheat to make life easier." },
+        { "id": 3, "option": "C", "text": "Things that can go wrong will go wrong." }
       ]
     },
     {
       "id": 126,
-      "title": "",
-      "answer": "",
+      "title": "What is a cause of errors due to complacency in the work environment?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "Maslow's hierarchy of needs" },
+        { "id": 2, "option": "B", "text": "The Shell Model" },
+        { "id": 3, "option": "C", "text": "Murphy's law" }
       ]
     },
     {
       "id": 127,
-      "title": "",
-      "answer": "",
+      "title": "What is the correct order for the active listening process?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "understand, interpret and evaluate" },
+        { "id": 2, "option": "B", "text": "interpret, understand and evaluate" },
+        { "id": 3, "option": "C", "text": "interpret, evaluate and understand" }
       ]
     },
     {
       "id": 128,
-      "title": "",
-      "answer": "",
+      "title": "What will positive stress cause?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "you hide your feelings" },
+        { "id": 2, "option": "B", "text": "bad quality work" },
+        { "id": 3, "option": "C", "text": "good quality work" }
       ]
     },
     {
       "id": 129,
-      "title": "",
-      "answer": "",
+      "title": "What is true for stress?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "Stress is positive if turned into action." },
+        { "id": 2, "option": "B", "text": "Stress is negative if put into action." },
+        { "id": 3, "option": "C", "text": "Stress is positive if you hide your feelings." }
       ]
     },
     {
       "id": 130,
-      "title": "",
-      "answer": "",
+      "title": "You have been given a job to do because you have done it more times than anyone else. You are most likely to make an error due to ...",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "overstimulation" },
+        { "id": 2, "option": "B", "text": "under stimulation" },
+        { "id": 3, "option": "C", "text": "increased stress" }
       ]
     },
     {
       "id": 131,
-      "title": "",
-      "answer": "",
+      "title": "You have been given several new jobs to do because you are a good worker. You are most likely to make an error due to ...",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "overstimulation" },
+        { "id": 2, "option": "B", "text": "under stimulation" },
+        { "id": 3, "option": "C", "text": "environmental factors" }
       ]
     },
     {
       "id": 132,
-      "title": "",
-      "answer": "",
+      "title": "What are 'circadian rhythms'?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "a way to live easy" },
+        { "id": 2, "option": "B", "text": "a type of brain wave" },
+        { "id": 3, "option": "C", "text": "the body clock" }
       ]
     },
     {
       "id": 133,
-      "title": "",
-      "answer": "",
+      "title": "What is the symptom of chronic fatigue?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "lots of energy and feeling good" },
+        { "id": 2, "option": "B", "text": "a quiet mind and boredom" },
+        { "id": 3, "option": "C", "text": "little energy and NOT feeling good" }
       ]
     },
     {
       "id": 134,
-      "title": "",
-      "answer": "",
+      "title": "What is true for the recognizing and reporting of hazards in the work place?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "The employer must recognize potential hazards and an employee must report them." },
+        { "id": 2, "option": "B", "text": "The employer must recognize hazards and report them." },
+        { "id": 3, "option": "C", "text": "The employee must recognize potential hazards and an employer must report them." }
       ]
     },
     {
       "id": 135,
-      "title": "",
-      "answer": "",
+      "title": "What type of task causes complacency?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "a new task" },
+        { "id": 2, "option": "B", "text": "a difficult task" },
+        { "id": 3, "option": "C", "text": "a repeated task" }
       ]
     },
     {
       "id": 136,
-      "title": "",
-      "answer": "",
+      "title": "What is a danger associated with repetitive tasks?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "Work procedures are consciously modified." },
+        { "id": 2, "option": "B", "text": "Work procedures are consciously followed." },
+        { "id": 3, "option": "C", "text": "Assumptions are replaced with facts." }
       ]
     },
     {
       "id": 137,
-      "title": "",
-      "answer": "",
+      "title": "How does breaking the 'error chain' prevent an accident?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "It stops the root causes." },
+        { "id": 2, "option": "B", "text": "It stops any following causes." },
+        { "id": 3, "option": "C", "text": "It stops any preceding causes." }
       ]
     },
     {
       "id": 138,
-      "title": "",
-      "answer": "",
+      "title": "What is Murphy's law?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "A rule on the limitations of the five senses." },
+        { "id": 2, "option": "B", "text": "A rule on physical limitations." },
+        { "id": 3, "option": "C", "text": "A rule on possibility and probability." }
       ]
     },
     {
       "id": 139,
-      "title": "",
-      "answer": "",
+      "title": "What is the critical element of an effective two-way communication?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "body language" },
+        { "id": 2, "option": "B", "text": "written words" },
+        { "id": 3, "option": "C", "text": "feedback" }
       ]
     },
     {
       "id": 140,
-      "title": "",
-      "answer": "",
+      "title": "Information in the long term memory",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "is easily transferred to the short term memory." },
+        { "id": 2, "option": "B", "text": "is easily lost." },
+        { "id": 3, "option": "C", "text": "is hardly lost." }
       ]
     },
     {
       "id": 141,
-      "title": "",
-      "answer": "",
+      "title": "Attention Getters are designed to",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "to gain the operators attention whilst allowing them to continue with the task in hand." },
+        { "id": 2, "option": "B", "text": "to make the operator focus his/her attention fully on the task in hand." },
+        { "id": 3, "option": "C", "text": "to get the operators full attention." }
       ]
     },
     {
       "id": 142,
-      "title": "",
-      "answer": "",
+      "title": "Motor programmes",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "are behaviour subroutines" },
+        { "id": 2, "option": "B", "text": "require conscious thought to engage" },
+        { "id": 3, "option": "C", "text": "are stored as working rules in long term memory" }
       ]
     },
     {
       "id": 143,
-      "title": "",
-      "answer": "",
+      "title": "A mistake is",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "a deliberate departure from the rules" },
+        { "id": 2, "option": "B", "text": "an intentional act of sabotage" },
+        { "id": 3, "option": "C", "text": "an unintentional error" }
       ]
     },
     {
       "id": 144,
-      "title": "",
-      "answer": "",
+      "title": "The difference between a mistake and a violation is",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "a mistake is less serious than a violation" },
+        { "id": 2, "option": "B", "text": "a violation is not deliberate" },
+        { "id": 3, "option": "C", "text": "a mistake is unintentional and a violation is deliberate" }
       ]
     },
     {
       "id": 145,
-      "title": "",
-      "answer": "",
+      "title": "The hub of the SHELL model of human factors is",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "Hardware" },
+        { "id": 2, "option": "B", "text": "Software" },
+        { "id": 3, "option": "C", "text": "Liveware" }
       ]
     },
     {
       "id": 146,
-      "title": "",
-      "answer": "",
+      "title": "What is a latent failure？",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "A failure which could not have been predicted." },
+        { "id": 2, "option": "B", "text": "Receiving bad instruction from a manager who is out of touch with maintenance." },
+        { "id": 3, "option": "C", "text": "A failure which could have been predicted." }
       ]
     },
     {
       "id": 147,
-      "title": "",
-      "answer": "",
+      "title": "What happens when you break the 'chain of error'？",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "Accident happens" },
+        { "id": 2, "option": "B", "text": "Pilot submits report within 72 hours" },
+        { "id": 3, "option": "C", "text": "Accident does not happen" }
       ]
     },
     {
       "id": 148,
-      "title": "",
-      "answer": "",
+      "title": "Risk assessment and management is",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "reduction of risks to a tolerable standard and monitoring the situation." },
+        { "id": 2, "option": "B", "text": "the investigation of risks and totally removing them and the monitoring of new work practices." },
+        { "id": 3, "option": "C", "text": "choosing a cheaper supplier or manufacturer for parts." }
       ]
     },
     {
       "id": 149,
-      "title": "",
-      "answer": "",
+      "title": "When carrying out a risk assessment",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "a hard hat should be worn" },
+        { "id": 2, "option": "B", "text": "it is necessary to identify where equipment/procedures might fail" },
+        { "id": 3, "option": "C", "text": "supervisors take the full responsibility for it" }
       ]
     },
     {
       "id": 150,
-      "title": "",
-      "answer": "",
+      "title": "Which factor does not include in the field of human factors?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "Hardware design" },
+        { "id": 2, "option": "B", "text": "Organizational culture" },
+        { "id": 3, "option": "C", "text": "Aerodynamics" }
       ]
     },
     {
       "id": 151,
-      "title": "",
-      "answer": "",
+      "title": "What is the correct priority for human factors training (1)legal requirements (2)minimize errors (3)safety",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "(1), (2), (3)" },
+        { "id": 2, "option": "B", "text": "(2), (3), (1)" },
+        { "id": 3, "option": "C", "text": "(3), (2), (1)" }
       ]
     },
     {
       "id": 152,
-      "title": "",
-      "answer": "",
+      "title": "Situation awareness is divided into three stages. What is the first stage of situation awareness?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "perception" },
+        { "id": 2, "option": "B", "text": "understanding" },
+        { "id": 3, "option": "C", "text": "prediction" }
       ]
     },
     {
       "id": 153,
-      "title": "",
-      "answer": "",
+      "title": "Situation awareness is divided into three stages. What is NOT a stage of situation awareness?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "perception" },
+        { "id": 2, "option": "B", "text": "feedback" },
+        { "id": 3, "option": "C", "text": "prediction" }
       ]
     },
     {
       "id": 154,
-      "title": "",
-      "answer": "",
+      "title": "Important information reaches the brain but an error still occurs because data was missing. What replaces missing data during information processing?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "feedback" },
+        { "id": 2, "option": "B", "text": "motor neuron programming" },
+        { "id": 3, "option": "C", "text": "knowledge and experience" }
       ]
     },
     {
       "id": 155,
-      "title": "",
-      "answer": "",
+      "title": "What is group responsibility?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "the sum of individual responsibilities" },
+        { "id": 2, "option": "B", "text": "the results of combined responsibilities" },
+        { "id": 3, "option": "C", "text": "the general goal of the group" }
       ]
     },
     {
       "id": 156,
-      "title": "",
-      "answer": "",
+      "title": "Group responsibility means Several people carry the burden of responsibility. This factor ...",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "improves traceability" },
+        { "id": 2, "option": "B", "text": "depends on willingness" },
+        { "id": 3, "option": "C", "text": "is an advantage and disadvantage" }
       ]
     },
     {
       "id": 157,
-      "title": "",
-      "answer": "",
+      "title": "Which of the following is characteristic of a motivated person?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "indifference" },
+        { "id": 2, "option": "B", "text": "accepts change" },
+        { "id": 3, "option": "C", "text": "exaggerates difficulties" }
       ]
     },
     {
       "id": 158,
-      "title": "",
-      "answer": "",
+      "title": "Which of the following is characteristic of a de-motivated person?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "accepts change" },
+        { "id": 2, "option": "B", "text": "has set goals" },
+        { "id": 3, "option": "C", "text": "exaggerates difficulties" }
       ]
     },
     {
       "id": 159,
-      "title": "",
-      "answer": "",
+      "title": "Frequent absence, exaggeration of difficulties and indifference may be mistaken for demotivation. However, these signs can also be most likely ...",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "assertiveness" },
+        { "id": 2, "option": "B", "text": "lack of awareness" },
+        { "id": 3, "option": "C", "text": "stress" }
       ]
     },
     {
       "id": 160,
-      "title": "",
-      "answer": "",
+      "title": "Which of the following affect your susceptibility to peer pressure? (1)cultural environment (2)self esteem (3)relationships",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "(1) and (2) only" },
+        { "id": 2, "option": "B", "text": "(2) and (3) only" },
+        { "id": 3, "option": "C", "text": "(1), (2) and (3)" }
       ]
     },
     {
       "id": 161,
-      "title": "",
-      "answer": "",
+      "title": "Peer pressure ...",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "has NO affect on your working ability" },
+        { "id": 2, "option": "B", "text": "is always negative" },
+        { "id": 3, "option": "C", "text": "can be positive or negative" }
       ]
     },
     {
       "id": 162,
-      "title": "",
-      "answer": "",
+      "title": "If you are subject to peer pressure, you are expected to ...",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "take responsibility" },
+        { "id": 2, "option": "B", "text": "be motivated" },
+        { "id": 3, "option": "C", "text": "conform" }
       ]
     },
     {
       "id": 163,
-      "title": "",
-      "answer": "",
+      "title": "In human factors training, culture issues refers to ...",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "national culture" },
+        { "id": 2, "option": "B", "text": "company culture" },
+        { "id": 3, "option": "C", "text": "international culture" }
       ]
     },
     {
       "id": 164,
-      "title": "",
-      "answer": "",
+      "title": "According to ICAO, what is the sum of attitudes, norms, roles and social and technical practices that aim to minimize dangerous and risky conditions?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "technical culture" },
+        { "id": 2, "option": "B", "text": "business culture" },
+        { "id": 3, "option": "C", "text": "safety culture" }
       ]
     },
     {
       "id": 165,
-      "title": "",
-      "answer": "",
+      "title": "Who is in the best position to influence all aspects of company culture?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "the head of the organization" },
+        { "id": 2, "option": "B", "text": "the workers on the shop floor" },
+        { "id": 3, "option": "C", "text": "the national aviation authority" }
       ]
     },
     {
       "id": 166,
-      "title": "",
-      "answer": "",
+      "title": "Which of the following are factors of mutual support in team work? (1)recognize strengths and weaknesses (2)evaluate employees by their contribution (3)employ workers according to abilities",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "(1) and (2) only" },
+        { "id": 2, "option": "B", "text": "(1) and (3) only" },
+        { "id": 3, "option": "C", "text": "(2) and (3) only" }
       ]
     },
     {
       "id": 167,
-      "title": "",
-      "answer": "",
+      "title": "What is the link between management and teams?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "CAA inspectors" },
+        { "id": 2, "option": "B", "text": "the head of the company" },
+        { "id": 3, "option": "C", "text": "work group leaders" }
       ]
     },
     {
       "id": 168,
-      "title": "",
-      "answer": "",
+      "title": "Both management and workers should understand safety as ...",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "your responsibility" },
+        { "id": 2, "option": "B", "text": "my responsibility" },
+        { "id": 3, "option": "C", "text": "our responsibility" }
       ]
     },
     {
       "id": 169,
-      "title": "",
-      "answer": "",
+      "title": "Where does leadership fit into the SHELL working environment model?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "S" },
+        { "id": 2, "option": "B", "text": "H" },
+        { "id": 3, "option": "C", "text": "L" }
       ]
     },
     {
       "id": 170,
-      "title": "",
-      "answer": "",
+      "title": "An information system for collecting relevant incidents as well as audit reports analyzing them and distributing the conclusions to everybody is a part of ...",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "safety culture" },
+        { "id": 2, "option": "B", "text": "business culture" },
+        { "id": 3, "option": "C", "text": "technical culture" }
       ]
     },
     {
       "id": 171,
-      "title": "",
-      "answer": "",
+      "title": "How do stressors and stress relate to you.",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "The stressor is the incident and stress is your reaction." },
+        { "id": 2, "option": "B", "text": "The stressor is your reaction and stress is the incident." },
+        { "id": 3, "option": "C", "text": "Both the stressor and stress are incidents." }
       ]
     },
     {
       "id": 172,
-      "title": "",
-      "answer": "",
+      "title": "The stressors that lead to stress are ...",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "an internal factor only" },
+        { "id": 2, "option": "B", "text": "an external factor only" },
+        { "id": 3, "option": "C", "text": "both an internal and external factor" }
       ]
     },
     {
       "id": 173,
-      "title": "",
-      "answer": "",
+      "title": "Noise, environmental poisons and overstimulation are ...",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "introverted stressors" },
+        { "id": 2, "option": "B", "text": "external stressors" },
+        { "id": 3, "option": "C", "text": "extroverted stressors" }
       ]
     },
     {
       "id": 174,
-      "title": "",
-      "answer": "",
+      "title": "Which of the following are recommended ways to counter stress? (1)reduce the stressors (2)transform the stress (3)wait out the stress",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "(1) and (2) only" },
+        { "id": 2, "option": "B", "text": "(1) and (3) only" },
+        { "id": 3, "option": "C", "text": "(2) and (3) only" }
       ]
     },
     {
       "id": 175,
-      "title": "",
-      "answer": "",
+      "title": "Time pressure associated with a deadline arises when ...",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "time controls you" },
+        { "id": 2, "option": "B", "text": "you concentrate on completing your task" },
+        { "id": 3, "option": "C", "text": "you have too much work and not enough time" }
       ]
     },
     {
       "id": 176,
-      "title": "",
-      "answer": "",
+      "title": "Which of the following are ways to reduce the time pressure you experience from deadlines? (1)ask for more time (2)ask for more help (3)ask for more training after the deadline",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "(1) and (2) only" },
+        { "id": 2, "option": "B", "text": "(1) and (3) only" },
+        { "id": 3, "option": "C", "text": "(2) and (3) only" }
       ]
     },
     {
-      "id": 171,
-      "title": "",
-      "answer": "",
+      "id": 177,
+      "title": "Whenever there is a deadline some time pressure is inevitable. Good team work reduces this pressure by ... (1)increasing accountability (2)providing mutual support (3)assigning work by abilities",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "(1) and (2) only" },
+        { "id": 2, "option": "B", "text": "(1) and (3) only" },
+        { "id": 3, "option": "C", "text": "(2) and (3) only" }
       ]
     },
     {
       "id": 178,
-      "title": "",
-      "answer": "",
+      "title": "Whenever there is a deadline some time pressure is inevitable. To reduce this pressure communication should be .... (1)ambiguous (2)concise (3)clear",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "(1) and (2) only" },
+        { "id": 2, "option": "B", "text": "(1) and (3) only" },
+        { "id": 3, "option": "C", "text": "(2) and (3) only" }
       ]
     },
     {
       "id": 179,
-      "title": "",
-      "answer": "",
+      "title": "Boredom can result from ...",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "underload" },
+        { "id": 2, "option": "B", "text": "a challenging task" },
+        { "id": 3, "option": "C", "text": "time pressure" }
       ]
     },
     {
       "id": 180,
-      "title": "",
-      "answer": "",
+      "title": "Over stimulation can occur if ...",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "you have additional time to do the work." },
+        { "id": 2, "option": "B", "text": "the workload is too much." },
+        { "id": 3, "option": "C", "text": "you have additional help to do the work." }
       ]
     },
     {
       "id": 181,
-      "title": "",
-      "answer": "",
+      "title": "In terms of arousal, peak work performance is achieved when ...",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "stimulation is at the maximum" },
+        { "id": 2, "option": "B", "text": "stimulation is a little below maximum" },
+        { "id": 3, "option": "C", "text": "stimulation is in the middle ground" }
       ]
     },
     {
       "id": 182,
-      "title": "",
-      "answer": "",
+      "title": "Which of the following responses are caused by underload? (1)deterioration of attention (2)physical exhaustion (3)declining motivation",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "(1) and (2) only" },
+        { "id": 2, "option": "B", "text": "(1) and (3) only" },
+        { "id": 3, "option": "C", "text": "(2) and (3) only" }
       ]
     },
     {
       "id": 183,
-      "title": "",
-      "answer": "",
+      "title": "Your work performance, the quality of your judgment, your reaction time, your ability to solve problems, your memory and your mood are all less than normal. What is the most likely cause?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "lack of sleep" },
+        { "id": 2, "option": "B", "text": "lack of awareness" },
+        { "id": 3, "option": "C", "text": "lack of assertion" }
       ]
     },
     {
       "id": 184,
-      "title": "",
-      "answer": "",
+      "title": "Having a regular sleep routine is a way to reduce ...",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "fatigue" },
+        { "id": 2, "option": "B", "text": "exhaustion" },
+        { "id": 3, "option": "C", "text": "productivity" }
       ]
     },
     {
       "id": 185,
-      "title": "",
-      "answer": "",
+      "title": "What is true about acute fatigue and chronic fatigue?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "Both acute fatigue and chronic fatigue are long term." },
+        { "id": 2, "option": "B", "text": "Acute fatigue is long term and chronic fatigue is short term." },
+        { "id": 3, "option": "C", "text": "Acute fatigue is short term and chronic fatigue is long term." }
       ]
     },
     {
       "id": 186,
-      "title": "",
-      "answer": "",
+      "title": "Ignoring break times to meet a schedule demand can ... (1)decrease efficiency (2)lead to injury (3)cause physical exhaustion",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "(1) and (2) only" },
+        { "id": 2, "option": "B", "text": "(1) and (3) only" },
+        { "id": 3, "option": "C", "text": "(1), (2) and (3)" }
       ]
     },
     {
       "id": 187,
-      "title": "",
-      "answer": "",
+      "title": "What is NOT a result of working your motor skills to the limit? A decrease in ...",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "fatigue" },
+        { "id": 2, "option": "B", "text": "faculty of perception" },
+        { "id": 3, "option": "C", "text": "work standards" }
       ]
     },
     {
       "id": 188,
-      "title": "",
-      "answer": "",
+      "title": "What will a repetitive task most likely cause?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "complacency" },
+        { "id": 2, "option": "B", "text": "awareness" },
+        { "id": 3, "option": "C", "text": "peer pressure" }
       ]
     },
     {
       "id": 189,
-      "title": "",
-      "answer": "",
+      "title": "What does the chain of errors describe?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "the combining of factors to make an accident" },
+        { "id": 2, "option": "B", "text": "how hidden errors are the base of visible errors" },
+        { "id": 3, "option": "C", "text": "what motivates you to go to work" }
       ]
     },
     {
       "id": 190,
-      "title": "",
-      "answer": "",
+      "title": "What does the error iceberg describe?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "the combining of factors to make an accident" },
+        { "id": 2, "option": "B", "text": "how hidden errors are the base of visible errors" },
+        { "id": 3, "option": "C", "text": "what motivates you to go to work" }
       ]
     },
     {
       "id": 191,
-      "title": "",
-      "answer": "",
+      "title": "The holes and the solid pieces in the Swiss cheese model represent",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "... unreported errors ... visible errors" },
+        { "id": 2, "option": "B", "text": "... unseen errors ... defense" },
+        { "id": 3, "option": "C", "text": "... the need for self fulfillment ... physiological needs" }
       ]
     },
     {
       "id": 192,
-      "title": "",
-      "answer": "",
+      "title": "What is the effect of an unbroken chain of errors?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "safety culture" },
+        { "id": 2, "option": "B", "text": "improved maintenance" },
+        { "id": 3, "option": "C", "text": "an accident" }
       ]
     },
     {
       "id": 193,
-      "title": "",
-      "answer": "",
+      "title": "In the Swiss cheese model the danger occurs when the safety arrow ...",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "passes through the holes in the cheese" },
+        { "id": 2, "option": "B", "text": "is stopped by the solid pieces of cheese" },
+        { "id": 3, "option": "C", "text": "is broken after passing through the cheese" }
       ]
     },
     {
       "id": 194,
-      "title": "",
-      "answer": "",
+      "title": "In the chain of errors model the most dangerous situation occurs when ...",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "incidents are NOT reported" },
+        { "id": 2, "option": "B", "text": "the chain is NOT broken" },
+        { "id": 3, "option": "C", "text": "the chain is broken" }
       ]
     },
     {
       "id": 195,
-      "title": "",
-      "answer": "",
+      "title": "In the ice-berg model the part you see is ...",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "the safest part" },
+        { "id": 2, "option": "B", "text": "the most dangerous part" },
+        { "id": 3, "option": "C", "text": "as dangerous as the hidden part" }
       ]
     },
     {
       "id": 196,
-      "title": "",
-      "answer": "",
+      "title": "What is a latent error?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "a type of safety check" },
+        { "id": 2, "option": "B", "text": "a type of error report" },
+        { "id": 3, "option": "C", "text": "a tight work schedule" }
       ]
     },
     {
       "id": 197,
-      "title": "",
-      "answer": "",
+      "title": "What is the correct term for an error that does not cause an accident but still causes a problem?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "occurrence" },
+        { "id": 2, "option": "B", "text": "incident" },
+        { "id": 3, "option": "C", "text": "event" }
       ]
     },
     {
       "id": 198,
-      "title": "",
-      "answer": "",
+      "title": "What is a positive point of view of a human error?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "bad elements are removed" },
+        { "id": 2, "option": "B", "text": "we can learn from mistakes" },
+        { "id": 3, "option": "C", "text": "its good to determine responsibility" }
       ]
     },
     {
       "id": 199,
-      "title": "",
-      "answer": "",
+      "title": "What are the two components of error management?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "error containment and error reduction" },
+        { "id": 2, "option": "B", "text": "error elimination and error responsibility" },
+        { "id": 3, "option": "C", "text": "error possibility and error probability" }
       ]
     },
     {
       "id": 200,
-      "title": "",
-      "answer": "",
+      "title": "What is the basic principle behind error management?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "Errors are random events" },
+        { "id": 2, "option": "B", "text": "Errors are unavoidable" },
+        { "id": 3, "option": "C", "text": "Errors can be eliminated" }
       ]
     },
     {
       "id": 201,
-      "title": "",
-      "answer": "",
+      "title": "Which of the following is NOT a way to minimize error?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "decrease error tolerance" },
+        { "id": 2, "option": "B", "text": "reduce error possibility" },
+        { "id": 3, "option": "C", "text": "reduce the danger of errors for a particular task" }
       ]
     },
     {
       "id": 202,
-      "title": "",
-      "answer": "",
+      "title": "Which of the following is a way to minimize error?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "make latent conditions less visible" },
+        { "id": 2, "option": "B", "text": "decrease error tolerance" },
+        { "id": 3, "option": "C", "text": "follow procedures" }
       ]
     },
     {
       "id": 203,
-      "title": "",
-      "answer": "",
+      "title": "Who is mostly responsible to ensure work is done in accordance with any safety instruction and/or training received?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "the individual worker" },
+        { "id": 2, "option": "B", "text": "the supervisor" },
+        { "id": 3, "option": "C", "text": "the CAA inspector" }
       ]
     },
     {
       "id": 204,
-      "title": "",
-      "answer": "",
+      "title": "What has the greatest effect on the safety and health attitude of an individual?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "the team structure" },
+        { "id": 2, "option": "B", "text": "the quality control efficiency" },
+        { "id": 3, "option": "C", "text": "the organizational culture" }
       ]
     },
     {
       "id": 205,
-      "title": "",
-      "answer": "",
+      "title": "What is the purpose of handling health and safety in the work force?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "to maximize profit" },
+        { "id": 2, "option": "B", "text": "to minimize risk" },
+        { "id": 3, "option": "C", "text": "to utilize resources" }
       ]
     }
   ]
