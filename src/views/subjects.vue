@@ -8,6 +8,7 @@
       <div :key="subject.id" class="subject" @click="goTest(subject.testTopic, subject.finished)">
         <div class="subject-info">
           <span>{{ subject.title }}</span>
+          <span class="finished">{{ subject.finished ? '' : '(尚未建置完成)' }}</span>
           <span>Questions: {{ subject.questionCounts }}</span>
         </div>
         <img src="../assets/arrow-right.png" alt="arrow-right" class="arrow">
@@ -72,6 +73,7 @@ onMounted(() => {
 }
 
 .subjects {
+  position: relative;
   width: 100%;
 }
 
@@ -97,5 +99,13 @@ onMounted(() => {
 .arrow {
   width: 16px;
   height: 16px;
+}
+
+.finished {
+  position: absolute;
+  bottom: 0;
+  right: 50px;
+  font-size: 12px;
+  color: #d71e1e;
 }
 </style>

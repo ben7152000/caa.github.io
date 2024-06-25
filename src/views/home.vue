@@ -15,6 +15,9 @@
         <div :class="['tab', { active: activeTopic === 'test' }]" @click="changeTopic('test')">Test</div>
       </div>
       <button class="btn-start" @click="goStart">Start</button>
+      <div class="copyright">
+        Copyright © 2024 Y.C.C.
+      </div>
     </div>
   </div>
 </template>
@@ -116,5 +119,16 @@ onMounted(() => {
   border: none;
   outline: none;
   color: #ffffff;
+}
+
+.copyright {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  padding: 4px;
+  background: #000;
+  color: #fff;
+  font-size: 12px;
 }
 </style>
