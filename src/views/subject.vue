@@ -48,10 +48,24 @@
 <script setup>
 import {ref, computed, onMounted} from "vue";
 import { useRouter, useRoute } from "vue-router";
-import chineseLawData from '../data/chinese/law/law.json'
-import chineseWeightData from '../data/chinese/weight/weight.json'
-import englishLawData from '../data/english/law/law.json'
-import englishWeightData from '../data/english/weight/weight.json'
+import chineseLawData from '../data/chinese/law.json'
+import chineseWeightData from '../data/chinese/weight.json'
+import chineseCommunication from '../data/chinese/communication.json'
+import chineseHuman from '../data/chinese/human.json'
+import chineseMaintenance from '../data/chinese/maintenance.json'
+import chineseManagement from '../data/chinese/management.json'
+import chineseNavigation from '../data/chinese/navigation.json'
+import chinesePrinciples from '../data/chinese/principles.json'
+import chineseWeather from '../data/chinese/weather.json'
+import englishLawData from '../data/english/law.json'
+import englishWeightData from '../data/english/weight.json'
+import englishCommunication from '../data/english/communication.json'
+import englishHuman from '../data/english/human.json'
+import englishMaintenance from '../data/english/maintenance.json'
+import englishManagement from '../data/english/management.json'
+import englishNavigation from '../data/english/navigation.json'
+import englishPrinciples from '../data/english/principles.json'
+import englishWeather from '../data/english/weather.json'
 
 const router = useRouter()
 const route = useRoute()
@@ -81,11 +95,25 @@ const getRandomNumbers = (obj, num) => {
 const questionData = {
   chinese: {
     law: topic.value === 'study' ? chineseLawData : getRandomNumbers(chineseLawData, testCount.value),
-    weight: topic.value === 'study' ? chineseWeightData : getRandomNumbers(chineseWeightData, testCount.value)
+    weight: topic.value === 'study' ? chineseWeightData : getRandomNumbers(chineseWeightData, testCount.value),
+    communication: topic.value === 'study' ? chineseCommunication : getRandomNumbers(chineseCommunication, testCount.value),
+    navigation: topic.value === 'study' ? chineseNavigation : getRandomNumbers(chineseNavigation, testCount.value),
+    human: topic.value === 'study' ? chineseHuman : getRandomNumbers(chineseHuman, testCount.value),
+    weather: topic.value === 'study' ? chineseWeather : getRandomNumbers(chineseWeather, testCount.value),
+    maintenance: topic.value === 'study' ? chineseMaintenance : getRandomNumbers(chineseMaintenance, testCount.value),
+    management: topic.value === 'study' ? chineseManagement : getRandomNumbers(chineseManagement, testCount.value),
+    principles: topic.value === 'study' ? chinesePrinciples : getRandomNumbers(chinesePrinciples, testCount.value),
   },
   english: {
     law: topic.value === 'study' ? englishLawData : getRandomNumbers(englishLawData, testCount.value),
-    weight: topic.value === 'study' ? englishWeightData : getRandomNumbers(englishWeightData, testCount.value)
+    weight: topic.value === 'study' ? englishWeightData : getRandomNumbers(englishWeightData, testCount.value),
+    communication: topic.value === 'study' ? englishCommunication : getRandomNumbers(englishCommunication, testCount.value),
+    navigation: topic.value === 'study' ? englishNavigation : getRandomNumbers(englishNavigation, testCount.value),
+    human: topic.value === 'study' ? englishHuman : getRandomNumbers(englishHuman, testCount.value),
+    weather: topic.value === 'study' ? englishWeather : getRandomNumbers(englishWeather, testCount.value),
+    maintenance: topic.value === 'study' ? englishMaintenance : getRandomNumbers(englishMaintenance, testCount.value),
+    management: topic.value === 'study' ? englishManagement : getRandomNumbers(englishManagement, testCount.value),
+    principles: topic.value === 'study' ? englishPrinciples : getRandomNumbers(englishPrinciples, testCount.value),
   }
 }
 
