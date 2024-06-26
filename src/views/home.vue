@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="home">
     <div class="nav-bar">Commercial Pilot</div>
     <img src="../assets/logo.png" alt="logo" class="logo">
     <div class="bottom-info">
@@ -52,6 +52,11 @@ onMounted(() => {
 </script>
 
 <style scoped>
+.home {
+  background: #e36d12;
+  height: 100%;
+}
+
 .nav-bar {
   background: #000000;
   color: #FFFFFF;
