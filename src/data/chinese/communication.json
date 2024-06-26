@@ -3,1538 +3,1445 @@
   "questions": [
     {
       "id": 1,
-      "title": "",
-      "answer": "",
+      "title": "飛行員遇到速度或高度輕微變化時應回報遭遇何種亂流？",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "輕度抖動" },
+        { "id": 2, "option": "B", "text": "輕度亂流" },
+        { "id": 3, "option": "C", "text": "中度亂流" }
       ]
     },
     {
       "id": 2,
-      "title": "",
-      "answer": "",
+      "title": "飛行員遇到速度或高度變化，但飛機仍可以維持控制時應回報遭遇何種亂流？",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "輕度抖動" },
+        { "id": 2, "option": "B", "text": "輕度亂流" },
+        { "id": 3, "option": "C", "text": "中度亂流" }
       ]
     },
     {
       "id": 3,
-      "title": "",
-      "answer": "",
+      "title": "在高度遭遇亂流並且沒有任何積雲或雷雨雲層，屬於",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "重度亂流" },
+        { "id": 2, "option": "B", "text": "晴空亂流" },
+        { "id": 3, "option": "C", "text": "對流亂流" }
       ]
     },
     {
       "id": 4,
-      "title": "",
-      "answer": "",
+      "title": "低空風切預報系統提供何種情況之資料及偵測？",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "積雨雲下方之氣流" },
+        { "id": 2, "option": "B", "text": "機場上空短時間內風向及風速快速變化" },
+        { "id": 3, "option": "C", "text": "由地球自轉造成的連續風向變化" }
       ]
     },
     {
       "id": 5,
-      "title": "",
-      "answer": "",
+      "title": "儀器飛行時，最即時的航路及目的地天氣資料可由下列那個方式獲得？",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "自動飛航服務站(AFSS) " },
+        { "id": 2, "option": "B", "text": "機場航站資料服務(ATIS)" },
+        { "id": 3, "option": "C", "text": "飛行員提示系統(NOTAMS)" }
       ]
     },
     {
       "id": 6,
-      "title": "",
-      "answer": "",
+      "title": "電話資訊提示服務(TIBS)以何種方式提供自動飛航服務站(AFSS)之資訊？",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "在122.0MHz廣播天氣資訊" },
+        { "id": 2, "option": "B", "text": "在特定區域50英里內廣播天氣資訊" },
+        { "id": 3, "option": "C", "text": "以電話方式循環播放天氣資訊" }
       ]
     },
     {
       "id": 7,
-      "title": "",
-      "answer": "",
+      "title": "危險天氣警示服務(HWAS)在特定VOR頻率廣播何種資訊？",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "在每小時的15及45分時，撥報顯著天氣變化(SIGMETs)及飛行員天氣回報(AIRMETs)" },
+        { "id": 2, "option": "B", "text": "連續循環播放飛航天氣警示" },
+        { "id": 3, "option": "C", "text": "在每小時的15及45分時，撥報顯著天氣變化(SIGMETs)，對流顯著天氣變化(CONVECTIVE SIGMETs)及飛行員天氣回報(AIRMETs)" }
       ]
     },
     {
       "id": 8,
-      "title": "",
-      "answer": "",
+      "title": "天氣警示廣播，包含危害天氣警示(AWW)，顯著天氣變化(SIGMETs)及對流顯著天氣變化(CONVECTIVE SIGMETs)，由和方式提供？",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "由地區航管中心(ARTCCs)在其管轄範圍的150英里內，以緊急頻道以外的適當頻道播放" },
+        { "id": 2, "option": "B", "text": "由自動飛航服務站(AFSS)在其管轄範圍200海里以內以122.0mHz頻率廣播" },
+        { "id": 3, "option": "C", "text": "以特定的低頻或極高頻萬向導航台(VOR)頻率播放" }
       ]
     },
     {
       "id": 9,
-      "title": "",
-      "answer": "",
+      "title": "欲收到連續錄音播放的天氣簡報，包含高空風變化，航路天氣預報，飛行員應該監聽",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "低頻或極高頻萬向導航台(VOR)頻率播放的連續錄音播放天氣簡報(TWEB)" },
+        { "id": 2, "option": "B", "text": "極高頻萬向導航台(VOR)頻率播放的常規天氣簡報" },
+        { "id": 3, "option": "C", "text": "以高頻播放的航路天氣警示服務" }
       ]
     },
     {
       "id": 10,
-      "title": "",
-      "answer": "",
+      "title": "下列何種飛航天氣警示，提供飛行員關於可能的中度積冰及亂流，和地面及山區30海里以上的風速變化？",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "顯著天氣變化(SIGMETs)，對流顯著天氣變化(CONVECTIVE SIGMETs)" },
+        { "id": 2, "option": "B", "text": "危害天氣警示(AWW)及顯著天氣變化(SIGMETs)" },
+        { "id": 3, "option": "C", "text": "飛行員天氣回報(AIRMETs)及中心天氣警示(CWA)" }
       ]
     },
     {
       "id": 11,
-      "title": "",
-      "answer": "",
+      "title": "火山已經或即將噴發之資訊會以何種方式提供？",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "飛航天氣警示" },
+        { "id": 2, "option": "B", "text": "航站氣象預報(TAF)" },
+        { "id": 3, "option": "C", "text": "天氣圖" }
       ]
     },
     {
       "id": 12,
-      "title": "",
-      "answer": "",
+      "title": "顯著天氣變化(SIGMETs)對何種航機提供資訊？",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "所有航機" },
+        { "id": 2, "option": "B", "text": "特定重型航機" },
+        { "id": 3, "option": "C", "text": "特定輕型航機" }
       ]
     },
     {
       "id": 13,
-      "title": "",
-      "answer": "",
+      "title": "航站氣象預報(TAF)每天提供幾次更新，每次有效期間多久？",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "一日4次，每次有效期間24小時" },
+        { "id": 2, "option": "B", "text": "日6次，每次有效期間24小時，包括一個4小時的準確範圍" },
+        { "id": 3, "option": "C", "text": "一日4次，每次有效期間24小時，包括一個6小時的準確範圍" }
       ]
     },
     {
       "id": 14,
-      "title": "",
-      "answer": "",
+      "title": "航站氣象預報(TAF)中，VRB是指：",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "風速在某範圍內不定" },
+        { "id": 2, "option": "B", "text": "雲幕低不定" },
+        { "id": 3, "option": "C", "text": "風向不定" }
       ]
     },
     {
       "id": 15,
-      "title": "",
-      "answer": "",
+      "title": "想瞭解兩氣象回報點之間的實際天氣狀況，下列何方式最佳？",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "飛行員回報" },
+        { "id": 2, "option": "B", "text": "地區天氣預報" },
+        { "id": 3, "option": "C", "text": "氣象預報圖" }
       ]
     },
     {
       "id": 16,
-      "title": "",
-      "answer": "",
+      "title": "何人具有拒絕或接受”落地後暫停等待程序”許可的最終權力？",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "塔台管制員" },
+        { "id": 2, "option": "B", "text": "航機擁有者∕操作者" },
+        { "id": 3, "option": "C", "text": "PIC" }
       ]
     },
     {
       "id": 17,
-      "title": "",
-      "answer": "",
+      "title": "在何種時機飛行員可以拒絕接受”落地後暫停等待程序”許可？",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "和飛航安全相衝突時" },
+        { "id": 2, "option": "B", "text": "當跑道髒污時" },
+        { "id": 3, "option": "C", "text": "在塔台同意下" }
       ]
     },
     {
       "id": 18,
-      "title": "",
-      "answer": "",
+      "title": "飛行員接受 'land and hold short' 許可之能見度與雲幕高限制為何？",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "能見度3英里，雲幕高1000呎" },
+        { "id": 2, "option": "B", "text": "能見度3海里，雲幕高1000呎 " },
+        { "id": 3, "option": "C", "text": "能見度3英里，雲幕高1500呎" }
       ]
     },
     {
       "id": 19,
-      "title": "",
-      "answer": "",
+      "title": "如何知道我方與對方飛機的行進路徑有造成碰撞的可能？",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "雙方機首指向同一位置" },
+        { "id": 2, "option": "B", "text": "對方飛機看起來快速增大" },
+        { "id": 3, "option": "C", "text": "雙方相對位置並無明顯變化" }
       ]
     },
     {
       "id": 20,
-      "title": "",
-      "answer": "",
+      "title": "於夜航時可以看見前機之白燈以及旋轉之紅燈，則對方航機",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "與我同航向且飛離" },
+        { "id": 2, "option": "B", "text": "通過我的左方" },
+        { "id": 3, "option": "C", "text": "正對我飛近" }
       ]
     },
     {
       "id": 21,
-      "title": "",
-      "answer": "",
+      "title": "起飛時為了避免受到前方落地之大型噴射機亂流影響，飛行員應於跑道何位置升空？",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "通過前機落地位置之後" },
+        { "id": 2, "option": "B", "text": "在前機落地位置或之前" },
+        { "id": 3, "option": "C", "text": "前機落地位置前約500呎左右" }
       ]
     },
     {
       "id": 22,
-      "title": "",
-      "answer": "",
+      "title": "對於前機亂流敘述何者正確？",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "渦流在開始起飛仰轉時即產生" },
+        { "id": 2, "option": "B", "text": "由渦流產生的滾轉導致飛機失控是主要的危害" },
+        { "id": 3, "option": "C", "text": "當飛機於大重量，未放外型，高速狀態下渦流強度最大" }
       ]
     },
     {
       "id": 23,
-      "title": "",
-      "answer": "",
+      "title": "當有大型噴射機以同高度，由左至右，約一英里距離通過本機前方時，應注意哪些事項以避免前機亂流影響？",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "確保本機略高於前機飛行路徑" },
+        { "id": 2, "option": "B", "text": "維持高度和飛行路徑，並減速至VA" },
+        { "id": 3, "option": "C", "text": "確保本機略低於前機，並垂直其飛行路徑" }
       ]
     },
     {
       "id": 24,
-      "title": "",
-      "answer": "",
+      "title": "在大型機後方落地，應注意哪些事項以避免渦流影響？",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "保持高於前機下降路徑之進場直到落地" },
+        { "id": 2, "option": "B", "text": "保持低於前機下降路線並偏向一邊之進場" },
+        { "id": 3, "option": "C", "text": "保持遠低於前機下降路徑之進場，並提前前機2000呎落地" }
       ]
     },
     {
       "id": 25,
-      "title": "",
-      "answer": "",
+      "title": "下列對於渦流氣旋的敘述何者正確？",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "直昇機只產生下洗亂流，不會產生渦流氣旋" },
+        { "id": 2, "option": "B", "text": "航機在高速飛行時產生的渦流氣旋最大" },
+        { "id": 3, "option": "C", "text": "直昇機向前方飛行時，其飛航路徑上造成的渦流氣旋和一般航機產生的相同" }
       ]
     },
     {
       "id": 26,
-      "title": "",
-      "answer": "",
+      "title": "下列對於渦流氣旋的敘述何者正確？",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "直昇機只產生下洗亂流，不會產生渦流" },
+        { "id": 2, "option": "B", "text": "航機在大重量，低速並且未放外型下飛行時產生的渦流氣旋最大" },
+        { "id": 3, "option": "C", "text": "渦流氣旋下沈後，受到地面效應影響後即會快速消散並且危險性非常低" }
       ]
     },
     {
       "id": 27,
-      "title": "",
-      "answer": "",
+      "title": "當一架輕型高翼機在滑行時遭遇強大尾側風，副翼的操作為",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "保持中間位置" },
+        { "id": 2, "option": "B", "text": "朝向尾側風的風向" },
+        { "id": 3, "option": "C", "text": "反向尾側風的風向" }
       ]
     },
     {
       "id": 28,
-      "title": "",
-      "answer": "",
+      "title": "滑行時遭遇強大尾側風，副翼的姿態應為",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "保持中間位置" },
+        { "id": 2, "option": "B", "text": "尾側風來向之副翼向上" },
+        { "id": 3, "option": "C", "text": "尾側風來向之副翼向下" }
       ]
     },
     {
       "id": 29,
-      "title": "",
-      "answer": "",
+      "title": "起飛時的側風修正何者正確？",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "不論前三點式或和三點式飛機，皆是副翼壓向側風方向，以正常速度仰轉" },
+        { "id": 2, "option": "B", "text": "不論前三點式或和三點式飛機，皆是踩右舵，副翼壓向側風方向，以較高的速度仰轉" },
+        { "id": 3, "option": "C", "text": "不論前三點式或和三點式飛機，皆是以舵維持方向控制，副翼壓向側風方向，以較高的速度仰轉" }
       ]
     },
     {
       "id": 30,
-      "title": "",
-      "answer": "",
+      "title": "側風落地在觸地時應",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "將飛機橫軸重直跑道" },
+        { "id": 2, "option": "B", "text": "將飛機縱軸平行跑道" },
+        { "id": 3, "option": "C", "text": "將下風邊機翼壓低以抵消飛機側滑" }
       ]
     },
     {
       "id": 31,
-      "title": "",
-      "answer": "",
+      "title": "起飛前想知道場壓高度，高度表應設定在",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "當時的高度表設定" },
+        { "id": 2, "option": "B", "text": "29.92，然後由高度值讀出場壓高度" },
+        { "id": 3, "option": "C", "text": "高度放在場壓高度，然後讀取高度表設定值" }
       ]
     },
     {
       "id": 32,
-      "title": "",
-      "answer": "",
+      "title": "在高海拔機場，指示空速",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "不變，但是地速會增加" },
+        { "id": 2, "option": "B", "text": "會變高，但是地速不變" },
+        { "id": 3, "option": "C", "text": "會增加因為空氣較稀薄" }
       ]
     },
     {
       "id": 33,
-      "title": "",
-      "answer": "",
+      "title": "維持標準轉彎，則轉360°需要",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "一分鐘" },
+        { "id": 2, "option": "B", "text": "二分鐘" },
+        { "id": 3, "option": "C", "text": "三分鐘" }
       ]
     },
     {
       "id": 34,
-      "title": "",
-      "answer": "",
+      "title": "陣風下落地的建議為",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "帶著油門進場與落地" },
+        { "id": 2, "option": "B", "text": "收油門進場帶油門落地" },
+        { "id": 3, "option": "C", "text": "帶油門進場收油門落地" }
       ]
     },
     {
       "id": 35,
-      "title": "",
-      "answer": "",
+      "title": "落地進場時遭遇亂流，建議使用何種操作方式，為什麼？",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "使用較高的進場速度以維持飛機的有效控制" },
+        { "id": 2, "option": "B", "text": "使用較低的進場速度以避免飛機遭到過大壓力" },
+        { "id": 3, "option": "C", "text": "使用較高的進場速度使飛機盡快脫離亂流區" }
       ]
     },
     {
       "id": 36,
-      "title": "",
-      "answer": "",
+      "title": "當遭遇緊急狀況需要轉降至備降機場時，應",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "完全依賴無線電導航" },
+        { "id": 2, "option": "B", "text": "爬升以利於檢查自身位置及導航點" },
+        { "id": 3, "option": "C", "text": "使用經驗法則，心算，及切捷徑或其他任何方式使本機盡快飛到正確的新航路上" }
       ]
     },
     {
       "id": 37,
-      "title": "",
-      "answer": "",
+      "title": "如果航行中遭遇重度亂流飛行員應將速度減至",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "最低控制速度" },
+        { "id": 2, "option": "B", "text": "設計過的飛行速度" },
+        { "id": 3, "option": "C", "text": "最高的結構巡航速度" }
       ]
     },
     {
       "id": 38,
-      "title": "",
-      "answer": "",
+      "title": "在遭遇重度亂流時，最佳的減低翼面負荷因子之方式為",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "適當調整馬力以維持恆定速度" },
+        { "id": 2, "option": "B", "text": "以馬力控制速度，保持翼面水平，接受高度的變化" },
+        { "id": 3, "option": "C", "text": "停止馬力及配平的調整以使速度維持或低於正常飛航速度，保持翼面水平，接受高度及速度上的變化" }
       ]
     },
     {
       "id": 39,
-      "title": "",
-      "answer": "",
+      "title": "飛行員進入一個有晴空亂流回報的區域。當他遇到第一次氣流顛簸變化時應該",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "保持高度和速度" },
+        { "id": 2, "option": "B", "text": "調整空速至建議的亂流穿越速度" },
+        { "id": 3, "option": "C", "text": "以適當飛行速度緩慢的爬升或下降" }
       ]
     },
     {
       "id": 40,
-      "title": "",
-      "answer": "",
+      "title": "夜航操作時最佳的夜間視力可以何時達到？",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "約10分鐘後當瞳孔放大時" },
+        { "id": 2, "option": "B", "text": "約30分鐘後當視網膜上的桿狀細胞調整至適應黑暗時" },
+        { "id": 3, "option": "C", "text": "約5分鐘後當視網膜上的錐狀細胞調整至適應黑暗時" }
       ]
     },
     {
       "id": 41,
-      "title": "",
-      "answer": "",
+      "title": "夜間目視飛航時，何種狀況代表視力已經開始受限？",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "地面燈光開始過亮" },
+        { "id": 2, "option": "B", "text": "地面景物逐漸失去亮度" },
+        { "id": 3, "option": "C", "text": "駕駛艙燈光開始過亮" }
       ]
     },
     {
       "id": 42,
-      "title": "",
-      "answer": "",
+      "title": "夜間遭遇發動機失效時，首要考慮的因素之一為",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "關掉所有電器開關以節省電瓶使用" },
+        { "id": 2, "option": "B", "text": "計畫在沒有任何燈光的區域執行緊急落地" },
+        { "id": 3, "option": "C", "text": "飛往有照明的公路甚至高速公路，進行落地" }
       ]
     },
     {
       "id": 43,
-      "title": "",
-      "answer": "",
+      "title": "夜間執行執行緊急落地時，首要考慮的因素之一為",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "可能的話選擇在有人煙地區的附近落地" },
+        { "id": 2, "option": "B", "text": "不使用襟翼落地以維持機首朝上的姿態" },
+        { "id": 3, "option": "C", "text": "關掉所有電器開關以節省電瓶使用" }
       ]
     },
     {
       "id": 44,
-      "title": "",
-      "answer": "",
+      "title": "計畫在夜間長途飛航時，飛行員應檢查",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "航路上及目的地機場的燈光照明是否合適" },
+        { "id": 2, "option": "B", "text": "航路上的紅色燈光" },
+        { "id": 3, "option": "C", "text": "機上的紅色旋轉燈" }
       ]
     },
     {
       "id": 45,
-      "title": "",
-      "answer": "",
+      "title": "計畫在夜間長途飛航時，飛行員應檢查",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "航路上所有的極高頻萬向導航台(VOR)都可以使用" },
+        { "id": 2, "option": "B", "text": "機場的紅色旋轉燈是否正常工作" },
+        { "id": 3, "option": "C", "text": "目的地機場的燈光照明是否合適" }
       ]
     },
     {
       "id": 46,
-      "title": "",
-      "answer": "",
+      "title": "飛機在海平面18000呎操作時高度表設定值為",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "航路上收聽到的高度表設定值" },
+        { "id": 2, "option": "B", "text": "29.92" },
+        { "id": 3, "option": "C", "text": "起飛或目的地機場之高度表設定值" }
       ]
     },
     {
       "id": 47,
-      "title": "",
-      "answer": "",
+      "title": "收到航管許可後，飛行員不得違反許可，除非",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "請求改變許可" },
+        { "id": 2, "option": "B", "text": "在目視操作條件下" },
+        { "id": 3, "option": "C", "text": "航管已經同意新的許可，或是遭遇緊急情況" }
       ]
     },
     {
       "id": 48,
-      "title": "",
-      "answer": "",
+      "title": "執行規範的儀器進場時，飛行員何時不得使用程序轉彎？",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "當接受雷達引導至最後進場點或最後進場航向時" },
+        { "id": 2, "option": "B", "text": "在最低安全高度飛行時" },
+        { "id": 3, "option": "C", "text": "在最低雷達引導高度飛行時" }
       ]
     },
     {
       "id": 49,
-      "title": "",
-      "answer": "",
+      "title": "除非下列何條件成立，否則飛行員在儀器進場後不得落地？",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "能見度高於或等於該儀器進場之要求" },
+        { "id": 2, "option": "B", "text": "能見度及雲幕高高於或等於該儀器進場之要求" },
+        { "id": 3, "option": "C", "text": "目視下滑道燈號和跑道參考物清晰可見下" }
       ]
     },
     {
       "id": 50,
-      "title": "",
-      "answer": "",
+      "title": "儀器飛航條件下，下列何狀況PIC應盡快向航管回報？",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "通過FL180時" },
+        { "id": 2, "option": "B", "text": "通過回報點時，應回報時間及高度" },
+        { "id": 3, "option": "C", "text": "改變航管單位時" }
       ]
     },
     {
       "id": 51,
-      "title": "",
-      "answer": "",
+      "title": "儀器飛航條件下，下列何狀況PIC應盡快向航管回報？",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "爬升或下降抵達指定高度時" },
+        { "id": 2, "option": "B", "text": "飛航中遭遇任何通訊，導航或進場設施故障時" },
+        { "id": 3, "option": "C", "text": "被要求聯繫新的航管單位時" }
       ]
     },
     {
       "id": 52,
-      "title": "",
-      "answer": "",
+      "title": "何人直接對飛航負起最終責任？",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "飛機合法持有者" },
+        { "id": 2, "option": "B", "text": "PIC" },
+        { "id": 3, "option": "C", "text": "飛機持有者/操作者" }
       ]
     },
     {
       "id": 53,
-      "title": "",
-      "answer": "",
+      "title": "在航站氣象預報(TAF)中，能見度P6SM代表",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "6海里" },
+        { "id": 2, "option": "B", "text": "6英里" },
+        { "id": 3, "option": "C", "text": "6公里" }
       ]
     },
     {
       "id": 54,
-      "title": "",
-      "answer": "",
+      "title": "飛航天氣警示包含下列何種資訊？",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "對航路飛機的危害天氣警示" },
+        { "id": 2, "option": "B", "text": "該地區低於目視天氣條件下的雲幕及能見度資料" },
+        { "id": 3, "option": "C", "text": "該地區儀器天氣條件下的亂流及積冰狀況" }
       ]
     },
     {
       "id": 55,
-      "title": "",
-      "answer": "",
+      "title": "當目的地氣象報告有雹線時，可能會遭遇何種天氣狀況？",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "風速急速改變，起伏約15海里" },
+        { "id": 2, "option": "B", "text": "風速改變35海里以上，伴隨風向變化30°以上" },
+        { "id": 3, "option": "C", "text": "瞬間風速增加16海里以上，，並維持在22海里一分鐘以上" }
       ]
     },
     {
       "id": 56,
-      "title": "",
-      "answer": "",
+      "title": "高空風預報使用的單位是",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "真方向和英里/小時" },
+        { "id": 2, "option": "B", "text": "真方向和海里/小時" },
+        { "id": 3, "option": "C", "text": "磁方向和海里/小時" }
       ]
     },
     {
       "id": 57,
-      "title": "",
-      "answer": "",
+      "title": "下列何種預報提供該航路之雲頂高，雲量，能見度等資料？",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "地區預報" },
+        { "id": 2, "option": "B", "text": "航站氣象預報(TAF)" },
+        { "id": 3, "option": "C", "text": "連續錄音播放天氣簡報 (TWEB)" }
       ]
     },
     {
       "id": 58,
-      "title": "",
-      "answer": "",
+      "title": "下列何種事件必須立刻向辦公室回報？",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "飛行中火警" },
+        { "id": 2, "option": "B", "text": "地面火警導致啟動滅火裝置" },
+        { "id": 3, "option": "C", "text": "停放於機棚內的一級航空器發生火警，導致損失超過25000美元" }
       ]
     },
     {
       "id": 59,
-      "title": "",
-      "answer": "",
+      "title": "用何種術語來修正在航空通話中發話時的口誤？",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "Sorry" },
+        { "id": 2, "option": "B", "text": "I say again" },
+        { "id": 3, "option": "C", "text": "Correction" },
+        { "id": 4, "option": "D", "text": "Correct" }
       ]
     },
     {
       "id": 60,
-      "title": "",
-      "answer": "",
+      "title": "在機場管制服務的呼號最後名稱是",
+      "answer": "D",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "CONTROL" },
+        { "id": 2, "option": "B", "text": "APRON" },
+        { "id": 3, "option": "C", "text": "GROUND" },
+        { "id": 4, "option": "D", "text": "TOWER" }
       ]
     },
     {
       "id": 61,
-      "title": "",
-      "answer": "",
+      "title": "'WILCO' 的定義是:",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "所發的最後訊息,我已經全部接收到" },
+        { "id": 2, "option": "B", "text": "我了解你所發訊息的意思而且我會依照著此意思做" },
+        { "id": 3, "option": "C", "text": "對所提議假定的行動得到允許" }
       ]
     },
     {
       "id": 62,
-      "title": "",
-      "answer": "",
+      "title": "當要做一緊急迫切情況呼叫時,首先所使用的頻率為何?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "最鄰近的雷達服務頻率" },
+        { "id": 2, "option": "B", "text": "正在使用的頻率" },
+        { "id": 3, "option": "C", "text": "國際緊急危難頻率" }
       ]
     },
     {
       "id": 63,
-      "title": "",
-      "answer": "",
+      "title": "當收到'SQUAWK IDENT'指示時,你的反應動作是:",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "在控制平台上按一下識別(Ident)鈕" },
+        { "id": 2, "option": "B", "text": "重設控制平台上的識別數字" },
+        { "id": 3, "option": "C", "text": "將控制平台上的電門移到ALT位置" }
       ]
     },
     {
       "id": 64,
-      "title": "",
-      "answer": "",
+      "title": "當管制員要你 'Pass me the following information' 時,會用何術語來表示?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "READBACK" },
+        { "id": 2, "option": "B", "text": "REQUEST" },
+        { "id": 3, "option": "C", "text": "REPORT" },
+        { "id": 4, "option": "D", "text": "SAY AGAIN" }
       ]
     },
     {
       "id": 65,
-      "title": "",
-      "answer": "",
+      "title": "當無法建立雙向無線電通話時,你會在發話前加何術語?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "RADIO CHECK" },
+        { "id": 2, "option": "B", "text": "TRANSIMTTING BLIND" },
+        { "id": 3, "option": "C", "text": "PAN PAN PAN" },
+        { "id": 4, "option": "D", "text": "DO YOU READ?" }
       ]
     },
     {
       "id": 66,
-      "title": "",
-      "answer": "",
+      "title": "當電碼設定為7700時,意思為:",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "DISTRESS" },
+        { "id": 2, "option": "B", "text": "AIRCRAFT IS LOST" },
+        { "id": 3, "option": "C", "text": "RADIO FAILURE" },
+        { "id": 4, "option": "D", "text": "HI-JACKING" }
       ]
     },
     {
       "id": 67,
-      "title": "",
-      "answer": "",
+      "title": "緊急迫切情況(Urgency)的條件定義為何？",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "對於航空器本身或機上人員有生命安全上的考量,但是還不需要立即的救助" },
+        { "id": 2, "option": "B", "text": "航空器或人員遭受到嚴重或即將發生的危險所威脅,需要立即救助" },
+        { "id": 3, "option": "C", "text": "在地面上所發生的緊急事件" }
       ]
     },
     {
       "id": 68,
-      "title": "",
-      "answer": "",
+      "title": "當你在做盲目發話時,你應該:",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "每個字發兩次" },
+        { "id": 2, "option": "B", "text": "在121.5頻率上重覆發話" },
+        { "id": 3, "option": "C", "text": "每次訊息發話兩次" },
+        { "id": 4, "option": "D", "text": "等待目視燈光訊號" }
       ]
     },
     {
       "id": 69,
-      "title": "",
-      "answer": "",
+      "title": "當有緊急狀況發生,管制員會用何術種語來強制此頻率無線電靜默?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "STOP TRANSMITTING MAYDAY OUT" },
+        { "id": 2, "option": "B", "text": "MAYDAY MAYDAY MAYDAY OUT" },
+        { "id": 3, "option": "C", "text": "DISTRESS TRAFFIC IN PROGRESS" }
       ]
     },
     {
       "id": 70,
-      "title": "",
-      "answer": "",
+      "title": "當電碼設定為7500時,意思為:",
+      "answer": "D",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "有緊急狀況發生" },
+        { "id": 2, "option": "B", "text": "無線電失效" },
+        { "id": 3, "option": "C", "text": "沒有雷達服務" },
+        { "id": 4, "option": "D", "text": "遭受劫持" }
       ]
     },
     {
       "id": 71,
-      "title": "",
-      "answer": "",
+      "title": "理論上你在5000呎上空可接收到多遠的VHF訊號?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "85海浬" },
+        { "id": 2, "option": "B", "text": "120海浬" },
+        { "id": 3, "option": "C", "text": "71海浬" },
+        { "id": 4, "option": "D", "text": "9海浬" }
       ]
     },
     {
       "id": 72,
-      "title": "",
-      "answer": "",
+      "title": "你可在何種頻率收聽到ATIS?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "專用VHF頻率" },
+        { "id": 2, "option": "B", "text": "VOR頻率" },
+        { "id": 3, "option": "C", "text": "專用VHF或VOR頻率 " },
+        { "id": 4, "option": "D", "text": "任何飛航管制頻率" }
       ]
     },
     {
       "id": 73,
-      "title": "",
-      "answer": "",
+      "title": "管制員何時會使用術語 'BREAK BREAK'?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "對單一航空器發話時,想要在一長訊息間停頓" },
+        { "id": 2, "option": "B", "text": "在一個忙碌的通話環境下,用來同時對多架航空器來發話所使用" },
+        { "id": 3, "option": "C", "text": "對一航空器下達放棄起飛時使用" },
+        { "id": 4, "option": "D", "text": "用來取消先前對航空器所下達的指示" }
       ]
     },
     {
       "id": 74,
-      "title": "",
-      "answer": "",
+      "title": "如果你沒辦法聯絡上所指定頻率的航管單位,你應該:",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "嘗試換到另一適當頻率聯絡" },
+        { "id": 2, "option": "B", "text": "發話時每個字發兩次" },
+        { "id": 3, "option": "C", "text": "開始盲目發話" }
       ]
     },
     {
       "id": 75,
-      "title": "",
-      "answer": "",
+      "title": "當一航空器在晴空萬里且地障平坦之1萬呎上空時,最遠的VHF無線電通話範圍大約為:",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "120海浬" },
+        { "id": 2, "option": "B", "text": "100海浬" },
+        { "id": 3, "option": "C", "text": "150海浬" },
+        { "id": 4, "option": "D", "text": "75海浬" }
       ]
     },
     {
       "id": 76,
-      "title": "",
-      "answer": "",
+      "title": "許可限制點的定義為:",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "在此高度下你將會碰撞到第一個高地障" },
+        { "id": 2, "option": "B", "text": "航管單位所準許航空器可抵達的飛航空層高度" },
+        { "id": 3, "option": "C", "text": "航管單位所準許航空器可抵達的某位置點" },
+        { "id": 4, "option": "D", "text": "航管許可失效的時間點" }
       ]
     },
     {
       "id": 77,
-      "title": "",
-      "answer": "",
+      "title": "當你的航空器沒有迴波器時,你如何回應航管要求 'SQUAWK IDENT' 的指示:",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "NEGATIVE TRANSPONDER" },
+        { "id": 2, "option": "B", "text": "NO SQUAWK" },
+        { "id": 3, "option": "C", "text": "SQUAWK NOT POSSIBLE " },
+        { "id": 4, "option": "D", "text": "NO SQUAWK" }
       ]
     },
     {
       "id": 78,
-      "title": "",
-      "answer": "",
+      "title": "當聽見有緊急迫切情況(Urgency)的訊息時,飛行員應該:",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "保持守聽並伺機提供協助" },
+        { "id": 2, "option": "B", "text": "直接回應訊息" },
+        { "id": 3, "option": "C", "text": "改變頻道以保持無線電靜默" }
       ]
     },
     {
       "id": 79,
-      "title": "",
-      "answer": "",
+      "title": "何時會用到 'CORRECTION' 這個術語？",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "要刪除訊息時" },
+        { "id": 2, "option": "B", "text": "訊息的覆誦為正確之時" },
+        { "id": 3, "option": "C", "text": "當在發話中有口誤發生時使用,然後再加上正確的訊息" }
       ]
     },
     {
       "id": 80,
-      "title": "",
-      "answer": "",
+      "title": "'STANDBY' 此術語的定義為:",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "等待然後我會呼叫你" },
+        { "id": 2, "option": "B", "text": "停止在你現在的位置" },
+        { "id": 3, "option": "C", "text": "當此次發話沒有發生過" }
       ]
     },
     {
       "id": 81,
-      "title": "",
-      "answer": "",
+      "title": "傳達 'URGENCY' 的通話術語為何:",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "PanPan PanPan PanPan" },
+        { "id": 2, "option": "B", "text": "Urgency Urgency Urgency" },
+        { "id": 3, "option": "C", "text": "Mayday Mayday Mayday" }
       ]
     },
     {
       "id": 82,
-      "title": "",
-      "answer": "",
+      "title": "為了獲得最佳的VHF通話品質,航空器最好是位於:",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "在機場附近上空的高高度" },
+        { "id": 2, "option": "B", "text": "在遠距離的高高度位置" },
+        { "id": 3, "option": "C", "text": "在近距離的低高度位置" }
       ]
     },
     {
       "id": 83,
-      "title": "",
-      "answer": "",
+      "title": "SAR的全名是",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "Single Aircraft Radio" },
+        { "id": 2, "option": "B", "text": "Search And Rescue" },
+        { "id": 3, "option": "C", "text": "Secondary Airborne Radar" }
       ]
     },
     {
       "id": 84,
-      "title": "",
-      "answer": "",
+      "title": "'FASTAIR 1234' 此呼號可被簡稱為:",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "沒有簡稱" },
+        { "id": 2, "option": "B", "text": "FASTAIR 34" },
+        { "id": 3, "option": "C", "text": "1234" },
+        { "id": 4, "option": "D", "text": "FOXTROT34" }
       ]
     },
     {
       "id": 85,
-      "title": "",
-      "answer": "",
+      "title": "你何時會用到 'WORDS TWICE' 這個術語？",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "當你想要管制員每個字重覆兩遍" },
+        { "id": 2, "option": "B", "text": "當你想要做盲目發話" },
+        { "id": 3, "option": "C", "text": "當你想要訊息被重覆一次" }
       ]
     },
     {
       "id": 86,
-      "title": "",
-      "answer": "",
+      "title": "當你想要訊息被再重覆一次,你應用何術語:",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "WORDS TWICE" },
+        { "id": 2, "option": "B", "text": "REPEAT MESSAGE" },
+        { "id": 3, "option": "C", "text": "SAY AGAIN" },
+        { "id": 4, "option": "D", "text": "SPEAK SLOWER" }
       ]
     },
     {
       "id": 87,
-      "title": "",
-      "answer": "",
+      "title": "盲目傳送係",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "由地面電台上空之航機所為之傳送" },
+        { "id": 2, "option": "B", "text": "自一電台向另一電台所做之單項信號傳送並假設信號可妥善接收" },
+        { "id": 3, "option": "C", "text": "視距範圍外之信號傳送" }
       ]
     },
     {
       "id": 88,
-      "title": "",
-      "answer": "",
+      "title": "'CANCEL'此術語的定義為:",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "當此次發話沒有傳送過" },
+        { "id": 2, "option": "B", "text": "你的航班已被公司取消" },
+        { "id": 3, "option": "C", "text": "讓先前所給的許可失效" }
       ]
     },
     {
       "id": 89,
-      "title": "",
-      "answer": "",
+      "title": "下列哪一名詞被定義為一航空器處於有立即危險發生的情況:",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "遇難 (MAYDAY)" },
+        { "id": 2, "option": "B", "text": "緊急急迫情況(URGENCY)" },
+        { "id": 3, "option": "C", "text": "緊急危難情況(DISTRESS)" },
+        { "id": 4, "option": "D", "text": "緊急(PAN PAN)" }
       ]
     },
     {
       "id": 90,
-      "title": "",
-      "answer": "",
+      "title": "'READABILITY 3'此用語的意思為:",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "偶爾聽的清晰" },
+        { "id": 2, "option": "B", "text": "聽的清晰" },
+        { "id": 3, "option": "C", "text": "聽的清晰但有點難度" },
+        { "id": 4, "option": "D", "text": "難以解讀" }
       ]
     },
     {
       "id": 91,
-      "title": "",
-      "answer": "",
+      "title": "在發生無線電失效情況你何時會尋找目視燈光訊號:",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "落地之後" },
+        { "id": 2, "option": "B", "text": "加入一有管制塔台的機場航線時" },
+        { "id": 3, "option": "C", "text": "機場上空" }
       ]
     },
     {
       "id": 92,
-      "title": "",
-      "answer": "",
+      "title": "VHF裡的VOLMET廣播之資訊內容為:",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "危害天氣報告(SIGMET)" },
+        { "id": 2, "option": "B", "text": "各不同機場的METAR" },
+        { "id": 3, "option": "C", "text": "特定機場的TAF" }
       ]
     },
     {
       "id": 93,
-      "title": "",
-      "answer": "",
+      "title": "假設你被指示 'SQUAWK 1250', 你應該:",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "立即在SSR詢答機上設定電碼1250" },
+        { "id": 2, "option": "B", "text": "換至125.0MHz的頻率" },
+        { "id": 3, "option": "C", "text": "回答'TEST 1250'" }
       ]
     },
     {
       "id": 94,
-      "title": "",
-      "answer": "",
+      "title": "航管對一航空器指示 'CHECK' 時表示:",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "確認你有接收並了解最後所傳的訊息" },
+        { "id": 2, "option": "B", "text": "檢查一系統或程序" },
+        { "id": 3, "option": "C", "text": "停留在原處" }
       ]
     },
     {
       "id": 95,
-      "title": "",
-      "answer": "",
+      "title": "無線電通話中VHF頻率的範圍是:",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "118.0 to 136.975 MHz" },
+        { "id": 2, "option": "B", "text": "108.0 to 139.5 MHz" },
+        { "id": 3, "option": "C", "text": "3 to 30 MHz" },
+        { "id": 4, "option": "D", "text": "88 to 108 MHz" }
       ]
     },
     {
       "id": 96,
-      "title": "",
-      "answer": "",
+      "title": "當要做一緊急迫切情況呼叫時,首先所使用的頻率為何?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "121.5 MHz" },
+        { "id": 2, "option": "B", "text": "最鄰近的雷達服務頻率" },
+        { "id": 3, "option": "C", "text": "正在使用的頻率" },
+        { "id": 4, "option": "D", "text": "最鄰近的飛航情報業務頻率" }
       ]
     },
     {
       "id": 97,
-      "title": "",
-      "answer": "",
+      "title": "緊急迫切情況(Urgency)的優先順序為何？",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "低於緊急醫療求助" },
+        { "id": 2, "option": "B", "text": "高於一切一般情況但低於緊急危難情況" },
+        { "id": 3, "option": "C", "text": "視情況多寡後排序而定" }
       ]
     },
     {
       "id": 98,
-      "title": "",
-      "answer": "",
+      "title": "無線電失效後電碼要設:",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "7700" },
+        { "id": 2, "option": "B", "text": "7600" },
+        { "id": 3, "option": "C", "text": "7500" }
       ]
     },
     {
       "id": 99,
-      "title": "",
-      "answer": "",
+      "title": "下列那一名詞定義為 'Have I correctly received the following' :",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "ACKNOWLEDGE" },
+        { "id": 2, "option": "B", "text": "CONFIRM" },
+        { "id": 3, "option": "C", "text": "VERIFY" },
+        { "id": 4, "option": "D", "text": "ARE U SURE" }
       ]
     },
     {
       "id": 100,
-      "title": "",
-      "answer": "",
+      "title": "'VERIFY' 一詞的定義為:",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "確認你最後所傳的訊息" },
+        { "id": 2, "option": "B", "text": "識別你自己" },
+        { "id": 3, "option": "C", "text": "核對及確認來源" }
       ]
     },
     {
       "id": 101,
-      "title": "",
-      "answer": "",
+      "title": "假設你想反向滑行, 你的通話應該是:",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "REPORTING BACKTRACK" },
+        { "id": 2, "option": "B", "text": "REQUEST BACKTRACK" },
+        { "id": 3, "option": "C", "text": "REQUEST VACATE RUNWAY" }
       ]
     },
     {
       "id": 102,
-      "title": "",
-      "answer": "",
+      "title": "航管單位如何播報跑道視程(RVR):",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "以英呎和英吋做單位" },
+        { "id": 2, "option": "B", "text": "以公尺為單位,分別有著陸區,中間點和跑道尾端數值" },
+        { "id": 3, "option": "C", "text": "以公里為單位,沿著最後進場 (D)以海哩為單位,順沿著跑道" }
       ]
     },
     {
       "id": 103,
-      "title": "",
-      "answer": "",
+      "title": "3500英呎的無線電通話用語應為:",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "THREE FIVE ZERO FEET" },
+        { "id": 2, "option": "B", "text": "THREE THOUSND FIVE HUNDRED FEET" },
+        { "id": 3, "option": "C", "text": "THIRTY FIVE HUNDRED FEET" }
       ]
     },
     {
       "id": 104,
-      "title": "",
-      "answer": "",
+      "title": "當一航空器處於有立即危險情況時,應用何種術語?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "OH NO!" },
+        { "id": 2, "option": "B", "text": "MAYDAY MAYDAY MAYDAY" },
+        { "id": 3, "option": "C", "text": "PANPAN PANPAN PANPAN" },
+        { "id": 4, "option": "D", "text": "PAN PAN MEDICAL" }
       ]
     },
     {
       "id": 105,
-      "title": "",
-      "answer": "",
+      "title": "'DISREGARD' 一詞的定義為:",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "不用理會我說甚麼" },
+        { "id": 2, "option": "B", "text": "當前一次的發話沒有傳送過" },
+        { "id": 3, "option": "C", "text": "取消最後的許可" }
       ]
     },
     {
       "id": 106,
-      "title": "",
-      "answer": "",
+      "title": "當你被指示 'RE-SQUAWK 1015', 你應該:",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "在控制平台上按一下識別(Ident)鈕" },
+        { "id": 2, "option": "B", "text": "在模式A詢答機上重設數字" },
+        { "id": 3, "option": "C", "text": "在高度表上設1015" },
+        { "id": 4, "option": "D", "text": "打開模式C" }
       ]
     },
     {
       "id": 107,
-      "title": "",
-      "answer": "",
+      "title": "空中無線電通話,時間如何表示:",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "只有分鐘" },
+        { "id": 2, "option": "B", "text": "當地平均時間" },
+        { "id": 3, "option": "C", "text": "UTC" },
+        { "id": 4, "option": "D", "text": "日光節約時間" }
       ]
     },
     {
       "id": 108,
-      "title": "",
-      "answer": "",
+      "title": "下列哪一名詞的定義為 'Permission not granted' :",
+      "answer": "D",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "WILCO" },
+        { "id": 2, "option": "B", "text": "NOT APPROVED" },
+        { "id": 3, "option": "C", "text": "NEVER" },
+        { "id": 4, "option": "D", "text": "NEGATIVE" }
       ]
     },
     {
       "id": 109,
-      "title": "",
-      "answer": "",
+      "title": "'SSR' 此簡稱的全名為:",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "Single System Receiver" },
+        { "id": 2, "option": "B", "text": "Sector Safety Range" },
+        { "id": 3, "option": "C", "text": "Secondary Surveillance Radar" }
       ]
     },
     {
       "id": 110,
-      "title": "",
-      "answer": "",
+      "title": "在詢答機上選擇電碼7600,意指為:",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "緊急危難情況" },
+        { "id": 2, "option": "B", "text": "航空器被劫持" },
+        { "id": 3, "option": "C", "text": "無線電失效" },
+        { "id": 4, "option": "D", "text": "緊急急迫情況" }
       ]
     },
     {
       "id": 111,
-      "title": "",
-      "answer": "",
+      "title": "當聽見 'ALL STATIONS, STEPHENVILLE RADAR, STOP TRANSMITTING MAYDAY' 的訊息時, 你應該:",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "幫忙此緊急情況事件" },
+        { "id": 2, "option": "B", "text": "無線電肅靜請勿干擾此有緊急危難情況的航空器" },
+        { "id": 3, "option": "C", "text": "離開此頻率" },
+        { "id": 4, "option": "D", "text": "重新發送一次你的訊息" }
       ]
     },
     {
       "id": 112,
-      "title": "",
-      "answer": "",
+      "title": "擁有頻率118.0 to 136.975 MHz的無線電波段是:",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "UHF 波段" },
+        { "id": 2, "option": "B", "text": "VHF 波段" },
+        { "id": 3, "option": "C", "text": "SHF 波段" },
+        { "id": 4, "option": "D", "text": "HF 波段" }
       ]
     },
     {
       "id": 113,
-      "title": "",
-      "answer": "",
+      "title": "當講到頻率, 'DECIMAL' 這小數點用語可否省略?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "只有在覆誦頻率時可以" },
+        { "id": 2, "option": "B", "text": "不可以" },
+        { "id": 3, "option": "C", "text": "只有在雙方無線電通話建立好滿意之後可省略" }
       ]
     },
     {
       "id": 114,
-      "title": "",
-      "answer": "",
+      "title": "對於管制員所給資訊中,必須要覆誦的項目有:",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "天氣及風向" },
+        { "id": 2, "option": "B", "text": "高度表撥定值和使用跑道名稱" },
+        { "id": 3, "option": "C", "text": "除了有猶豫的聲音外,所有都必須覆誦" }
       ]
     },
     {
       "id": 115,
-      "title": "",
-      "answer": "",
+      "title": "'CHEROKEE XY-ABC' 此呼號可被簡稱為:",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "CHEROKEE XY-BC" },
+        { "id": 2, "option": "B", "text": "CHEROKEE BC" },
+        { "id": 3, "option": "C", "text": "XY-BC" },
+        { "id": 4, "option": "D", "text": "ABC" }
       ]
     },
     {
       "id": 116,
-      "title": "",
-      "answer": "",
+      "title": "管制員給航空器下達放棄起飛指示會使用何術語?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "GIVE-UP TAKE OFF" },
+        { "id": 2, "option": "B", "text": "STOP IMMEDIATELY" },
+        { "id": 3, "option": "C", "text": "ABORT TAKE OFF" }
       ]
     },
     {
       "id": 117,
-      "title": "",
-      "answer": "",
+      "title": "航管單位名稱或呼號何時可以被省略？",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "不可以" },
+        { "id": 2, "option": "B", "text": "在航空器目視機場及聯絡後才可以" },
+        { "id": 3, "option": "C", "text": "只有在雙方無線電通話建立好滿意之後可省略" }
       ]
     },
     {
       "id": 118,
-      "title": "",
-      "answer": "",
+      "title": "'READABILITY 2' 表示發話品質為:",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "雙向無線電通話已經建立" },
+        { "id": 2, "option": "B", "text": "偶爾聽的清晰" },
+        { "id": 3, "option": "C", "text": "聽的清晰但有點難度" },
+        { "id": 4, "option": "D", "text": "聽的清晰" }
       ]
     },
     {
       "id": 119,
-      "title": "",
-      "answer": "",
+      "title": "在地面上無線電測試正確的呼叫方式為:",
+      "answer": "D",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "G-ABCD RADIO CHECK" },
+        { "id": 2, "option": "B", "text": "STEPHENVILLE TOWER, G-ABCD HOW DO YOU READ 118.7" },
+        { "id": 3, "option": "C", "text": "STEPHENVILLE TOWER, G-ABCD READABILITY CHECK, 118.7" },
+        { "id": 4, "option": "D", "text": "STEPHENVILLE TOWER, G-ABCD RADIO CHECK, 118.7" }
       ]
     },
     {
       "id": 120,
-      "title": "",
-      "answer": "",
+      "title": "管制員廣播 'DISTRESS TRAFFIC ENDED' 的訊息意思為:",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "要全部的航空器結束他們的發話" },
+        { "id": 2, "option": "B", "text": "要全部在此一頻率的航空器更換到另一頻率" },
+        { "id": 3, "option": "C", "text": "緊急情況解除,恢復正常航管無線電通話" }
       ]
     },
     {
       "id": 121,
-      "title": "",
-      "answer": "",
+      "title": "航空器被許可從FL100下降至FL80所必須做的覆誦為:",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "DESCENDING TO FL80" },
+        { "id": 2, "option": "B", "text": "LEAVING FL100 DESCENDING TO FL80" },
+        { "id": 3, "option": "C", "text": "DOWN TO FL80" }
       ]
     },
     {
       "id": 122,
-      "title": "",
-      "answer": "",
+      "title": "'READABILITY 5' 表示發話品質為:",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "偶爾聽的清晰" },
+        { "id": 2, "option": "B", "text": "聽的清晰" },
+        { "id": 3, "option": "C", "text": "聽的非常清晰" },
+        { "id": 4, "option": "D", "text": "難以解讀" }
       ]
     },
     {
       "id": 123,
-      "title": "",
-      "answer": "",
+      "title": "機場作業時間有 'HJ' 縮寫,意思為:",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "作業時間從日出到日落" },
+        { "id": 2, "option": "B", "text": "作業時間從日落到日出" },
+        { "id": 3, "option": "C", "text": "作業時間為全天候24小時" },
+        { "id": 4, "option": "D", "text": "只在特定時間內開放" }
       ]
     },
     {
       "id": 124,
-      "title": "",
-      "answer": "",
+      "title": "當管制員要你 'listen out on a frequency' 時,會用何術語來表示?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "CONTACT" },
+        { "id": 2, "option": "B", "text": "MONITOR" },
+        { "id": 3, "option": "C", "text": "TRY" },
+        { "id": 4, "option": "D", "text": "REPORT" }
       ]
     },
     {
       "id": 125,
-      "title": "",
-      "answer": "",
+      "title": "13,500 英呎的無線電通話用語為何?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "ONE THREE THOUSAND FIVE HUNDRED FEET" },
+        { "id": 2, "option": "B", "text": "THIRTEEN THOUSAND FIVE HUNDRED FEET" },
+        { "id": 3, "option": "C", "text": "ONE THREE THOUSAND FIVE ZERO ZERO FEET" }
       ]
     },
     {
       "id": 126,
-      "title": "",
-      "answer": "",
+      "title": "'MONITOR' 一詞的定義為何?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "你正在被監看" },
+        { "id": 2, "option": "B", "text": "在某一頻率建立無線電通話" },
+        { "id": 3, "option": "C", "text": "在某一頻率守聽" },
+        { "id": 4, "option": "D", "text": "在某一頻率等待目視燈光訊號" }
       ]
     },
     {
       "id": 127,
-      "title": "",
-      "answer": "",
+      "title": "你在收到 'STANDBY ON 118.9 FOR TOWER' 後的動作是:",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "換到頻率118.9後直接聯絡塔台管制" },
+        { "id": 2, "option": "B", "text": "換到頻率118.9後,等待塔台管制主動聯絡你" },
+        { "id": 3, "option": "C", "text": "在現在的頻率等待塔台管制聯絡讓你知道他何時準備好" }
       ]
     },
     {
       "id": 128,
-      "title": "",
-      "answer": "",
+      "title": "當你保持3,500英呎飛正西南航向,你的無線電通話用語會是:",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "HEADING 045 AT THREE THOUSAND FIVE HUNDRED" },
+        { "id": 2, "option": "B", "text": "HEADING 225 AT THIRTY FIVE HUNDRED" },
+        { "id": 3, "option": "C", "text": "HEADING 225 AT THREE THOUSAND FIVE HUNDRED" },
+        { "id": 4, "option": "D", "text": "SOUTHWEST HEADING AT THREE FIVE ZERO ZERO" }
       ]
     }
   ]
