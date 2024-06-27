@@ -3,1779 +3,1677 @@
   "questions": [
     {
       "id": 1,
-      "title": "",
-      "answer": "",
+      "title": "平流層(stratosphere)的特性為何:",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "高度上升溫度下降" },
+        { "id": 2, "option": "B", "text": "平流層底約在35,000呎" },
+        { "id": 3, "option": "C", "text": "高度上升溫度不變" }
       ]
     },
     {
       "id": 2,
-      "title": "",
-      "answer": "",
+      "title": "中緯度地區平均對流層(troposphere)的高度為:",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "20,000呎" },
+        { "id": 2, "option": "B", "text": "37,000呎" },
+        { "id": 3, "option": "C", "text": "45,000呎" }
       ]
     },
     {
       "id": 3,
-      "title": "",
-      "answer": "",
+      "title": "造成天氣變化的原因為何?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "各地接收到的太陽能量不同所致" },
+        { "id": 2, "option": "B", "text": "地表壓力不同所致" },
+        { "id": 3, "option": "C", "text": "氣團的移動所致" }
       ]
     },
     {
       "id": 4,
-      "title": "",
-      "answer": "",
+      "title": "如果1,350呎的氣溫是8° C, 依標準大氣之溫度變化 (standard (average) temperature lapse),結冰高度(freezing level)為何?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "3,350呎" },
+        { "id": 2, "option": "B", "text": "5,350呎" },
+        { "id": 3, "option": "C", "text": "9,350呎" }
       ]
     },
     {
       "id": 5,
-      "title": "",
-      "answer": "",
+      "title": "通常地面逆溫 (inversion)的成因:",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "暖空氣受地型抬升" },
+        { "id": 2, "option": "B", "text": "冷空氣移動到暖空氣上方或暖空氣移動到的冷空氣下方" },
+        { "id": 3, "option": "C", "text": "夜間微風時地表輻射冷卻" }
       ]
     },
     {
       "id": 6,
-      "title": "",
-      "answer": "",
+      "title": "地面為南風, 5000呎吹西南風 , 這樣的差異是:",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "高度愈高處, 氣壓梯度力愈大" },
+        { "id": 2, "option": "B", "text": "地表摩擦力所致" },
+        { "id": 3, "option": "C", "text": "地表柯氏力(Coriolis force)所致" }
       ]
     },
     {
       "id": 7,
-      "title": "",
-      "answer": "",
+      "title": "地面風與位於2,000呎高空風之間的關係是:",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "兩者風向一樣,因地表摩擦力所致,地面風風速較小" },
+        { "id": 2, "option": "B", "text": "2000呎高空風之風向平行等壓線(isobars),地面風則是吹跨越等壓線,且風速較小" },
+        { "id": 3, "option": "C", "text": "2000呎高空風風速較小" }
       ]
     },
     {
       "id": 8,
-      "title": "",
-      "answer": "",
+      "title": "在北半球，是那一種力造成風向偏右,轉變為平行等壓線(isobars):",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "離心力(Centrifugal)" },
+        { "id": 2, "option": "B", "text": "氣壓梯度力(Pressure gradient)" },
+        { "id": 3, "option": "C", "text": "柯氏力(Coriolis force)" }
       ]
     },
     {
       "id": 9,
-      "title": "",
-      "answer": "",
+      "title": "'露點溫度' (dew point)的定義：",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "定壓下使氣溫下降到空氣內的水汽飽和(saturated)時之溫度" },
+        { "id": 2, "option": "B", "text": "水汽之凝結(condensation)和蒸發(evaporation)速度相等時" },
+        { "id": 3, "option": "C", "text": "當氣溫達到露點溫度時,就會形成露水" }
       ]
     },
     {
       "id": 10,
-      "title": "",
-      "answer": "",
+      "title": "空氣中的水汽含量由下列哪一項決定：",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "相對濕度(relative humidity)" },
+        { "id": 2, "option": "B", "text": "氣溫" },
+        { "id": 3, "option": "C", "text": "大氣的穩定度(stability of air)" }
       ]
     },
     {
       "id": 11,
-      "title": "",
-      "answer": "",
+      "title": "大氣的穩定度由下列哪一項決定：",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "低層風" },
+        { "id": 2, "option": "B", "text": "垂直大氣的溫度變化(Ambient lapse rate)" },
+        { "id": 3, "option": "C", "text": "大氣壓力" }
       ]
     },
     {
       "id": 12,
-      "title": "",
-      "answer": "",
+      "title": "未飽和空氣(Unsaturated air )隨高度的(乾絕熱)溫度變化率為：",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "每上升一千呎溫度下降3°C" },
+        { "id": 2, "option": "B", "text": "每上升一千呎溫度下降2°C" },
+        { "id": 3, "option": "C", "text": "每上升一千呎溫度下降2.5°C" }
       ]
     },
     {
       "id": 13,
-      "title": "",
-      "answer": "",
+      "title": "穩定(stable)而潮濕的空氣強制抬升, 通常會形成:",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "層狀雲(Stratified clouds)" },
+        { "id": 2, "option": "B", "text": "直展雲" },
+        { "id": 3, "option": "C", "text": "層狀雲(Stratified clouds)並有伴隨極小的垂直運動" }
       ]
     },
     {
       "id": 14,
-      "title": "",
-      "answer": "",
+      "title": "哪一種天氣型態造成積狀雲(cumuliform type clouds), 能見度好,陣雨,及明冰的積冰(clear-type icing)?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "潮濕及不穩定的大氣及缺乏抬升運動" },
+        { "id": 2, "option": "B", "text": "乾燥及穩定的大氣及抬升運動" },
+        { "id": 3, "option": "C", "text": "潮濕及不穩定的大氣及抬升運動" }
       ]
     },
     {
       "id": 15,
-      "title": "",
-      "answer": "",
+      "title": "雲依其高度與發展分為：",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "層狀雲（Stratus）,積狀雲（cumulus）,雨雲(nimbus),卷狀雲(cirrus）" },
+        { "id": 2, "option": "B", "text": "上升氣流, 鋒面, 溫度下降及降水形成的雲" },
+        { "id": 3, "option": "C", "text": "高雲族,中雲族,低雲族,直展雲族（vertical development）" }
       ]
     },
     {
       "id": 16,
-      "title": "",
-      "answer": "",
+      "title": "高雲的組成：",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "臭氧（ozone）" },
+        { "id": 2, "option": "B", "text": "凝結核（condensation nuclei）" },
+        { "id": 3, "option": "C", "text": "冰晶（ice crystals）" }
       ]
     },
     {
       "id": 17,
-      "title": "",
-      "answer": "",
+      "title": "哪一種雲帶來的亂流最強：",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "塔狀積雲(TCU)" },
+        { "id": 2, "option": "B", "text": "積雨雲(CB)" },
+        { "id": 3, "option": "C", "text": "高積雲(AC)" }
       ]
     },
     {
       "id": 18,
-      "title": "",
-      "answer": "",
+      "title": "通常工業區比較容易有霧, 其主要原因是:",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "都市的空氣比較穩定(stabilization)" },
+        { "id": 2, "option": "B", "text": "空氣中有較多燃燒產物之凝結核(condensation nuclei)" },
+        { "id": 3, "option": "C", "text": "工業污染造成氣溫上升" }
       ]
     },
     {
       "id": 19,
-      "title": "",
-      "answer": "",
+      "title": "哪一種天氣型態造成輻射霧(radiation fog):",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "晴空靜風的夜間,地表上方空氣水汽充分" },
+        { "id": 2, "option": "B", "text": "暖濕的熱帶空氣移動到較冷的海水面" },
+        { "id": 3, "option": "C", "text": "冷空氣移動到較暖的水域" }
       ]
     },
     {
       "id": 20,
-      "title": "",
-      "answer": "",
+      "title": "不穩定(unstable)的冷空氣移動到暖水域,會造成:",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "積雲(Cumuliform clouds), 亂流, 低能見度" },
+        { "id": 2, "option": "B", "text": "積雲(Cumuliform clouds）, 亂流, 能見度良好" },
+        { "id": 3, "option": "C", "text": "層雲（Stratiform clouds）, 無亂流, 低能見度" }
       ]
     },
     {
       "id": 21,
-      "title": "",
-      "answer": "",
+      "title": "雷雨形成的原因:",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "充沛水汽且伴隨積雲" },
+        { "id": 2, "option": "B", "text": "充沛水汽,伴隨積雲且逆溫(inverted lapse rate)" },
+        { "id": 3, "option": "C", "text": "充沛水汽之不穩定(unstable)及抬升運動" }
       ]
     },
     {
       "id": 22,
-      "title": "",
-      "answer": "",
+      "title": "雷雨(thunderstorm)的成熟(mature)期的徵兆為:",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "開始下雨" },
+        { "id": 2, "option": "B", "text": "形成雲的速度加快" },
+        { "id": 3, "option": "C", "text": "雲裡有很強的亂流" }
       ]
     },
     {
       "id": 23,
-      "title": "",
-      "answer": "",
+      "title": "雷雨(thunderstorm)的哪一個階段具明顯的下沖氣流（downdrafts）:",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "積雲期(Cumulus)" },
+        { "id": 2, "option": "B", "text": "消散期(Dissipating)" },
+        { "id": 3, "option": "C", "text": "成熟期(Mature)" }
       ]
     },
     {
       "id": 24,
-      "title": "",
-      "answer": "",
+      "title": "雷雨(thunderstorm)活動伴隨明顯下沖氣流(downdrafts)的成熟期(mature stage),其特徵為:",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "積雨雲頂有明顯的砧狀雲頂(anvil top)" },
+        { "id": 2, "option": "B", "text": "開始下雨" },
+        { "id": 3, "option": "C", "text": "形成陣風鋒面(gust front)" }
       ]
     },
     {
       "id": 25,
-      "title": "",
-      "answer": "",
+      "title": "風切(wind shear）的特性為：",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "大氣中有臭氣成份（zones）且有幅合現象（convergence)所致" },
+        { "id": 2, "option": "B", "text": "柯氏力(Coioslis force)在高層及低層大氣不同所致" },
+        { "id": 3, "option": "C", "text": "伴隨低層大氣的逆溫(inversion),噴射氣流（jet stream),及鋒面帶( frontal zone）的大氣現象" }
       ]
     },
     {
       "id": 26,
-      "title": "",
-      "answer": "",
+      "title": "精確進場時，風由尾風轉變成頭風，推力應如何調整以保持恆定的指示空速？",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "設較大的推力，進入風切區時增加推力，之後再減低推力" },
+        { "id": 2, "option": "B", "text": "設較小的推力，進入風切區時減低推力，之後再增加推力" },
+        { "id": 3, "option": "C", "text": "設較大的推力，進入風切區時減低推力，之後再增加推力" }
       ]
     },
     {
       "id": 27,
-      "title": "",
-      "answer": "",
+      "title": "爬升或下降時穿越逆溫層或風切區，飛行員應該要注意下例哪一種飛機性能的改變？",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "較高的爬升率和較低的下降率" },
+        { "id": 2, "option": "B", "text": "突然的空速改變" },
+        { "id": 3, "option": "C", "text": "突然的推力減少" }
       ]
     },
     {
       "id": 28,
-      "title": "",
-      "answer": "",
+      "title": "根據下列 TAF，KBNA地面天氣狀況為何？METAR KBNA 211250Z 33018KT 290V260 1/2SM R31/2700FT +SN BLSNFG VV008 00/M03 A2991 RMK RAE42SNB42",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "風向介於290° 至360°" },
+        { "id": 2, "option": "B", "text": "31號跑道上大雪及霧" },
+        { "id": 3, "option": "C", "text": "12點42分雨停且開始下雪" }
       ]
     },
     {
       "id": 29,
-      "title": "",
-      "answer": "",
+      "title": "TAF中出現'VRB',指風速在下列那一個範圍內",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "3節（knots)或3節以下" },
+        { "id": 2, "option": "B", "text": "6節或6節以下" },
+        { "id": 3, "option": "C", "text": "9節或9節以下" }
       ]
     },
     {
       "id": 30,
-      "title": "",
-      "answer": "",
+      "title": "當能見度大於6英哩時,TAF 的預報方式為:",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "6PSM" },
+        { "id": 2, "option": "B", "text": "P6SM" },
+        { "id": 3, "option": "C", "text": "6SMP" }
       ]
     },
     {
       "id": 31,
-      "title": "",
-      "answer": "",
+      "title": "根據下列 TAF,1800Z風的狀況為何? KMEM 091740Z 0918/1018 00000KT 1/2SM RAFG OVC005=",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "靜風" },
+        { "id": 2, "option": "B", "text": "未知" },
+        { "id": 3, "option": "C", "text": "沒有資料" }
       ]
     },
     {
       "id": 32,
-      "title": "",
-      "answer": "",
+      "title": "何時SIGMET會發佈？",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "大範圍沙塵暴造成能見度低於3哩" },
+        { "id": 2, "option": "B", "text": "中度積冰" },
+        { "id": 3, "option": "C", "text": "地面風30節或以上" }
       ]
     },
     {
       "id": 33,
-      "title": "",
-      "answer": "",
+      "title": "AIRMETS最大的預測時間為何？",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "2小時" },
+        { "id": 2, "option": "B", "text": "4小時" },
+        { "id": 3, "option": "C", "text": "6小時" }
       ]
     },
     {
       "id": 34,
-      "title": "",
-      "answer": "",
+      "title": "AIRMETs何時會重新發佈？",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "只在整點過後15分鐘" },
+        { "id": 2, "option": "B", "text": "前一AIRMET失效後15分鐘" },
+        { "id": 3, "option": "C", "text": "每6小時" }
       ]
     },
     {
       "id": 35,
-      "title": "",
-      "answer": "",
+      "title": "如何讓空氣內水汽增加?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "昇華及凝結" },
+        { "id": 2, "option": "B", "text": "蒸發及凝結" },
+        { "id": 3, "option": "C", "text": "昇華及蒸發" }
       ]
     },
     {
       "id": 36,
-      "title": "",
-      "answer": "",
+      "title": "在北半球，風向受到哪一種影響：",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "受柯氏力(Coioslis force)影響偏向右" },
+        { "id": 2, "option": "B", "text": "受摩擦力影響偏向右" },
+        { "id": 3, "option": "C", "text": "受柯氏力(Coioslis force)影響偏向左" }
       ]
     },
     {
       "id": 37,
-      "title": "",
-      "answer": "",
+      "title": "下列敘述何者正確:",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "高壓或脊線(ridge)為上升氣流形成的" },
+        { "id": 2, "option": "B", "text": "低壓或槽線(trough)為下降氣流形成的" },
+        { "id": 3, "option": "C", "text": "高壓或脊線(ridge)為下降氣流形成的" }
       ]
     },
     {
       "id": 38,
-      "title": "",
-      "answer": "",
+      "title": "如果你在北半球飛向低氣壓:",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "風由左邊來,且風速會減弱" },
+        { "id": 2, "option": "B", "text": "風由左邊來,且風速會增加" },
+        { "id": 3, "option": "C", "text": "風由右邊來,且風速會減弱" }
       ]
     },
     {
       "id": 39,
-      "title": "",
-      "answer": "",
+      "title": "在北半球，越野飛行(cross-country)如果有左側風表示:",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "飛行目的地天氣不佳" },
+        { "id": 2, "option": "B", "text": "飛行出發地天氣不佳" },
+        { "id": 3, "option": "C", "text": "缺乏氣壓資料, 無法判斷天氣好壞" }
       ]
     },
     {
       "id": 40,
-      "title": "",
-      "answer": "",
+      "title": "哪一種力阻礙風由高壓吹向低壓:",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "柯氏力(Coioslis force)" },
+        { "id": 2, "option": "B", "text": "地表摩擦力" },
+        { "id": 3, "option": "C", "text": "氣壓梯度力(Pressure gradient force)" }
       ]
     },
     {
       "id": 41,
-      "title": "",
-      "answer": "",
+      "title": "在北半球，低氣壓的特性為:",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "反氣旋式氣流而且伴隨下降的空氣" },
+        { "id": 2, "option": "B", "text": "受柯氏力影響為氣旋式流動" },
+        { "id": 3, "option": "C", "text": "受柯氏力影響為反氣旋式流動" }
       ]
     },
     {
       "id": 42,
-      "title": "",
-      "answer": "",
+      "title": "對流層頂的特性為:",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "對流層頂高度全球一致" },
+        { "id": 2, "option": "B", "text": "環境溫度變化率驟變" },
+        { "id": 3, "option": "C", "text": "雲頂發展極限位置" }
       ]
     },
     {
       "id": 43,
-      "title": "",
-      "answer": "",
+      "title": "標準大氣於 一萬呎時的溫度是:",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "–5°C" },
+        { "id": 2, "option": "B", "text": "–15°C" },
+        { "id": 3, "option": "C", "text": "+5°C" }
       ]
     },
     {
       "id": 44,
-      "title": "",
-      "answer": "",
+      "title": "標準大氣於海平面的溫度及氣壓是:",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "15°C 及 29.92吋 水銀柱高" },
+        { "id": 2, "option": "B", "text": "59°F 及 1013.2吋 水銀柱高" },
+        { "id": 3, "option": "C", "text": "15°C 及 29.92百帕" }
       ]
     },
     {
       "id": 45,
-      "title": "",
-      "answer": "",
+      "title": "標準大氣於 兩萬呎時的溫度是:",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "–15°C" },
+        { "id": 2, "option": "B", "text": "–20°C" },
+        { "id": 3, "option": "C", "text": "–25°C" }
       ]
     },
     {
       "id": 46,
-      "title": "",
-      "answer": "",
+      "title": "天空出現莢狀高積雲（ lenticular altocumulus ）表示：",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "靜風" },
+        { "id": 2, "option": "B", "text": "很強的亂流" },
+        { "id": 3, "option": "C", "text": "嚴重積冰（icing conditions）" }
       ]
     },
     {
       "id": 47,
-      "title": "",
-      "answer": "",
+      "title": "哪一種天氣型態造成地面逆溫（inversion）:",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "夜間且天空晴朗,微風或靜風造成的" },
+        { "id": 2, "option": "B", "text": "地表加熱後快速的傳送到不穩定大氣造成的" },
+        { "id": 3, "option": "C", "text": "大範圍的積雲且雲底的高度一致" }
       ]
     },
     {
       "id": 48,
-      "title": "",
-      "answer": "",
+      "title": "哪一種關於平流霧（advection fog）的敘述正確:",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "緩慢形成,快速消散" },
+        { "id": 2, "option": "B", "text": "只在夜間或日出時形成的" },
+        { "id": 3, "option": "C", "text": "無論白天或夜間都有可能形成而且比輻射霧（ radiation fog）持續的時間久" }
       ]
     },
     {
       "id": 49,
-      "title": "",
-      "answer": "",
+      "title": "決定天空中形成層雲(stratiform)或積雲(cumuliform)的主要原因是",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "抬升方式" },
+        { "id": 2, "option": "B", "text": "大氣的穩定度(stability)" },
+        { "id": 3, "option": "C", "text": "空氣抬升時的溫度" }
       ]
     },
     {
       "id": 50,
-      "title": "",
-      "answer": "",
+      "title": "有關對流(convective circulation)形成的原因為何?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "冷空氣下降強,導致熱空氣上升" },
+        { "id": 2, "option": "B", "text": "熱空氣因其密度較小而上升" },
+        { "id": 3, "option": "C", "text": "地面熱空氣較冷空氣多, 且因熱空氣密度較小產生上升運動" }
       ]
     },
     {
       "id": 51,
-      "title": "",
-      "answer": "",
+      "title": "雷雨的'積雲階段(cumulus stage)',其特性為何:",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "滾軸雲 (Roll cloud)" },
+        { "id": 2, "option": "B", "text": "連續的上升氣流" },
+        { "id": 3, "option": "C", "text": "開始下雨" }
       ]
     },
     {
       "id": 52,
-      "title": "",
-      "answer": "",
+      "title": "哪一種危害性天氣夾帶強風, 冰雹(hail)及龍捲風(tornadoes)?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "緩慢移動的暖鋒(warm fronts）" },
+        { "id": 2, "option": "B", "text": "颮線(Squall Line)" },
+        { "id": 3, "option": "C", "text": "快速移動的囚錮鋒（occluded fronts）" }
       ]
     },
     {
       "id": 53,
-      "title": "",
-      "answer": "",
+      "title": "雷雨產生的亂流發生位置為何?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "亂流可以延伸至雷雨雲外 50 哩範圍內" },
+        { "id": 2, "option": "B", "text": "亂流只有風發生在積雨雲底及水平方向5 哩範圍內" },
+        { "id": 3, "option": "C", "text": "亂流可以延伸至雷雨雲外20哩範圍內" }
       ]
     },
     {
       "id": 54,
-      "title": "",
-      "answer": "",
+      "title": "根據下列 METAR,預估對流雲(convective-type cumuliform clouds)底高度為何? KTUS … 08004KT 4SM HZ ….. 26/04 A2995 RMK RAE36",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "4,400 呎" },
+        { "id": 2, "option": "B", "text": "8,800 呎" },
+        { "id": 3, "option": "C", "text": "17,600 呎" }
       ]
     },
     {
       "id": 55,
-      "title": "",
-      "answer": "",
+      "title": "地面天氣圖（Surface Analysis Chart)上相等的海平面氣壓值（sea level pressure）的連出來的線稱為:",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "等壓線 (isobars)" },
+        { "id": 2, "option": "B", "text": "等偏角線 (isogons)" },
+        { "id": 3, "option": "C", "text": "毫巴(millibars)" }
       ]
     },
     {
       "id": 56,
-      "title": "",
-      "answer": "",
+      "title": "地面天氣圖（Surface Analysis Chart)上,等壓線 (isobars)較密集表示:",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "氣壓梯度(pressure gradient)較小" },
+        { "id": 2, "option": "B", "text": "氣壓梯度(pressure gradient)較大" },
+        { "id": 3, "option": "C", "text": "溫度梯度（temperature gradient)較大" }
       ]
     },
     {
       "id": 57,
-      "title": "",
-      "answer": "",
+      "title": "TAF 中 'P6SM' 表示,能見度大於:",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "6 海浬" },
+        { "id": 2, "option": "B", "text": "6 英哩" },
+        { "id": 3, "option": "C", "text": "6 公里" }
       ]
     },
     {
       "id": 58,
-      "title": "",
-      "answer": "",
+      "title": "哪一種天氣資料可以提供落地時機場的天氣資料?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "低層大氣顯著危害天氣圖（Low-level Prog Chart）" },
+        { "id": 2, "option": "B", "text": "雷達天氣圖（Radar Summary and weather depiction charts）" },
+        { "id": 3, "option": "C", "text": "TAF" }
       ]
     },
     {
       "id": 59,
-      "title": "",
-      "answer": "",
+      "title": "'VC'表示機場附近的天氣資料,其範圍是?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "機場附近8到16公里的範圍" },
+        { "id": 2, "option": "B", "text": "機場中心至其附近8公里的範圍" },
+        { "id": 3, "option": "C", "text": "機場附近16公里以外的範圍" }
       ]
     },
     {
       "id": 60,
-      "title": "",
-      "answer": "",
+      "title": "根據下列 METAR,12日 0230Z 風速為何? RCTP 120230Z 25017KT 8000 -SHRA FEW012 BKN025 OVC090 27/24 Q0995 TEMPO 1500 SHRA=",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "25節" },
+        { "id": 2, "option": "B", "text": "17節" },
+        { "id": 3, "option": "C", "text": "50節" }
       ]
     },
     {
       "id": 61,
-      "title": "",
-      "answer": "",
+      "title": "根據下列 METAR,12日0230Z 能見度為何? RCTP 120230Z 25017KT 8000 -SHRA FEW012 BKN025 OVC090 27/24 Q0995 TEMPO 1500 SHRA=",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "1500公尺" },
+        { "id": 2, "option": "B", "text": "1500呎" },
+        { "id": 3, "option": "C", "text": "8000公尺" }
       ]
     },
     {
       "id": 62,
-      "title": "",
-      "answer": "",
+      "title": "根據下列 METAR,12日0230Z 雲幕高 （Ceiling)為何? RCTP 120230Z 25017KT 8000 -SHRA FEW012 BKN025 OVC090 27/24 Q0995 TEMPO 1500 SHRA=",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "1200呎" },
+        { "id": 2, "option": "B", "text": "9000呎" },
+        { "id": 3, "option": "C", "text": "2500呎" }
       ]
     },
     {
       "id": 63,
-      "title": "",
-      "answer": "",
+      "title": "根據下列 METAR,12日 0230Z 露點溫度（Dew Point Temperature）為何? RCTP 120230Z 25017KT 8000 -SHRA FEW012 BKN025 OVC090 27/24 Q0995 TEMPO 1500 SHRA=",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "24°C" },
+        { "id": 2, "option": "B", "text": "27°C" },
+        { "id": 3, "option": "C", "text": "30°C" }
       ]
     },
     {
       "id": 64,
-      "title": "",
-      "answer": "",
+      "title": "根據下列 METAR,12日 0230Z 溫度為何? RCTP 120230Z 25017KT 8000 -SHRA FEW012 BKN025 OVC090 27/24 Q0995 TEMPO 1500 SHRA=",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "24度C" },
+        { "id": 2, "option": "B", "text": "27度F" },
+        { "id": 3, "option": "C", "text": "27度C" }
       ]
     },
     {
       "id": 65,
-      "title": "",
-      "answer": "",
+      "title": "根據下列 METAR,12日 0230Z 高度表撥值(QNH)為何? RCTP 120230Z 25017KT 8000 -SHRA FEW012 BKN025 OVC090 27/24 Q0995 TEMPO 1500 SHRA=",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "995 mb" },
+        { "id": 2, "option": "B", "text": "27吋 水銀汞柱高(in-Hg)" },
+        { "id": 3, "option": "C", "text": "1012 mb" }
       ]
     },
     {
       "id": 66,
-      "title": "",
-      "answer": "",
+      "title": "所有天氣的自然變化過程(physical process), 都是來自於，或是都會伴隨著產生",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "空氣的移動" },
+        { "id": 2, "option": "B", "text": "氣壓的壓差" },
+        { "id": 3, "option": "C", "text": "熱交換" }
       ]
     },
     {
       "id": 67,
-      "title": "",
-      "answer": "",
+      "title": "造成各個氣象觀測站間高度表撥定值(QNH)不同的原因為何",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "地表受熱不均勻" },
+        { "id": 2, "option": "B", "text": "地表高低之不同" },
+        { "id": 3, "option": "C", "text": "科氏力" }
       ]
     },
     {
       "id": 68,
-      "title": "",
-      "answer": "",
+      "title": "離地表5000呎高度的風向是西南風，但地表的風向是南風。此一風向差異的最主要原因是",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "高高度的壓差梯度較大" },
+        { "id": 2, "option": "B", "text": "風與地表之間的摩擦" },
+        { "id": 3, "option": "C", "text": "地表的科氏力較強" }
       ]
     },
     {
       "id": 69,
-      "title": "",
-      "answer": "",
+      "title": "與對流循環有關的海風是由何所造成的",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "溫暖、且密度較大的空氣自海上流向內陸" },
+        { "id": 2, "option": "B", "text": "水吸收及輻射熱的速度較陸地為快" },
+        { "id": 3, "option": "C", "text": "冷而密度較大的空氣自海上流向內陸" }
       ]
     },
     {
       "id": 70,
-      "title": "",
-      "answer": "",
+      "title": "上昇熱氣流的發展需仰賴",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "反時鐘方向旋轉的循環" },
+        { "id": 2, "option": "B", "text": "逆溫" },
+        { "id": 3, "option": "C", "text": "太陽光加熱" }
       ]
     },
     {
       "id": 71,
-      "title": "",
-      "answer": "",
+      "title": "兩個不同氣團間的交界面稱做",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "鋒面減弱(frontolysis)" },
+        { "id": 2, "option": "B", "text": "鋒面形成(frontogenesis)" },
+        { "id": 3, "option": "C", "text": "鋒面" }
       ]
     },
     {
       "id": 72,
-      "title": "",
-      "answer": "",
+      "title": "飛越鋒面後一定會發生的天氣現象改變是",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "風向" },
+        { "id": 2, "option": "B", "text": "降雨類型" },
+        { "id": 3, "option": "C", "text": "氣團的穩定度" }
       ]
     },
     {
       "id": 73,
-      "title": "",
-      "answer": "",
+      "title": "跨越鋒面最容易注意到的不連貫性是",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "溫度改變" },
+        { "id": 2, "option": "B", "text": "雲的覆蓋面增加" },
+        { "id": 3, "option": "C", "text": "相對濕度增加" }
       ]
     },
     {
       "id": 74,
-      "title": "",
-      "answer": "",
+      "title": "如果在你打算落地的機場附近有雷雨，則在你的進場落地過程中預期會遭遇到什麼樣的危險天氣現象？",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "降雨造成的靜電(precipitation static)" },
+        { "id": 2, "option": "B", "text": "風切亂流" },
+        { "id": 3, "option": "C", "text": "穩定的降雨" }
       ]
     },
     {
       "id": 75,
-      "title": "",
-      "answer": "",
+      "title": "通常生成於冷鋒前端的一條非鋒面性狹窄的雷雨帶叫做什麼",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "鋒前系統(prefrontal system)" },
+        { "id": 2, "option": "B", "text": "颮線(squall line)" },
+        { "id": 3, "option": "C", "text": "乾燥線(dry line)" }
       ]
     },
     {
       "id": 76,
-      "title": "",
-      "answer": "",
+      "title": "雷雨的生成需要些什麼條件？",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "濕度大、上升力(lifting force)以及不穩定的狀況" },
+        { "id": 2, "option": "B", "text": "濕度大、溫度高以及積雲(cumulus clouds)" },
+        { "id": 3, "option": "C", "text": "上升力(lifting force)、潮濕的空氣以及大量覆蓋的雲(extensive cloud cover)" }
       ]
     },
     {
       "id": 77,
-      "title": "",
-      "answer": "",
+      "title": "在雷雨的生命週其中，哪一個階段最顯著的特徵是下沈氣流(downdrafts)？",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "累積期(cumulus)" },
+        { "id": 2, "option": "B", "text": "消散期(dissipating)" },
+        { "id": 3, "option": "C", "text": "成熟期(mature)" }
       ]
     },
     {
       "id": 78,
-      "title": "",
-      "answer": "",
+      "title": "雷雨在哪個階段達到其最大強度",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "成熟期(mature stage)" },
+        { "id": 2, "option": "B", "text": "下沈氣流期(downdraft stage)" },
+        { "id": 3, "option": "C", "text": "積雲期(cumulus stage)" }
       ]
     },
     {
       "id": 79,
-      "title": "",
-      "answer": "",
+      "title": "哪一項特徵通常與雷雨的積雲期(cumulus stage)有關？",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "捲軸雲(roll cloud)" },
+        { "id": 2, "option": "B", "text": "持續的上升氣流(updraft)" },
+        { "id": 3, "option": "C", "text": "經常發生閃電" }
       ]
     },
     {
       "id": 80,
-      "title": "",
-      "answer": "",
+      "title": "哪一項天氣現象代表雷雨成熟期(mature stage)的開始？",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "砧狀雲(anvil top)的出現" },
+        { "id": 2, "option": "B", "text": "降雨(precipitation)開始落下" },
+        { "id": 3, "option": "C", "text": "雲的成長率最大時" }
       ]
     },
     {
       "id": 81,
-      "title": "",
-      "answer": "",
+      "title": "通常會對飛機產生最強烈危害的雷雨是",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "颮線(squall line)雷雨" },
+        { "id": 2, "option": "B", "text": "穩定狀態的雷雨(steady-state thunderstorms)" },
+        { "id": 3, "option": "C", "text": "暖鋒雷雨" }
       ]
     },
     {
       "id": 82,
-      "title": "",
-      "answer": "",
+      "title": "哪一項天氣現象總是會伴隨著表雷雨發生？",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "閃電" },
+        { "id": 2, "option": "B", "text": "大雨" },
+        { "id": 3, "option": "C", "text": "冰雹" }
       ]
     },
     {
       "id": 83,
-      "title": "",
-      "answer": "",
+      "title": "在飛行中要形成結構性結冰(structural icing)的一項必須的條件是",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "溫度與露點溫度(dewpoint)的差距小" },
+        { "id": 2, "option": "B", "text": "層狀雲(stratiform cloud)" },
+        { "id": 3, "option": "C", "text": "可見水氣(visible moisture)" }
       ]
     },
     {
       "id": 84,
-      "title": "",
-      "answer": "",
+      "title": "在哪種環境下飛機的結構性結冰(structural icing)會有最大的累積率？",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "積雲(cumulus clouds)且溫度低於零度" },
+        { "id": 2, "option": "B", "text": "凍毛雨(freezing drizzle)" },
+        { "id": 3, "option": "C", "text": "凍雨(freezing rain)" }
       ]
     },
     {
       "id": 85,
-      "title": "",
-      "answer": "",
+      "title": "在地表有冰霰(ice pellet)，則證明",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "該地區有雷雨" },
+        { "id": 2, "option": "B", "text": "該區曾有冷鋒通過" },
+        { "id": 3, "option": "C", "text": "其上空有逆溫現象(temperature inversion)且更高之上空有下凍雨(freezing rain)" }
       ]
     },
     {
       "id": 86,
-      "title": "",
-      "answer": "",
+      "title": "一種狀如杏仁或鏡片狀的雲，看來似乎是靜止的，但其中可能存有超過50節風的雲名為",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "不活躍的鋒面雲(inactive frontal cloud)" },
+        { "id": 2, "option": "B", "text": "漏斗雲(funnel cloud)" },
+        { "id": 3, "option": "C", "text": "筴狀雲(lenticular cloud)" }
       ]
     },
     {
       "id": 87,
-      "title": "",
-      "answer": "",
+      "title": "一種在會出現在山岳波(mountain wave)頂端，靜止的鏡片狀雲名為",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "乳房狀高積雲(mamatocumulus cloud)" },
+        { "id": 2, "option": "B", "text": "靜止的筴狀雲(lenticular cloud)" },
+        { "id": 3, "option": "C", "text": "捲軸雲(roll cloud)" }
       ]
     },
     {
       "id": 88,
-      "title": "",
-      "answer": "",
+      "title": "當有超過40節的風在下列何狀況下即應預期會有山岳波亂流(mountain wave turbulence)",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "當風橫向吹過山脊，且氣流穩定時" },
+        { "id": 2, "option": "B", "text": "當風向下吹進山谷，且氣流不穩定時" },
+        { "id": 3, "option": "C", "text": "當風的吹向與山嶺平行，且氣流穩定時" }
       ]
     },
     {
       "id": 89,
-      "title": "",
-      "answer": "",
+      "title": "風切(wind shear)會發生在何處？",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "只有在高高度" },
+        { "id": 2, "option": "B", "text": "只有在低高度" },
+        { "id": 3, "option": "C", "text": "在所有高度的任何方向" }
       ]
     },
     {
       "id": 90,
-      "title": "",
-      "answer": "",
+      "title": "當地表以上2,000到4,000英呎高度的風速至少有多大時，飛行員即可預期在逆溫(temperature inversion)層中會有風切區(wind-shear zone)",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "10節" },
+        { "id": 2, "option": "B", "text": "15節" },
+        { "id": 3, "option": "C", "text": "25節" }
       ]
     },
     {
       "id": 91,
-      "title": "",
-      "answer": "",
+      "title": "下列何情況中預期會有嚴重的風切？",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "當穩定的空氣越過山時，會以層流的方式形成莢狀雲(lenticular cloud)" },
+        { "id": 2, "option": "B", "text": "在低空逆溫(temperature inversion),層、鋒面區域(frontal zones)及晴空亂流(clear air turbulence)區" },
+        { "id": 3, "option": "C", "text": "在鋒面過境後形成層積雲(stratocumulus)顯示有機械混合層(mechanical mixing)" }
       ]
     },
     {
       "id": 92,
-      "title": "",
-      "answer": "",
+      "title": "若溫度與露點溫度間的差距很小且該差距在持續縮小中，在華氏62度的情形下，最容易生成哪種型態的天氣",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "凍雨(freezing precipitation)" },
+        { "id": 2, "option": "B", "text": "雷雨" },
+        { "id": 3, "option": "C", "text": "霧或低雲" }
       ]
     },
     {
       "id": 93,
-      "title": "",
-      "answer": "",
+      "title": "『露點溫度』代表什麼意思？",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "在該溫度下凝結(condensation)率等於蒸發(evaporation)率" },
+        { "id": 2, "option": "B", "text": "在該溫度下一定會生成露(dew)" },
+        { "id": 3, "option": "C", "text": "將空氣降溫，降到使該空氣達到飽和(saturated)時的溫度" }
       ]
     },
     {
       "id": 94,
-      "title": "",
-      "answer": "",
+      "title": "空氣中能夠含水蒸氣量(water vapor)的多寡取決於",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "露點溫度(dewpoint)" },
+        { "id": 2, "option": "B", "text": "氣溫" },
+        { "id": 3, "option": "C", "text": "空氣之穩定度" }
       ]
     },
     {
       "id": 95,
-      "title": "",
-      "answer": "",
+      "title": "什麼作用可將水汽(moisture)加入未飽和(unsaturated)的空氣中",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "蒸發(evaporation)及昇華(sumblimation)" },
+        { "id": 2, "option": "B", "text": "加熱(heating)及凝結(condensation)" },
+        { "id": 3, "option": "C", "text": "過飽和(supersaturation)及蒸發(evaporation)" }
       ]
     },
     {
       "id": 96,
-      "title": "",
-      "answer": "",
+      "title": "什麼情形下會生成霜？",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "當小滴的水汽(moisture)落在溫度在冰點(freezing)或低於冰點的表面上" },
+        { "id": 2, "option": "B", "text": "當小滴的水汽(moisture)所落下的表面，其溫度等於或低於其周邊鄰近空氣的露點溫度，且該露點溫度(dewpoint)低於冰點" },
+        { "id": 3, "option": "C", "text": "當小滴的水汽(moisture)所落下的表面，其周邊鄰近空氣的溫度等於或低於低於冰點" }
       ]
     },
     {
       "id": 97,
-      "title": "",
-      "answer": "",
+      "title": "什麼時候一定會生成雲、霧、或是露",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "水蒸氣凝結(condense)時" },
+        { "id": 2, "option": "B", "text": "有水蒸氣時" },
+        { "id": 3, "option": "C", "text": "相對濕度(relative humidity)達到100%時" }
       ]
     },
     {
       "id": 98,
-      "title": "",
-      "answer": "",
+      "title": "哪種霧會有低空亂流(low-level turbulence)及危險的結冰現象？",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "下雨造成的霧(rain-induced fog)" },
+        { "id": 2, "option": "B", "text": "上坡霧(upslope fog)" },
+        { "id": 3, "option": "C", "text": "蒸汽霧(steam fog)" }
       ]
     },
     {
       "id": 99,
-      "title": "",
-      "answer": "",
+      "title": "在哪種情況下最容易形成平流霧 (advection fog) ？",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "山坡迎風面上的一個溫暖潮濕的氣團 (air mass)" },
+        { "id": 2, "option": "B", "text": "在冬天裡一個氣團從海岸移向內陸" },
+        { "id": 3, "option": "C", "text": "一股微風將較冷的空氣吹到海上" }
       ]
     },
     {
       "id": 100,
-      "title": "",
-      "answer": "",
+      "title": "哪種情況最易導致輻射霧 (radiation fog) 的生成？",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "在清澈無風的夜裡，溫暖潮濕的空氣處於低平地區的上空" },
+        { "id": 2, "option": "B", "text": "潮濕的熱帶空氣移到冷的近海水域 (offshore water) 之上" },
+        { "id": 3, "option": "C", "text": "冷空氣移到較暖的空氣之上" }
       ]
     },
     {
       "id": 101,
-      "title": "",
-      "answer": "",
+      "title": "何種霧需要有風才會生成？",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "輻射霧 (radiation fog)及冰霧 (ice fog)" },
+        { "id": 2, "option": "B", "text": "蒸氣霧 (steam fog)及地面霧 (ground fog)" },
+        { "id": 3, "option": "C", "text": "平流霧 (advection fog)及上坡霧 (upslope fog)" }
       ]
     },
     {
       "id": 102,
-      "title": "",
-      "answer": "",
+      "title": "雲是依照什麼來分成高雲族,中雲族,低雲族,直展雲族？",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "外型" },
+        { "id": 2, "option": "B", "text": "高度" },
+        { "id": 3, "option": "C", "text": "組成成分" }
       ]
     },
     {
       "id": 103,
-      "title": "",
-      "answer": "",
+      "title": "'nimbus' 這個用來給雲命名的字尾，是什麼意思？",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "垂直向上發展的雲" },
+        { "id": 2, "option": "B", "text": "雨雲" },
+        { "id": 3, "option": "C", "text": "含有冰霰(ice pellet)的中層雲" }
       ]
     },
     {
       "id": 104,
-      "title": "",
-      "answer": "",
+      "title": "形成積雨雲(cumulonimbus)所必須的條件為上升作用(lifting action)以及",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "含有過多凝結核(condensation nuclei)的不穩定空氣" },
+        { "id": 2, "option": "B", "text": "不穩定的潮濕空氣" },
+        { "id": 3, "option": "C", "text": "穩定或是不穩定的空氣" }
       ]
     },
     {
       "id": 105,
-      "title": "",
-      "answer": "",
+      "title": "哪種雲會有最嚴重的亂流(turbulence)？",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "塔狀積雲(towering cumulus)" },
+        { "id": 2, "option": "B", "text": "積雨雲(cumulonimbus)" },
+        { "id": 3, "option": "C", "text": "雨層雲(nimbostratus)" }
       ]
     },
     {
       "id": 106,
-      "title": "",
-      "answer": "",
+      "title": "哪種雲顯示有對流所造成的亂流(convective turbulence)？",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "卷雲(cirrus clouds)" },
+        { "id": 2, "option": "B", "text": "雨層雲(nimbostratus clouds)" },
+        { "id": 3, "option": "C", "text": "塔狀積雲(towering cumulus clouds)" }
       ]
     },
     {
       "id": 107,
-      "title": "",
-      "answer": "",
+      "title": "若地面空氣溫度為華氏82度，而露點溫度為華氏38度，則飛行員可預期積狀雲(cumuliform clouds)的雲底距離地面高度大約為多少？",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "地面上(AGL) 9,000英尺" },
+        { "id": 2, "option": "B", "text": "地面上(AGL) 10,000英尺" },
+        { "id": 3, "option": "C", "text": "地面上(AGL) 11,000英尺" }
       ]
     },
     {
       "id": 108,
-      "title": "",
-      "answer": "",
+      "title": "若從海平面算起(MSL)1,000英尺的地面空氣溫度為華氏70度，而露點溫度為華氏48度，則積雲(cumulus clouds)的雲底距離地面高度大約為多少？",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "從海平面算起(MSL) 4,000英尺" },
+        { "id": 2, "option": "B", "text": "從海平面算起(MSL) 5,000英尺" },
+        { "id": 3, "option": "C", "text": "從海平面算起(MSL) 6,000英尺" }
       ]
     },
     {
       "id": 109,
-      "title": "",
-      "answer": "",
+      "title": "穩定空氣的特徵為何？",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "層狀雲 (stratiform clouds)" },
+        { "id": 2, "option": "B", "text": "能見度(visibility) 無限大" },
+        { "id": 3, "option": "C", "text": "積雲(cumulus clouds)" }
       ]
     },
     {
       "id": 110,
-      "title": "",
-      "answer": "",
+      "title": "高空風預測(Winds Aloft Forecast)所用之數值為何？",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "磁向(magnetic direction)及節(knots)" },
+        { "id": 2, "option": "B", "text": "磁向(magnetic direction)及每小時英哩(miles per hour)" },
+        { "id": 3, "option": "C", "text": "真向(true direction)及節(knots)" }
       ]
     },
     {
       "id": 111,
-      "title": "",
-      "answer": "",
+      "title": "(參閱chart 6 )ZGGG 18,000英呎高空風的預報為何？(如圖A24_chart6)",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "真向(true)260度，速度10節" },
+        { "id": 2, "option": "B", "text": "真向(true)23度，速度6節" },
+        { "id": 3, "option": "C", "text": "磁向(magnetic)235度，速度6節最大陣風(gust)到16節" }
+      ],
+      "image": 111
     },
     {
       "id": 112,
-      "title": "",
-      "answer": "",
+      "title": "(參閱chart 6 )ZSSS附近29,000英呎高空風及溫度的預報為何？(如圖A24_chart6)",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "磁向(magnetic)023度，速度53節，溫度攝氏47度" },
+        { "id": 2, "option": "B", "text": "真向(true)300度，速度70節，溫度攝氏負35度" },
+        { "id": 3, "option": "C", "text": "真向(true)235度，速度34節，溫度攝氏負7度" }
+      ],
+      "image": 112
     },
     {
       "id": 113,
-      "title": "",
-      "answer": "",
+      "title": "(參閱chart 6 ), 請問12小時顯著天氣預報圖(Significant Weather Prognostic Chart)上，在加州南部的天氣標示(weather symbol)代表什麼 (如圖A24_Fig6)",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "中度亂流，從地面到18,000 英呎" },
+        { "id": 2, "option": "B", "text": "頂端達到18,000 英呎的雷雨" },
+        { "id": 3, "option": "C", "text": "晴空亂流下限是18,000 英呎" }
+      ],
+      "image": 113
     },
     {
       "id": 114,
-      "title": "",
-      "answer": "",
+      "title": "參閱figure 6 ), 在24小時顯著天氣預報圖(Significant Weather Prognostic Chart) 上，奧克拉荷馬(Oklahoma)州東北部的結冰層高度是多少？ (如圖A24_Fig6)",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "4,000 英呎" },
+        { "id": 2, "option": "B", "text": "8,000 英呎" },
+        { "id": 3, "option": "C", "text": "10,000 英呎" }
+      ],
+      "image": 114
     },
     {
       "id": 115,
-      "title": "",
-      "answer": "",
+      "title": "參閱figure 6 ), 飛行員如何善用顯著天氣預報圖(Significant Weather Prognostic Chart)？ (如圖A24_Fig6)",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "用在所有高度上做綜合性的考量" },
+        { "id": 2, "option": "B", "text": "用以決定應當避讓之區域(結冰層及亂流)" },
+        { "id": 3, "option": "C", "text": "用以分析現有的鋒面活動及雲層之覆蓋面積" }
+      ],
+      "image": 115
     },
     {
       "id": 116,
-      "title": "",
-      "answer": "",
+      "title": "參閱figure 6 ) 位於西部伴隨著冷鋒的低壓預測動向為 (如圖A24_Fig6)",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "以30節的速度朝東移動" },
+        { "id": 2, "option": "B", "text": "以12節的速度朝東北移動" },
+        { "id": 3, "option": "C", "text": "以30節的速度朝東南移動" }
+      ],
+      "image": 116
     },
     {
       "id": 117,
-      "title": "",
-      "answer": "",
+      "title": "顯著天氣報告(SIGMET)是對哪些飛機發布的，有關危害天氣狀況的警告？",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "僅針對小飛機" },
+        { "id": 2, "option": "B", "text": "僅針對大飛機" },
+        { "id": 3, "option": "C", "text": "所有的飛機" }
       ]
     },
     {
       "id": 118,
-      "title": "",
-      "answer": "",
+      "title": "(參閱figure 1) N45W170之亂流強度為何？ (如圖A24_Fig1)",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "輕度亂流" },
+        { "id": 2, "option": "B", "text": "中度亂流" },
+        { "id": 3, "option": "C", "text": "強烈亂流" }
+      ],
+      "image": 118
     },
     {
       "id": 119,
-      "title": "",
-      "answer": "",
+      "title": "(參閱figure 1) N45W170噴射氣流狀況為何？ (如圖A24_Fig1)",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "於FL280有噴射氣流強度100kts" },
+        { "id": 2, "option": "B", "text": "於FL370 有噴射氣流強度110kts" },
+        { "id": 3, "option": "C", "text": "於FL360有噴射氣流強度100kts" }
+      ],
+      "image": 119
     },
     {
       "id": 120,
-      "title": "",
-      "answer": "",
+      "title": "(參閱figure 1) HIGH LEVEL SIGWX CHART預報有效時間為何？ (如圖A24_Fig1)",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "2010年5月06日00Z世界標準時" },
+        { "id": 2, "option": "B", "text": "2010年5月07日00Z世界標準時" },
+        { "id": 3, "option": "C", "text": "2010年5月06日00台北地方時" }
+      ],
+      "image": 120
     },
     {
       "id": 121,
-      "title": "",
-      "answer": "",
+      "title": "(參閱figure 1) N15E140之標記？ (如圖A24_Fig1)",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "Turbulence level FL500" },
+        { "id": 2, "option": "B", "text": "CEILING level FL500" },
+        { "id": 3, "option": "C", "text": "tropopause level FL500" }
+      ],
+      "image": 121
     },
     {
       "id": 122,
-      "title": "",
-      "answer": "",
+      "title": "(參閱figure 1) 之圖表有效高度為？ (如圖A24_Fig1)",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "FL250以下" },
+        { "id": 2, "option": "B", "text": "FL250-FL650" },
+        { "id": 3, "option": "C", "text": "全部皆對" }
+      ],
+      "image": 122
     },
     {
       "id": 123,
-      "title": "",
-      "answer": "",
+      "title": "(參閱figure 1) N30E140 之CB雲頂高為何？ (如圖A24_Fig1)",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "FL 250" },
+        { "id": 2, "option": "B", "text": "FL430" },
+        { "id": 3, "option": "C", "text": "由地表海平面至FL320" }
+      ],
+      "image": 123
     },
     {
       "id": 124,
-      "title": "",
-      "answer": "",
+      "title": "(參閱figure 1) 於N42W125之標記所指為何？ (如圖A24_Fig1)",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "輕度C.A.T." },
+        { "id": 2, "option": "B", "text": "中度C.A.T." },
+        { "id": 3, "option": "C", "text": "強度C.A.T." }
+      ],
+      "image": 124
     },
     {
       "id": 125,
-      "title": "",
-      "answer": "",
+      "title": "(參閱figure 1) S10E110 之雲頂高為？ (如圖A24_Fig1)",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "FL250" },
+        { "id": 2, "option": "B", "text": "SEA level-FL320" },
+        { "id": 3, "option": "C", "text": "FL530" }
+      ],
+      "image": 125
     },
     {
       "id": 126,
-      "title": "",
-      "answer": "",
+      "title": "(參閱figure 1) 於N40W130之標記為何意義？ (如圖A24_Fig1)",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "亂流層高FL360" },
+        { "id": 2, "option": "B", "text": "FL350之噴射氣流強度100kts" },
+        { "id": 3, "option": "C", "text": "雲系之移動方向" }
+      ],
+      "image": 126
     },
     {
       "id": 127,
-      "title": "",
-      "answer": "",
+      "title": "(參閱figure 1) 請問於本圖中是否可以找到輕度亂流的資料？ (如圖A24_Fig1)",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "無輕度亂流之標示" },
+        { "id": 2, "option": "B", "text": "N40E164之亂流為輕度亂流" },
+        { "id": 3, "option": "C", "text": "全部皆非" }
+      ],
+      "image": 127
     },
     {
       "id": 128,
-      "title": "",
-      "answer": "",
+      "title": "(參閱figure 1) S25E160標記之亂流高度為何？ (如圖A24_Fig1)",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "FL250-FL450" },
+        { "id": 2, "option": "B", "text": "FL350-FL470" },
+        { "id": 3, "option": "C", "text": "FL250-FL500" },
+        { "id": 4, "option": "D", "text": "全部皆非" }
+      ],
+      "image": 128
     },
     {
       "id": 129,
-      "title": "",
-      "answer": "",
+      "title": "(參閱figure 2) ，請問200hPa之標準海平面氣壓高度為何？ (如圖A24_Fig2)",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "FL350" },
+        { "id": 2, "option": "B", "text": "FL390" },
+        { "id": 3, "option": "C", "text": "FL200" }
+      ],
+      "image": 129
     },
     {
       "id": 130,
-      "title": "",
-      "answer": "",
+      "title": "(參閱figure B)'對流層頂之高度為何? (如圖A24_FigB)",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "30,000呎" },
+        { "id": 2, "option": "B", "text": "40,000呎" },
+        { "id": 3, "option": "C", "text": "50,000呎" }
+      ],
+      "image": 130
     },
     {
       "id": 131,
-      "title": "",
-      "answer": "",
+      "title": "(參閱figure C)符號所示為何? (如圖A24_FigC)",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "地區性低壓其高度27,000呎" },
+        { "id": 2, "option": "B", "text": "地區性結冰層其高度 27,000呎" },
+        { "id": 3, "option": "C", "text": "該處對流層頂高度為 27,000呎" },
+        { "id": 4, "option": "D", "text": "對流層頂高度最高 27,000呎" }
+      ],
+      "image": 131
     },
     {
       "id": 132,
-      "title": "",
-      "answer": "",
+      "title": "(參閱figure D)顯示對流層頂之高度為何? (如圖A24_FigD)",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "30,000呎" },
+        { "id": 2, "option": "B", "text": "40,000呎" },
+        { "id": 3, "option": "C", "text": "50,000呎" }
+      ],
+      "image": 132
     },
     {
       "id": 133,
-      "title": "",
-      "answer": "",
+      "title": "(參閱figure E )符號所示為何? (如圖A24_FigE)",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "地區性高壓其高度43,000呎" },
+        { "id": 2, "option": "B", "text": "地區性結冰層其高度43,000呎" },
+        { "id": 3, "option": "C", "text": "該處對流層頂高度為 43,000呎" },
+        { "id": 4, "option": "D", "text": "對流層頂高度最高43,000呎" }
+      ],
+      "image": 133
     },
     {
       "id": 134,
-      "title": "",
-      "answer": "",
+      "title": "(參閱figure L )符號所示之積冰程度為何? (如圖A24_FigL)",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "輕度積冰" },
+        { "id": 2, "option": "B", "text": "中度積冰" },
+        { "id": 3, "option": "C", "text": "重度積冰" }
+      ],
+      "image": 134
     },
     {
       "id": 135,
-      "title": "",
-      "answer": "",
+      "title": "(參閱figure N )符號所示之亂流程度為何? (如圖A24_FigeN)",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "輕度亂流" },
+        { "id": 2, "option": "B", "text": "中度亂流" },
+        { "id": 3, "option": "C", "text": "強烈亂流" }
+      ],
+      "image": 135
     },
     {
       "id": 136,
-      "title": "",
-      "answer": "",
+      "title": "(參閱figure O)符號所示之亂流程度為何? (如圖A24_FigO)",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "輕度亂流" },
+        { "id": 2, "option": "B", "text": "中度亂流" },
+        { "id": 3, "option": "C", "text": "強烈亂流" }
+      ],
+      "image": 136
     },
     {
       "id": 137,
-      "title": "",
-      "answer": "",
+      "title": "(參閱figure G)符號所示之雲底高度為何? (如圖A24_FigG)",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "38,000呎" },
+        { "id": 2, "option": "B", "text": "27,000呎" },
+        { "id": 3, "option": "C", "text": "未知" }
+      ],
+      "image": 137
     },
     {
       "id": 138,
-      "title": "",
-      "answer": "",
+      "title": "(參閱figure H)符號所示之雲底高度為何? (如圖A24_FigH)",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "38,000呎" },
+        { "id": 2, "option": "B", "text": "27,000呎" },
+        { "id": 3, "option": "C", "text": "未知" }
+      ],
+      "image": 138
     },
     {
       "id": 139,
-      "title": "",
-      "answer": "",
+      "title": "(參閱figure G)符號所示之雲頂高度為何? (如圖A24_FigG)",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "38,000呎" },
+        { "id": 2, "option": "B", "text": "27,000呎" },
+        { "id": 3, "option": "C", "text": "未知" }
+      ],
+      "image": 139
     },
     {
       "id": 140,
-      "title": "",
-      "answer": "",
+      "title": "(參閱figure I )符號所示之雲底高度為何? (如圖A24_FigI)",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "38,000呎" },
+        { "id": 2, "option": "B", "text": "28,000呎" },
+        { "id": 3, "option": "C", "text": "未知" }
+      ],
+      "image": 140
     },
     {
       "id": 141,
-      "title": "",
-      "answer": "",
+      "title": "(參閱figure K)符號所示之積冰程度為何? (如圖A24_FigK)",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "輕度積冰" },
+        { "id": 2, "option": "B", "text": "中度積冰" },
+        { "id": 3, "option": "C", "text": "重度積冰" }
+      ],
+      "image": 141
     },
     {
       "id": 142,
-      "title": "",
-      "answer": "",
+      "title": "(參閱figure P)高空風如下圖表示風速多少？(如圖A24_FigP)",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "110Kts" },
+        { "id": 2, "option": "B", "text": "115Kts" },
+        { "id": 3, "option": "C", "text": "25Kts" }
+      ],
+      "image": 142
     },
     {
       "id": 143,
-      "title": "",
-      "answer": "",
+      "title": "(參閱figure Q)高空預測圖中如圖之數字係代表：(如圖A24_FigQ)",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "風速" },
+        { "id": 2, "option": "B", "text": "溫度" },
+        { "id": 3, "option": "C", "text": "高度" },
+        { "id": 4, "option": "D", "text": "高空雲量" }
+      ],
+      "image": 143
     },
     {
       "id": 144,
-      "title": "",
-      "answer": "",
+      "title": "(參閱figure 3)依據所提供之SIGNIFICANT WEATHER PROGNOSTIC CHART, 自RCTP飛往 ZSQD將遭遇到：(如圖A24_Fig3)",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "中度積冰" },
+        { "id": 2, "option": "B", "text": "中度亂流" },
+        { "id": 3, "option": "C", "text": "重度積冰" },
+        { "id": 4, "option": "D", "text": "強烈亂流" }
+      ],
+      "image": 144
     },
     {
       "id": 145,
-      "title": "",
-      "answer": "",
+      "title": "(參閱figure 3), ROAH 上空雲層之狀況為何：(如圖A24_Fig3)",
+      "answer": "D",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "240-360 hPa之間" },
+        { "id": 2, "option": "B", "text": "240-360毫米之間" },
+        { "id": 3, "option": "C", "text": "從10,000公尺-25,000公尺之間" },
+        { "id": 4, "option": "D", "text": "10,000-25,000英尺之間" }
+      ],
+      "image": 145
     },
     {
       "id": 146,
-      "title": "",
-      "answer": "",
+      "title": "(參閱figure 3) 之有效時間，降落ZGGG，將遭遇到ISOL CB意謂： (如圖A24_Fig3)",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "CB呈線狀排列" },
+        { "id": 2, "option": "B", "text": "CB滿佈所標示之全區" },
+        { "id": 3, "option": "C", "text": "CB呈孤立狀" },
+        { "id": 4, "option": "D", "text": "CB在減弱中" }
+      ],
+      "image": 146
     },
     {
       "id": 147,
-      "title": "",
-      "answer": "",
+      "title": "(參閱figure 4),所提供之300 hPa PROGNOSTIC CHART,此圖氣象與何一高度最為接近：(如圖A24_Fig4)",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "40,000英尺" },
+        { "id": 2, "option": "B", "text": "35,000英尺" },
+        { "id": 3, "option": "C", "text": "30,000英尺" },
+        { "id": 4, "option": "D", "text": "25,000英尺" }
+      ],
+      "image": 147
     },
     {
       "id": 148,
-      "title": "",
-      "answer": "",
+      "title": "(參閱figure 4),所提供之300 hPa PROGNOSTIC CHART,請以內插法，推算RCTP之高空資料應為：(如圖A24_Fig4)",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "風速45KT，溫度-30℉" },
+        { "id": 2, "option": "B", "text": "風速45KT，溫度-30℃" },
+        { "id": 3, "option": "C", "text": "風速95KT，溫度-30℉" },
+        { "id": 4, "option": "D", "text": "風速95KT，溫度-30℃" }
+      ],
+      "image": 148
     }
   ]
 }

@@ -9,6 +9,9 @@
       <span class="title">QUESTION</span>
       <div class="content">{{ question.title }}</div>
     </div>
+    <div v-if="question.image" class="image-view" @click="openViewImage">
+      <span>VIEW IMAGE</span>
+    </div>
     <div class="options">
       <span class="title">ANSWER CHOICES</span>
       <van-radio-group v-model="checked" shape="dot">
@@ -41,6 +44,9 @@
           </div>
         </div>
       </div>
+    </van-popup>
+    <van-popup v-model:show="showImageView">
+      <img :src="`/src/assets/${testTopic}/${question.id}.png`" :alt="question.id">
     </van-popup>
   </div>
 </template>
@@ -76,6 +82,7 @@ const checked = ref('')
 const showExit = ref(false)
 const showGrade = ref(false)
 const showGradeLists = ref(false)
+const showImageView = ref(false)
 const saveSubjectData = ref([])
 
 const lang = computed(() => localStorage.getItem('lang'))
@@ -153,6 +160,10 @@ const exitSelect = (i) => {
   if (i.id === 2) {
     resetData()
   }
+}
+
+const openViewImage = () => {
+  showImageView.value = true
 }
 
 const gradeQuiz = () => {
@@ -299,6 +310,14 @@ onMounted(() => {
   margin-bottom: 40px;
 }
 
+.image-view {
+  padding: 8px 10px 8px 20px;
+  text-align: left;
+  background: #cbc3c3;
+  margin-bottom: 20px;
+  font-size: 16px;
+}
+
 .content {
   width: 100%;
   text-align: start;
@@ -315,6 +334,10 @@ onMounted(() => {
   padding: 10px 20px;
   background: #cbc3c3;
   border-bottom: 1px solid #eee;
+}
+
+::v-deep(.van-radio__label) {
+  text-align: left;
 }
 
 ::v-deep(.van-radio__icon--dot) {
