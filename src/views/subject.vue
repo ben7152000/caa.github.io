@@ -46,7 +46,9 @@
       </div>
     </van-popup>
     <van-popup v-model:show="showImageView">
-      <img :src="`/src/assets/${testTopic}/${question.id}.png`" :alt="question.id">
+      <div class="view-image">
+        <img :src="`/src/assets/${testTopic}/${testTopic === 'management' ? 1 : question.id}.png`" :alt="testTopic + question.id">
+      </div>
     </van-popup>
   </div>
 </template>
@@ -381,5 +383,10 @@ onMounted(() => {
 
 .text-red {
   color: #d30e0e;
+}
+
+img {
+  width: 100%;
+  height: 100%;
 }
 </style>
