@@ -8,7 +8,7 @@
       </div>
       <div class="select-lang">
         <div :class="['tab', { active: activeLang === 'chinese' }]" @click="changeLang('chinese')">Chinese</div>
-        <div :class="['tab', { active: activeLang === 'english' }]" @click="changeLang('english')">English</div>
+<!--        <div :class="['tab', { active: activeLang === 'english' }]" @click="changeLang('english')">English</div>-->
       </div>
       <div class="select-topic">
         <div :class="['tab', { active: activeTopic === 'study' }]" @click="changeTopic('study')">Study</div>
