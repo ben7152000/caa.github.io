@@ -3,2258 +3,2075 @@
   "questions": [
     {
       "id": 1,
-      "title": "",
-      "answer": "",
+      "title": "下列在Class A空域之飛航操作敘述何者正確？",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "航機必須配備合法之測距裝備" },
+        { "id": 2, "option": "B", "text": "必須執行儀器飛航操作" },
+        { "id": 3, "option": "C", "text": "航機必須配備合法之航空識別器" }
       ]
     },
     {
       "id": 2,
-      "title": "",
-      "answer": "",
+      "title": "下列在Class A空域之飛航操作敘述何者正確？",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "航機必須配備許可之測距裝備" },
+        { "id": 2, "option": "B", "text": "航機必須配備許可之航空識別器及高度回報裝置" },
+        { "id": 3, "option": "C", "text": "可以執行目視飛航操作" }
       ]
     },
     {
       "id": 3,
-      "title": "",
-      "answer": "",
+      "title": "下列在Class B空域之飛航操作敘述何者正確？",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "除非PIC具有儀器飛航執照，否則不得執行目視飛航" },
+        { "id": 2, "option": "B", "text": "飛行員在進入該空域操作前必須得到航管許可" },
+        { "id": 3, "option": "C", "text": "單飛之學生飛行員不得於該空域操作" }
       ]
     },
     {
       "id": 4,
-      "title": "",
-      "answer": "",
+      "title": "下列在Class B空域操作之飛行員持照需求敘述何者正確？",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "PIC必須持有私人以上之執照以及儀器飛航執照" },
+        { "id": 2, "option": "B", "text": "PIC必須持有私人以上之執照" },
+        { "id": 3, "option": "C", "text": "單飛之學生飛行員不得於該空域操作" }
       ]
     },
     {
       "id": 5,
-      "title": "",
-      "answer": "",
+      "title": "在Class B空域操作必須裝備下列何種航空器識別器？",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "具有4094識別碼，S模式及C模式功能" },
+        { "id": 2, "option": "B", "text": "除非在離地面1000呎以下操作並得到航管許可，否則必須具有4094識別碼" },
+        { "id": 3, "option": "C", "text": "飛航操作需要有3英里以上的能見度" }
       ]
     },
     {
       "id": 6,
-      "title": "",
-      "answer": "",
+      "title": "下列在Class B空域之飛航操作敘述何者正確？",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "航機必須配備合法之航空器識別器及高度回報裝置" },
+        { "id": 2, "option": "B", "text": "PIC必須持有私人以上之執照以及儀器飛航執照" },
+        { "id": 3, "option": "C", "text": "PIC必須持有學生以上執照" }
       ]
     },
     {
       "id": 7,
-      "title": "",
-      "answer": "",
+      "title": "下列何者為Class B空域下的最高空指示空速？",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "156海浬" },
+        { "id": 2, "option": "B", "text": "200海浬" },
+        { "id": 3, "option": "C", "text": "230海浬" }
       ]
     },
     {
       "id": 8,
-      "title": "",
-      "answer": "",
+      "title": "除非得到航管許可，在離地2500呎及以下且距離主要機場4海浬範圍內之Class C或D空域內，最高指示空速為",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "180海浬" },
+        { "id": 2, "option": "B", "text": "200海浬" },
+        { "id": 3, "option": "C", "text": "230海里" }
       ]
     },
     {
       "id": 9,
-      "title": "",
-      "answer": "",
+      "title": "飛離或飛抵Class C空域下，無塔台管制之衛星機場，下列敘述何者正確？",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "在起飛前，飛行員必須建立並保持與航管人員之通訊" },
+        { "id": 2, "option": "B", "text": "航機必須配備合法之航空器識別器及高度回報裝置" },
+        { "id": 3, "option": "C", "text": "在落地前，飛行員必須建立並保持與航管人員之通訊" }
       ]
     },
     {
       "id": 10,
-      "title": "",
-      "answer": "",
+      "title": "飛離或飛抵Class C空域下，無塔台管制之衛星機場，下列敘述何者正確？",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "在進入該空域前，飛行員必須建立並保持與航管人員之通訊" },
+        { "id": 2, "option": "B", "text": "航機必須配備合法之航空器識別器" },
+        { "id": 3, "option": "C", "text": "在起飛前，飛行員必須建立並保持與航管人員之通訊" }
       ]
     },
     {
       "id": 11,
-      "title": "",
-      "answer": "",
+      "title": "在一些沒有能見度報告之Class D空域機場，以特種目視條件起降之航機操作",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "不允許" },
+        { "id": 2, "option": "B", "text": "得在飛航能見度1英里以上操作" },
+        { "id": 3, "option": "C", "text": "僅能在地面能見度3英里以上操作" }
       ]
     },
     {
       "id": 12,
-      "title": "",
-      "answer": "",
+      "title": "在Class D空域機場，以特種目視條件執行起降之航機其目視條件為何？",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "不得進雲，地面能見度1英哩以上。" },
+        { "id": 2, "option": "B", "text": "在雲幕下500呎，地面能見度1英哩以上。" },
+        { "id": 3, "option": "C", "text": "不得進雲，飛航能見度1海浬以上。" }
       ]
     },
     {
       "id": 13,
-      "title": "",
-      "answer": "",
+      "title": "夜間於Class D空域，以特種目視條件操作之條件為何？",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "飛行員必須持有儀器執照，但航機不需具有儀器飛航設備，只要天氣條件在特別目視條件天候以上" },
+        { "id": 2, "option": "B", "text": "該Class D空域必須經特別指定為夜間使用" },
+        { "id": 3, "option": "C", "text": "飛行員必須持有儀器執照，航機亦需具有儀器飛航設備" }
       ]
     },
     {
       "id": 14,
-      "title": "",
-      "answer": "",
+      "title": "下列何種空域，其內的機場在無塔台管制下會改變空域條件？",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "Class D空域將變為Class C空域" },
+        { "id": 2, "option": "B", "text": "Class D空域將變為Class E空域" },
+        { "id": 3, "option": "C", "text": "Class B空域" }
       ]
     },
     {
       "id": 15,
-      "title": "",
-      "answer": "",
+      "title": "於Class D空域具有航管設施之機場進場落地，飛行員必須於下列何情況前建立通訊？",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "10海里以內，離地3000呎含以下" },
+        { "id": 2, "option": "B", "text": "30英里，並且必須配備航空器識別器" },
+        { "id": 3, "option": "C", "text": "4海里以內，離地2500呎含以下" }
       ]
     },
     {
       "id": 16,
-      "title": "",
-      "answer": "",
+      "title": "於Class E空域具有航管設施之機場附近操作時，飛行員必須於下列何情況前建立通訊？",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "5海里以內，離地3000呎含以下" },
+        { "id": 2, "option": "B", "text": "5海里以內，離地3000呎含以下" },
+        { "id": 3, "option": "C", "text": "4海里以內，離地2500呎含以下" }
       ]
     },
     {
       "id": 17,
-      "title": "",
-      "answer": "",
+      "title": "於Class G空域無塔台設施之機場進場落地，飛行員必須",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "除非特別標示，所有的轉向必須向左" },
+        { "id": 2, "option": "B", "text": "在800呎高度加入機場左航線" },
+        { "id": 3, "option": "C", "text": "在800呎高度進入並飛航機場航線" }
       ]
     },
     {
       "id": 18,
-      "title": "",
-      "answer": "",
+      "title": "除了夏威夷地區，聯邦低高度航路範圍",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "自離地700呎開始，延伸至海平面14500呎(不含)以下" },
+        { "id": 2, "option": "B", "text": "自離地1200呎開始，延伸至海平面18000呎(不含)以下" },
+        { "id": 3, "option": "C", "text": "自離地1200呎開始，延伸至海平面14500呎(不含)以下" }
       ]
     },
     {
       "id": 19,
-      "title": "",
-      "answer": "",
+      "title": "使用極高頻(VHF/DF)定向設備協助定位時，必須裝備有何種之功能？",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "具有發射及接收功能" },
+        { "id": 2, "option": "B", "text": "具有發射及接收功能，另外必須有一部可使用之空中定向儀(ADF)接收器" },
+        { "id": 3, "option": "C", "text": "具有發射及接收功能，另外必須有一部可使用之極高頻萬向導航台(VOR)接收器" }
       ]
     },
     {
       "id": 20,
-      "title": "",
-      "answer": "",
+      "title": "（參考fig 1）一般而言飛行員於完全脫離跑道後聯繫地面管制台。完全脫離跑道係指",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "通過上方標誌之紅色停止標誌後" },
+        { "id": 2, "option": "B", "text": "通過中央標誌之黃色虛線後" },
+        { "id": 3, "option": "C", "text": "通過中央標誌之黃色實線後" }
+      ],
+      "image": true
     },
     {
       "id": 21,
-      "title": "",
-      "answer": "",
+      "title": "（參考fig 1）上方之紅色停止標誌最可能在下列何處看到？",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "脫離跑道後聯繫地面管制台之前" },
+        { "id": 2, "option": "B", "text": "在滑行道與一般道路交接處，且可能造成誤判時" },
+        { "id": 3, "option": "C", "text": "在接近使用儀器降落系統進場之跑道頭前" }
+      ],
+      "image": true
     },
     {
       "id": 22,
-      "title": "",
-      "answer": "",
+      "title": "（參考fig 1）在脫離使用跑道時有可能會通過儀器降落系統危險區。該區的範圍是以何種標誌界定？",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "上方紅色標誌" },
+        { "id": 2, "option": "B", "text": "中央黃色標誌" },
+        { "id": 3, "option": "C", "text": "下方黃色標誌" }
+      ],
+      "image": true
     },
     {
       "id": 23,
-      "title": "",
-      "answer": "",
+      "title": "（參考fig 1）在滑行至使用跑道時有可能會通過儀器降落系統危險區。該區的範圍是以何種標誌界定？",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "下方黃色標誌" },
+        { "id": 2, "option": "B", "text": "上方紅色標誌" },
+        { "id": 3, "option": "C", "text": "中央黃色標誌" }
+      ],
+      "image": true
     },
     {
       "id": 24,
-      "title": "",
-      "answer": "",
+      "title": "（參考fig 1）何種標誌不具有阻止飛機進入跑道之功能？",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "上方紅色標誌" },
+        { "id": 2, "option": "B", "text": "中央黃色標誌" },
+        { "id": 3, "option": "C", "text": "下方黃色標誌" }
+      ],
+      "image": true
     },
     {
       "id": 25,
-      "title": "",
-      "answer": "",
+      "title": "滑行道終止標誌",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "標示滑行道終止無法繼續滑行" },
+        { "id": 2, "option": "B", "text": "標示飛機無法進入之區域" },
+        { "id": 3, "option": "C", "text": "提供至標示滑行道之滑行指引" }
       ]
     },
     {
       "id": 26,
-      "title": "",
-      "answer": "",
+      "title": "目視飛航條件下接近作為導航功用之極高頻多向導航台(VOR)時應該要",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "做90度之左轉及右轉確認有無其他航機" },
+        { "id": 2, "option": "B", "text": "保持警戒以免其他與其他接近極高頻多向導航台(VOR)之飛機過於接近本機" },
+        { "id": 3, "option": "C", "text": "在極高頻多向導航台(VOR)之右方通過，讓反向飛行之航機也由其右方通過" }
       ]
     },
     {
       "id": 27,
-      "title": "",
-      "answer": "",
+      "title": "兩架同類別飛機同時接近機場準備落地，何者有優先權？",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "高高度者" },
+        { "id": 2, "option": "B", "text": "低高度者，但是該駕駛不得利用此規則任意切進超前上方飛機" },
+        { "id": 3, "option": "C", "text": "較靈活之飛機可以超越其他飛機" }
       ]
     },
     {
       "id": 28,
-      "title": "",
-      "answer": "",
+      "title": "夜航時若兩架飛機彼此接近，一號機飛行員僅看到二號機的綠色航行燈，則何者有優先路權？",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "二號機，且二號機在一號機左方" },
+        { "id": 2, "option": "B", "text": "二號機，且二號機在一號機右方" },
+        { "id": 3, "option": "C", "text": "一號機，且一號機在二號機右方" }
       ]
     },
     {
       "id": 29,
-      "title": "",
-      "answer": "",
+      "title": "一架單引擎飛機的飛行員看到一架多引擎飛機由左方接近，何者有優先的航權？",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "單引擎飛機有優先權，多引擎飛機應該向其右方避讓" },
+        { "id": 2, "option": "B", "text": "單引擎飛機有優先權，多引擎飛機應該向其左方避讓" },
+        { "id": 3, "option": "C", "text": "兩架飛機都應向其右方避讓" }
       ]
     },
     {
       "id": 30,
-      "title": "",
-      "answer": "",
+      "title": "一架飛機正要超越直昇機，何者有優先航權？",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "直昇機，且其駕駛可以預期飛機由其右方超越" },
+        { "id": 2, "option": "B", "text": "飛機，且其駕駛應告知直昇機，會由其右方超越" },
+        { "id": 3, "option": "C", "text": "直昇機，且其駕駛可以預期飛機由其左方超越" }
       ]
     },
     {
       "id": 31,
-      "title": "",
-      "answer": "",
+      "title": "A飛機正要超越B飛機，何者有優先航權？",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "B飛機，且其駕駛可以預期A飛機由其右方超越" },
+        { "id": 2, "option": "B", "text": "A飛機，且其駕駛應由B飛機之右方超越" },
+        { "id": 3, "option": "C", "text": "B飛機，且其駕駛可以預期A飛機由其左方超越" }
       ]
     },
     {
       "id": 32,
-      "title": "",
-      "answer": "",
+      "title": "如果飛機在以下之條件下飛行時，需要為每一位乘員配備助漂裝備？",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "水陸兩用機離岸50海里以上" },
+        { "id": 2, "option": "B", "text": "離岸距離超過無動力滑翔距離" },
+        { "id": 3, "option": "C", "text": "離岸50英里以上" }
       ]
     },
     {
       "id": 33,
-      "title": "",
-      "answer": "",
+      "title": "客艙壓力高度在海平面15000呎以上時之氧氣規定：",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "飛航組員必須有氧氣可供使用" },
+        { "id": 2, "option": "B", "text": "如果是操作氣球，則任何高度都不須氧氣" },
+        { "id": 3, "option": "C", "text": "飛航組員及乘客都必須有輔助氧氣系統可供使用" }
       ]
     },
     {
       "id": 34,
-      "title": "",
-      "answer": "",
+      "title": "如果沒有位置燈，飛機在何條件下必須停止操作？",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "日落後" },
+        { "id": 2, "option": "B", "text": "日落後30分鐘" },
+        { "id": 3, "option": "C", "text": "日落後一小時" }
       ]
     },
     {
       "id": 35,
-      "title": "",
-      "answer": "",
+      "title": "如果沒有電力以及防撞燈，飛機在何條件下必須停止操作？",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "天黑後" },
+        { "id": 2, "option": "B", "text": "日落後一小時" },
+        { "id": 3, "option": "C", "text": "自日落到日出間" }
       ]
     },
     {
       "id": 36,
-      "title": "",
-      "answer": "",
+      "title": "動力航機的夜間目視飛航需要何裝置？",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "防撞燈" },
+        { "id": 2, "option": "B", "text": "陀螺式方向指示裝置" },
+        { "id": 3, "option": "C", "text": "陀螺式傾角及仰角指示裝置" }
       ]
     },
     {
       "id": 37,
-      "title": "",
-      "answer": "",
+      "title": "動力航機的夜間目視飛航需要何裝置？",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "如果被租賃，需要有紅色的閃燈" },
+        { "id": 2, "option": "B", "text": "如果被租賃，需要有落地燈" },
+        { "id": 3, "option": "C", "text": "以壓力控制的高度表" }
       ]
     },
     {
       "id": 38,
-      "title": "",
-      "answer": "",
+      "title": "在Class C, D及E空域，海平面6500呎，目視飛航的能見度及雲幕限制為：",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "1英里能見度，不得進雲" },
+        { "id": 2, "option": "B", "text": "3英里能見度，在雲的1000呎之上或500呎之下" },
+        { "id": 3, "option": "C", "text": "5英里能見度，在雲的1000呎之上或1000呎之下" }
       ]
     },
     {
       "id": 39,
-      "title": "",
-      "answer": "",
+      "title": "目視飛航條件之巡航高度為：",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "離地3000呎以上時，使用真航向" },
+        { "id": 2, "option": "B", "text": "離地3000呎以上時，使用磁航向" },
+        { "id": 3, "option": "C", "text": "海平面3000呎以上時，使用磁航向" }
       ]
     },
     {
       "id": 40,
-      "title": "",
-      "answer": "",
+      "title": "目視飛航條件下，能見度要求自何高度以上增加至5英里？",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "海平面以上14500呎" },
+        { "id": 2, "option": "B", "text": "海平面以上10000呎，如果離地1200呎以上" },
+        { "id": 3, "option": "C", "text": "海平面以上10000呎，不論離地高度" }
       ]
     },
     {
       "id": 41,
-      "title": "",
-      "answer": "",
+      "title": "區域飛航圖中，使用藍色或紫色標示機場之敘述何者正確？",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "Class A, B和C空域有塔台的機場為藍色，Class D和E空域為紫色" },
+        { "id": 2, "option": "B", "text": "Class C, D和E空域有塔台的機場為紫色" },
+        { "id": 3, "option": "C", "text": "Class B, C, D和E空域有塔台的機場為藍色" }
       ]
     },
     {
       "id": 42,
-      "title": "",
-      "answer": "",
+      "title": "區域飛航圖中，使用藍色虛線標示機場周圍，代表此區域為",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "特種目視飛航條件空域" },
+        { "id": 2, "option": "B", "text": "Class B空域" },
+        { "id": 3, "option": "C", "text": "Class D空域" }
       ]
     },
     {
       "id": 43,
-      "title": "",
-      "answer": "",
+      "title": "在美國不包含2500呎以下，在何高度以上操作時必須配備Mode C功能之航空器識別器？",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "海平面10000呎" },
+        { "id": 2, "option": "B", "text": "海平面12500呎" },
+        { "id": 3, "option": "C", "text": "海平面14500呎" }
       ]
     },
     {
       "id": 44,
-      "title": "",
-      "answer": "",
+      "title": "何條件下操作需要配備有高度回報功能之航空器識別器？",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "Class A, Class B和Class C空域" },
+        { "id": 2, "option": "B", "text": "美國地區（包含哥倫比亞特區），10000呎含以上" },
+        { "id": 3, "option": "C", "text": "答案A及B皆正確" }
       ]
     },
     {
       "id": 45,
-      "title": "",
-      "answer": "",
+      "title": "除了起降或航管要求外，最低的儀器飛航條件高度為：",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "任何地形皆2000呎以上" },
+        { "id": 2, "option": "B", "text": "山區3000呎以上，其他地形2000呎以上" },
+        { "id": 3, "option": "C", "text": "山區最高障礙物2000呎以上，其他地形最高障礙物1000呎以上" }
       ]
     },
     {
       "id": 46,
-      "title": "",
-      "answer": "",
+      "title": "若儀器進場有DH或MDA標示，則除非有下列何種條件，否則飛機不得繼續進場？",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "飛機可以一直維持在適當的進場位置，直到可以於跑道正常落地" },
+        { "id": 2, "option": "B", "text": "飛行員可以目視進場及跑道燈" },
+        { "id": 3, "option": "C", "text": "能見度和雲幕高皆高於法規之最低標準" }
       ]
     },
     {
       "id": 47,
-      "title": "",
-      "answer": "",
+      "title": "如果儀器飛航條件下之飛行計畫沒有合規定之備降站，且目的地機場沒有儀器進場程序，則目的地天氣在抵達時應該高於",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "雲幕高2000呎，能見度3英里" },
+        { "id": 2, "option": "B", "text": "雲幕高及能見度符合基本目視飛航規定" },
+        { "id": 3, "option": "C", "text": "雲幕高1000呎，能見度3英里" }
       ]
     },
     {
       "id": 48,
-      "title": "",
-      "answer": "",
+      "title": "如果儀器飛航條件下之飛行計畫具有備降站，需攜帶航路至落地的燃油，目的地至備降站的燃油，以及之後多少分鐘的燃油？",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "慢速巡航30分鐘" },
+        { "id": 2, "option": "B", "text": "正常速度巡航45分鐘" },
+        { "id": 3, "option": "C", "text": "正常速度巡航1小時" }
       ]
     },
     {
       "id": 49,
-      "title": "",
-      "answer": "",
+      "title": "商用駕駛執照有沒有失效期限？",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "沒有失效期限。" },
+        { "id": 2, "option": "B", "text": "有的，發證當月的24個月底之後即失效。" },
+        { "id": 3, "option": "C", "text": "沒有，但是如果12個月內沒有飛行或熟飛即失效。" }
       ]
     },
     {
       "id": 50,
-      "title": "",
-      "answer": "",
+      "title": "民航機之PIC於飛行中不得空投任何物品",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "如果可能危害到人或物品的話" },
+        { "id": 2, "option": "B", "text": "除非PIC已經被許可在私人區域空投" },
+        { "id": 3, "option": "C", "text": "除非空投前已經有預警以避免傷害" }
       ]
     },
     {
       "id": 51,
-      "title": "",
-      "answer": "",
+      "title": "何種飛行在飛行前必須要有天氣及油量的考量？",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "任何有報償或租賃的飛行" },
+        { "id": 2, "option": "B", "text": "任何不在機場附近的操作都需要" },
+        { "id": 3, "option": "C", "text": "只有儀器飛航條件下需要" }
       ]
     },
     {
       "id": 52,
-      "title": "",
-      "answer": "",
+      "title": "如果發現機上之航空器識別器未被測試或檢視過，而且已經過期，則是否可以使用？",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "不得使用" },
+        { "id": 2, "option": "B", "text": "只能在Class G空域使用" },
+        { "id": 3, "option": "C", "text": "只能用於目視飛航條件下之飛行" }
       ]
     },
     {
       "id": 53,
-      "title": "",
-      "answer": "",
+      "title": "何狀況下需要使用防撞燈？",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "任何操作下，不論日間或夜間" },
+        { "id": 2, "option": "B", "text": "當飛行員進入駕駛艙後" },
+        { "id": 3, "option": "C", "text": "當引擎發動後" }
       ]
     },
     {
       "id": 54,
-      "title": "",
-      "answer": "",
+      "title": "紅色的閃燈代表",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "起飛跑道末端警告" },
+        { "id": 2, "option": "B", "text": "飛行員應該保持機場航線淨空，並繼續繞場" },
+        { "id": 3, "option": "C", "text": "障礙物或危險區域" }
       ]
     },
     {
       "id": 55,
-      "title": "",
-      "answer": "",
+      "title": "對於使用氣象雷達判斷天氣狀況之敘述何者正確？",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "雷達顯示不保證一定可以避免儀器飛航狀況下的所有天氣" },
+        { "id": 2, "option": "B", "text": "如果避開強大的回波，則可以保證不會遭遇冰雹" },
+        { "id": 3, "option": "C", "text": "飛在雷達回波間的空白區域，代表也可以以目視方式看到暴風雲層區域" }
       ]
     },
     {
       "id": 56,
-      "title": "",
-      "answer": "",
+      "title": "何人對飛機能否安全飛航負責？",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "合格之維修員" },
+        { "id": 2, "option": "B", "text": "PIC" },
+        { "id": 3, "option": "C", "text": "飛機所有者" }
       ]
     },
     {
       "id": 57,
-      "title": "",
-      "answer": "",
+      "title": "執行儀器飛航條件之飛行前，飛行員必須瞭解所有相關資訊，以及",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "熟悉目的地機場所有的儀器進場程序" },
+        { "id": 2, "option": "B", "text": "在飛行計畫中列一個備降站，並確認其適合起降" },
+        { "id": 3, "option": "C", "text": "熟悉目的地欲使用之跑道長度，天氣，以及如果飛行計畫無法遵行時的替代方案" }
       ]
     },
     {
       "id": 58,
-      "title": "",
-      "answer": "",
+      "title": "飛航組員之肩部安全帶在何時必須繫上？",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "只有在起降且有乘客時" },
+        { "id": 2, "option": "B", "text": "當飛航組員上座時，除非飛行員無法正常執行任務" },
+        { "id": 3, "option": "C", "text": "起降時，除非飛行員無法正常執行任務" }
       ]
     },
     {
       "id": 59,
-      "title": "",
-      "answer": "",
+      "title": "在巡航中與航管通話失效,飛行員應如何選擇下降進場的時機?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "到達儀器進場的 IAF(initial approach fix)時,但不早於航管許可之飛行計劃的 ETA" },
+        { "id": 2, "option": "B", "text": "到達儀器進場的待命點(Holding fix),且時間為ETA加減3分鐘以內" },
+        { "id": 3, "option": "C", "text": "在飛行計劃的ETA到達儀器進場的主要 IAF(Primary initial approach fix)時,或航管指示之EFC時間,取其晚者" }
       ]
     },
     {
       "id": 60,
-      "title": "",
-      "answer": "",
+      "title": "關於駕駛艙通話記錄器的使用下列何者正確?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "可以全部刪除,除了落地前最後30分鐘的通話記錄" },
+        { "id": 2, "option": "B", "text": "可以全部刪除,除了最後30分鐘的通話記錄" },
+        { "id": 3, "option": "C", "text": "可以全部刪除,除非有事件必須通NTSB" }
       ]
     },
     {
       "id": 61,
-      "title": "",
-      "answer": "",
+      "title": "駕駛艙通話記錄器必須在哪些時間內正常操作?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "開車前到飛行任務結束" },
+        { "id": 2, "option": "B", "text": "開車前到關車前" },
+        { "id": 3, "option": "C", "text": "開始滑行到飛行任務結束" }
       ]
     },
     {
       "id": 62,
-      "title": "",
-      "answer": "",
+      "title": "民航機何時必須有DME的裝備?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "所有在 Class E 的 IFR 航機, 及操作VFR on Top 的航機" },
+        { "id": 2, "option": "B", "text": "當航機必須要配備 VOR接收器時" },
+        { "id": 3, "option": "C", "text": "在 FL 180 以上操作的航機" }
       ]
     },
     {
       "id": 63,
-      "title": "",
-      "answer": "",
+      "title": "當航行路線計畫使用NDB時,考量到裝備可能失效,飛行員應注意?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "航機必須有足夠的油料,並以VOR導航飛至適合的備降場並落地" },
+        { "id": 2, "option": "B", "text": "航機必須能使用其他的導航配備返回起飛站" },
+        { "id": 3, "option": "C", "text": "航機必須有足夠的油料,並依靠剩餘的無線電系統,以VOR導航飛至適合的備降場並完成儀器進場" }
       ]
     },
     {
       "id": 64,
-      "title": "",
-      "answer": "",
+      "title": "當民航機使用單一ADF接受器進行IFR飛行時,若ADF失效則?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "航機必須依靠剩餘的無線電系統,以VOR導航安全地飛至適合的備降場並完成儀器進場" },
+        { "id": 2, "option": "B", "text": "使用推算導航的方式繼續飛至目的地機場" },
+        { "id": 3, "option": "C", "text": "航機必須以VOR導航飛至適合的備降場並落地" }
       ]
     },
     {
       "id": 65,
-      "title": "",
-      "answer": "",
+      "title": "當民航機的氣象雷達失效且航路上有雷雨預報,航機派遣只能限於?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "爬升及下降保持VFR,巡航則保持VFR on top" },
+        { "id": 2, "option": "B", "text": "VFR飛行" },
+        { "id": 3, "option": "C", "text": "白天的VFR飛行" }
       ]
     },
     {
       "id": 66,
-      "title": "",
-      "answer": "",
+      "title": "下車何種航機派遣須確保氣象雷達操作正常?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "夜間VFR且航路天氣會遭遇 scattered thunderstorms" },
+        { "id": 2, "option": "B", "text": "載客飛行,但不包括全貨機飛行" },
+        { "id": 3, "option": "C", "text": "執行IFR飛行,且航管可提供雷達引導以避開天氣" }
       ]
     },
     {
       "id": 67,
-      "title": "",
-      "answer": "",
+      "title": "航路上所必需的特別導航裝備清單記載於?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "Air Carrier's Operations Specifications" },
+        { "id": 2, "option": "B", "text": "International Flight Information Manual" },
+        { "id": 3, "option": "C", "text": "Airplane Flight Manual" }
       ]
     },
     {
       "id": 68,
-      "title": "",
-      "answer": "",
+      "title": "IFR跑道的 HIRL 或 MIRL與VFR跑道比較,有何優點?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "燈光較密集易於與周邊其他燈光做區別" },
+        { "id": 2, "option": "B", "text": "跑道的最後2000呎,橘色燈光會取代白燈以作為警示區" },
+        { "id": 3, "option": "C", "text": "跑道的最後3000呎,會以紅白相間的燈光作為警示區" }
       ]
     },
     {
       "id": 69,
-      "title": "",
-      "answer": "",
+      "title": "Three-bar VASI有何優點?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "飛行員可選擇下滑角" },
+        { "id": 2, "option": "B", "text": "可適用於駕駛艙高低不同的航機" },
+        { "id": 3, "option": "C", "text": "可視度較好,且能在較高的高度看見" }
       ]
     },
     {
       "id": 70,
-      "title": "",
-      "answer": "",
+      "title": "高性能航機的飛行員在參考大下滑角VASI下降時應注意何風險?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "重落地" },
+        { "id": 2, "option": "B", "text": "落地滾行距離增加" },
+        { "id": 3, "option": "C", "text": "跑道頭前著陸" }
       ]
     },
     {
       "id": 71,
-      "title": "",
-      "answer": "",
+      "title": "大下滑角的 Three-bar VASI是設計給何種航機使用?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "高性能航機" },
+        { "id": 2, "option": "B", "text": "直昇機" },
+        { "id": 3, "option": "C", "text": "高駕駛艙航機" }
       ]
     },
     {
       "id": 72,
-      "title": "",
-      "answer": "",
+      "title": "裝設REIL的目的為何?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "標明跑道範圍與其他燈光的區別" },
+        { "id": 2, "option": "B", "text": "標明著陸區以避免航機在跑道頭前著陸" },
+        { "id": 3, "option": "C", "text": "進場的目視下滑道參考" }
       ]
     },
     {
       "id": 73,
-      "title": "",
-      "answer": "",
+      "title": "何種訊息顯示VORTAC正在維護中且不可作為導航參考",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "每隔30秒會送出' TESTING'的測試訊號" },
+        { "id": 2, "option": "B", "text": "識別碼會顯示'M',且儀表上間歇性的'OFF'旗幟會出現" },
+        { "id": 3, "option": "C", "text": "識別碼會被移除" }
       ]
     },
     {
       "id": 74,
-      "title": "",
-      "answer": "",
+      "title": "當航機以12000英呎飛越VORTAC站台正上方時,DME會顯示多少?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "0 NM" },
+        { "id": 2, "option": "B", "text": "2 NM" },
+        { "id": 3, "option": "C", "text": "2.3 NM" }
       ]
     },
     {
       "id": 75,
-      "title": "",
-      "answer": "",
+      "title": "何種情況下DME會有最大的指示誤差?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "高高度且靠近站台" },
+        { "id": 2, "option": "B", "text": "低高度且靠近站台" },
+        { "id": 3, "option": "C", "text": "低高度且遠離站台" }
       ]
     },
     {
       "id": 76,
-      "title": "",
-      "answer": "",
+      "title": "場壓的定義為何?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "高度表撥定值" },
+        { "id": 2, "option": "B", "text": "機場標高的實際氣壓" },
+        { "id": 3, "option": "C", "text": "場站的氣壓減低至海平面" }
       ]
     },
     {
       "id": 77,
-      "title": "",
-      "answer": "",
+      "title": "在管制空域內的IFR飛行,若遭遇部份ILS接收器失效,飛行員應?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "繼續依照許可進場,並在必要時向場站提出書面報告" },
+        { "id": 2, "option": "B", "text": "如航機具備另一套可供進場的無線電系統,則繼續執行進場,無需任何進一步處置" },
+        { "id": 3, "option": "C", "text": "立即向航管通報失效情況" }
       ]
     },
     {
       "id": 78,
-      "title": "",
-      "answer": "",
+      "title": "在管制空域內的IFR飛行,若遭遇兩套VHF無線電系統中的一套失效,飛行員應?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "立即告知航管" },
+        { "id": 2, "option": "B", "text": "Squawk 7600" },
+        { "id": 3, "option": "C", "text": "監聽VOR接收器" }
       ]
     },
     {
       "id": 79,
-      "title": "",
-      "answer": "",
+      "title": "在管制空域內的IFR飛行,若遭遇兩套VOR接收器中的一套失效,飛行員應?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "如還有一套正常運作則不需處置" },
+        { "id": 2, "option": "B", "text": "立即告知航管" },
+        { "id": 3, "option": "C", "text": "使用公司頻道通知派遣" }
       ]
     },
     {
       "id": 80,
-      "title": "",
-      "answer": "",
+      "title": "在管制空域內的IFR飛行,若遭遇ADF接收器失效,飛行員應?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "下降至 Class A空域以下" },
+        { "id": 2, "option": "B", "text": "使用公司頻道通知派遣" },
+        { "id": 3, "option": "C", "text": "立即告知航管" }
       ]
     },
     {
       "id": 81,
-      "title": "",
-      "answer": "",
+      "title": "儀器飛行何時須配備DME?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "在 24,000 英呎以上操作,且必須配備 VOR的航機" },
+        { "id": 2, "option": "B", "text": "雷達管制區" },
+        { "id": 3, "option": "C", "text": "12,500 英呎以上操作者" }
       ]
     },
     {
       "id": 82,
-      "title": "",
-      "answer": "",
+      "title": "機場的指示牌標示為待命區位置其外觀為?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "紅底白字" },
+        { "id": 2, "option": "B", "text": "白底紅字" },
+        { "id": 3, "option": "C", "text": "紅底黃字" }
       ]
     },
     {
       "id": 83,
-      "title": "",
-      "answer": "",
+      "title": "機場的指示牌標示目的地機場或相關訊息者其外觀為?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "黑底黃字" },
+        { "id": 2, "option": "B", "text": "黑底白字" },
+        { "id": 3, "option": "C", "text": "黃底黑字" }
       ]
     },
     {
       "id": 84,
-      "title": "",
-      "answer": "",
+      "title": "下列何種文件特許民航機業者在特定的區域內操作該航機?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "Operations Specifications" },
+        { "id": 2, "option": "B", "text": "Operating Certificate" },
+        { "id": 3, "option": "C", "text": "Dispatch Release" }
       ]
     },
     {
       "id": 85,
-      "title": "",
-      "answer": "",
+      "title": "客機的緊急照明系統應於何時保持待命或啟用?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "滑行,起飛,巡航,落地" },
+        { "id": 2, "option": "B", "text": "滑行,起飛,落地" },
+        { "id": 3, "option": "C", "text": "起飛,巡航,落地" }
       ]
     },
     {
       "id": 86,
-      "title": "",
-      "answer": "",
+      "title": "越水飛行所需要的緊急裝備為何?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "A portable survival emergency locator transmitter for each liferaft" },
+        { "id": 2, "option": "B", "text": "A pyrotechnic signaling device for each life preserver" },
+        { "id": 3, "option": "C", "text": "A life preserver equipped with a survivor locator light, for each person on the airplane" }
       ]
     },
     {
       "id": 87,
-      "title": "",
-      "answer": "",
+      "title": "越水飛行所需要的救生衣置於何處?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "乘客易於取得之處" },
+        { "id": 2, "option": "B", "text": "乘客座椅下方" },
+        { "id": 3, "option": "C", "text": "就座乘客易於取得之處" }
       ]
     },
     {
       "id": 88,
-      "title": "",
-      "answer": "",
+      "title": "商用民航機計劃飛越未經調查的山區應配備何種緊急裝備?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "A signal mirror and colored smoke flares" },
+        { "id": 2, "option": "B", "text": "Survival kit for each passenger" },
+        { "id": 3, "option": "C", "text": "An approved survival-type emergency locator transmitter" }
       ]
     },
     {
       "id": 89,
-      "title": "",
-      "answer": "",
+      "title": "哪種民航機須配備機上通話系統?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "大型民航機" },
+        { "id": 2, "option": "B", "text": "噴射引擎民航機" },
+        { "id": 3, "option": "C", "text": "19人座以上的民航機" }
       ]
     },
     {
       "id": 90,
-      "title": "",
-      "answer": "",
+      "title": "往復式引擎飛機,飛時2小時,客艙高度保持12000英呎,該航機必須保留多少備用的氧氣?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "足以供應30分鐘給全體乘客的百分之十" },
+        { "id": 2, "option": "B", "text": "足以供應1.5小時給全體乘客的百分之十" },
+        { "id": 3, "option": "C", "text": "每名乘客30分鐘的氧氣量" }
       ]
     },
     {
       "id": 91,
-      "title": "",
-      "answer": "",
+      "title": "客艙高度在多少以上,必須全程提供乘客氧氣?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "15,000 feet" },
+        { "id": 2, "option": "B", "text": "14,000 feet" },
+        { "id": 3, "option": "C", "text": "13,000 feet" }
       ]
     },
     {
       "id": 92,
-      "title": "",
-      "answer": "",
+      "title": "149人座及8名組員的航機,若搭載97名乘客,至少需要幾位空服員?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "4位" },
+        { "id": 2, "option": "B", "text": "3位" },
+        { "id": 3, "option": "C", "text": "2位" }
       ]
     },
     {
       "id": 93,
-      "title": "",
-      "answer": "",
+      "title": "下列何種手冊記載緊急情況時組員的分工職掌?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "Airplane Flight Manual" },
+        { "id": 2, "option": "B", "text": "Certificate holder's manual" },
+        { "id": 3, "option": "C", "text": "Pilot's Emergency Procedures Handbook" }
       ]
     },
     {
       "id": 94,
-      "title": "",
-      "answer": "",
+      "title": "附屬式航空器或商用航空器的機長應備妥何種文件至目的地機場?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "乘客及貨物清單" },
+        { "id": 2, "option": "B", "text": "飛行計劃" },
+        { "id": 3, "option": "C", "text": "組員及機長名單" }
       ]
     },
     {
       "id": 95,
-      "title": "",
-      "answer": "",
+      "title": "每個組員應在航段中總是備妥",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "駕駛艙門的鑰匙" },
+        { "id": 2, "option": "B", "text": "認證手冊" },
+        { "id": 3, "option": "C", "text": "狀況良好的手電筒" }
       ]
     },
     {
       "id": 96,
-      "title": "",
-      "answer": "",
+      "title": "若發生空中引擎熄火,在可能的狀況下,機長應立即通報那個單位?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "適合的地面無線電站台" },
+        { "id": 2, "option": "B", "text": "就近的FAA分局" },
+        { "id": 3, "option": "C", "text": "聯管" }
       ]
     },
     {
       "id": 97,
-      "title": "",
-      "answer": "",
+      "title": "若雙引擎民航機因故有必要關閉一具引擎,機長應該?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "選擇機長認為與就近且適當的機場一樣安全的機場落地" },
+        { "id": 2, "option": "B", "text": "在時間點內選擇就近且適當的機場,並可做安全的落地" },
+        { "id": 3, "option": "C", "text": "選擇就近且適當的機場落地,包括具備救援設施的軍機場" }
       ]
     },
     {
       "id": 98,
-      "title": "",
-      "answer": "",
+      "title": "下列何者應共同為航機的起始派遣,繼續派遣,轉降及終止派遣負責?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "機長及總機師" },
+        { "id": 2, "option": "B", "text": "機長及聯管" },
+        { "id": 3, "option": "C", "text": "機長及隨機人員" }
       ]
     },
     {
       "id": 99,
-      "title": "",
-      "answer": "",
+      "title": "若發生緊急狀況時, 航機派遣人員無法連絡航機上的飛行員, 航機派遣人員應做何處置",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "視情況做必要的處置" },
+        { "id": 2, "option": "B", "text": "啟動航機失聯計劃" },
+        { "id": 3, "option": "C", "text": "去電請航機所在地的航管代為轉達" }
       ]
     },
     {
       "id": 100,
-      "title": "",
-      "answer": "",
+      "title": "因緊急狀況發生,航機偏離相關法規規範,誰應提供書面報告?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "機長" },
+        { "id": 2, "option": "B", "text": "派遣" },
+        { "id": 3, "option": "C", "text": "宣告緊急狀況者" }
       ]
     },
     {
       "id": 101,
-      "title": "",
-      "answer": "",
+      "title": "誰應負責提供民航機機長,關於天氣資訊,及場站設施故障或服務項目中止的訊息?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "航機人員" },
+        { "id": 2, "option": "B", "text": "航管" },
+        { "id": 3, "option": "C", "text": "聯管" }
       ]
     },
     {
       "id": 102,
-      "title": "",
-      "answer": "",
+      "title": "組員(crewmember)的定義為何?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "只限於飛行中的飛行員,飛航工程師或領航員" },
+        { "id": 2, "option": "B", "text": "飛行中被指派任務的人員" },
+        { "id": 3, "option": "C", "text": "飛行中被指派任務的人員,不包括飛行員或飛航工程師" }
       ]
     },
     {
       "id": 103,
-      "title": "",
-      "answer": "",
+      "title": "在何種情況下航管得請求飛行中緊急狀況的詳細報告,即使航機並無違反任何法規?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "航機獲航管優先許可時" },
+        { "id": 2, "option": "B", "text": "任何時間,發生緊急狀況時" },
+        { "id": 3, "option": "C", "text": "在管制空域內,發生緊急狀況時" }
       ]
     },
     {
       "id": 104,
-      "title": "",
-      "answer": "",
+      "title": "國內線或國際線民航機在整段航程中,正常飛行狀況下應與誰保持聯絡?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "ARINC" },
+        { "id": 2, "option": "B", "text": "Any FSS" },
+        { "id": 3, "option": "C", "text": "Appropriate dispatch office" }
       ]
     },
     {
       "id": 105,
-      "title": "",
-      "answer": "",
+      "title": "飛行員如何使航機轉彎率增加且同時轉彎半徑減少",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "增加坡度並加速" },
+        { "id": 2, "option": "B", "text": "減速並增加坡度" },
+        { "id": 3, "option": "C", "text": "減低坡度並加速" }
       ]
     },
     {
       "id": 106,
-      "title": "",
-      "answer": "",
+      "title": "保持固定坡度且空速增加的情況下,航機的轉彎率與轉彎半徑有何關係?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "轉彎率減少與轉彎半徑增加" },
+        { "id": 2, "option": "B", "text": "轉彎率增加且轉彎半徑減少" },
+        { "id": 3, "option": "C", "text": "轉彎率與轉彎半徑皆增加" }
       ]
     },
     {
       "id": 107,
-      "title": "",
-      "answer": "",
+      "title": "如遭遇發動機失效,建議應使用何種程序來進場落地?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "與正常進場落地幾乎相同" },
+        { "id": 2, "option": "B", "text": "進場的高度及速度應比正常進場落地較高較快" },
+        { "id": 3, "option": "C", "text": "除了進入跑道頭才伸放起落架或襟翼以外,其餘與正常進場落地相同" }
       ]
     },
     {
       "id": 108,
-      "title": "",
-      "answer": "",
+      "title": "雙引擎飛機在遭遇單發失效時性能損失可達多少?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "巡航空速減少50%" },
+        { "id": 2, "option": "B", "text": "爬升性能減少50%以上" },
+        { "id": 3, "option": "C", "text": "航機所有的性能減少50%" }
       ]
     },
     {
       "id": 109,
-      "title": "",
-      "answer": "",
+      "title": "巡航中使用何種程序能使航機在固定航段內消耗最少燃油?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "頂風時增加巡航空速" },
+        { "id": 2, "option": "B", "text": "尾風時增加巡航空速" },
+        { "id": 3, "option": "C", "text": "頂風時增加巡航高度,尾風時降低巡航高度" }
       ]
     },
     {
       "id": 110,
-      "title": "",
-      "answer": "",
+      "title": "如遭遇強烈亂流,建議應使用何種程序?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "保持航機高度" },
+        { "id": 2, "option": "B", "text": "保持航機固定的姿態" },
+        { "id": 3, "option": "C", "text": "保持航機固定的速度及高度" }
       ]
     },
     {
       "id": 111,
-      "title": "",
-      "answer": "",
+      "title": "誰應負責確保航機上應有的航圖已備妥?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "航機派遣" },
+        { "id": 2, "option": "B", "text": "領航員" },
+        { "id": 3, "option": "C", "text": "機長" }
       ]
     },
     {
       "id": 112,
-      "title": "",
-      "answer": "",
+      "title": "何時需要有起飛備降場?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "若起飛站的天氣情況低於該機場的落地標準" },
+        { "id": 2, "option": "B", "text": "若起飛站的天氣預報在ETD時低於該機場的落地標準" },
+        { "id": 3, "option": "C", "text": "若目的地機場的天氣情況僅略高於VFR標準(ceiling less than 3,000 feet and visibility less than 5 SM)" }
       ]
     },
     {
       "id": 113,
-      "title": "",
-      "answer": "",
+      "title": "何種天氣情況只能由PIREP或空中飛行中觀察得到?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "亂流及結構積冰" },
+        { "id": 2, "option": "B", "text": "噴射氣流型態的風及積冰" },
+        { "id": 3, "option": "C", "text": "對流層頂的高度及亂流" }
       ]
     },
     {
       "id": 114,
-      "title": "",
-      "answer": "",
+      "title": "飛行員在IMC情況並正處於雷達引導中,若與航管通話失效,應做何處置?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "直飛IFR flight plan下一個航點,並繼續照計劃飛行" },
+        { "id": 2, "option": "B", "text": "Squawk 7700並爬高至VFR飛行狀況" },
+        { "id": 3, "option": "C", "text": "直飛雷達引導所指示的航點或航路" }
       ]
     },
     {
       "id": 115,
-      "title": "",
-      "answer": "",
+      "title": "飛行員在IMC情況中與航管通話失效,飛航高度應如何選擇?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "最後許可高度, 航管指示可預期的高度,或MEA,取最高者" },
+        { "id": 2, "option": "B", "text": "不低於為該航路上之最高地障加1000呎" },
+        { "id": 3, "option": "C", "text": "高於該航路MEA的VFR高度" }
       ]
     },
     {
       "id": 116,
-      "title": "",
-      "answer": "",
+      "title": "飛行員對TCAS advisory 做出反應動作,而偏離航管許可,應通知航管並",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "保持改變後的航向及高度,因航管仍有radar contact" },
+        { "id": 2, "option": "B", "text": "請求新的航管許可" },
+        { "id": 3, "option": "C", "text": "在TCAS traffic無影響後,立即回復保持原先的航管許可" }
       ]
     },
     {
       "id": 117,
-      "title": "",
-      "answer": "",
+      "title": "座艙通話記錄(CVR)及飛航資料記錄(FDR)的內容僅能用於何者用途?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "誰應為事故或意外負責" },
+        { "id": 2, "option": "B", "text": "民事賠償或認證的證據" },
+        { "id": 3, "option": "C", "text": "造成事故或意外的可能原因" }
       ]
     },
     {
       "id": 118,
-      "title": "",
-      "answer": "",
+      "title": "Precision Approach Path Indicator (PAPI)的組成為何?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "平行跑道,1排4個燈,有紅,白及綠燈" },
+        { "id": 2, "option": "B", "text": "垂直跑道,1排4個燈,有紅燈及白燈" },
+        { "id": 3, "option": "C", "text": "單一的燈箱,投射紅白兩色" }
       ]
     },
     {
       "id": 119,
-      "title": "",
-      "answer": "",
+      "title": "在何種情況下大型航機產生的翼尖渦流強度最大?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "大重量,慢速,收機輪及收外型" },
+        { "id": 2, "option": "B", "text": "大重量,慢速,放機輪及放外型" },
+        { "id": 3, "option": "C", "text": "大重量,高速,放機輪及放外型" }
       ]
     },
     {
       "id": 120,
-      "title": "",
-      "answer": "",
+      "title": "在大型航機後方產生的亂流僅在何時產生?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "產生昇力時" },
+        { "id": 2, "option": "B", "text": "高速飛行時" },
+        { "id": 3, "option": "C", "text": "使用大推力時" }
       ]
     },
     {
       "id": 121,
-      "title": "",
-      "answer": "",
+      "title": "大型航機所產生的翼尖渦流的特性為何?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "下沉並產生亂流" },
+        { "id": 2, "option": "B", "text": "從地面爬升至 traffic pattern altitude" },
+        { "id": 3, "option": "C", "text": "在開始起飛滾行點累積,並持續一段時間" }
       ]
     },
     {
       "id": 122,
-      "title": "",
-      "answer": "",
+      "title": "為避免前架次起飛航機的翼尖渦流,飛行員應注意?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "在通過前架次起飛航機的軌跡後再離地" },
+        { "id": 2, "option": "B", "text": "爬高並保持在起飛航機的軌跡之上風邊" },
+        { "id": 3, "option": "C", "text": "保持在起飛航機的軌跡的下方" }
       ]
     },
     {
       "id": 123,
-      "title": "",
-      "answer": "",
+      "title": "航管指示 Hold short of a runway (如 ILS critical area等),航機應停在?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "鼻輪壓在 hold line" },
+        { "id": 2, "option": "B", "text": "航機的每一部份都在 hold line 之後" },
+        { "id": 3, "option": "C", "text": "駕駛艙與 hold line 平行" }
       ]
     },
     {
       "id": 124,
-      "title": "",
-      "answer": "",
+      "title": "當進行環繞進場,若飛行員失去目視參考時,應作何處置?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "爬高並轉向落地跑道方向直到能建立迷失進場航向" },
+        { "id": 2, "option": "B", "text": "保持MDA並轉向落地跑道方向,如不能重新保持目視再執行迷失進場" },
+        { "id": 3, "option": "C", "text": "爬高並轉向VOR/NDB方向,請求航管進一步指示" }
       ]
     },
     {
       "id": 125,
-      "title": "",
-      "answer": "",
+      "title": "當到達clearance limit時,飛行員應報告哪些事項?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "到達時間,與當時高度/空層" },
+        { "id": 2, "option": "B", "text": "到達時間,與當時高度/空層,及預期的待命速度" },
+        { "id": 3, "option": "C", "text": "到達時間,與當時高度/空層,預期的待命速度,及 inbound leg length" }
       ]
     },
     {
       "id": 126,
-      "title": "",
-      "answer": "",
+      "title": "當使用flight director system,在待命航線內轉彎時,飛行員應達到多少坡度或轉彎率?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "每秒3度, 或坡度25度,取較小者" },
+        { "id": 2, "option": "B", "text": "每秒3度, 或坡度30度,取較小者" },
+        { "id": 3, "option": "C", "text": "每秒1.5度, 或坡度25度, 取較小者" }
       ]
     },
     {
       "id": 127,
-      "title": "",
-      "answer": "",
+      "title": "在NDB待命時 , second leg outbound之計時起算點為何?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "Abeam待命點, 或建立outbound航向, 取較早者" },
+        { "id": 2, "option": "B", "text": "通過待命點後以標準轉彎計時一分鐘後" },
+        { "id": 3, "option": "C", "text": "Abeam待命點" }
       ]
     },
     {
       "id": 128,
-      "title": "",
-      "answer": "",
+      "title": "航機在Class C空域操作之最低裝備需求為何?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "雙向通訊裝備(Two-way communications)" },
+        { "id": 2, "option": "B", "text": "雙向通訊裝備(Two-way communications)及 詢答器(transponder)" },
+        { "id": 3, "option": "C", "text": "詢答器(transponder)及測距儀(DME)" }
       ]
     },
     {
       "id": 129,
-      "title": "",
-      "answer": "",
+      "title": "Class C airspace提供航機何種服務?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "到場航機的順序,隔離(不含 VFR航機 ), 及traffic advisories" },
+        { "id": 2, "option": "B", "text": "到場航機的順序(不含 VFR航機 ),所有航機的隔離, 及traffic advisories" },
+        { "id": 3, "option": "C", "text": "到場航機的順序, 所有航機的隔離, 及traffic advisories" }
       ]
     },
     {
       "id": 130,
-      "title": "",
-      "answer": "",
+      "title": "設計軍機操作空域(MOA)的目的在於?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "保護軍機避免與民航機空中接近" },
+        { "id": 2, "option": "B", "text": "隔離軍機訓練活動與 IFR民航機" },
+        { "id": 3, "option": "C", "text": "隔離軍機訓練活動與 IFR及 VFR民航機" }
       ]
     },
     {
       "id": 131,
-      "title": "",
-      "answer": "",
+      "title": "在軍機操作空域內(MOA),誰應負責空中避撞?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "戰管" },
+        { "id": 2, "option": "B", "text": "航管" },
+        { "id": 3, "option": "C", "text": "飛行員" }
       ]
     },
     {
       "id": 132,
-      "title": "",
-      "answer": "",
+      "title": "當執行 simultaneous approaches時 , 飛行員會在那個波道得到 radar advisories?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "塔台波道" },
+        { "id": 2, "option": "B", "text": "approach control波道" },
+        { "id": 3, "option": "C", "text": "一架在塔台波道,另一架在 approach control波道" }
       ]
     },
     {
       "id": 133,
-      "title": "",
-      "answer": "",
+      "title": "當航管許可side-step maneuver進場時,飛行員應何時開始做 side-step?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "下降至DH時" },
+        { "id": 2, "option": "B", "text": "MDA或環繞進場" },
+        { "id": 3, "option": "C", "text": "目視跑道環境後儘快執行" }
       ]
     },
     {
       "id": 134,
-      "title": "",
-      "answer": "",
+      "title": "當執行 simultaneous ILS approaches , 何種情況下飛行員必須立即告知 approach control?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "航機導航儀接收器失效及故障時" },
+        { "id": 2, "option": "B", "text": "欲執行 simultaneous ILS approach時" },
+        { "id": 3, "option": "C", "text": "欲請雷達監控航機隔離時" }
       ]
     },
     {
       "id": 135,
-      "title": "",
-      "answer": "",
+      "title": "何種情況下飛行員可以在飛行結束前取消 IFR flight plan?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "任何時間,當航管許可將可能違反法規時" },
+        { "id": 2, "option": "B", "text": "任何時間,在管制空域內與航管聯絡時" },
+        { "id": 3, "option": "C", "text": "VFR conditions ,且不在 Class A airspace." }
       ]
     },
     {
       "id": 136,
-      "title": "",
-      "answer": "",
+      "title": "簡化的航路許可\"Cleared as filed\",至少要包括那些資訊?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "Clearance limit及航路高度" },
+        { "id": 2, "option": "B", "text": "Clearance limit, 航路高度及 SID" },
+        { "id": 3, "option": "C", "text": "目的地機場, 航路高度及 SID" }
       ]
     },
     {
       "id": 137,
-      "title": "",
-      "answer": "",
+      "title": "何種情況下飛行員會收到包含\"某時間後失效\"的許可?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "在無管制的機場" },
+        { "id": 2, "option": "B", "text": "當執行\"Gate hold\"程序時" },
+        { "id": 3, "option": "C", "text": "當開車前收到許可時" }
       ]
     },
     {
       "id": 138,
-      "title": "",
-      "answer": "",
+      "title": "當航管通知\"VERIFY 9,000\",而航機卻正保持8000呎,飛行員應做何處置?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "立即爬高到9000呎" },
+        { "id": 2, "option": "B", "text": "報告航管將爬高到9000呎" },
+        { "id": 3, "option": "C", "text": "報告航管目前保持8000呎" }
       ]
     },
     {
       "id": 139,
-      "title": "",
-      "answer": "",
+      "title": "IFR的航路上何時需做位置報告?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "通過所有的強制報告點時" },
+        { "id": 2, "option": "B", "text": "ARTCC航管有特別要求報告航點" },
+        { "id": 3, "option": "C", "text": "須轉換高度或報告天氣的航點" }
       ]
     },
     {
       "id": 140,
-      "title": "",
-      "answer": "",
+      "title": "IFR 有 radar contact,何者為強制報告項目?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "位置報告, 離開高度, 無法保持爬升率500ft/min, 到達待命點,或許可點的時間及高度" },
+        { "id": 2, "option": "B", "text": "位置報告, 離開高度, 無法保持爬升率500ft/min, 到達待命點或許可點的時間及高度, 及平均真空速改變超過5%或10浬" },
+        { "id": 3, "option": "C", "text": "離開高度, 無法保持爬升率500ft/min,到達待命點或許可點的時間及高度,及離開該待命點或許可點, 及平均真空速改變超過5%或10浬" }
       ]
     },
     {
       "id": 141,
-      "title": "",
-      "answer": "",
+      "title": "IFR 進場時若無 radar contact,何者為強制報告項目?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "離開 FAF inbound 或 OM inbound 及迷失進場 (missed approach)" },
+        { "id": 2, "option": "B", "text": "離開 FAF inbound , OM inbound或 outbound, 及迷失進場 (missed approach)" },
+        { "id": 3, "option": "C", "text": "離開 FAF inbound , OM inbound或 outbound, 程序轉彎 inbound及 outbound及及目視跑道" }
       ]
     },
     {
       "id": 142,
-      "title": "",
-      "answer": "",
+      "title": "飛行員在與航管初次通話中應如何表示已收到 ATIS?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "報告已收到數字" },
+        { "id": 2, "option": "B", "text": "報告已收到天氣" },
+        { "id": 3, "option": "C", "text": "報告 ATIS Code" }
       ]
     },
     {
       "id": 143,
-      "title": "",
-      "answer": "",
+      "title": "申請及請求 IFR flight plan應間隔多少時間?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "不晚於ETD前30分鐘申請 IFR flight plan,不早於滑行前10分鐘請求航路許可" },
+        { "id": 2, "option": "B", "text": "不晚於ETD前30分鐘申請 IFR flight plan,不晚於滑行前10分鐘請求航路許可" },
+        { "id": 3, "option": "C", "text": "不晚於ETD前60分鐘申請 IFR flight plan,不晚於滑行前10分鐘請求航路許可" }
       ]
     },
     {
       "id": 144,
-      "title": "",
-      "answer": "",
+      "title": "如何在 IFR flight plan表示飛航路線?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "簡化的航路路線或包括 transitions的jet routes" },
+        { "id": 2, "option": "B", "text": "航路路線或包括VORs and fixes的jet routes" },
+        { "id": 3, "option": "C", "text": "航路路線或只包括強制報告點的 jet routes" }
       ]
     },
     {
       "id": 145,
-      "title": "",
-      "answer": "",
+      "title": "非標準航路的直飛路線在 IFR flight plan應如何表示?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "起始點, 真航向 ,及最終點" },
+        { "id": 2, "option": "B", "text": "所有航機將飛越的 radio fixes" },
+        { "id": 3, "option": "C", "text": "起始點, 所有飛行員欲視為強制報告點的 radio fixes ,及最終點" }
       ]
     },
     {
       "id": 146,
-      "title": "",
-      "answer": "",
+      "title": "設計 STAR最主要的目的為何?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "隔離 VFR 及 IFR的航機" },
+        { "id": 2, "option": "B", "text": "簡化航管許可頒布的程序" },
+        { "id": 3, "option": "C", "text": "減少特定機場塞機情況" }
       ]
     },
     {
       "id": 147,
-      "title": "",
-      "answer": "",
+      "title": "航管何時會發給航機 STAR?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "僅當航管認為適合時" },
+        { "id": 2, "option": "B", "text": "僅發給優先進場之航機" },
+        { "id": 3, "option": "C", "text": "僅當飛行員主動請求時" }
       ]
     },
     {
       "id": 148,
-      "title": "",
-      "answer": "",
+      "title": "當航管雷達引導航機穿過IFR進場五邊時,飛行員應做何處置?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "保持雷達引導的航向,直到航管進一步指示" },
+        { "id": 2, "option": "B", "text": "告知航管航機正穿過五邊" },
+        { "id": 3, "option": "C", "text": "轉向五邊繼續進場,並在波道上廣播航機已繼續進場" }
       ]
     },
     {
       "id": 149,
-      "title": "",
-      "answer": "",
+      "title": "當航管雷達引導至IFR五邊進場時,飛行員應於何時下降至 published altitudes?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "當航機建立在進場圖之指定航段後" },
+        { "id": 2, "option": "B", "text": "當航機近於進場邊10哩以內" },
+        { "id": 3, "option": "C", "text": "僅於得到航管進場許可後" }
       ]
     },
     {
       "id": 150,
-      "title": "",
-      "answer": "",
+      "title": "當雷達引導IFR進場至無管制機場,何時為雷達引導結束?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "直到落地,或或告知切換至 advisory frequency" },
+        { "id": 2, "option": "B", "text": "當對正 final approach course" },
+        { "id": 3, "option": "C", "text": "當許可進場時" }
       ]
     },
     {
       "id": 151,
-      "title": "",
-      "answer": "",
+      "title": "當收到IFR進場許可至無管制機場且無FSS時,在被告知切換後,飛行員應做何預警?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "守聽航管的 traffic advisories 及 UNICOM" },
+        { "id": 2, "option": "B", "text": "守聽 traffic advisories 並報告航機的位置及意向" },
+        { "id": 3, "option": "C", "text": "直到目視跑道後,再於UNICOM 波道上報告航機的位置及意向" }
       ]
     },
     {
       "id": 152,
-      "title": "",
-      "answer": "",
+      "title": "在有管制的機場落地後,航機應?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "繼續在落地方向上滑行,直到塔台通知切換至地面管制" },
+        { "id": 2, "option": "B", "text": "在就近的滑行道上脫離跑道,並保持塔台波道,直到進一步指示" },
+        { "id": 3, "option": "C", "text": "在就近的滑行道上脫離跑道,並在進入滑行道後,切換至地面管制波道" }
       ]
     },
     {
       "id": 153,
-      "title": "",
-      "answer": "",
+      "title": "飛行員應如何覆誦航管許可或指示?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "除了SIDs外, 覆誦所有的指定高度, 高度限制,及雷達引導的指示" },
+        { "id": 2, "option": "B", "text": "若已瞭解航管許可或指示,回答收到即可" },
+        { "id": 3, "option": "C", "text": "覆誦完整的航管許可或指示以確認完全瞭解" }
       ]
     },
     {
       "id": 154,
-      "title": "",
-      "answer": "",
+      "title": "為確保能得到航管優先,執行空中救護的航機應將\"LIFEGUARD\"注明於飛航計劃之何處?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "Aircraft type/special equipment block" },
+        { "id": 2, "option": "B", "text": "Pilot's name and Aircraft type" },
+        { "id": 3, "option": "C", "text": "Pilot's name and address block" }
       ]
     },
     {
       "id": 155,
-      "title": "",
-      "answer": "",
+      "title": "飛行員應如何描述 braking action?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "0 , 50%, 75%, 100%" },
+        { "id": 2, "option": "B", "text": "Zero-zero, fifty-fifty, or normal" },
+        { "id": 3, "option": "C", "text": "Nil, poor, fair, or good" }
       ]
     },
     {
       "id": 156,
-      "title": "",
-      "answer": "",
+      "title": "何謂PRM(Precision Runway Monitoring)?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "航機機上雷達裝備,用於監控兩條跑道的進場" },
+        { "id": 2, "option": "B", "text": "雷達系統,用於監控兩條平行而相近跑道的進場" },
+        { "id": 3, "option": "C", "text": "高擷取率雷達系統,用於監控多架飛機於單跑道的進場" }
       ]
     },
     {
       "id": 157,
-      "title": "",
-      "answer": "",
+      "title": "除緊急情況外,飛行員何時可預期得到優先落地許可?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "當收到IFR的進場許可" },
+        { "id": 2, "option": "B", "text": "當航機為大重量操作時" },
+        { "id": 3, "option": "C", "text": "先到先服務為原則" }
       ]
     },
     {
       "id": 158,
-      "title": "",
-      "answer": "",
+      "title": "若航管要求航機調整空速且會超出航機的操作範圍,飛行員應做何處置?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "盡量配合調整到航管要求的空速,但不超限" },
+        { "id": 2, "option": "B", "text": "盡量長時間保持在預劃的空速後,再向航管請求合理的空速" },
+        { "id": 3, "option": "C", "text": "告知航管航機能保持的空速" }
       ]
     },
     {
       "id": 159,
-      "title": "",
-      "answer": "",
+      "title": "在執行ILS進場時,何種情況下一定要執行迷失進場?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "在DH時無法清楚目視跑道" },
+        { "id": 2, "option": "B", "text": "到達DH且已過進場圖所標示的迷失進場時間,無法清楚目視跑道環境" },
+        { "id": 3, "option": "C", "text": "在DH時無法清楚目視任何目視參考 (visual references),或之後的任何時間無法保持目視" }
       ]
     },
     {
       "id": 160,
-      "title": "",
-      "answer": "",
+      "title": "當航管在雷達引導至 \"NO PT\"的儀器進場時,飛行員應?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "提醒航管,航機將不會執行程序轉彎 (procedure turn)" },
+        { "id": 2, "option": "B", "text": "不執行程序轉彎 (procedure turn),除飛航管特別指示" },
+        { "id": 3, "option": "C", "text": "執行待命航線式的程序轉彎 (procedure turn)" }
       ]
     },
     {
       "id": 161,
-      "title": "",
-      "answer": "",
+      "title": "ILS功能正常下,無法目視跑道,應於何時執行迷失進場?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "在下滑道上到達DH時" },
+        { "id": 2, "option": "B", "text": "到達目視下降點時(visual descent point)" },
+        { "id": 3, "option": "C", "text": "到達進場圖所標示的迷失進場時間" }
       ]
     },
     {
       "id": 162,
-      "title": "",
-      "answer": "",
+      "title": "當航管在雷達引導至 unpublished route並發給\"cleared for approach\",航機應?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "下降至MVA(minimum vector altitude)" },
+        { "id": 2, "option": "B", "text": "保持最後指定高度,直到建立進場邊上" },
+        { "id": 3, "option": "C", "text": "下降到 IAF(initial approach fix)的高度" }
       ]
     },
     {
       "id": 163,
-      "title": "",
-      "answer": "",
+      "title": "當使用ALSF-1 approach light system為主要目視參考時,何時才能下降至DH 或MDA以下?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "DH 或MDA以,下不可參考approach light system到落地" },
+        { "id": 2, "option": "B", "text": "可以繼續參考approach light system到落地" },
+        { "id": 3, "option": "C", "text": "可以繼續參考approach light system,但不得低於100呎 (above touchdown zone)" }
       ]
     },
     {
       "id": 164,
-      "title": "",
-      "answer": "",
+      "title": "當航管許可ILS進場後,應飛何種高度?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "下降至 procedure turn的高度" },
+        { "id": 2, "option": "B", "text": "保持最後指定高度,直到攔截到各進場邊的指定高度" },
+        { "id": 3, "option": "C", "text": "穩定在五邊後即可下降" }
       ]
     },
     {
       "id": 165,
-      "title": "",
-      "answer": "",
+      "title": "當決定轉降至備降場時,最低的天氣標準為何?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "IFR備降場天氣標準" },
+        { "id": 2, "option": "B", "text": "ETA加減1小時內,雲幕2000呎,能見度3哩" },
+        { "id": 3, "option": "C", "text": "實際儀器進場圖的落地天氣標準" }
       ]
     },
     {
       "id": 166,
-      "title": "",
-      "answer": "",
+      "title": "當航管頒布的許可與法規抵觸時,飛行員應做何處置?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "完全 Read back" },
+        { "id": 2, "option": "B", "text": "請求航管釐清" },
+        { "id": 3, "option": "C", "text": "不接受此許可" }
       ]
     },
     {
       "id": 167,
-      "title": "",
-      "answer": "",
+      "title": "當航管許可side-step maneuver進場時,飛行員應何時開始做 side-step?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "下降至環繞進場高度(circling approach)時" },
+        { "id": 2, "option": "B", "text": "目視跑道或機場後儘快執行" },
+        { "id": 3, "option": "C", "text": "到達MDA且目視跑道後" }
       ]
     },
     {
       "id": 168,
-      "title": "",
-      "answer": "",
+      "title": "何謂航管指示(ATC instruction)?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "同航管許可(ATC clearance)" },
+        { "id": 2, "option": "B", "text": "航管延伸的指示,需要航機作出特定的處置" },
+        { "id": 3, "option": "C", "text": "必須完整\"read back\"而確認生效" }
       ]
     },
     {
       "id": 169,
-      "title": "",
-      "answer": "",
+      "title": "航機以GPS為導航裝備,其導航能力應視為?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "RNAV equipped" },
+        { "id": 2, "option": "B", "text": "Astrotracker equipped" },
+        { "id": 3, "option": "C", "text": "FMS/EFIS equipped" }
       ]
     },
     {
       "id": 170,
-      "title": "",
-      "answer": "",
+      "title": "如果你在大型航機落地後進行起飛,應計劃於何處離地?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "該機落地點之前" },
+        { "id": 2, "option": "B", "text": "該機落地點之後" },
+        { "id": 3, "option": "C", "text": "恰好在該機落地點,並保持在跑道的上風邊緣" }
       ]
     },
     {
       "id": 171,
-      "title": "",
-      "answer": "",
+      "title": "IFR飛行員應何時告知航管\"Minimum fuel\"?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "油量低於IFR所需油量" },
+        { "id": 2, "option": "B", "text": "需要優先落地許可" },
+        { "id": 3, "option": "C", "text": "剩餘油量無法接受進一步的延誤" }
       ]
     },
     {
       "id": 172,
-      "title": "",
-      "answer": "",
+      "title": "\"Minimum fuel\"對航管的意義是?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "航機需要航管優先" },
+        { "id": 2, "option": "B", "text": "航機需要緊急就近落地" },
+        { "id": 3, "option": "C", "text": "進一步的延遲將可能造成航機的緊急情況" }
       ]
     },
     {
       "id": 173,
-      "title": "",
-      "answer": "",
+      "title": "何種情況下航管會發佈安全警告(safety alerts)?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "有立即撞機的危險" },
+        { "id": 2, "option": "B", "text": "當航機接近地面或地障時" },
+        { "id": 3, "option": "C", "text": "極端的天氣,風切或大冰雹" }
       ]
     },
     {
       "id": 174,
-      "title": "",
-      "answer": "",
+      "title": "劫機的 transponder codes為何?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "7200" },
+        { "id": 2, "option": "B", "text": "7500" },
+        { "id": 3, "option": "C", "text": "7777" }
       ]
     },
     {
       "id": 175,
-      "title": "",
-      "answer": "",
+      "title": "飛行員操作詢答器(transponder)撥定值時,應避開哪個範圍?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "0000 到 1000" },
+        { "id": 2, "option": "B", "text": "7200 及 7500 系列" },
+        { "id": 3, "option": "C", "text": "7500, 7600, 及 7700 系列" }
       ]
     },
     {
       "id": 176,
-      "title": "",
-      "answer": "",
+      "title": "當機場不同的位置出現不同的風向時,塔台會如何報?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "Light and variable" },
+        { "id": 2, "option": "B", "text": "Wind shear" },
+        { "id": 3, "option": "C", "text": "Frontal passage" }
       ]
     },
     {
-      "id": 171,
-      "title": "",
-      "answer": "",
+      "id": 177,
+      "title": "何種情況為最早可宣告為緊急情況的時機?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "任何時間飛行員懷疑該情況已嚴重影響飛安" },
+        { "id": 2, "option": "B", "text": "油量或天氣的因素需要航管優先" },
+        { "id": 3, "option": "C", "text": "航機已發生火警,機械故障或結構受損" }
       ]
     },
     {
       "id": 178,
-      "title": "",
-      "answer": "",
+      "title": "何種的目視Traffic最可能有碰撞的疑慮?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "正面,高速由左至右" },
+        { "id": 2, "option": "B", "text": "正面,慢速由右至左" },
+        { "id": 3, "option": "C", "text": "正面,靜止不動,逐漸變大" }
       ]
     },
     {
       "id": 179,
-      "title": "",
-      "answer": "",
+      "title": "具備加壓客艙的四具往復式引擎客機在正常操作情況下,其駕駛艙通話記錄器的內容必須?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "可以全部刪除或保留最後30分鐘的通話記錄" },
+        { "id": 2, "option": "B", "text": "可以全部刪除或保留落地前最後30分鐘的通話記錄" },
+        { "id": 3, "option": "C", "text": "可以全部刪除,因為往復式引擎客機不須配備駛艙通話記錄器" }
       ]
     },
     {
       "id": 180,
-      "title": "",
-      "answer": "",
+      "title": "下列何者為目的地機場ETA天氣預報的主要來源?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "Low-Level Prog Chart" },
+        { "id": 2, "option": "B", "text": "Radar Summary and Weather Depiction Charts" },
+        { "id": 3, "option": "C", "text": "Terminal Aerodrome Forecast" }
       ]
     },
     {
       "id": 181,
-      "title": "",
-      "answer": "",
+      "title": "TAF中只會顯示何種類型的雲?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "Altocumulus" },
+        { "id": 2, "option": "B", "text": "Cumulonimbus" },
+        { "id": 3, "option": "C", "text": "Stratocumulus" }
       ]
     },
     {
       "id": 182,
-      "title": "",
-      "answer": "",
+      "title": "起飛時尾風增加之風切,會如何影響航機性能?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "空速減少" },
+        { "id": 2, "option": "B", "text": "減少起飛距離" },
+        { "id": 3, "option": "C", "text": "增加爬昇性能" }
       ]
     },
     {
       "id": 183,
-      "title": "",
-      "answer": "",
+      "title": "航機在下滑道上下降,油門正保持空速,何種儀表顯示可代表遭遇尾風轉頂風之風切?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "姿態: 增加 下降率: 增加 空速:減少後增加" },
+        { "id": 2, "option": "B", "text": "姿態: 增加 下降率: 減少 空速:增加後減少" },
+        { "id": 3, "option": "C", "text": "姿態: 減少 下降率: 減少 空速:減少後增加" }
       ]
     },
     {
       "id": 184,
-      "title": "",
-      "answer": "",
+      "title": "Microburst中的下沉率可最大高達?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "8,000 ft/min" },
+        { "id": 2, "option": "B", "text": "7,000 ft/min" },
+        { "id": 3, "option": "C", "text": "6,000 ft/min" }
       ]
     },
     {
       "id": 185,
-      "title": "",
-      "answer": "",
+      "title": "航機正遭遇45kt頂風,若再遇上Microburst,最大風切可達幾浬?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "40 knots" },
+        { "id": 2, "option": "B", "text": "80 knots" },
+        { "id": 3, "option": "C", "text": "90 knots" }
       ]
     },
     {
       "id": 186,
-      "title": "",
-      "answer": "",
+      "title": "接獲航管許可後,飛行員不可偏離此許可,除非?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "請求修正許可" },
+        { "id": 2, "option": "B", "text": "正執行 VFR on top" },
+        { "id": 3, "option": "C", "text": "請求修正許可,或航機處於緊急情況" }
       ]
     },
     {
       "id": 187,
-      "title": "",
-      "answer": "",
+      "title": "飛行員在搜尋空中的航機時,應使用何種技巧?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "每隔一段時間,緩慢地由視野的一邊掃到另一邊" },
+        { "id": 2, "option": "B", "text": "專注任何在視野周圍移動的物體" },
+        { "id": 3, "option": "C", "text": "眼睛連續地使用短暫固定間隔的移動,使天空的影像連續地進入視野的中心" }
       ]
     },
     {
       "id": 188,
-      "title": "",
-      "answer": "",
+      "title": "當計劃進行夜間緊急落地,下列何者是必要的考量之一?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "以無外型落地確保高落地姿態" },
+        { "id": 2, "option": "B", "text": "關閉所有電力開關以節省電池電力來準備落地" },
+        { "id": 3, "option": "C", "text": "如可能的話,選擇在靠近公眾的區域落地" }
       ]
     }
   ]
