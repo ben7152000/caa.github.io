@@ -3,2294 +3,2103 @@
   "questions": [
     {
       "id": 1,
-      "title": "",
-      "answer": "",
+      "title": "CG可由下列何方式獲得？",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "總力臂/總力距" },
+        { "id": 2, "option": "B", "text": "總重X總力距" },
+        { "id": 3, "option": "C", "text": "總力距/總重" }
       ]
     },
     {
       "id": 2,
-      "title": "",
-      "answer": "",
+      "title": "計算載重平衡時，基本空重應包含機身，引擎和已安裝之選擇裝備重，以及",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "不可使用之燃油，及各種操作液壓油及滑油之總重" },
+        { "id": 2, "option": "B", "text": "所有燃油及滑油重，但不包含駕駛，乘客及其行李重" },
+        { "id": 3, "option": "C", "text": "不可使用之燃油，及各種滑油之總重，但不包含自行加裝的無線電及儀器重" }
       ]
     },
     {
       "id": 3,
-      "title": "",
-      "answer": "",
+      "title": "火星塞失效最可能發生在",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "爬升但未做混合比調整" },
+        { "id": 2, "option": "B", "text": "下降但未做混合比調整" },
+        { "id": 3, "option": "C", "text": "油門劇烈增加" }
       ]
     },
     {
       "id": 4,
-      "title": "",
-      "answer": "",
+      "title": "如果爬升中未將混合比調稀則會",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "進入化油器的空氣會變少而吸入的燃油也會變少" },
+        { "id": 2, "option": "B", "text": "進入化油器的空氣密度降低，但是吸入的燃油則增加" },
+        { "id": 3, "option": "C", "text": "進入化油器的空氣密度降低，但是吸入的燃油則不變" }
       ]
     },
     {
       "id": 5,
-      "title": "",
-      "answer": "",
+      "title": "使用化油器加溫裝置會",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "不影響混合比" },
+        { "id": 2, "option": "B", "text": "油/氣混合比變稀" },
+        { "id": 3, "option": "C", "text": "油/氣混合比變濃" }
       ]
     },
     {
       "id": 6,
-      "title": "",
-      "answer": "",
+      "title": "除非已執行調整，否則爬升中油/氣混合比會變濃，因為吸入的燃油",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "隨著吸入空氣體積減少而減少" },
+        { "id": 2, "option": "B", "text": "保持不變，雖然吸入的空氣體積減少" },
+        { "id": 3, "option": "C", "text": "雖然保持不變，但吸入的空氣密度減少" }
       ]
     },
     {
       "id": 7,
-      "title": "",
-      "answer": "",
+      "title": "隨高度變化調整油/氣混合比的目的是",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "隨著空氣密度下降減少供油" },
+        { "id": 2, "option": "B", "text": "隨著空氣密度增加減少供油" },
+        { "id": 3, "option": "C", "text": "隨著空氣密度及氣壓下降及增加供油" }
       ]
     },
     {
       "id": 8,
-      "title": "",
-      "answer": "",
+      "title": "高高度下，過濃的混合比將導致",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "引擎過熱" },
+        { "id": 2, "option": "B", "text": "火星塞失效" },
+        { "id": 3, "option": "C", "text": "引擎運轉更加平順但是會增加油耗" }
       ]
     },
     {
       "id": 9,
-      "title": "",
-      "answer": "",
+      "title": "飛行員由何裝置控制油/氣混合比？",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "油門" },
+        { "id": 2, "option": "B", "text": "歧管壓力" },
+        { "id": 3, "option": "C", "text": "混合比控制器" }
       ]
     },
     {
       "id": 10,
-      "title": "",
-      "answer": "",
+      "title": "油/氣混合比是",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "進入汽缸的燃油體積與空氣體積的比值" },
+        { "id": 2, "option": "B", "text": "進入汽缸的燃油重量與空氣重量的比值" },
+        { "id": 3, "option": "C", "text": "進入化油器的燃油重量與空氣重量的比值" }
       ]
     },
     {
       "id": 11,
-      "title": "",
-      "answer": "",
+      "title": "外界溫度或壓力對渦輪燃氣引擎的影響為何？",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "空氣密度下降，推力上升" },
+        { "id": 2, "option": "B", "text": "溫度上升，推力上升" },
+        { "id": 3, "option": "C", "text": "溫度上升，推力下降" }
       ]
     },
     {
       "id": 12,
-      "title": "",
-      "answer": "",
+      "title": "起飛期間一直開啟化油器加溫裝置會導致",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "混合比變稀，是馬力增加" },
+        { "id": 2, "option": "B", "text": "減短起飛距離" },
+        { "id": 3, "option": "C", "text": "增加滾行距離" }
       ]
     },
     {
       "id": 13,
-      "title": "",
-      "answer": "",
+      "title": "開啟化油器加溫裝置會導致",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "油/氣比變濃" },
+        { "id": 2, "option": "B", "text": "油/氣比變稀" },
+        { "id": 3, "option": "C", "text": "沒有影響" }
       ]
     },
     {
       "id": 14,
-      "title": "",
-      "answer": "",
+      "title": "不受控制，在正常時間前的點火稱為",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "瞬間燃燒" },
+        { "id": 2, "option": "B", "text": "爆震" },
+        { "id": 3, "option": "C", "text": "提前點火" }
       ]
     },
     {
       "id": 15,
-      "title": "",
-      "answer": "",
+      "title": "活塞引擎的爆震出現在",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "過濃的混合比導致點火" },
+        { "id": 2, "option": "B", "text": "線路短路造成火星塞點火" },
+        { "id": 3, "option": "C", "text": "油/氣在汽缸中瞬間燃燒" }
       ]
     },
     {
       "id": 16,
-      "title": "",
-      "answer": "",
+      "title": "高馬力下爆震可能出現在",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "油/氣不在正確的時間或位置被點火" },
+        { "id": 2, "option": "B", "text": "過濃的油/氣比導致馬力暴增" },
+        { "id": 3, "option": "C", "text": "汽缸中的積碳過熱導致油/氣過早點火" }
       ]
     },
     {
       "id": 17,
-      "title": "",
-      "answer": "",
+      "title": "引擎殆速下，熄火前，將點火鑰匙短暫轉到OFF位置，但是引擎正常運作不受影響：",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "屬正常現象，引擎要等混和比調到關斷(cut-off)位置才會停止" },
+        { "id": 2, "option": "B", "text": "屬不正常現象，代表磁發電機(magneto)在OFF位置時並未接地" },
+        { "id": 3, "option": "C", "text": "這是不預期的操作，但是一切正常" }
       ]
     },
     {
       "id": 18,
-      "title": "",
-      "answer": "",
+      "title": "將點火鑰匙轉到OFF位置，但是引擎仍運作不受影響的原因是",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "火星塞上有積碳" },
+        { "id": 2, "option": "B", "text": "磁發電機(magneto)的接地線連接到引擎的外殼上" },
+        { "id": 3, "option": "C", "text": "磁發電機的接地線有斷裂的現象" }
       ]
     },
     {
       "id": 19,
-      "title": "",
-      "answer": "",
+      "title": "若磁發電機(magneto)與點火鑰匙間的接地線有斷裂的現象，則",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "引擎在只有一個磁發電機下將無法運作" },
+        { "id": 2, "option": "B", "text": "如果將點火鑰匙轉到BOTH位置亦無法發動引擎" },
+        { "id": 3, "option": "C", "text": "如果汽缸中有殘餘油/氣，轉動螺旋槳將可能啟動引擎" }
       ]
     },
     {
       "id": 20,
-      "title": "",
-      "answer": "",
+      "title": "檢視磁發電機(magneto)是否正常接地可以使用下列何種方式？",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "引擎殆速下，將點火鑰匙短暫轉到OFF位置" },
+        { "id": 2, "option": "B", "text": "全馬力，踩住煞車下，將點火鑰匙短暫轉到OFF位置" },
+        { "id": 3, "option": "C", "text": "使用單一磁發電機，混合比調稀，檢視歧管壓力上升" }
       ]
     },
     {
       "id": 21,
-      "title": "",
-      "answer": "",
+      "title": "活塞引擎內部冷卻特別依賴",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "引擎襟翼位置的適當調整" },
+        { "id": 2, "option": "B", "text": "引擎滑油的循環" },
+        { "id": 3, "option": "C", "text": "冷媒和壓縮機的運作" }
       ]
     },
     {
       "id": 22,
-      "title": "",
-      "answer": "",
+      "title": "異常高的引擎滑油溫度可能產生的原因為何？",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "軸承磨損" },
+        { "id": 2, "option": "B", "text": "滑油的液面過低" },
+        { "id": 3, "option": "C", "text": "油/氣混合比過濃" }
       ]
     },
     {
       "id": 23,
-      "title": "",
-      "answer": "",
+      "title": "應經常檢視飛機的排氣歧管式加溫裝置以避免",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "排氣歧管破裂導致廢氣進入駕駛艙" },
+        { "id": 2, "option": "B", "text": "排氣歧管破裂導致馬力下降" },
+        { "id": 3, "option": "C", "text": "由於加熱器失效導致引擎冷卻下運轉" }
       ]
     },
     {
       "id": 24,
-      "title": "",
-      "answer": "",
+      "title": "為達到最佳馬力和推力，應將可變螺距(constant-speed)螺旋槳槳葉角度調整到",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "高攻角/低轉速" },
+        { "id": 2, "option": "B", "text": "低攻角/高轉速" },
+        { "id": 3, "option": "C", "text": "高攻角/高轉速" }
       ]
     },
     {
       "id": 25,
-      "title": "",
-      "answer": "",
+      "title": "起飛時可變螺距(controllable-pitch)螺旋槳應調整到",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "低攻角/高轉速" },
+        { "id": 2, "option": "B", "text": "高攻角/低轉速" },
+        { "id": 3, "option": "C", "text": "高攻角/高轉速" }
       ]
     },
     {
       "id": 26,
-      "title": "",
-      "answer": "",
+      "title": "定螺距(fixed-pitch)螺旋槳設計上在何組合下效率最佳？",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "特定高度和轉速下" },
+        { "id": 2, "option": "B", "text": "特定速度和轉速下" },
+        { "id": 3, "option": "C", "text": "特定高度和速度下" }
       ]
     },
     {
       "id": 27,
-      "title": "",
-      "answer": "",
+      "title": "螺旋槳葉片設計上有幾何彎曲是因為",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "使巡航時槳葉各段的傾角(angle of incidence)大致相同" },
+        { "id": 2, "option": "B", "text": "避免巡航時靠軸心的部分失速" },
+        { "id": 3, "option": "C", "text": "使巡航時槳葉各段的攻角大致相同" }
       ]
     },
     {
       "id": 28,
-      "title": "",
-      "answer": "",
+      "title": "下列對可變螺距(constant-speed)螺旋槳的敘述何者正確？",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "當飛行員調整油門設定時，槳葉調整裝置會控制槳葉維持固定角度" },
+        { "id": 2, "option": "B", "text": "在高槳葉角度下，可以減低槳葉的阻力，在起飛時提供更大的馬力" },
+        { "id": 3, "option": "C", "text": "可以適當的控制引擎轉速，也就是螺旋槳轉速" }
       ]
     },
     {
       "id": 29,
-      "title": "",
-      "answer": "",
+      "title": "起飛後進入爬升階段 ， 配備可變螺距(constant-speed)螺旋槳的飛機可藉由降低歧管壓力及何種方式來減低引擎馬力輸出？",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "減低槳葉角度以提高轉速" },
+        { "id": 2, "option": "B", "text": "減低槳葉角度以減低轉速" },
+        { "id": 3, "option": "C", "text": "增加槳葉角度以減低轉速" }
       ]
     },
     {
       "id": 30,
-      "title": "",
-      "answer": "",
+      "title": "由駕駛艙看，一個順時針旋轉的螺旋槳會造成何種螺旋氣流？",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "對垂直軸而言向右，對縱軸而言向左" },
+        { "id": 2, "option": "B", "text": "對垂直軸而言向左，對縱軸而言向右" },
+        { "id": 3, "option": "C", "text": "對垂直軸而言向左，對縱軸而言向左" }
       ]
     },
     {
       "id": 31,
-      "title": "",
-      "answer": "",
+      "title": "對配置可變螺距(constant-speed)螺旋槳及自然進氣的飛機 ， 為避免給予引擎機件過大的壓力，應該",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "當需要減低引擎馬力時，應該先減低轉速再減低歧管壓力" },
+        { "id": 2, "option": "B", "text": "當需要增加引擎馬力時，應該先增加轉速再增加歧管壓力" },
+        { "id": 3, "option": "C", "text": "不論需要增加或減低引擎馬力時，皆應該先調整轉速再調整歧管壓力" }
       ]
     },
     {
       "id": 32,
-      "title": "",
-      "answer": "",
+      "title": "為什麼要避免速度超過VNE？",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "產生的過高阻力會導致結構傷害" },
+        { "id": 2, "option": "B", "text": "如果遭遇亂流的話飛機可能會超過設計的負重因子" },
+        { "id": 3, "option": "C", "text": "會導致飛機失控" }
       ]
     },
     {
       "id": 33,
-      "title": "",
-      "answer": "",
+      "title": "總氣流施加於機翼的作用相對於飛機的重量比值，稱為",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "載重因子 ， 並直接影響失速速度" },
+        { "id": 2, "option": "B", "text": "相對負重 ， 並直接影響失速速度" },
+        { "id": 3, "option": "C", "text": "載重因子，並不影響失速速度" }
       ]
     },
     {
       "id": 34,
-      "title": "",
-      "answer": "",
+      "title": "冷天氣操作下之飛機預熱何者正確？",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "客艙和引擎都應該被預熱" },
+        { "id": 2, "option": "B", "text": "客艙不得使用移動式加熱機來預熱" },
+        { "id": 3, "option": "C", "text": "熱空氣應由進氣口直接加熱引擎" }
       ]
     },
     {
       "id": 35,
-      "title": "",
-      "answer": "",
+      "title": "冷天氣預熱時，曲軸箱通風線路應特別注意，因為他們很容易阻塞，其原因為何？",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "區軸箱內凝結的油污" },
+        { "id": 2, "option": "B", "text": "外界的水氣結冰" },
+        { "id": 3, "option": "C", "text": "區軸箱內水氣沈積後凝結結冰" }
       ]
     },
     {
       "id": 36,
-      "title": "",
-      "answer": "",
+      "title": "如果要由濕滑並結冰的跑道起飛，如何避免起落架受積冰影響？",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "視需要收放起落架數次" },
+        { "id": 2, "option": "B", "text": "延後收起起落架" },
+        { "id": 3, "option": "C", "text": "加速到VLE後再收起落架" }
       ]
     },
     {
       "id": 37,
-      "title": "",
-      "answer": "",
+      "title": "下列何種類型的空速，在空速表上沒有特別顏色標示？",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "不可超越速度" },
+        { "id": 2, "option": "B", "text": "無動力失速速度" },
+        { "id": 3, "option": "C", "text": "操作空速(maneuvering speed)" }
       ]
     },
     {
       "id": 38,
-      "title": "",
-      "answer": "",
+      "title": "校正空速是將指示空速做何修正？",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "儀表誤差及裝置誤差" },
+        { "id": 2, "option": "B", "text": "儀器誤差" },
+        { "id": 3, "option": "C", "text": "溫度修正" }
       ]
     },
     {
       "id": 39,
-      "title": "",
-      "answer": "",
+      "title": "真空速是將校正空速做何修正？",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "儀器誤差及裝置誤差" },
+        { "id": 2, "option": "B", "text": "溫度修正" },
+        { "id": 3, "option": "C", "text": "高度及溫度修正" }
       ]
     },
     {
       "id": 40,
-      "title": "",
-      "answer": "",
+      "title": "一架飛機距離極高頻萬向導航台(VOR)60英里，而其航路偏向指示CDI偏移1/5的幅度，則航機實際偏離航道中心的距離約為",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "6英里" },
+        { "id": 2, "option": "B", "text": "2英里" },
+        { "id": 3, "option": "C", "text": "1英里" }
       ]
     },
     {
       "id": 41,
-      "title": "",
-      "answer": "",
+      "title": "在地面使用經FAA認可之裝備測試訊號時 ， 合格的極高頻萬向導航台(VOR)的最大容許誤差為+",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "4度" },
+        { "id": 2, "option": "B", "text": "6度" },
+        { "id": 3, "option": "C", "text": "8度" }
       ]
     },
     {
       "id": 42,
-      "title": "",
-      "answer": "",
+      "title": "航管異頻響應器(transponder)除非在過去多久之內被檢視過證實可以正常操作，否則不得使用？",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "30天內" },
+        { "id": 2, "option": "B", "text": "12個日曆月" },
+        { "id": 3, "option": "C", "text": "24個日曆月" }
       ]
     },
     {
       "id": 43,
-      "title": "",
-      "answer": "",
+      "title": "特定外型下的失速速度/最低飛行速度代號為",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "VS" },
+        { "id": 2, "option": "B", "text": "VS1" },
+        { "id": 3, "option": "C", "text": "VS0" }
       ]
     },
     {
       "id": 44,
-      "title": "",
-      "answer": "",
+      "title": "可控制下的失速速度/最低飛行速度代號為",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "VS" },
+        { "id": 2, "option": "B", "text": "VS1" },
+        { "id": 3, "option": "C", "text": "VS0" }
       ]
     },
     {
       "id": 45,
-      "title": "",
-      "answer": "",
+      "title": "飛機的起飛及爬升性能表係基於下列何種條件計算出來的？",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "壓力/密度高度" },
+        { "id": 2, "option": "B", "text": "客艙高度" },
+        { "id": 3, "option": "C", "text": "真高度" }
       ]
     },
     {
       "id": 46,
-      "title": "",
-      "answer": "",
+      "title": "若飛機裝載時CG在範圍的最後方，則有可能在何軸的操作上較不穩定？",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "垂直軸" },
+        { "id": 2, "option": "B", "text": "水平軸" },
+        { "id": 3, "option": "C", "text": "縱軸" }
       ]
     },
     {
       "id": 47,
-      "title": "",
-      "answer": "",
+      "title": "進場和落地時襟翼的一項主要功能為",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "在不增加速度下減低下降角度" },
+        { "id": 2, "option": "B", "text": "較低速度下提供相同升力" },
+        { "id": 3, "option": "C", "text": "減低升力，使飛機以更陡的角度進場" }
       ]
     },
     {
       "id": 48,
-      "title": "",
-      "answer": "",
+      "title": "縱向穩定靠何控制面維持？",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "舵" },
+        { "id": 2, "option": "B", "text": "升降面" },
+        { "id": 3, "option": "C", "text": "副翼" }
       ]
     },
     {
       "id": 49,
-      "title": "",
-      "answer": "",
+      "title": "羅盤的磁偏差角度",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "隨時間改變" },
+        { "id": 2, "option": "B", "text": "隨方向改變" },
+        { "id": 3, "option": "C", "text": "同地方所有的飛機都一樣" }
       ]
     },
     {
       "id": 50,
-      "title": "",
-      "answer": "",
+      "title": "最大結構巡航速度是指飛機在何條件下的最大速度？",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "劇烈操作下" },
+        { "id": 2, "option": "B", "text": "一般操作下" },
+        { "id": 3, "option": "C", "text": "平穩氣流下" }
       ]
     },
     {
       "id": 51,
-      "title": "",
-      "answer": "",
+      "title": "轉向協調器和轉向側滑指示器的差異為，轉向協調器",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "是電操作，轉向協調器為真空操作" },
+        { "id": 2, "option": "B", "text": "只有指示轉向角度，而轉向側滑指示器同時另外指示是否協調及轉向率" },
+        { "id": 3, "option": "C", "text": "指示滾轉率，轉向率及是否協調，而轉向側滑指示器指示轉向率及是否協調" }
       ]
     },
     {
       "id": 52,
-      "title": "",
-      "answer": "",
+      "title": "電力轉向協調器相較於其他真空操作儀器的優點為：",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "可作為真空操作系統故障時的備份儀表" },
+        { "id": 2, "option": "B", "text": "可靠度較佳" },
+        { "id": 3, "option": "C", "text": "相對於真空操作儀器較不會翻轉" }
       ]
     },
     {
       "id": 53,
-      "title": "",
-      "answer": "",
+      "title": "緊急定位發射器之最長累積使用時間為多久 ， 此緊急定位發射器的電池就必須更換或充電",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "30分鐘" },
+        { "id": 2, "option": "B", "text": "45分鐘" },
+        { "id": 3, "option": "C", "text": "60分鐘" }
       ]
     },
     {
       "id": 54,
-      "title": "",
-      "answer": "",
+      "title": "儀器飛航條件下，極高頻萬向導航台(VOR)必須在多久前完成操作檢查",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "30天或30小時之飛行時間" },
+        { "id": 2, "option": "B", "text": "10天或10小時之飛行時間" },
+        { "id": 3, "option": "C", "text": "30天" }
       ]
     },
     {
       "id": 55,
-      "title": "",
-      "answer": "",
+      "title": "極高頻萬向導航台(VOR)在檢查其使用狀況後必須記錄",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "使用之極高頻萬向導航台(VOR)名稱，檢查地點，誤差角度和檢查日期" },
+        { "id": 2, "option": "B", "text": "檢查日期，地點，誤差角度及簽名" },
+        { "id": 3, "option": "C", "text": "使用之極高頻萬向導航台(VOR)名稱，誤差角度，檢查日期和簽名" }
       ]
     },
     {
       "id": 56,
-      "title": "",
-      "answer": "",
+      "title": "如果飛機被歸類為utility等級，則可進行何種飛航？",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "有限制的特技動作，不包括螺旋動作" },
+        { "id": 2, "option": "B", "text": "任何特技及螺旋以外的操作" },
+        { "id": 3, "option": "C", "text": "有限制的特技動作，包括螺旋動作（如果經過許可）" }
       ]
     },
     {
       "id": 57,
-      "title": "",
-      "answer": "",
+      "title": "關於維修檢查的敘述何者正確？",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "100小時檢查可以取代年度檢查" },
+        { "id": 2, "option": "B", "text": "年度檢查可以取代100小時檢查" },
+        { "id": 3, "option": "C", "text": "即使其他合法的檢查系統(progressive inspection system)已經執行，年度檢查仍然必須要做" }
       ]
     },
     {
       "id": 58,
-      "title": "",
-      "answer": "",
+      "title": "如果年度檢查已完成並且飛機已經上線值勤則必須記錄在",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "適航認證上" },
+        { "id": 2, "option": "B", "text": "飛機維修記錄本上" },
+        { "id": 3, "option": "C", "text": "FAA認可之飛航手冊上" }
       ]
     },
     {
       "id": 59,
-      "title": "",
-      "answer": "",
+      "title": "飛機的適航認證持續有效直到",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "需要維修檢查為止" },
+        { "id": 2, "option": "B", "text": "年度維修為止" },
+        { "id": 3, "option": "C", "text": "年度檢查或100小時檢查到期前為止" }
       ]
     },
     {
       "id": 60,
-      "title": "",
-      "answer": "",
+      "title": "飛機的維修記錄必須包含",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "適航認證" },
+        { "id": 2, "option": "B", "text": "引擎和機體的年限（檢查日期）" },
+        { "id": 3, "option": "C", "text": "引擎，機體，螺旋槳和任何其他裝置的年限（檢查日期）" }
       ]
     },
     {
       "id": 61,
-      "title": "",
-      "answer": "",
+      "title": "關於飛行員進行預防性維修檢查的敘述何者正確？",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "不需要做預防性維修檢查" },
+        { "id": 2, "option": "B", "text": "預防性維修檢查必須記錄在維修本上" },
+        { "id": 3, "option": "C", "text": "預防性維修檢查必須記錄在FAA認可之飛航手冊上" }
       ]
     },
     {
       "id": 62,
-      "title": "",
-      "answer": "",
+      "title": "螺旋槳調速器控制何者?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "通往螺距改變機構的滑油" },
+        { "id": 2, "option": "B", "text": "增壓幫浦變速彈簧的張力" },
+        { "id": 3, "option": "C", "text": "移動連動與配重" }
       ]
     },
     {
       "id": 63,
-      "title": "",
-      "answer": "",
+      "title": "何種力對螺旋槳產生最大的應力?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "離心力" },
+        { "id": 2, "option": "B", "text": "扭力撓曲" },
+        { "id": 3, "option": "C", "text": "氣動力扭曲" }
       ]
     },
     {
       "id": 64,
-      "title": "",
-      "answer": "",
+      "title": "何種力會增加螺旋槳槳葉的角度?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "扭力撓曲" },
+        { "id": 2, "option": "B", "text": "氣動力扭曲" },
+        { "id": 3, "option": "C", "text": "離心扭距" }
       ]
     },
     {
       "id": 65,
-      "title": "",
-      "answer": "",
+      "title": "何種力會使螺旋槳順槳?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "扭力撓曲" },
+        { "id": 2, "option": "B", "text": "氣動力扭曲" },
+        { "id": 3, "option": "C", "text": "離心扭距" }
       ]
     },
     {
       "id": 66,
-      "title": "",
-      "answer": "",
+      "title": "何種飛行狀態會使螺旋槳槳葉保持最大的角度?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "初始爬升階段" },
+        { "id": 2, "option": "B", "text": "進場落地" },
+        { "id": 3, "option": "C", "text": "高空高速巡航" }
       ]
     },
     {
       "id": 67,
-      "title": "",
-      "answer": "",
+      "title": "巡航增加油門會使螺旋槳?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "減少螺旋槳槳葉的角度" },
+        { "id": 2, "option": "B", "text": "增加螺旋槳槳葉的角度" },
+        { "id": 3, "option": "C", "text": "增加螺旋槳的轉速" }
       ]
     },
     {
       "id": 68,
-      "title": "",
-      "answer": "",
+      "title": "螺旋槳的同步調相系統的功能為何?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "使所有的螺旋槳轉速相同" },
+        { "id": 2, "option": "B", "text": "設定所有的螺旋槳槳葉角度在相同位置" },
+        { "id": 3, "option": "C", "text": "設定副引擎與主引發螺旋槳轉動的相位差" }
       ]
     },
     {
       "id": 69,
-      "title": "",
-      "answer": "",
+      "title": "往復引擎將化學能轉換為機械能的行程依序為?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "點火,壓縮,動力,排氣" },
+        { "id": 2, "option": "B", "text": "壓縮,點火,進氣,動力,排氣" },
+        { "id": 3, "option": "C", "text": "進氣,壓縮,點火,動力,排氣" }
       ]
     },
     {
       "id": 70,
-      "title": "",
-      "answer": "",
+      "title": "往復引擎的活塞排氣量為?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "每單位氣缸體績產生馬力輸出的比值" },
+        { "id": 2, "option": "B", "text": "曲軸完成一圈轉動單一活塞所置換的總體積" },
+        { "id": 3, "option": "C", "text": "曲軸完成一圈轉動所有活塞所置換的總體積" }
       ]
     },
     {
       "id": 71,
-      "title": "",
-      "answer": "",
+      "title": "下列何種情況可能造成引擎在低轉速時進氣系統回火?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "進氣口堵塞" },
+        { "id": 2, "option": "B", "text": "怠轉太低" },
+        { "id": 3, "option": "C", "text": "空燃比過稀" }
       ]
     },
     {
       "id": 72,
-      "title": "",
-      "answer": "",
+      "title": "滑油冷排旁通閥的功能為何?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "當滑油冷排堵塞時旁通滑油" },
+        { "id": 2, "option": "B", "text": "控制並限制滑油壓力" },
+        { "id": 3, "option": "C", "text": "根據滑油溫度及黏性,控制滑油通過冷排的流量" }
       ]
     },
     {
       "id": 73,
-      "title": "",
-      "answer": "",
+      "title": "引擎提前點火的現象是?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "間歇性點火及缸溫低" },
+        { "id": 2, "option": "B", "text": "排氣系統放炮並產生火星或後燃" },
+        { "id": 3, "option": "C", "text": "引擎震動及氣缸頭溫度驟升" }
       ]
     },
     {
       "id": 74,
-      "title": "",
-      "answer": "",
+      "title": "引擎提前點火的第一步處置為?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "降低油門" },
+        { "id": 2, "option": "B", "text": "提高空燃比" },
+        { "id": 3, "option": "C", "text": "降低空燃比" }
       ]
     },
     {
       "id": 75,
-      "title": "",
-      "answer": "",
+      "title": "引擎液鎖時試圖發動引擎會造成?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "連桿彎曲或斷裂" },
+        { "id": 2, "option": "B", "text": "起動器齒輪箱超扭" },
+        { "id": 3, "option": "C", "text": "氣缸下部的燃油或滑油會噴入排氣系統造成後燃" }
       ]
     },
     {
       "id": 76,
-      "title": "",
-      "answer": "",
+      "title": "在引擎注水系統中加入酒精的目的為?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "增加辛烷值" },
+        { "id": 2, "option": "B", "text": "提供更大冷卻" },
+        { "id": 3, "option": "C", "text": "避免結冰" }
       ]
     },
     {
       "id": 77,
-      "title": "",
-      "answer": "",
+      "title": "造成引擎爆震的原因可能為?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "高辛烷值燃油" },
+        { "id": 2, "option": "B", "text": "岐管壓力低" },
+        { "id": 3, "option": "C", "text": "進氣溫度高" }
       ]
     },
     {
       "id": 78,
-      "title": "",
-      "answer": "",
+      "title": "燃油加壓幫浦的功能為?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "給噴射化油器提供壓力" },
+        { "id": 2, "option": "B", "text": "避免高溫導致氣鎖" },
+        { "id": 3, "option": "C", "text": "避免高壓導致氣鎖" }
       ]
     },
     {
       "id": 79,
-      "title": "",
-      "answer": "",
+      "title": "引擎注水系統的功能為?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "抑制爆震" },
+        { "id": 2, "option": "B", "text": "增加燃油效率" },
+        { "id": 3, "option": "C", "text": "避免化油器結冰" }
       ]
     },
     {
       "id": 80,
-      "title": "",
-      "answer": "",
+      "title": "電磁式斷路器的特性為何?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "自動重設" },
+        { "id": 2, "option": "B", "text": "可立即重設" },
+        { "id": 3, "option": "C", "text": "必須等待短時間後才能重設" }
       ]
     },
     {
       "id": 81,
-      "title": "",
-      "answer": "",
+      "title": "化油器結冰會導致什麼現象?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "螺旋槳的轉速降低" },
+        { "id": 2, "option": "B", "text": "岐管壓力降低" },
+        { "id": 3, "option": "C", "text": "富油導致回火" }
       ]
     },
     {
       "id": 82,
-      "title": "",
-      "answer": "",
+      "title": "加壓噴射化油器通常較產生何種結冰?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "燃油結冰" },
+        { "id": 2, "option": "B", "text": "進氣結冰" },
+        { "id": 3, "option": "C", "text": "揮發性結冰" }
       ]
     },
     {
       "id": 83,
-      "title": "",
-      "answer": "",
+      "title": "在駕駛艙玻璃窗加熱系統中,何者使玻璃窗能保持正常溫度?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "熱變阻器" },
+        { "id": 2, "option": "B", "text": "電子擴大器" },
+        { "id": 3, "option": "C", "text": "熱超溫開關" }
       ]
     },
     {
       "id": 84,
-      "title": "",
-      "answer": "",
+      "title": "光電式煙霧偵測器的工作原理為?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "光電式煙霧偵測器只在有煙時產生警告" },
+        { "id": 2, "option": "B", "text": "光電式煙霧偵測器測量特定的煙霧量" },
+        { "id": 3, "option": "C", "text": "光電式煙霧偵測器測量特定的光度" }
       ]
     },
     {
       "id": 85,
-      "title": "",
-      "answer": "",
+      "title": "火警偵測系統中的熱電偶如何啟動警告裝置?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "熱能增加電阻" },
+        { "id": 2, "option": "B", "text": "熱能產生小電流" },
+        { "id": 3, "option": "C", "text": "熱膨脹形成接地" }
       ]
     },
     {
       "id": 86,
-      "title": "",
-      "answer": "",
+      "title": "保持同高度由冷飛到熱的區域,無自動燃氣比調整的化油器,其燃氣比會如何變化?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "引擎因進氣密度提高造成輸出馬力下降" },
+        { "id": 2, "option": "B", "text": "引擎因空氣熱膨脹使進氣量增加,因此輸出馬力提升" },
+        { "id": 3, "option": "C", "text": "引擎因進氣密度降低造成富油,導致輸出馬力下降" }
       ]
     },
     {
       "id": 87,
-      "title": "",
-      "answer": "",
+      "title": "化油器加熱後對引擎輸出有何影響?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "容積效率降低" },
+        { "id": 2, "option": "B", "text": "造成貧油且馬力下降" },
+        { "id": 3, "option": "C", "text": "燃氣比增加" }
       ]
     },
     {
       "id": 88,
-      "title": "",
-      "answer": "",
+      "title": "飛機的重心通常以機身何處為參考點,其單位如何表示?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "重心前限,英吋" },
+        { "id": 2, "option": "B", "text": "平均氣動力弦前端,百分比" },
+        { "id": 3, "option": "C", "text": "翼前緣,百分比" }
       ]
     },
     {
       "id": 89,
-      "title": "",
-      "answer": "",
+      "title": "飛機的重心以何參考軸來計算?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "橫軸" },
+        { "id": 2, "option": "B", "text": "垂直軸" },
+        { "id": 3, "option": "C", "text": "縱軸" }
       ]
     },
     {
       "id": 90,
-      "title": "",
-      "answer": "",
+      "title": "Zero fuel weight 的定義為?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "basic operating weight plus payload." },
+        { "id": 2, "option": "B", "text": "empty weight plus passengers and cargo." },
+        { "id": 3, "option": "C", "text": "takeoff weight minus fuel to destination and alternate." }
       ]
     },
     {
       "id": 91,
-      "title": "",
-      "answer": "",
+      "title": "以控制燃油比來關車的目的為?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "避免意外開車" },
+        { "id": 2, "option": "B", "text": "避免下次開車時液鎖" },
+        { "id": 3, "option": "C", "text": "確保進氣系統無燃油,避免火警" }
       ]
     },
     {
       "id": 92,
-      "title": "",
-      "answer": "",
+      "title": "滑油的黏度係數為何?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "表示滑油在實驗室低溫下的流動性" },
+        { "id": 2, "option": "B", "text": "估計滑油在溫度變化時黏度的變化率" },
+        { "id": 3, "option": "C", "text": "表示該滑油與美國石油協會參考滑油的比重" }
       ]
     },
     {
       "id": 93,
-      "title": "",
-      "answer": "",
+      "title": "起落架的伸放與壓縮會啟動哪個安全裝置?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "Uplock switch." },
+        { "id": 2, "option": "B", "text": "Downlock switch." },
+        { "id": 3, "option": "C", "text": "Ground safety switch." }
       ]
     },
     {
       "id": 94,
-      "title": "",
-      "answer": "",
+      "title": "乘客使用的氧氣系統為何?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "量控式" },
+        { "id": 2, "option": "B", "text": "定流式" },
+        { "id": 3, "option": "C", "text": "稀釋量控式" }
       ]
     },
     {
       "id": 95,
-      "title": "",
-      "answer": "",
+      "title": "駕駛艙使用的氧氣系統為何?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "定流式" },
+        { "id": 2, "option": "B", "text": "稀相式" },
+        { "id": 3, "option": "C", "text": "稀釋量控式" }
       ]
     },
     {
       "id": 96,
-      "title": "",
-      "answer": "",
+      "title": "主輪的某一輪胎之熱熔器熔化而洩氣,這意謂?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "大煞車使用後造成輪胎過熱,使輪圈上的塑膠熱熔器熔化,如此可避免輪胎因高溫而有爆炸的危險" },
+        { "id": 2, "option": "B", "text": "輪胎之高溫使輪圈上的金屬熱熔器熔化,造成輪胎洩氣" },
+        { "id": 3, "option": "C", "text": "輪胎之高溫使輪胎上的溫度感應閥熔化,造成輪胎洩氣,如此可避免機翼受損" }
       ]
     },
     {
       "id": 97,
-      "title": "",
-      "answer": "",
+      "title": "飛機主輪上之可熔塞作用為何?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "避免輪胎爆炸" },
+        { "id": 2, "option": "B", "text": "便於快速洩氣維修" },
+        { "id": 3, "option": "C", "text": "保護防滑系統的電系" }
       ]
     },
     {
       "id": 98,
-      "title": "",
-      "answer": "",
+      "title": "潑水劑使用時機為何?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "進入降雨區前" },
+        { "id": 2, "option": "B", "text": "開始降雨後" },
+        { "id": 3, "option": "C", "text": "當擋風玻璃是乾的時" }
       ]
     },
     {
       "id": 99,
-      "title": "",
-      "answer": "",
+      "title": "加熱駕駛艙玻璃窗的目的為何?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "除冰" },
+        { "id": 2, "option": "B", "text": "避免熱震" },
+        { "id": 3, "option": "C", "text": "鳥擊保護" }
       ]
     },
     {
       "id": 100,
-      "title": "",
-      "answer": "",
+      "title": "防滑煞車系統中的控制盒作用為何?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "感應輪速改變" },
+        { "id": 2, "option": "B", "text": "避免帶煞車落地" },
+        { "id": 3, "option": "C", "text": "量測煞車力道避免輪胎鎖死" }
       ]
     },
     {
       "id": 101,
-      "title": "",
-      "answer": "",
+      "title": "引擎直驅的油壓幫浦如何調節壓力?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "系統旁通閥" },
+        { "id": 2, "option": "B", "text": "恆速轉動器" },
+        { "id": 3, "option": "C", "text": "管路中的可變孔口" }
       ]
     },
     {
       "id": 102,
-      "title": "",
-      "answer": "",
+      "title": "氣動系統中的濕氣可能導致?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "腐蝕" },
+        { "id": 2, "option": "B", "text": "各類異聲如爆震,嘯聲和抖動" },
+        { "id": 3, "option": "C", "text": "當作動時氣壓下降會導致回油管路結冰" }
       ]
     },
     {
       "id": 103,
-      "title": "",
-      "answer": "",
+      "title": "緊急氣動系統的氣瓶通常填充何種氣體?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "氮氣" },
+        { "id": 2, "option": "B", "text": "乾氧" },
+        { "id": 3, "option": "C", "text": "二氧化碳" }
       ]
     },
     {
       "id": 104,
-      "title": "",
-      "answer": "",
+      "title": "液壓驅動器之作用為何?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "壓縮液壓油" },
+        { "id": 2, "option": "B", "text": "吸引驟變之壓力" },
+        { "id": 3, "option": "C", "text": "儲存少量因系統洩露之液壓油" }
       ]
     },
     {
       "id": 105,
-      "title": "",
-      "answer": "",
+      "title": "關於潑水劑之使用,下列何者正確?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "降雨後儘早使用,以使雨水和擋風玻璃間產生屏障" },
+        { "id": 2, "option": "B", "text": "先使用潑水劑,再用雨刷將其均勻分佈" },
+        { "id": 3, "option": "C", "text": "使用次數以雨量大小決定" }
       ]
     },
     {
       "id": 106,
-      "title": "",
-      "answer": "",
+      "title": "為何合成液壓油必須存放在氣密容器?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "高揮發率" },
+        { "id": 2, "option": "B", "text": "此油氣有劇毒" },
+        { "id": 3, "option": "C", "text": "易吸溼而污染" }
       ]
     },
     {
       "id": 107,
-      "title": "",
-      "answer": "",
+      "title": "當客艙壓力控制器為壓差模式時,參考氣壓會藉何排氣?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "洩壓閥" },
+        { "id": 2, "option": "B", "text": "等壓計量閥" },
+        { "id": 3, "option": "C", "text": "差壓計量閥" }
       ]
     },
     {
       "id": 108,
-      "title": "",
-      "answer": "",
+      "title": "在加壓系統中,洩壓閥的功能為?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "釋放負壓差" },
+        { "id": 2, "option": "B", "text": "釋放客艙之正差" },
+        { "id": 3, "option": "C", "text": "釋放客艙超限之壓差" }
       ]
     },
     {
       "id": 109,
-      "title": "",
-      "answer": "",
+      "title": "客艙壓力設定是直接控制?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "壓縮機速度" },
+        { "id": 2, "option": "B", "text": "出流閥門開啟" },
+        { "id": 3, "option": "C", "text": "氣動系統之壓力" }
       ]
     },
     {
       "id": 110,
-      "title": "",
-      "answer": "",
+      "title": "艙壓控制系統中的哪個部份能避免客艙高度高於飛機高度?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "客艙下降率控制器" },
+        { "id": 2, "option": "B", "text": "負壓排氣閥" },
+        { "id": 3, "option": "C", "text": "壓縮比限制開關" }
       ]
     },
     {
       "id": 111,
-      "title": "",
-      "answer": "",
+      "title": "若客艙爬升率過大,應如何控制艙壓?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "緩慢打開出流閥門" },
+        { "id": 2, "option": "B", "text": "迅速關閉出流閥門" },
+        { "id": 3, "option": "C", "text": "增加進氣量" }
       ]
     },
     {
       "id": 112,
-      "title": "",
-      "answer": "",
+      "title": "如何控制客艙艙壓",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "調整壓縮機輸出的壓力閥" },
+        { "id": 2, "option": "B", "text": "出流閥門依設定值排氣降壓" },
+        { "id": 3, "option": "C", "text": "入流閥門依設定值調整進氣流量" }
       ]
     },
     {
       "id": 113,
-      "title": "",
-      "answer": "",
+      "title": "何謂客艙壓差?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "客艙內與外界的壓力差" },
+        { "id": 2, "option": "B", "text": "客艙飛行高度的壓力與海平面的壓力差" },
+        { "id": 3, "option": "C", "text": "客艙設定艙壓與實際艙壓差" }
       ]
     },
     {
       "id": 114,
-      "title": "",
-      "answer": "",
+      "title": "哪個儀表能指示艙壓變化率,其單位為何?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "壓力控制器, PSI" },
+        { "id": 2, "option": "B", "text": "客艙升降率表, PSI" },
+        { "id": 3, "option": "C", "text": "客艙升降率表, feet per minute" }
       ]
     },
     {
       "id": 115,
-      "title": "",
-      "answer": "",
+      "title": "渦輪引擎的哪個部份提供空調用分氣?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "進氣口" },
+        { "id": 2, "option": "B", "text": "壓縮機" },
+        { "id": 3, "option": "C", "text": "燃燒室" }
       ]
     },
     {
       "id": 116,
-      "title": "",
-      "answer": "",
+      "title": "空氣循環冷卻系統的哪個部份會降壓及降溫?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "膨脹渦輪機" },
+        { "id": 2, "option": "B", "text": "主熱交換器" },
+        { "id": 3, "option": "C", "text": "冷卻旁通閥" }
       ]
     },
     {
       "id": 117,
-      "title": "",
-      "answer": "",
+      "title": "空氣循環冷卻系統的組成為何?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "加熱器,冷卻器和壓縮機" },
+        { "id": 2, "option": "B", "text": "衝壓氣源,壓縮機及引擎分氣" },
+        { "id": 3, "option": "C", "text": "壓縮空氣的氣源,熱交換器及渦輪機" }
       ]
     },
     {
       "id": 118,
-      "title": "",
-      "answer": "",
+      "title": "空氣循環冷卻系統如何提供冷氣?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "將加熱的空氣導入壓縮機" },
+        { "id": 2, "option": "B", "text": "將空氣導入膨脹渦輪機並吸收其熱能" },
+        { "id": 3, "option": "C", "text": "將空氣導入含冷煤的冷卻環" }
       ]
     },
     {
       "id": 119,
-      "title": "",
-      "answer": "",
+      "title": "下列何種客艙空調系統使用冷煤來降溫?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "空氣循環式" },
+        { "id": 2, "option": "B", "text": "蒸氣循環式" },
+        { "id": 3, "option": "C", "text": "蒸發式風箱" }
       ]
     },
     {
       "id": 120,
-      "title": "",
-      "answer": "",
+      "title": "下列何種艙壓控制系統使用控制器內參考氣室的壓力,來調整出流閥門?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "等壓式及差壓式" },
+        { "id": 2, "option": "B", "text": "未加壓及加壓控制" },
+        { "id": 3, "option": "C", "text": "周圍,差壓及最大壓差" }
       ]
     },
     {
       "id": 121,
-      "title": "",
-      "answer": "",
+      "title": "鉛酸電池使用的電解液為何?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "硼酸" },
+        { "id": 2, "option": "B", "text": "硫酸" },
+        { "id": 3, "option": "C", "text": "氫氧化鉀" }
       ]
     },
     {
       "id": 122,
-      "title": "",
-      "answer": "",
+      "title": "鎳鎘電池中的電解液特性為何",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "無腐蝕性" },
+        { "id": 2, "option": "B", "text": "類似家用鹼水,可能造成嚴重灼傷" },
+        { "id": 3, "option": "C", "text": "比鉛酸電池所使用的電解液較無害" }
       ]
     },
     {
       "id": 123,
-      "title": "",
-      "answer": "",
+      "title": "下列何者能中和鎳鎘電池的電解液",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "肥皂與水" },
+        { "id": 2, "option": "B", "text": "蘇打的碳酸氫鹽" },
+        { "id": 3, "option": "C", "text": "硼酸溶液,醋,檸檬汁等弱酸" }
       ]
     },
     {
       "id": 124,
-      "title": "",
-      "answer": "",
+      "title": "使用熔絲型限流器的目的為何?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "避免低功率迴路超載" },
+        { "id": 2, "option": "B", "text": "快速斷路之設計可保護敏感的裝備或迴路" },
+        { "id": 3, "option": "C", "text": "允許熔絲熔斷前的短時間超載" }
       ]
     },
     {
       "id": 125,
-      "title": "",
-      "answer": "",
+      "title": "為何配線及電氣單元的封裝要使用金屬材質",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "免除地線" },
+        { "id": 2, "option": "B", "text": "避免靜電" },
+        { "id": 3, "option": "C", "text": "消除無線電電磁波干擾" }
       ]
     },
     {
       "id": 126,
-      "title": "",
-      "answer": "",
+      "title": "何謂殘壓?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "與電流相位不同所產生的電壓" },
+        { "id": 2, "option": "B", "text": "儲存在發電機激磁器輸出線圈的電壓" },
+        { "id": 3, "option": "C", "text": "交流發電機中,能啟動電力輸出的永久磁鐵產生的的電壓" }
       ]
     },
     {
       "id": 127,
-      "title": "",
-      "answer": "",
+      "title": "繼電器與電磁開關有何不同?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "繼電器有移動的線圈" },
+        { "id": 2, "option": "B", "text": "電磁開關有移動的線圈" },
+        { "id": 3, "option": "C", "text": "繼電器是當成機械控制裝置使用" }
       ]
     },
     {
       "id": 128,
-      "title": "",
-      "answer": "",
+      "title": "電氣系中繼電器的作用為何?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "能用小開關遙控大電流的裝備" },
+        { "id": 2, "option": "B", "text": "借由接地避免靜電累積" },
+        { "id": 3, "option": "C", "text": "使起動器齒輪作動,移開鎖定插銷或其他機械控制裝置" }
       ]
     },
     {
       "id": 129,
-      "title": "",
-      "answer": "",
+      "title": "使用 115 volts, 400-Hz AC 的優點為何?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "可使用整流器改變電壓,節省空間及重量" },
+        { "id": 2, "option": "B", "text": "高頻的誘導阻抗能提高電流,及傳輸效率較高" },
+        { "id": 3, "option": "C", "text": "與相同輸出之DC馬達相比,高電壓的AC馬達較小較輕" }
       ]
     },
     {
       "id": 130,
-      "title": "",
-      "answer": "",
+      "title": "為何在連接或移除電池前應先關閉所有的負載及電源?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "避免電池放電" },
+        { "id": 2, "option": "B", "text": "避免火花點燃爆炸性氣體" },
+        { "id": 3, "option": "C", "text": "避免電源驟變造成敏感裝備跳電" }
       ]
     },
     {
       "id": 131,
-      "title": "",
-      "answer": "",
+      "title": "飛機上的可見的靜電放電現象稱為?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "Corona threshold." },
+        { "id": 2, "option": "B", "text": "Saint Elmo's fire." },
+        { "id": 3, "option": "C", "text": "Precipitation static." }
       ]
     },
     {
       "id": 132,
-      "title": "",
-      "answer": "",
+      "title": "飛機電池輸出為 45 amperes- 2.5 hours, 可換算為多少 amperes- hours?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "90.0 ampere-hour." },
+        { "id": 2, "option": "B", "text": "18.0 ampere-hour." },
+        { "id": 3, "option": "C", "text": "112.5 ampere-hour." }
       ]
     },
     {
       "id": 133,
-      "title": "",
-      "answer": "",
+      "title": "飛機上計算保險絲容量的單位為何?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "volts" },
+        { "id": 2, "option": "B", "text": "watts" },
+        { "id": 3, "option": "C", "text": "amperes" }
       ]
     },
     {
       "id": 134,
-      "title": "",
-      "answer": "",
+      "title": "關於飛機上的電氣系中斷路器自動重設功能,下列何者正確?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "不作為迴路保護裝置使用" },
+        { "id": 2, "option": "B", "text": "使用在所有電氣系的迴路" },
+        { "id": 3, "option": "C", "text": "只應用在會暫時超載的裝備上" }
       ]
     },
     {
       "id": 135,
-      "title": "",
-      "answer": "",
+      "title": "電氣系中繼電器的作用為何?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "磁力開關" },
+        { "id": 2, "option": "B", "text": "增壓器" },
+        { "id": 3, "option": "C", "text": "低電阻的導體" }
       ]
     },
     {
       "id": 136,
-      "title": "",
-      "answer": "",
+      "title": "發電機的輸出為何計算?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "Watts at rated voltage." },
+        { "id": 2, "option": "B", "text": "Amperes at rated voltage." },
+        { "id": 3, "option": "C", "text": "Voltage at rated amperes." }
       ]
     },
     {
       "id": 137,
-      "title": "",
-      "answer": "",
+      "title": "電氣系中功率的單位為何?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "Volts." },
+        { "id": 2, "option": "B", "text": "Watts." },
+        { "id": 3, "option": "C", "text": "Amperes." }
       ]
     },
     {
       "id": 138,
-      "title": "",
-      "answer": "",
+      "title": "儀表燈光系統斷路器的功能為何?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "保護燈光避免電流過大" },
+        { "id": 2, "option": "B", "text": "保護配線避免電流過大" },
+        { "id": 3, "option": "C", "text": "避免配線電壓過高" }
       ]
     },
     {
       "id": 139,
-      "title": "",
-      "answer": "",
+      "title": "交流發電機控制器的保護功能為何?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "斷相,欠激及超壓" },
+        { "id": 2, "option": "B", "text": "欠壓,差速故障,手動並聯" },
+        { "id": 3, "option": "C", "text": "發電機欠速,匯流排聯絡斷路器自動關閉" }
       ]
     },
     {
       "id": 140,
-      "title": "",
-      "answer": "",
+      "title": "平行匯流排電氣系的特性為何?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "外電源能與發電機並聯使用" },
+        { "id": 2, "option": "B", "text": "當某一發電機失效時能自動分配電負載" },
+        { "id": 3, "option": "C", "text": "每個發電機獨立供電給對應的匯流排" }
       ]
     },
     {
       "id": 141,
-      "title": "",
-      "answer": "",
+      "title": "變壓整流器的功能為何?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "將 115 volts 400-Hz AC 轉換為 28 volts DC." },
+        { "id": 2, "option": "B", "text": "將 DC 轉為 26 volts 或 115 volts 400-Hz AC" },
+        { "id": 3, "option": "C", "text": "利用飛機的電池來運作緊急飛行儀表及無線電" }
       ]
     },
     {
       "id": 142,
-      "title": "",
-      "answer": "",
+      "title": "二十單元電池組的鎳鎘電池在充分充電後電壓應為多少?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "12 volts." },
+        { "id": 2, "option": "B", "text": "20 volts." },
+        { "id": 3, "option": "C", "text": "25 volts." }
       ]
     },
     {
       "id": 143,
-      "title": "",
-      "answer": "",
+      "title": "為何鎳鎘電池必須定期完全放電後充電?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "重置電解質的液面" },
+        { "id": 2, "option": "B", "text": "消除電池失衡及容量損失" },
+        { "id": 3, "option": "C", "text": "溶解正極上的鎳氧化物來恢復電池容量" }
       ]
     },
     {
       "id": 144,
-      "title": "",
-      "answer": "",
+      "title": "何者會導致鎳鎘電池的電池失衡效應",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "低溫" },
+        { "id": 2, "option": "B", "text": "大量快速放電" },
+        { "id": 3, "option": "C", "text": "定壓充電" }
       ]
     },
     {
       "id": 145,
-      "title": "",
-      "answer": "",
+      "title": "交流發電機的恆速傳動器功能為何?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "控制磁場強度" },
+        { "id": 2, "option": "B", "text": "調整發電機電壓" },
+        { "id": 3, "option": "C", "text": "保持固定的頻率" }
       ]
     },
     {
       "id": 146,
-      "title": "",
-      "answer": "",
+      "title": "交流電的頻率代表何種指示?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "引擎 N(2) 指示" },
+        { "id": 2, "option": "B", "text": "發電機 RPM." },
+        { "id": 3, "option": "C", "text": "恆速傳動器的輸入轉速" }
       ]
     },
     {
       "id": 147,
-      "title": "",
-      "answer": "",
+      "title": "飛機的交流發電機輸出單位為何?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "Volts." },
+        { "id": 2, "option": "B", "text": "Kilowatts (KW)." },
+        { "id": 3, "option": "C", "text": "Kilovolt-amps (KVA)." }
       ]
     },
     {
       "id": 148,
-      "title": "",
-      "answer": "",
+      "title": "變流機的功能為何?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "將 115 volts ac 轉為 28 volts dc." },
+        { "id": 2, "option": "B", "text": "將 DC 轉為 115 volts 400-Hz AC" },
+        { "id": 3, "option": "C", "text": "將 26/29 volts DC 變壓為 115/200 volts DC." }
       ]
     },
     {
       "id": 149,
-      "title": "",
-      "answer": "",
+      "title": "反流繼電器的功能為何?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "避免某個發電機驅動另一個發動機" },
+        { "id": 2, "option": "B", "text": "調整發電機的電壓以對應本身的負荷" },
+        { "id": 3, "option": "C", "text": "當發電機的電壓低於電池的電壓時,使發電機與主匯流排斷路" }
       ]
     },
     {
       "id": 150,
-      "title": "",
-      "answer": "",
+      "title": "六單元電池組的鉛酸電池在充分充電後電壓應為多少?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "6 volts." },
+        { "id": 2, "option": "B", "text": "12 volts." },
+        { "id": 3, "option": "C", "text": "24 volts." }
       ]
     },
     {
       "id": 151,
-      "title": "",
-      "answer": "",
+      "title": "飛機主輪上之可熔塞是用來避免?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "輪胎爆破" },
+        { "id": 2, "option": "B", "text": "過度使用" },
+        { "id": 3, "option": "C", "text": "熱膨脹損壞輪胎" }
       ]
     },
     {
       "id": 152,
-      "title": "",
-      "answer": "",
+      "title": "如充氣不足會形成何胎面磨損?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "緩慢地平均磨損" },
+        { "id": 2, "option": "B", "text": "胎面兩側比中間磨損較多" },
+        { "id": 3, "option": "C", "text": "中間部位加快磨損" }
       ]
     },
     {
       "id": 153,
-      "title": "",
-      "answer": "",
+      "title": "如充氣過度會形成何胎面磨損?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "緩慢地平均磨損" },
+        { "id": 2, "option": "B", "text": "胎面兩側比中間磨損較多" },
+        { "id": 3, "option": "C", "text": "中間部位加快磨損" }
       ]
     },
     {
       "id": 154,
-      "title": "",
-      "answer": "",
+      "title": "雙鼻輪輪胎的脊紋應置於何處?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "每個輪胎的兩側" },
+        { "id": 2, "option": "B", "text": "只在輪胎的內側" },
+        { "id": 3, "option": "C", "text": "只在輪胎的外側" }
       ]
     },
     {
       "id": 155,
-      "title": "",
-      "answer": "",
+      "title": "輪胎上的脊紋的功能為何?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "增加在積雪或積冰跑道上的抓地力" },
+        { "id": 2, "option": "B", "text": "減輕濕跑道上的Hydroplane的傾向" },
+        { "id": 3, "option": "C", "text": "將積水或濕冰導離引擎進氣口" }
       ]
     },
     {
       "id": 156,
-      "title": "",
-      "answer": "",
+      "title": "下列何者為飛操系統中的基本控制面?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "調整片" },
+        { "id": 2, "option": "B", "text": "襟翼" },
+        { "id": 3, "option": "C", "text": "外側副翼" }
       ]
     },
     {
       "id": 157,
-      "title": "",
-      "answer": "",
+      "title": "下列何者為飛操系統中的二級控制面?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "方向舵" },
+        { "id": 2, "option": "B", "text": "伺服片" },
+        { "id": 3, "option": "C", "text": "內側副翼" }
       ]
     },
     {
       "id": 158,
-      "title": "",
-      "answer": "",
+      "title": "當主操縱面移動時,升降舵上的調整片如何動作?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "同向" },
+        { "id": 2, "option": "B", "text": "反向" },
+        { "id": 3, "option": "C", "text": "不動" }
       ]
     },
     {
       "id": 159,
-      "title": "",
-      "answer": "",
+      "title": "駕駛桿操作時副翼的移動方向為何?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "駕駛桿向右時左副翼向下" },
+        { "id": 2, "option": "B", "text": "駕駛桿向左時右副翼向上" },
+        { "id": 3, "option": "C", "text": "駕駛桿向左時左副翼向下" }
       ]
     },
     {
       "id": 160,
-      "title": "",
-      "answer": "",
+      "title": "機翼前緣襟翼的作用為何?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "增加機翼曲度" },
+        { "id": 2, "option": "B", "text": "在空速不增加下,減少升力" },
+        { "id": 3, "option": "C", "text": "在高攻角時導引氣流通過機翼上方" }
       ]
     },
     {
       "id": 161,
-      "title": "",
-      "answer": "",
+      "title": "飛行擾流板的作用為何?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "增加機翼曲度" },
+        { "id": 2, "option": "B", "text": "在空速不增加下,減少升力" },
+        { "id": 3, "option": "C", "text": "在高攻角時導引氣流通過機翼上方" }
       ]
     },
     {
       "id": 162,
-      "title": "",
-      "answer": "",
+      "title": "地面擾流板的作用為何?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "著陸時減少機翼昇力" },
+        { "id": 2, "option": "B", "text": "輔助轉彎" },
+        { "id": 3, "option": "C", "text": "在空速不增加下,增加下降率" }
       ]
     },
     {
       "id": 163,
-      "title": "",
-      "answer": "",
+      "title": "機翼上的渦旋產生器的作用為何?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "避免震波誘發之氣流分離" },
+        { "id": 2, "option": "B", "text": "提高阻力驟升之速度並增加高速時副翼之效用" },
+        { "id": 3, "option": "C", "text": "阻斷機翼方向的氣流,以使翼根比翼尖先失速" }
       ]
     },
     {
       "id": 164,
-      "title": "",
-      "answer": "",
+      "title": "機翼上的渦旋產生器有何缺點?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "低速時阻力稍微增加" },
+        { "id": 2, "option": "B", "text": "高速時寄生阻力顯著增加" },
+        { "id": 3, "option": "C", "text": "震波誘發之氣流分離會增加控制面?震" }
       ]
     },
     {
       "id": 165,
-      "title": "",
-      "answer": "",
+      "title": "將水平尾翼設置在垂直尾翼上方之設計有何缺點?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "結構較重" },
+        { "id": 2, "option": "B", "text": "螺旋性能不良" },
+        { "id": 3, "option": "C", "text": "垂直尾及方向舵因水平尾翼位置的端板作用,造成效能較差" }
       ]
     },
     {
       "id": 166,
-      "title": "",
-      "answer": "",
+      "title": "將水平尾翼設置在垂直尾翼上方之設計有何優點?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "減輕結構重量" },
+        { "id": 2, "option": "B", "text": "巡航較為省油" },
+        { "id": 3, "option": "C", "text": "水平尾翼能避開機翼擾流" }
       ]
     },
     {
       "id": 167,
-      "title": "",
-      "answer": "",
+      "title": "液壓系統中的固定接頭有靜態滲漏時應如何處置?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "降低儲壓器壓力" },
+        { "id": 2, "option": "B", "text": "通知修護維修" },
+        { "id": 3, "option": "C", "text": "加壓液壓系統並測試液壓功能" }
       ]
     },
     {
       "id": 168,
-      "title": "",
-      "answer": "",
+      "title": "Skydrol(液壓油)的優點為何?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "能抗水" },
+        { "id": 2, "option": "B", "text": "工作溫度範圍廣" },
+        { "id": 3, "option": "C", "text": "與植物性油基液壓油相容" }
       ]
     },
     {
       "id": 169,
-      "title": "",
-      "answer": "",
+      "title": "Skydrol(液壓油)的缺點為何?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "與合成基礎油不相容" },
+        { "id": 2, "option": "B", "text": "應避免在 -40°C以下工作" },
+        { "id": 3, "option": "C", "text": "會破壞某些電氣系的絕緣" }
       ]
     },
     {
       "id": 170,
-      "title": "",
-      "answer": "",
+      "title": "液壓油濾中的旁通閥作用為何?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "旁通阻塞物" },
+        { "id": 2, "option": "B", "text": "控制流量以保持液壓油正常的溫度及黏度" },
+        { "id": 3, "option": "C", "text": "確保在引擎開車時液壓油流量正確,直到油溫升高至液壓油可自由流動" }
       ]
     },
     {
       "id": 171,
-      "title": "",
-      "answer": "",
+      "title": "若液壓油不慎接觸到眼睛時應如何處置?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "使用眼影膏" },
+        { "id": 2, "option": "B", "text": "用肥皂與水徹底沖洗" },
+        { "id": 3, "option": "C", "text": "用水沖洗並送醫" }
       ]
     },
     {
       "id": 172,
-      "title": "",
-      "answer": "",
+      "title": "如何清除皮膚上的液壓油(Skydrol)?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "溶劑" },
+        { "id": 2, "option": "B", "text": "肥皂與水" },
+        { "id": 3, "option": "C", "text": "三氯乙烯" }
       ]
     },
     {
       "id": 173,
-      "title": "",
-      "answer": "",
+      "title": "液壓儲壓器的作用為何?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "在加壓下儲存液壓油" },
+        { "id": 2, "option": "B", "text": "收集滲漏之液壓油" },
+        { "id": 3, "option": "C", "text": "在液壓油流回液壓儲油槽前收集泡沫並排空氣體" }
       ]
     },
     {
       "id": 174,
-      "title": "",
-      "answer": "",
+      "title": "液壓儲壓器應填充何種氣體?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "氮氣" },
+        { "id": 2, "option": "B", "text": "乾氧" },
+        { "id": 3, "option": "C", "text": "二氧化碳" }
       ]
     },
     {
       "id": 175,
-      "title": "",
-      "answer": "",
+      "title": "液壓保險絲的作用原理為何?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "熱" },
+        { "id": 2, "option": "B", "text": "電" },
+        { "id": 3, "option": "C", "text": "壓差" }
       ]
     },
     {
       "id": 176,
-      "title": "",
-      "answer": "",
+      "title": "加壓液壓儲油槽的目的為何?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "提供備用壓力源" },
+        { "id": 2, "option": "B", "text": "確保在高空中無泡沫的液壓油能正確地流進油壓幫浦" },
+        { "id": 3, "option": "C", "text": "確保在在產生負G時液壓油能順利地流進油壓幫浦" }
       ]
     },
     {
-      "id": 171,
-      "title": "",
-      "answer": "",
+      "id": 177,
+      "title": "為何必須液壓油過濾?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "液壓油內的水可能結冰" },
+        { "id": 2, "option": "B", "text": "確保無泡沫的液壓油能正確地流進油壓幫浦入口" },
+        { "id": 3, "option": "C", "text": "污染物可能造成油封或剛油缸受損導致內部滲漏" }
       ]
     },
     {
       "id": 178,
-      "title": "",
-      "answer": "",
+      "title": "活塞式的儲壓器有何優點?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "比球型儲壓器的截面積小" },
+        { "id": 2, "option": "B", "text": "比囊式儲壓器的輸出壓力大" },
+        { "id": 3, "option": "C", "text": "比隔膜式儲壓器能儲存較多液壓油" }
       ]
     },
     {
       "id": 179,
-      "title": "",
-      "answer": "",
+      "title": "液壓系統中的順序閥和優先閥有何不同?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "順序閥為電動驅動" },
+        { "id": 2, "option": "B", "text": "優先閥以機械接觸驅動" },
+        { "id": 3, "option": "C", "text": "優先閥以液壓驅動" }
       ]
     },
     {
       "id": 180,
-      "title": "",
-      "answer": "",
+      "title": "液壓保險絲的作用原理為何?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "液壓油流量" },
+        { "id": 2, "option": "B", "text": "熱能上升" },
+        { "id": 3, "option": "C", "text": "壓力上升" }
       ]
     },
     {
       "id": 181,
-      "title": "",
-      "answer": "",
+      "title": "何種設計的引擎直驅的油壓幫浦可以調節輸出壓力?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "恆速轉動器" },
+        { "id": 2, "option": "B", "text": "可變容積幫浦" },
+        { "id": 3, "option": "C", "text": "管路中的可變孔口" }
       ]
     },
     {
       "id": 182,
-      "title": "",
-      "answer": "",
+      "title": "何種液壓裝置通常會採用'雙作動不對稱線性驅動器'?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "煞車" },
+        { "id": 2, "option": "B", "text": "起落架" },
+        { "id": 3, "option": "C", "text": "自動駕駛的伺服器" }
       ]
     },
     {
       "id": 183,
-      "title": "",
-      "answer": "",
+      "title": "何種液壓裝置通常會採用'雙作動對稱線性驅動器'?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "煞車" },
+        { "id": 2, "option": "B", "text": "起落架" },
+        { "id": 3, "option": "C", "text": "自動駕駛的伺服器" }
       ]
     },
     {
       "id": 184,
-      "title": "",
-      "answer": "",
+      "title": "如進氣系統與岐管壓力計之間的管線破損,岐管壓力計會顯示何種壓力",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "外界氣壓" },
+        { "id": 2, "option": "B", "text": "標準大氣壓力" },
+        { "id": 3, "option": "C", "text": "高於大氣壓力,若岐管壓力高於大氣壓力下操作" }
       ]
     },
     {
       "id": 185,
-      "title": "",
-      "answer": "",
+      "title": "螺旋槳順槳系統的特性為何?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "任何油門位置都能使自動順槳系統作用?" },
+        { "id": 2, "option": "B", "text": "起飛時將油門收至怠速會使自動順槳系統作用" },
+        { "id": 3, "option": "C", "text": "槳葉是靠氣動力保持在全順槳位置" }
       ]
     },
     {
       "id": 186,
-      "title": "",
-      "answer": "",
+      "title": "如何使 Hamilton-Standard Hydromatic propeller 解除順槳?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "使飛機保持小角度滑降並啟動螺旋槳自轉" },
+        { "id": 2, "option": "B", "text": "關閉自動順槳系統,並將螺旋槳轉速推至最高" },
+        { "id": 3, "option": "C", "text": "按住順槳按鈕直到螺旋槳自轉,然後放開按鈕重新啟動" }
       ]
     },
     {
       "id": 187,
-      "title": "",
-      "answer": "",
+      "title": "往復引擎在滑行時提高油門會有何現象?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "螺旋槳角度減少" },
+        { "id": 2, "option": "B", "text": "螺旋槳角度增加" },
+        { "id": 3, "option": "C", "text": "螺旋槳轉速提高" }
       ]
     },
     {
       "id": 188,
-      "title": "",
-      "answer": "",
+      "title": "何種力會使螺旋槳產生與旋轉方向相反的彎曲?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "扭力撓曲" },
+        { "id": 2, "option": "B", "text": "氣動力扭曲" },
+        { "id": 3, "option": "C", "text": "離心撓曲" }
       ]
     },
     {
       "id": 189,
-      "title": "",
-      "answer": "",
+      "title": "關車時螺旋槳轉速不變代表?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "怠速燃氣比正確" },
+        { "id": 2, "option": "B", "text": "怠速燃氣比太稀" },
+        { "id": 3, "option": "C", "text": "怠速燃氣比太濃" }
       ]
     },
     {
       "id": 190,
-      "title": "",
-      "answer": "",
+      "title": "關車時螺旋槳轉速約提高125轉代表?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "怠速燃氣比正確" },
+        { "id": 2, "option": "B", "text": "怠速燃氣比太稀" },
+        { "id": 3, "option": "C", "text": "怠速燃氣比太濃" }
       ]
     },
     {
       "id": 191,
-      "title": "",
-      "answer": "",
+      "title": "燃油加壓幫浦的主要目的為?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "避免起飛時無法供油" },
+        { "id": 2, "option": "B", "text": "提供正向的燃油流量至引擎幫浦" },
+        { "id": 3, "option": "C", "text": "提供油箱傳油避免燃油不平衡" }
       ]
     }
   ]
