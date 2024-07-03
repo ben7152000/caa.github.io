@@ -3,2654 +3,2523 @@
   "questions": [
     {
       "id": 1,
-      "title": "",
-      "answer": "",
+      "title": "在目視飛行圖上 , 測量真航線(true course)時 , 是以最接近航線之中間點的子午線 來測量 , 原因是",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "等磁差線上每一點之值都不同" },
+        { "id": 2, "option": "B", "text": "等磁差線上每一點與緯線之夾角都不同" },
+        { "id": 3, "option": "C", "text": "航 線上每一點與經線之夾角都不同" }
       ]
     },
     {
       "id": 2,
-      "title": "",
-      "answer": "",
+      "title": "(請參考 Fig1 , 第6點 ) Mosier 機場是(如圖A21_Fig1)",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "被限制為只供自用飛行員與休閒飛行員使用之機場" },
+        { "id": 2, "option": "B", "text": "限航區中的軍用機場" },
+        { "id": 3, "option": "C", "text": "非 公眾使用的機場" }
+      ],
+      "image": 1
     },
     {
       "id": 3,
-      "title": "",
-      "answer": "",
+      "title": "(請參考 Fig1 , 第7點 ) 在Woodland 鎮上空之 E 類空域 , 其底部高是在 :(如圖 A21_Fig1)",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "該鎮部份區域之地表以上700英呎開始 , 自此以上沒有其他更高的底部" },
+        { "id": 2, "option": "B", "text": "該鎮部 份區域之地表以上1200英呎開始 , 自此以上沒有其他更高的底部" },
+        { "id": 3, "option": "C", "text": "700英呎(地平面 上 ) 和 1200英呎(地平面上 )" }
+      ],
+      "image": 1
     },
     {
       "id": 4,
-      "title": "",
-      "answer": "",
+      "title": "(請參考 Fig1 , 第8點 ) 在Auburn 鎮上空之 E 類空域 , 其底部高是在 :(如圖 A21_Fig1)",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "1200英呎( 平均海平面 )" },
+        { "id": 2, "option": "B", "text": "700英呎(地平面上 )" },
+        { "id": 3, "option": "C", "text": "1200英呎(地平面上 )" }
+      ],
+      "image": 1
     },
     {
       "id": 5,
-      "title": "",
-      "answer": "",
+      "title": "(請參考 Fig1 , 第1點 ) 在Georgetown 機場 (Q61)上空之 E 類空域 , 其底部高是在 :(如圖A21_Fig1)",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "地表" },
+        { "id": 2, "option": "B", "text": "3823英呎( 平均海平面 )" },
+        { "id": 3, "option": "C", "text": "700英呎(地平面上 )" }
+      ],
+      "image": 1
     },
     {
       "id": 6,
-      "title": "",
-      "answer": "",
+      "title": "(請參考 Fig1 , 第5點 ) 在University 機場 ( 005)上空之 E 類空域 , 其底部是在 :(如圖A21_Fig1)",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "地表" },
+        { "id": 2, "option": "B", "text": "700英呎(地平面上 )" },
+        { "id": 3, "option": "C", "text": "1200英呎(地平面上 )" }
+      ],
+      "image": 1
     },
     {
       "id": 7,
-      "title": "",
-      "answer": "",
+      "title": "(請參考 Fig1 , 第4點 ) 在Lincoln Regional 機場 ( LHM ) 10海哩內有一最高之障礙物 ( 裝有高強度燈的 ) , 其高度離地表為 ?(如圖A21_Fig1)",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "1,254 英呎" },
+        { "id": 2, "option": "B", "text": "662 英呎" },
+        { "id": 3, "option": "C", "text": "299 英呎" }
+      ],
+      "image": 1
     },
     {
       "id": 8,
-      "title": "",
-      "answer": "",
+      "title": "(請參考 Fig1 , 第4點 ) 在Lincoln Regional 機場 ( LHM ) 東南東方 8海里之障礙物所在之地形高過該機場多高 ?(如圖A21_Fig1)",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "376 英呎" },
+        { "id": 2, "option": "B", "text": "835 英呎" },
+        { "id": 3, "option": "C", "text": "1135 英呎" }
+      ],
+      "image": 1
     },
     {
       "id": 9,
-      "title": "",
-      "answer": "",
+      "title": "(請參考 Fig2 , 前封面內部 , 第1點 ) 細的黑色陰影線最有可能是 :(如圖 A21_Fig2)",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "到場航路" },
+        { "id": 2, "option": "B", "text": "軍用訓練航路" },
+        { "id": 3, "option": "C", "text": "州界線" }
+      ],
+      "image": 2
     },
     {
       "id": 10,
-      "title": "",
-      "answer": "",
+      "title": "(請參考 Fig2 , 底封面內部 , 第2點 ) 16表示(如圖A21_Fig2)",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "天線頂部的高度為離地面1600 呎" },
+        { "id": 2, "option": "B", "text": "該地圖方塊中最高海拔數字" },
+        { "id": 3, "option": "C", "text": "該地圖方塊中最低安全扇形高度" }
+      ],
+      "image": 2
     },
     {
       "id": 11,
-      "title": "",
-      "answer": "",
+      "title": "(請參考 Fig3 , 底封面外部 , 第6點 ) 在Metropolitan Oakland International ( OAK 機場的C類空域中 , 自地表往上延伸之區塊 , 其頂部的高度為(如圖A21_Fig3)",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "2100 英呎 ( 平均海平面 ) 與 3000英呎 ( 平均海平面 )" },
+        { "id": 2, "option": "B", "text": "8000 英呎 ( 平均海平面 )" },
+        { "id": 3, "option": "C", "text": "2100 英呎 ( 地平面上 )" }
+      ],
+      "image": 3
     },
     {
       "id": 12,
-      "title": "",
-      "answer": "",
+      "title": "(請參考 Fig3 , 底封面外部 , 第1點 ) . 那一規定的最低高度可躲開Livermore (LVK 機場之D類空域 ?(如圖A21_Fig3)",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "2,503 英呎 ( 平均海平面 )" },
+        { "id": 2, "option": "B", "text": "2,901 英呎 ( 平均海平面 )" },
+        { "id": 3, "option": "C", "text": "3,297 英呎 ( 平均海平面 )" }
+      ],
+      "image": 3
     },
     {
       "id": 13,
-      "title": "",
-      "answer": "",
+      "title": "飛機巡航高度 6500 英呎 , 其耗油率為 每小時95磅 , 地速 173 節 , 若飛行距離 為 450 海里 , 需要油量多少 ?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "248 英磅" },
+        { "id": 2, "option": "B", "text": "265 英磅" },
+        { "id": 3, "option": "C", "text": "284 英磅" }
       ]
     },
     {
       "id": 14,
-      "title": "",
-      "answer": "",
+      "title": "飛機其耗油率為 每小時80英磅 , 地速 180 節 , 若飛行距離為 460 海里 , 需要油 量多少 ?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "205 英磅" },
+        { "id": 2, "option": "B", "text": "212 英磅" },
+        { "id": 3, "option": "C", "text": "460 英磅" }
       ]
     },
     {
       "id": 15,
-      "title": "",
-      "answer": "",
+      "title": "飛機巡航高度 8500 英呎 , 其耗油率為 每小時12.5加侖 , 地速 145 節 , 若飛行 距離為 435 海里 , 需要油量多少 ?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "27 加侖" },
+        { "id": 2, "option": "B", "text": "34 加侖" },
+        { "id": 3, "option": "C", "text": "38 加侖" }
       ]
     },
     {
       "id": 16,
-      "title": "",
-      "answer": "",
+      "title": "飛機巡航高度 6000 英呎 , 其耗油率為 每小時 9.5 加侖 , 地速 135 節 , 若飛 行距離為 490 海里 , 需要油量多少 ?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "27 加侖" },
+        { "id": 2, "option": "B", "text": "30 加侖" },
+        { "id": 3, "option": "C", "text": "35 加侖" }
       ]
     },
     {
       "id": 17,
-      "title": "",
-      "answer": "",
+      "title": "飛機巡航高度 7500 英呎 , 其耗油率為 每小時14.8加侖 , 地速 167 節 , 若飛行 距離為 560 海里 , 需要油量多少 ?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "50 加侖" },
+        { "id": 2, "option": "B", "text": "53 加侖" },
+        { "id": 3, "option": "C", "text": "57 加侖" }
       ]
     },
     {
       "id": 18,
-      "title": "",
-      "answer": "",
+      "title": "飛機耗油率為 每小時14.7加侖 , 地速 157 節 , 若飛行距離為 612 海里 , 需要 油量多少 ?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "58 加侖" },
+        { "id": 2, "option": "B", "text": "60 加侖" },
+        { "id": 3, "option": "C", "text": "64 加侖" }
       ]
     },
     {
       "id": 19,
-      "title": "",
-      "answer": "",
+      "title": "(如圖A21_Fig4)若飛機由位置2 飛到 位置 3 , 需飛行時間為13分鐘 , 預估到 達站台之飛行時間為 ?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "13分鐘" },
+        { "id": 2, "option": "B", "text": "17分鐘" },
+        { "id": 3, "option": "C", "text": "26分鐘" }
+      ],
+      "image": 4
     },
     {
       "id": 20,
-      "title": "",
-      "answer": "",
+      "title": "(如圖A21_Fig5)若 飛機 由位置2 飛到 位置 3 , 需飛行時間為15分鐘 , 預估到 達站台之飛行時間為 ?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "15分鐘" },
+        { "id": 2, "option": "B", "text": "30分鐘" },
+        { "id": 3, "option": "C", "text": "60分鐘" }
+      ],
+      "image": 5
     },
     {
       "id": 21,
-      "title": "",
-      "answer": "",
+      "title": "(如圖A21_Fig6)若飛機由位置2 飛到 位置 3 , 需飛行時間為13分鐘 , 預估到 達站台之飛行時間為 ?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "7.8 分鐘" },
+        { "id": 2, "option": "B", "text": "13 分鐘" },
+        { "id": 3, "option": "C", "text": "26 分鐘" }
+      ],
+      "image": 6
     },
     {
       "id": 22,
-      "title": "",
-      "answer": "",
+      "title": "(如圖A21_Fig7)若飛機由位置2 飛到 位置 3 , 需飛行時間 為8 分鐘 , 預估 到達站台之飛行時間為 ?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "8 分鐘" },
+        { "id": 2, "option": "B", "text": "16 分鐘" },
+        { "id": 3, "option": "C", "text": "48 分鐘" }
+      ],
+      "image": 7
     },
     {
       "id": 23,
-      "title": "",
-      "answer": "",
+      "title": "以電台 040 幅向(radial) , 飛向電台 , 飛行員 選擇055幅向(radial) , 左轉 15 度 記錄時間 , 當維持固定航向後 , 飛行員紀錄偏航指示針移至中間 的時間為15分鐘 , 基於以上資料 , 估計到達電台之時間為 ?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "8 分鐘" },
+        { "id": 2, "option": "B", "text": "15分鐘" },
+        { "id": 3, "option": "C", "text": "30 分鐘" }
       ]
     },
     {
       "id": 24,
-      "title": "",
-      "answer": "",
+      "title": "以電台 090 幅向(radial)飛向電台 , 飛行員把OBS旋鈕向左旋轉10度 , 飛機航向右 轉 10 度 , 記錄時間 , 當維持固定航向後 , 飛行員紀錄偏航指示針(CDI)移至中間 的 時間為8分鐘 , 基於以上資料 , 估計到達電台之時間為 ?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "8 分鐘" },
+        { "id": 2, "option": "B", "text": "16 分鐘" },
+        { "id": 3, "option": "C", "text": "24 分鐘" }
       ]
     },
     {
       "id": 25,
-      "title": "",
-      "answer": "",
+      "title": "以電台 315 幅向(radial) , 飛向電台 , 飛行員 選擇320幅向(radial) , 左轉 5 度 , 記錄時間 , 當維持固定航向後 , 飛行員紀錄偏航指示針(CDI)移至中間 的時間為 12分鐘 , 基於以上資料 , 估計到達電台之時間為 ?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "10 分鐘" },
+        { "id": 2, "option": "B", "text": "12 分鐘" },
+        { "id": 3, "option": "C", "text": "24 分鐘" }
       ]
     },
     {
       "id": 26,
-      "title": "",
-      "answer": "",
+      "title": "以電台 190 幅向(radial) , 飛向電台 , 飛行員 選擇195幅向(radial) , 左轉 5 度 , 記錄時間 , 當維持固定航向後 , 飛行員紀錄偏航指示針(CDI)移至中間 的時間為 10分鐘 , 基於以上資料 , 估計到達電台之時間為 ?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "10 分鐘" },
+        { "id": 2, "option": "B", "text": "15 分鐘" },
+        { "id": 3, "option": "C", "text": "20 分鐘" }
       ]
     },
     {
       "id": 27,
-      "title": "",
-      "answer": "",
+      "title": "磁航向 270 度 , 真空速120節 , 於12:37 經過VOR電台360幅向(radial) , 於12:44 經 過350幅向(radial). 估計到達電台之時間與距離為 ?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "42 分鐘和 84 浬" },
+        { "id": 2, "option": "B", "text": "42 分鐘和 91 浬" },
+        { "id": 3, "option": "C", "text": "44 分鐘和 96 浬" }
       ]
     },
     {
       "id": 28,
-      "title": "",
-      "answer": "",
+      "title": "ADF相對方位(relative bearing)由265度變為260度需兩分鐘 , 若地速145節 ,到達電 台之距離為 ?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "26 NM" },
+        { "id": 2, "option": "B", "text": "37 NM" },
+        { "id": 3, "option": "C", "text": "58 NM" }
       ]
     },
     {
       "id": 29,
-      "title": "",
-      "answer": "",
+      "title": "ADF顯示電台於翼尖方向, 其方位於兩分鐘之內有10度之改變 , 若真空速160節 ,到 達電台之距離為 ?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "15 NM" },
+        { "id": 2, "option": "B", "text": "32 NM" },
+        { "id": 3, "option": "C", "text": "36 NM" }
       ]
     },
     {
       "id": 30,
-      "title": "",
-      "answer": "",
+      "title": "真空速115節 , ADF相對方位由090度變為095度需1.5分鐘 , 估計到達電台之距離 為 ?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "12.5 浬" },
+        { "id": 2, "option": "B", "text": "24.5 浬" },
+        { "id": 3, "option": "C", "text": "34.5 浬" }
       ]
     },
     {
       "id": 31,
-      "title": "",
-      "answer": "",
+      "title": "已知 : 電台( 於翼尖方向 )方位之改變: 5 度 , 方位改變需時 : 5 分鐘 , 真空速: 115節 , 電台之距離為 :",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "36 浬" },
+        { "id": 2, "option": "B", "text": "57.5 浬" },
+        { "id": 3, "option": "C", "text": "115 浬" }
       ]
     },
     {
       "id": 32,
-      "title": "",
-      "answer": "",
+      "title": "ADF 調整頻道接收NDB電台訊號 , 顯示相對方位由095度變為100度需1.5分鐘 , 估 計到達電台之時間為 ?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "18 分鐘" },
+        { "id": 2, "option": "B", "text": "24 分鐘" },
+        { "id": 3, "option": "C", "text": "30 分鐘" }
       ]
     },
     {
       "id": 33,
-      "title": "",
-      "answer": "",
+      "title": "當飛機保持固定航向時 , 相對方位由原來的10 度變為雙倍需時5 分鐘 , 若真空速為 105節 , 估計到達電台之時間與距離為 ?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "5 分鐘和 8.7哩" },
+        { "id": 2, "option": "B", "text": "10 分鐘和 17哩" },
+        { "id": 3, "option": "C", "text": "15 分鐘和 31.2 哩" }
       ]
     },
     {
       "id": 34,
-      "title": "",
-      "answer": "",
+      "title": "已知 : , 於翼尖方向之電台的方位改變 : 15 度 , 方位改變需時: 6 分鐘 , 耗油率 : 8.6 加侖 / 小時 , 估計到達電台之所需之油量為 :",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "3.44 加侖" },
+        { "id": 2, "option": "B", "text": "6.88 加侖" },
+        { "id": 3, "option": "C", "text": "17.84 加侖" }
       ]
     },
     {
       "id": 35,
-      "title": "",
-      "answer": "",
+      "title": "已知 : 於翼尖方向之電台的方位改變 : 15 度 , 方位改變需時: 7.5 分鐘 , 真 空速 : 85節 , 耗油率 : 9.6 加侖 / 小時 , 估計到達電台之所需之時間 , 距離 和 油量為 :",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "30 分鐘 ; 42.5 哩 ; 4.80 加侖" },
+        { "id": 2, "option": "B", "text": "32 分鐘 ; 48 哩 ; 5.58 加侖" },
+        { "id": 3, "option": "C", "text": "48 分鐘 ; 48 哩 ; 4.58 加侖" }
       ]
     },
     {
       "id": 36,
-      "title": "",
-      "answer": "",
+      "title": "當飛機保持固定航向時 , 相對方位(relative bearing)由原來的15 度變為雙倍需時6 分鐘 , 估計到達電台之時間為 ?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "3 minutes." },
+        { "id": 2, "option": "B", "text": "6 minutes." },
+        { "id": 3, "option": "C", "text": "12 minutes." }
       ]
     },
     {
       "id": 37,
-      "title": "",
-      "answer": "",
+      "title": "當飛機保持固定航向時 , ADF指針由相對方位(relative bearing)045 度變為090度需 時5 分鐘 , 估計到達電台之時間為 ?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "5 分鐘" },
+        { "id": 2, "option": "B", "text": "10 分鐘" },
+        { "id": 3, "option": "C", "text": "15 分鐘" }
       ]
     },
     {
       "id": 38,
-      "title": "",
-      "answer": "",
+      "title": "當飛機以135節巡航並維持固定航向時 , ADF指針由相對方位(relative bearing)315 度變為270度需時7 分鐘 , 估計到達電台之時間與距離為 ?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "7 分鐘和 16 哩" },
+        { "id": 2, "option": "B", "text": "14 分鐘和 28 哩" },
+        { "id": 3, "option": "C", "text": "19 分鐘和 38哩" }
       ]
     },
     {
       "id": 39,
-      "title": "",
-      "answer": "",
+      "title": "ADF 調整頻道接收NDB電台訊號 , 顯示相對方位(relative bearing)由270度變為265 度需2.5分鐘 , 估計到達電台之時間為 ?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "9 分鐘" },
+        { "id": 2, "option": "B", "text": "18 分鐘" },
+        { "id": 3, "option": "C", "text": "30 分鐘" }
       ]
     },
     {
       "id": 40,
-      "title": "",
-      "answer": "",
+      "title": "ADF 調整頻道接收NDB電台訊號，顯示相對方位(relative bearing)由085度變為090度 需2分鐘，估計到達電台之時間為?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "15 分鐘" },
+        { "id": 2, "option": "B", "text": "18 分鐘" },
+        { "id": 3, "option": "C", "text": "24 分鐘" }
       ]
     },
     {
       "id": 41,
-      "title": "",
-      "answer": "",
+      "title": "若相對方位(relative bearing)在2.5分鐘之內由090度變為100度 , 估計到達電台之時 間為 ?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "12 分鐘" },
+        { "id": 2, "option": "B", "text": "15分鐘" },
+        { "id": 3, "option": "C", "text": "18 分鐘" }
       ]
     },
     {
       "id": 42,
-      "title": "",
-      "answer": "",
+      "title": "調整ADF頻道接收NDB電台訊號 , 電台相對方位(relative bearing)由090度變為100 度需2.5分鐘 , 若真空速為90節, 估計到達電台之距離和時間為 ?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "15 哩和 22.5分鐘" },
+        { "id": 2, "option": "B", "text": "22.5 哩 和 15分鐘" },
+        { "id": 3, "option": "C", "text": "32哩 和 18分鐘" }
       ]
     },
     {
       "id": 43,
-      "title": "",
-      "answer": "",
+      "title": "已知 :電台於翼尖方向, 其方位改變:10 度,方位改變需時 : 4 分鐘 ,耗油率 : 11 加侖 / 小時,估計到達電台之所需之油量為 :",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "4.4加侖" },
+        { "id": 2, "option": "B", "text": "8.4加侖" },
+        { "id": 3, "option": "C", "text": "12加侖" }
       ]
     },
     {
       "id": 44,
-      "title": "",
-      "answer": "",
+      "title": "已知 :電台於翼尖方向,其方位改變 :5 度, 方位改變需時 : 6 分鐘,耗油率 :12 加侖 / 小時,估計到達電台之所需之油量為 :",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "8.2 加侖" },
+        { "id": 2, "option": "B", "text": "14.4 加侖" },
+        { "id": 3, "option": "C", "text": "18.7 加侖" }
       ]
     },
     {
       "id": 45,
-      "title": "",
-      "answer": "",
+      "title": "已知 :真航線 :105 度,真航向 : 085 度,真空速 : 95 節,地速 : 87 節,求風向與風 速為何 ?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "020度和32節" },
+        { "id": 2, "option": "B", "text": "030度和38節" },
+        { "id": 3, "option": "C", "text": "200度和32節" }
       ]
     },
     {
       "id": 46,
-      "title": "",
-      "answer": "",
+      "title": "已知 :真航線 : 345 度,真航向 : 355 度,真空速 : 85 節,地速 : 95 節,求風向與風 速為何?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "095度和19節" },
+        { "id": 2, "option": "B", "text": "113度和19節" },
+        { "id": 3, "option": "C", "text": "238度和18節" }
       ]
     },
     {
       "id": 47,
-      "title": "",
-      "answer": "",
+      "title": "你已飛行52浬,偏離航線6浬,航程尚餘118浬,若要直接飛向目的地 , 航向要修正幾 度 ?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "3 度" },
+        { "id": 2, "option": "B", "text": "6 度" },
+        { "id": 3, "option": "C", "text": "10 度" }
       ]
     },
     {
       "id": 48,
-      "title": "",
-      "answer": "",
+      "title": "已知:偏離航線之距離 : 9 海里,已飛行之距離:95 浬,尚餘之航程:125浬,若要直接航 向目的地 , 航向修正角度為 :",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "4度" },
+        { "id": 2, "option": "B", "text": "6度" },
+        { "id": 3, "option": "C", "text": "10度" }
       ]
     },
     {
       "id": 49,
-      "title": "",
-      "answer": "",
+      "title": "飛機離場時之條件狀況如下 : 機場海拔高度 : 1000 英呎 , 巡航高度 : 9500 英呎 , 爬升率 : 500 英呎 / 分鐘 , 平均真空速 : 135 節 , 真航線 : 215 度 , 平均風 速 : 290 度 / 20 節 ,磁差 : 3° W, 羅差 : -2° ,平均耗油率13加侖/小時, 求 爬升時所需的大約時間, 羅航向, 距離, 耗油量",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "14 分鐘, 234 度, 26 海里, 3.9 加侖" },
+        { "id": 2, "option": "B", "text": "17 分鐘, 224 度, 36 海里, 3.7 加侖" },
+        { "id": 3, "option": "C", "text": "17 分鐘, 242 度, 31 海里, 3.5 加侖" }
       ]
     },
     {
       "id": 50,
-      "title": "",
-      "answer": "",
+      "title": "飛機離場時之條件狀況如下 : 機場海拔高度 1500 英呎 , 巡航高度 9500 英呎 , 爬升率 500 英呎 / 分鐘 , 平均真空速160 節 , 真航線 145 度 , 平均風速 080 度 / 15 節 , 磁差5° E , 羅差 -3, 平均耗油率14加侖/小時, 求爬升時所需的大約時間, 羅航向, 距離, 耗油量",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "14分鐘 , 128 度 , 35 海里 , 3.2 加侖" },
+        { "id": 2, "option": "B", "text": "16分鐘 , 132 度 , 41 海里 , 3.7 加侖" },
+        { "id": 3, "option": "C", "text": "16分鐘 , 128 度 , 32 海里 , 3.8 加侖" }
       ]
     },
     {
       "id": 51,
-      "title": "",
-      "answer": "",
+      "title": "已知:風向 / 風速 175 度 / 20 節 ,距離 135 浬,真航線 075 度, 平均真空速80 節 耗油率105磅/小時 . 求航程所需之時間與耗油",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "1 小時 28 分 和 73.2 磅" },
+        { "id": 2, "option": "B", "text": "1 小時 38 分 和 158 磅" },
+        { "id": 3, "option": "C", "text": "1 小時 40 分 和 175 磅" }
       ]
     },
     {
       "id": 52,
-      "title": "",
-      "answer": "",
+      "title": "飛機以下列條件下降到機場 : 巡航高度 7500 英呎 , 機場海拔高度 1300 英呎 , 下降到 800 英呎 ( 離地表 ) , 下降率 300 英呎 / 分鐘 , 平均真空 速 120 節 , 真航線 165 度, 平均風向風速 240度20 節, 磁差 4°E, 羅差 -2° , 平均耗油率9.6加侖/小時 , 求下降時所需的大約時間, 羅航向, 距離, 耗油量.",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "16 分鐘 , 168度 , 30 浬 , 2.9 加侖" },
+        { "id": 2, "option": "B", "text": "18 分鐘 , 164度 , 34 浬 , 3.2 加侖" },
+        { "id": 3, "option": "C", "text": "18 分鐘 , 168度 , 34浬 , 2.9 加侖" }
       ]
     },
     {
       "id": 53,
-      "title": "",
-      "answer": "",
+      "title": "飛機以下列條件下降到機場 : 巡航高度 10500 英呎 ,機場海拔高度 1700 英呎 , 下降到 1000 英呎 ( 離地表 ) , 下降率 600 英呎 / 分鐘 , 平均真空速135 節 , 真航線 263度, 平均風向風速 330度30 節, 磁差 7°E, 羅差 +3° , 平均耗油率11.5 加侖/小時",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "9分鐘 , 274度 , 26浬 , 2.8加侖" },
+        { "id": 2, "option": "B", "text": "13分鐘 , 274度 , 28浬 , 2.5加侖" },
+        { "id": 3, "option": "C", "text": "13分鐘 , 271度 , 26浬 , 2.5加侖" }
       ]
     },
     {
       "id": 54,
-      "title": "",
-      "answer": "",
+      "title": "( 請參考Fig8 ) 飛行員通常於降落後, 讓飛機完全離開跑道後 , 才呼叫地面管制 , 這時是當飛機在 圖上何位置 :(如圖A21_Fig8)",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "通過圖上方紅色符號時" },
+        { "id": 2, "option": "B", "text": "中間符號 , 折線的那一邊" },
+        { "id": 3, "option": "C", "text": "中間符號 , 實線的那一邊" }
+      ],
+      "image": 8
     },
     {
       "id": 55,
-      "title": "",
-      "answer": "",
+      "title": "( 請參考Fig8 ) 圖上方紅色符號最有可能於那裡看到 :(如圖A21_Fig8)",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "當離開跑道時 , 在呼叫地面管制前" },
+        { "id": 2, "option": "B", "text": "在跑道或滑行道交會處 , 當行車道可能會被誤認為滑行道" },
+        { "id": 3, "option": "C", "text": "接近儀器降落跑道的進場端" }
+      ],
+      "image": 8
     },
     {
       "id": 56,
-      "title": "",
-      "answer": "",
+      "title": "( 請參考Fig8 ) 正當你離開正在使用的跑道時 , 你很有可能被要求離開儀器降落關鍵區域 , 這時是當你經過那一個符號 ?(如圖A21_Fig8)",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "上方紅色符號" },
+        { "id": 2, "option": "B", "text": "中間黃色符號" },
+        { "id": 3, "option": "C", "text": "下方黃色符號" }
+      ],
+      "image": 8
     },
     {
       "id": 57,
-      "title": "",
-      "answer": "",
+      "title": "( 請參考Fig8 ) 當你在滑行前往正在使用的跑道時 , 你有可能被要求停在儀器降落關鍵區域(ILS critical area)之外 , 在那一個符號之前 ?(如圖A21_Fig8)",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "下方黃色符號" },
+        { "id": 2, "option": "B", "text": "上方紅色符號" },
+        { "id": 3, "option": "C", "text": "中間黃色符號" }
+      ],
+      "image": 8
     },
     {
       "id": 58,
-      "title": "",
-      "answer": "",
+      "title": "( 請參考Fig8 )那一符號與防止飛機闖入跑道沒有直接關聯(如圖A21_Fig8)",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "上方紅色符號" },
+        { "id": 2, "option": "B", "text": "中間黃色符號" },
+        { "id": 3, "option": "C", "text": "下方黃色符號" }
+      ],
+      "image": 8
     },
     {
       "id": 59,
-      "title": "",
-      "answer": "",
+      "title": "當你在目視飛行規則下接近VOR時 , 必須 :",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "作90度左轉與右轉 , 以掃瞄看有沒有其他飛機" },
+        { "id": 2, "option": "B", "text": "保持警戒以躲避從VOR其他方向來的飛機" },
+        { "id": 3, "option": "C", "text": "在所飛的VOR幅向中, 當通過VOR時 , 從右方通過 , 讓在同一幅向但從反方向來的飛機有通過的空間" }
       ]
     },
     {
       "id": 60,
-      "title": "",
-      "answer": "",
+      "title": "若進場程序包括了程序轉彎時 , 從第一次通過最初進場定位點( IAF) 上空 , 直到程序轉彎結束為止 , 其最大速度限制為 :",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "180 節 指示空速." },
+        { "id": 2, "option": "B", "text": "200 節 真空速." },
+        { "id": 3, "option": "C", "text": "200 節 指示空速." }
       ]
     },
     {
       "id": 61,
-      "title": "",
-      "answer": "",
+      "title": "在美國 , 當在航路以外飛行時 , 於指定為山區的地區 , 要保持與障礙物隔離高度為2000呎 , 在非山區 , 其隔離為1000呎 , 這個隔離的高度名稱叫做",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "最低向量高度( MVA )" },
+        { "id": 2, "option": "B", "text": "航路外障礙物隔離高度 ( OROCA )" },
+        { "id": 3, "option": "C", "text": "最低安全 / 扇形區域高度( MSA )" }
       ]
     },
     {
       "id": 62,
-      "title": "",
-      "answer": "",
+      "title": "那一種導航系統是慣性導航系統 ( INS ) ? 是一種提供位置資訊的導航電腦 ,",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "其資訊來自羅盤 , 空速, 與所輸入的風與磁差資料" },
+        { "id": 2, "option": "B", "text": "其資訊來自於類似雷達之感應器 , 此感應器是測量地速與偏流角" },
+        { "id": 3, "option": "C", "text": "藉由獨立運作(不靠地面助航設備)的陀螺儀和加速器提供訊號" }
       ]
     },
     {
       "id": 63,
-      "title": "",
-      "answer": "",
+      "title": "在什麼位置 , DME指示器所顯示距 VORTAC的距離與地面上實際距離會有最大的誤差 ?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "高高度下接近VORTAC" },
+        { "id": 2, "option": "B", "text": "低高度下接近VORTAC" },
+        { "id": 3, "option": "C", "text": "低高度下遠離VORTAC" }
       ]
     },
     {
       "id": 64,
-      "title": "",
-      "answer": "",
+      "title": "當直接在VORTAC之上方12,000呎時 , 飛行員應看見DME的指示為？",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "0 DME里" },
+        { "id": 2, "option": "B", "text": "2 DME里" },
+        { "id": 3, "option": "C", "text": "2.3 DME里" }
       ]
     },
     {
       "id": 65,
-      "title": "",
-      "answer": "",
+      "title": "( 請參考Fig9 ) 那一個RMI 圖指出飛機以磁方向235度飛離電台? ( 風055度20節 )(如圖A21_Fig9)",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "2" },
+        { "id": 2, "option": "B", "text": "3" },
+        { "id": 3, "option": "C", "text": "4" }
+      ],
+      "image": 9
     },
     {
       "id": 66,
-      "title": "",
-      "answer": "",
+      "title": "( 請參考Fig9 ) 如4號圖所示 , 往電台的磁方向為何 ?(如圖A21_Fig9)",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "285 度" },
+        { "id": 2, "option": "B", "text": "055 度" },
+        { "id": 3, "option": "C", "text": "235 度" }
+      ],
+      "image": 9
     },
     {
       "id": 67,
-      "title": "",
-      "answer": "",
+      "title": "( 請參考Fig9 ) 那一個RMI 圖指出飛機在電台的西南方, 並飛向電台?(如圖A21_Fig9)",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "1" },
+        { "id": 2, "option": "B", "text": "2" },
+        { "id": 3, "option": "C", "text": "3" }
+      ],
+      "image": 9
     },
     {
       "id": 68,
-      "title": "",
-      "answer": "",
+      "title": "( 請參考Fig9 ) 那一個RMI 圖指出飛機在電台的055度幅向(radial), 並飛離電台?(如圖A21_Fig9)",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "1" },
+        { "id": 2, "option": "B", "text": "2" },
+        { "id": 3, "option": "C", "text": "3" }
+      ],
+      "image": 9
     },
     {
       "id": 69,
-      "title": "",
-      "answer": "",
+      "title": "( 請參考Fig10 ) 在No.1 NAV所選擇的幅向(radial)上 , 飛機左右偏離了多少海里 ?(如圖A21_Fig10)",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "5.0 NM" },
+        { "id": 2, "option": "B", "text": "7.5 NM" },
+        { "id": 3, "option": "C", "text": "10.0 NM" }
+      ],
+      "image": 10
     },
     {
       "id": 70,
-      "title": "",
-      "answer": "",
+      "title": "( 請參考Fig10 ) No.1 NAV指示飛機在那一個幅向(radial) ?(如圖A21_Fig10)",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "R-175" },
+        { "id": 2, "option": "B", "text": "R-165" },
+        { "id": 3, "option": "C", "text": "R-345" }
+      ],
+      "image": 10
     },
     {
       "id": 71,
-      "title": "",
-      "answer": "",
+      "title": "( 請參考Fig10 ) 在No.1 NAV 中那一個OBS選擇可使CDI歸回中央位置 , 和改變TO / FROM指示器到TO ?(如圖A21_Fig10)",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "175" },
+        { "id": 2, "option": "B", "text": "165" },
+        { "id": 3, "option": "C", "text": "345" }
+      ],
+      "image": 10
     },
     {
       "id": 72,
-      "title": "",
-      "answer": "",
+      "title": "( 請參考Fig10 ) 在No.2 NAV所選擇的幅向(radial)上 , 飛機左右偏離了多少度 ?(如圖A21_Fig10)",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "1 度" },
+        { "id": 2, "option": "B", "text": "2 度" },
+        { "id": 3, "option": "C", "text": "4 度" }
+      ],
+      "image": 10
     },
     {
       "id": 73,
-      "title": "",
-      "answer": "",
+      "title": "( 請參考Fig10 ) 在No.2 NAV 中那一個OBS選擇可使CDI歸回中央位置 ?(如圖A21_Fig10)",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "174" },
+        { "id": 2, "option": "B", "text": "166" },
+        { "id": 3, "option": "C", "text": "335" }
+      ],
+      "image": 10
     },
     {
       "id": 74,
-      "title": "",
-      "answer": "",
+      "title": "( 請參考Fig10 ) 在No.2 NAV 中那一個OBS選擇可使CDI歸回中央位置 , 和改變TO / FROM 指示器到TO ?(如圖A21_Fig10)",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "166" },
+        { "id": 2, "option": "B", "text": "346" },
+        { "id": 3, "option": "C", "text": "354" }
+      ],
+      "image": 10
     },
     {
       "id": 75,
-      "title": "",
-      "answer": "",
+      "title": "( 請參考Fig12 ) 你接收到航管的指示 : '…HOLD EAST OF THE ABC VORTAC ON THE ZERO NINER ZERO RADIAL, LEFT TURNS…' 那一種程序是被建議為進入待命航線的方法 ?(如圖A21_Fig12)",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "只有平行進入法" },
+        { "id": 2, "option": "B", "text": "只有直接進入法" },
+        { "id": 3, "option": "C", "text": "只有淚點進入法" }
+      ],
+      "image": 11
     },
     {
       "id": 76,
-      "title": "",
-      "answer": "",
+      "title": "( 請參考Fig12 ) 你接收到航管的指示 : '…CLEARED TO THE ABC VORTAC. HOLD SOUTH ON THE ONE EIGHT ZERO RADIAL..' 那一種程序是被建議為進入待命航線的方法 ?(如圖A21_Fig12)",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "只有淚點進入法" },
+        { "id": 2, "option": "B", "text": "只有直接進入法" },
+        { "id": 3, "option": "C", "text": "只有平行進入法" }
+      ],
+      "image": 11
     },
     {
       "id": 77,
-      "title": "",
-      "answer": "",
+      "title": "( 請參考Fig12 ) 你接收到航管的指示 : '…CLEARED TO THE XYZ VORTAC. HOLD NORTH ON THE THREE SIX ZERO RADIAL, LEFT TURNS….' 那一種程序是被建議為進入待命航線的方法 ?(如圖A21_Fig12)",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "只有平行進入法" },
+        { "id": 2, "option": "B", "text": "只有直接進入法" },
+        { "id": 3, "option": "C", "text": "只有淚點進入法" }
+      ],
+      "image": 11
     },
     {
       "id": 78,
-      "title": "",
-      "answer": "",
+      "title": "( 請參考Fig12) 你接收到航管的指示 : '…CLEARED TO THE ABC VORTAC. HOLD WEST ON THE TWO SEVEN ZERO RADIAL…' . 那一種程序是被建議為進入待命航線的方法 ?(如圖A21_Fig12)",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "只有平行進入法" },
+        { "id": 2, "option": "B", "text": "只有直接進入法" },
+        { "id": 3, "option": "C", "text": "只有淚點進入法" }
+      ],
+      "image": 11
     },
     {
       "id": 79,
-      "title": "",
-      "answer": "",
+      "title": "( 請參考Fig13 ) 飛行員接收到航管的指示 : '…CLEARED TO THE ABC VORTAC. HOLD WEST ON THE TWO SEVEN ZERO RADIAL….' 那一種程序是被建議為進入待命航線的方法 ?(如圖A21_Fig13)",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "平行和淚點進入法" },
+        { "id": 2, "option": "B", "text": "只有平行進入法" },
+        { "id": 3, "option": "C", "text": "只有直接進入法" }
+      ],
+      "image": 12
     },
     {
       "id": 80,
-      "title": "",
-      "answer": "",
+      "title": "( 請參考Fig13 ) 飛行員接收到航管的指示 : '…CLEARED TO THE XYZ VORTAC. HOLD NORTH ON THE THREE SIX ZERO RADIAL, LEFT TURNS…' 那一種程序是被建議為進入待命航線的方法 ?(如圖A21_Fig13)",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "只有淚點進入法" },
+        { "id": 2, "option": "B", "text": "只有平行進入法" },
+        { "id": 3, "option": "C", "text": "直接進入法" }
+      ],
+      "image": 12
     },
     {
       "id": 81,
-      "title": "",
-      "answer": "",
+      "title": "( 請參考Fig13 ) 飛行員接收到航管的指示 : '…CLEARED TO THE ABC VORTAC. HOLD SOUTH ON THE ONE EIGHT ZERO RADIAL…' 那一種程序是被建議為進入待命航線的方法 ?(如圖A21_Fig13)",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "只有淚點進入法" },
+        { "id": 2, "option": "B", "text": "只有平行進入法" },
+        { "id": 3, "option": "C", "text": "只有直接進入法" }
+      ],
+      "image": 12
     },
     {
       "id": 82,
-      "title": "",
-      "answer": "",
+      "title": "在待命航線(holding)中螺旋槳飛機最大速度限制是",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "265 節" },
+        { "id": 2, "option": "B", "text": "230 節" },
+        { "id": 3, "option": "C", "text": "156 節" }
       ]
     },
     {
       "id": 83,
-      "title": "",
-      "answer": "",
+      "title": "在民航與軍方共用的機場上空 7000呎到14000呎之高度中 , 民用噴射渦輪引擎飛機最大待命速度限制是",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "200 節" },
+        { "id": 2, "option": "B", "text": "265 節" },
+        { "id": 3, "option": "C", "text": "230 節" }
       ]
     },
     {
       "id": 84,
-      "title": "",
-      "answer": "",
+      "title": "除非在亂流或結冰的情況下需要更高速度 , 而航管也得到知會 , 否則在民用機場上空 15000呎之平均海平面高度中 , 民用噴射渦輪引擎飛機最大待命速度(Maximum holding speed)限制是 ?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "265 節" },
+        { "id": 2, "option": "B", "text": "230 節" },
+        { "id": 3, "option": "C", "text": "250 節" }
       ]
     },
     {
       "id": 85,
-      "title": "",
-      "answer": "",
+      "title": "民用飛機在民航與軍方共用的機場上空 14000呎待命 , 應預期使用的待命速度(holding speed)是 ?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "250 節" },
+        { "id": 2, "option": "B", "text": "260 節" },
+        { "id": 3, "option": "C", "text": "230 節" }
       ]
     },
     {
       "id": 86,
-      "title": "",
-      "answer": "",
+      "title": "當使用飛行方向指示系統時 , 在待命航線(holding pattern)中轉彎 , 飛行員應保持那一種轉彎率或左右傾斜角(bank angle) ?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "3度每秒 或 25度 左右傾斜角 , 兩者中之較小者" },
+        { "id": 2, "option": "B", "text": "3度 每秒 或 30度 左右傾斜角 , 兩者中之較小者" },
+        { "id": 3, "option": "C", "text": "1-1/2度 每秒 或 25度 左右傾斜角 , 兩者之中較小者" }
       ]
     },
     {
       "id": 87,
-      "title": "",
-      "answer": "",
+      "title": "當在14000呎以上進入待命航線(holding pattern)時 , 第一次向外航線不應超過",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "1 分鐘" },
+        { "id": 2, "option": "B", "text": "1-1/2 分鐘" },
+        { "id": 3, "option": "C", "text": "1-1/2 分鐘 或 10 海里 , 兩者中之較小者" }
       ]
     },
     {
       "id": 88,
-      "title": "",
-      "answer": "",
+      "title": "當在NDB上待命時 , 在何處開始第二段飛離航段(second leg outbound)的計時 ?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "等待點在飛機的側面或當飛機完成轉向至outbound航向機翼平飛時 , 兩者先發生為主" },
+        { "id": 2, "option": "B", "text": "在通過電台後 , 以標準轉彎率完成了 1 分鐘的轉彎時" },
+        { "id": 3, "option": "C", "text": "等待點在飛機的側面" }
       ]
     },
     {
       "id": 89,
-      "title": "",
-      "answer": "",
+      "title": "在 Cugar Four 標準儀器到場結束於那裡?(如圖A21_Fig14)",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "在 BANTY INT。" },
+        { "id": 2, "option": "B", "text": "在 IAH VORTAC。" },
+        { "id": 3, "option": "C", "text": "當被許可降落時。" }
+      ],
+      "image": 13
     },
     {
       "id": 90,
-      "title": "",
-      "answer": "",
+      "title": "如果在 Cugar Four 到場，飛機轉向至 IAH 的 305 幅向(radial)後失去通信，飛行員該如何處置?(如圖A21_Fig14)",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "直飛至IAH VORTAC , 然後沿IAH R-125出境做程序轉彎後進場" },
+        { "id": 2, "option": "B", "text": "從BANTY INT 沿IAH R-290 飛至最初進場定位點 , 然後沿IAH 10 海里弧圈 , 準備最後進場" },
+        { "id": 3, "option": "C", "text": "直飛至IAH VORTAC , 然後沿IAH 10 海里弧圈至任一最初進場定位點 , 準備最後進場" }
+      ],
+      "image": 13
     },
     {
       "id": 91,
-      "title": "",
-      "answer": "",
+      "title": "當飛在 IAH 10 海里弧圈上遭遇左側風，則相對於機翼尖端 90 度位置，為維持在10海里弧圈上，方位指針應指向何處?(如圖A21_Fig14)",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "指向左側機翼尖端點。" },
+        { "id": 2, "option": "B", "text": "在左側機翼尖端點之後。" },
+        { "id": 3, "option": "C", "text": "在左側機翼尖端點之前。" }
+      ],
+      "image": 13
     },
     {
       "id": 92,
-      "title": "",
-      "answer": "",
+      "title": "ILS提供何種功能 ?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "方位 , 距離及垂直角" },
+        { "id": 2, "option": "B", "text": "方位 , 範圍及垂直角" },
+        { "id": 3, "option": "C", "text": "導引 , 範圍及目視訊息" }
       ]
     },
     {
       "id": 93,
-      "title": "",
-      "answer": "",
+      "title": "ILS 的左右定位台(localizer)．發射器的頻率範圍為何 ?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "108.10 to 118.10 MHz." },
+        { "id": 2, "option": "B", "text": "108.10 to 111.95 MHz." },
+        { "id": 3, "option": "C", "text": "108.10 to 117.95 MHz." }
       ]
     },
     {
       "id": 94,
-      "title": "",
-      "answer": "",
+      "title": "ILS中那一部份由左右定位台(localizer)識別碼之前兩碼來識別 ?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "內信標台" },
+        { "id": 2, "option": "B", "text": "中羅盤定位台" },
+        { "id": 3, "option": "C", "text": "外羅盤定位台" }
       ]
     },
     {
       "id": 95,
-      "title": "",
-      "answer": "",
+      "title": "若有安裝的話 , 在通過ILS反向信標台(back course marker)時會接收到何種聽覺及目視指示 ?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "連串兩短響組合及白色信標台燈" },
+        { "id": 2, "option": "B", "text": "連續每秒一長音及白色信標台燈" },
+        { "id": 3, "option": "C", "text": "一連串兩長音組合及及白色信標台燈" }
       ]
     },
     {
       "id": 96,
-      "title": "",
-      "answer": "",
+      "title": "通過ILS內信標台(inner marker)之聽覺及目視指示為何 ?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "每秒連續6短音" },
+        { "id": 2, "option": "B", "text": "每秒連續2長音" },
+        { "id": 3, "option": "C", "text": "每秒兩次長短音交替" }
       ]
     },
     {
       "id": 97,
-      "title": "",
-      "answer": "",
+      "title": "在1.9海里處, 其左右定位台(localizer)的偏移以及下滑道(glideslope)的偏移為何 ?(如圖A21_Fig15)",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "左右定位台中心線左側710呎及下滑道之下140呎" },
+        { "id": 2, "option": "B", "text": "左右定位台中心線右側710呎及下滑道之上140呎" },
+        { "id": 3, "option": "C", "text": "左右定位台中心線右側430呎及下滑道之上28呎" }
+      ],
+      "image": 14
     },
     {
       "id": 98,
-      "title": "",
-      "answer": "",
+      "title": "根據 Fig. 15 中的圖136及138，距跑道1300呎處其左右定位台(localizer)的偏移以及下滑道(glideslope)的偏移為何?(如圖A21_Fig15)",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "下滑道之下21呎及跑道中心線右側約320呎。" },
+        { "id": 2, "option": "B", "text": "下滑道之上28呎及跑道中心線右側約250呎。" },
+        { "id": 3, "option": "C", "text": "下滑道之上21呎及跑道中心線左側約320呎。" }
+      ],
+      "image": 14
     },
     {
       "id": 99,
-      "title": "",
-      "answer": "",
+      "title": "何時航路偏移指示(CDI)可視為最大偏移?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "當CDI指針從最左側移至最右側或反之亦然" },
+        { "id": 2, "option": "B", "text": "當CDI指針從中間偏移至最左或最右側" },
+        { "id": 3, "option": "C", "text": "當CDI指針從最左側一半處移至最右側一半處或反之亦然" }
       ]
     },
     {
       "id": 100,
-      "title": "",
-      "answer": "",
+      "title": "在第一類ILS進場甚麼設備可取代失效的中信標台 (middle marker) ?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "ASR及PAR" },
+        { "id": 2, "option": "B", "text": "中信標台對直線進場並無影響" },
+        { "id": 3, "option": "C", "text": "羅盤定位台 , PAR 及 ASR" }
       ]
     },
     {
       "id": 101,
-      "title": "",
-      "answer": "",
+      "title": "當ILS同時進場(simultaneous ILS approaches)執行時 , 應即時告知進場管制下列何項信息 ?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "飛機上任何失效的接收器" },
+        { "id": 2, "option": "B", "text": "想要做ILS同時進場" },
+        { "id": 3, "option": "C", "text": "希望雷達監控以提供側向區隔" }
       ]
     },
     {
       "id": 102,
-      "title": "",
-      "answer": "",
+      "title": "當許可進行公佈的side-step進場時 , 飛行員應在何處開始執行 ?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "在公佈的DH" },
+        { "id": 2, "option": "B", "text": "在公佈的MDA或環繞進場" },
+        { "id": 3, "option": "C", "text": "在跑道環境看到後儘快執行" }
       ]
     },
     {
       "id": 103,
-      "title": "",
-      "answer": "",
+      "title": "當對特定進場及降落在平行跑道被許可執行公布的sidestep maneuver進場時 , 飛行員應在何時執行 ?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "在所公布的環繞進場最低高度時" },
+        { "id": 2, "option": "B", "text": "在跑道或跑道環境看到後儘快執行" },
+        { "id": 3, "option": "C", "text": "在左右定位台MDA及當看到跑道時" }
       ]
     },
     {
       "id": 104,
-      "title": "",
-      "answer": "",
+      "title": "第二類( Category II) ILS最低標準為何 ?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "DH 50 呎及 RVR 1,200 呎." },
+        { "id": 2, "option": "B", "text": "DH 100 呎及 RVR 1,200 呎." },
+        { "id": 3, "option": "C", "text": "DH 150 呎及 RVR 1,500 呎." }
       ]
     },
     {
       "id": 105,
-      "title": "",
-      "answer": "",
+      "title": "第三A類( Category IIIA) ILS最低標準為何 ?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "DH 50 呎及RVR 1,200 呎." },
+        { "id": 2, "option": "B", "text": "RVR 1,000 呎." },
+        { "id": 3, "option": "C", "text": "RVR 700 呎." }
       ]
     },
     {
       "id": 106,
-      "title": "",
-      "answer": "",
+      "title": "除了左右定位台( localizer), 下滑道( glideslope) , 信標台(marker beacons) , 進場燈及HIRL 外 , 對於第二類ILS儀器進場下降至決定高度(DH)小於150呎( 離地面)時還需要甚麼有效的地面設施 ?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "RCLS 及 REIL." },
+        { "id": 2, "option": "B", "text": "雷達 及 RVR." },
+        { "id": 3, "option": "C", "text": "TDZL, RCLS, 及RVR." }
       ]
     },
     {
       "id": 107,
-      "title": "",
-      "answer": "",
+      "title": "對第二類進場除了左右定位台(localizer) , 下滑道(glideslope) , 信標台(marker beacon)及進場燈外 , 那些其他地面設備是必要的 ?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "雷達及RVR" },
+        { "id": 2, "option": "B", "text": "RCLS及REIL" },
+        { "id": 3, "option": "C", "text": "HIRL, TDZL , RCLS及RVR" }
       ]
     },
     {
       "id": 108,
-      "title": "",
-      "answer": "",
+      "title": "在飛行計劃上飛機藉GPS來航行被視為",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "有RNAV配備" },
+        { "id": 2, "option": "B", "text": "有星象追蹤器配備" },
+        { "id": 3, "option": "C", "text": "有FMS/EFIS配備" }
       ]
     },
     {
       "id": 109,
-      "title": "",
-      "answer": "",
+      "title": "對LUKACHUKAI ( GPS RWY 25 ) ARIZONA 而言 , 天氣預報需要備降機場 , 此備降機場必須要有核可的儀器進場程序 , 在飛機預定到達時間要能操作及使用 , 除了是甚麼儀器進場之外 ?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "GPS或VOR" },
+        { "id": 2, "option": "B", "text": "ILS或GPS" },
+        { "id": 3, "option": "C", "text": "GPS或Loran C" }
       ]
     },
     {
       "id": 110,
-      "title": "",
-      "answer": "",
+      "title": "在進行GPS進場時 , 撤消自動選取靈敏度(automatically selected sensitivity)會造成 :",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "取消進場狀態指示" },
+        { "id": 2, "option": "B", "text": "必須在進場時飛點對點 , 以遵守法定進場程序" },
+        { "id": 3, "option": "C", "text": "如果是手飛則完全沒影響" }
       ]
     },
     {
       "id": 111,
-      "title": "",
-      "answer": "",
+      "title": "在儀器飛航規則下授權作任何GPS操作必須 :",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "所有設備須符合TSO C-115A 得到許可" },
+        { "id": 2, "option": "B", "text": "飛行員必須審視天氣 , 飛機手冊及特定接收器的操作" },
+        { "id": 3, "option": "C", "text": "建立若失去RAIM能力時的操作程序" }
       ]
     },
     {
       "id": 112,
-      "title": "",
-      "answer": "",
+      "title": "在美國境外 , GPS儀器進場操作必須由誰來授權 ?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "由FAA許可的飛機飛行手冊 或飛行手冊補充文件" },
+        { "id": 2, "option": "B", "text": "由主權國家或政府單位" },
+        { "id": 3, "option": "C", "text": "僅可由FAA官員" }
       ]
     },
     {
       "id": 113,
-      "title": "",
-      "answer": "",
+      "title": "當設定GPS進場時若接收器自主完整性監視 ( RAIM )失效的話, 飛行員必須",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "繼續飛至誤失進場點並等待直至重新接收到衛星訊號" },
+        { "id": 2, "option": "B", "text": "飛至許可的最初進場定位點並等待直至重新接收到衛星訊號" },
+        { "id": 3, "option": "C", "text": "選擇另一型進場使用另一型導航設施" }
       ]
     },
     {
       "id": 114,
-      "title": "",
-      "answer": "",
+      "title": "在GPS誤失進場(Missed approach) , 飛行員必須採取行動將接收器排序於",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "通過MAWP時" },
+        { "id": 2, "option": "B", "text": "在MAWP之後" },
+        { "id": 3, "option": "C", "text": "恰在MAWP之前" }
       ]
     },
     {
       "id": 115,
-      "title": "",
-      "answer": "",
+      "title": "若執行公佈的GPS離場 ,",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "資料庫會提供所有跑道所有轉換及離場程序" },
+        { "id": 2, "option": "B", "text": "而若RAIM有效的話 , 飛行員就不需要手動介入" },
+        { "id": 3, "option": "C", "text": "GPS接收器必須設定成終端區航路偏移指示靈敏度" }
       ]
     },
     {
       "id": 116,
-      "title": "",
-      "answer": "",
+      "title": "(參閱Fig11)哪一架飛機的位置與HSI 'D'所呈現的位置有關聯?(如圖A21_Fig11)",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "4" },
+        { "id": 2, "option": "B", "text": "15" },
+        { "id": 3, "option": "C", "text": "17" }
+      ],
+      "image": 15
     },
     {
       "id": 117,
-      "title": "",
-      "answer": "",
+      "title": "(參閱Fig11)哪一架飛機的位置與HSI 'E'所呈現的位置有關聯?(如圖A21_Fig11)",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "5" },
+        { "id": 2, "option": "B", "text": "6" },
+        { "id": 3, "option": "C", "text": "15" }
+      ],
+      "image": 15
     },
     {
       "id": 118,
-      "title": "",
-      "answer": "",
+      "title": "(參閱Fig11)哪一架飛機的位置與HSI 'F'所呈現的位置有關聯?(如圖A21_Fig11)",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "10" },
+        { "id": 2, "option": "B", "text": "14" },
+        { "id": 3, "option": "C", "text": "16" }
+      ],
+      "image": 15
     },
     {
       "id": 119,
-      "title": "",
-      "answer": "",
+      "title": "(參閱Fig11)哪一架飛機的位置與HSI 'A'所呈現的位置有關聯?(如圖A21_Fig11)",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "1" },
+        { "id": 2, "option": "B", "text": "8" },
+        { "id": 3, "option": "C", "text": "11" }
+      ],
+      "image": 15
     },
     {
       "id": 120,
-      "title": "",
-      "answer": "",
+      "title": "(參閱Fig11)哪一架飛機的位置與HSI 'B'所呈現的位置有關聯?(如圖A21_Fig11)",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "9" },
+        { "id": 2, "option": "B", "text": "13" },
+        { "id": 3, "option": "C", "text": "19" }
+      ],
+      "image": 15
     },
     {
       "id": 121,
-      "title": "",
-      "answer": "",
+      "title": "(參閱Fig11)哪一架飛機的位置與HSI 'C'所呈現的位置有關聯?(如圖A21_Fig11)",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "6" },
+        { "id": 2, "option": "B", "text": "7" },
+        { "id": 3, "option": "C", "text": "12" }
+      ],
+      "image": 15
     },
     {
       "id": 122,
-      "title": "",
-      "answer": "",
+      "title": "將ADF轉至NDB電台,相對方位自095度轉至100需時1.5分鐘,到電台需時多久?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "18分鐘" },
+        { "id": 2, "option": "B", "text": "24分鐘" },
+        { "id": 3, "option": "C", "text": "30分鐘" }
       ]
     },
     {
       "id": 123,
-      "title": "",
-      "answer": "",
+      "title": "將ADF轉至NDB電台,相對方位自270度轉至265需時2.5分鐘,到電台需時多久?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "9分鐘" },
+        { "id": 2, "option": "B", "text": "18分鐘" },
+        { "id": 3, "option": "C", "text": "30分鐘" }
       ]
     },
     {
       "id": 124,
-      "title": "",
-      "answer": "",
+      "title": "將ADF轉至NDB電台,相對方位自085度轉至090需時2分鐘,到電台需時多久?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "15分鐘" },
+        { "id": 2, "option": "B", "text": "18分鐘" },
+        { "id": 3, "option": "C", "text": "24分鐘" }
       ]
     },
     {
       "id": 125,
-      "title": "",
-      "answer": "",
+      "title": "若相對方位自090度轉至100度需時2.5分鐘,到電台需時多久?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "12分鐘" },
+        { "id": 2, "option": "B", "text": "15分鐘" },
+        { "id": 3, "option": "C", "text": "18分鐘" }
       ]
     },
     {
       "id": 126,
-      "title": "",
-      "answer": "",
+      "title": "將ADF轉向一NDB電台,相對方位自090度至100度耗時2.5分鐘,如果空速為90哩,到電台之距離與耗時為多少?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "15哩,22.5分鐘" },
+        { "id": 2, "option": "B", "text": "22.5哩,15分鐘" },
+        { "id": 3, "option": "C", "text": "32哩,18分鐘" }
       ]
     },
     {
       "id": 127,
-      "title": "",
-      "answer": "",
+      "title": "翼端幅向改變…5度 幅向改變之時間差…6分鐘 油耗率…12gal/hr 飛至電台所需油量為何?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "8.2加崙" },
+        { "id": 2, "option": "B", "text": "14.4加崙" },
+        { "id": 3, "option": "C", "text": "18.7加崙" }
       ]
     },
     {
       "id": 128,
-      "title": "",
-      "answer": "",
+      "title": "如果保持標準速率轉彎,做一圈360度的轉彎要多久時間?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "1分鐘" },
+        { "id": 2, "option": "B", "text": "2分鐘" },
+        { "id": 3, "option": "C", "text": "3分鐘" }
       ]
     },
     {
       "id": 129,
-      "title": "",
-      "answer": "",
+      "title": "翼端幅向改變…15度 幅向改變之時間差…6分鐘 油耗率…8.6gal/hr 飛至電台所需油量為何?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "3.44加崙" },
+        { "id": 2, "option": "B", "text": "6.88加崙" },
+        { "id": 3, "option": "C", "text": "17.84加崙" }
       ]
     },
     {
       "id": 130,
-      "title": "",
-      "answer": "",
+      "title": "ADF之相對方位從265度轉至260度需時2分鐘,若地速為145哩,到電台之距離是",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "26哩" },
+        { "id": 2, "option": "B", "text": "37哩" },
+        { "id": 3, "option": "C", "text": "58哩" }
       ]
     },
     {
       "id": 131,
-      "title": "",
-      "answer": "",
+      "title": "保持固定航向,相對方位於6分鐘內變化15度,請問到電台所需之時間",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "3分鐘" },
+        { "id": 2, "option": "B", "text": "6分鐘" },
+        { "id": 3, "option": "C", "text": "12分鐘" }
       ]
     },
     {
       "id": 132,
-      "title": "",
-      "answer": "",
+      "title": "保持固定航向,ADF指針在5分鐘內自045度增加至090度,請問到電台所需之時間.",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "5分鐘" },
+        { "id": 2, "option": "B", "text": "10分鐘" },
+        { "id": 3, "option": "C", "text": "15分鐘" }
       ]
     },
     {
       "id": 133,
-      "title": "",
-      "answer": "",
+      "title": "以135哩的速度固定航向巡航,ADF的指針在7分鐘內自315度減少至270度,請問到電台需時多少?距離多遠?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "7分鐘與16哩" },
+        { "id": 2, "option": "B", "text": "14分鐘與28哩" },
+        { "id": 3, "option": "C", "text": "19分鐘與38哩" }
       ]
     },
     {
       "id": 134,
-      "title": "",
-      "answer": "",
+      "title": "真空速的最佳解釋為校正空速修正",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "安裝與儀器誤差" },
+        { "id": 2, "option": "B", "text": "非標準氣溫" },
+        { "id": 3, "option": "C", "text": "高度與非標準氣溫" }
       ]
     },
     {
       "id": 135,
-      "title": "",
-      "answer": "",
+      "title": "當執行VOR接收器航路敏感度測試時,OBS需轉動多少度方可使CDI從中心線向兩側最外一點移動?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "18到20度" },
+        { "id": 2, "option": "B", "text": "10到12度" },
+        { "id": 3, "option": "C", "text": "5到10度" }
       ]
     },
     {
       "id": 136,
-      "title": "",
-      "answer": "",
+      "title": "關於磁羅盤偏差,哪一個敘述是正確的?磁偏差",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "隨零磁差線偏移而變動" },
+        { "id": 2, "option": "B", "text": "發生於同一飛機但不同航向" },
+        { "id": 3, "option": "C", "text": "發生於同一地區內之所有飛機" }
       ]
     },
     {
       "id": 137,
-      "title": "",
-      "answer": "",
+      "title": "校正空速的最佳解釋為指示空速修正",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "安裝與儀器誤差" },
+        { "id": 2, "option": "B", "text": "儀器誤差" },
+        { "id": 3, "option": "C", "text": "非標準氣溫" }
       ]
     },
     {
       "id": 138,
-      "title": "",
-      "answer": "",
+      "title": "海平面標準大氣壓與溫度為何?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "攝氏15度與29.92釐米汞柱" },
+        { "id": 2, "option": "B", "text": "華氏59度與29.92厘米汞柱" },
+        { "id": 3, "option": "C", "text": "攝氏15度與29.92豪巴" }
       ]
     },
     {
       "id": 139,
-      "title": "",
-      "answer": "",
+      "title": "翼端幅向改變…10度 幅向改變之時間差…4分鐘 油耗率…11gal/hr 飛至電台所需油量為何?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "4.4加崙" },
+        { "id": 2, "option": "B", "text": "8.4加崙" },
+        { "id": 3, "option": "C", "text": "12.7加崙" }
       ]
     },
     {
       "id": 140,
-      "title": "",
-      "answer": "",
+      "title": "當滑行遭遇45度強尾風時,應如何使用副翼?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "保持水平" },
+        { "id": 2, "option": "B", "text": "向風邊副翼朝上" },
+        { "id": 3, "option": "C", "text": "向風邊副翼朝下" }
       ]
     },
     {
       "id": 141,
-      "title": "",
-      "answer": "",
+      "title": "在起飛時要測量壓力高度,高度表撥定值要設在?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "當時之高度表撥定值" },
+        { "id": 2, "option": "B", "text": "29.92厘米汞柱之高度表撥定值" },
+        { "id": 3, "option": "C", "text": "以場高為準,讀取高度表之撥定值" }
       ]
     },
     {
       "id": 142,
-      "title": "",
-      "answer": "",
+      "title": "當使用FAA提供之地面測試信號來檢查VOR接收器,最大的誤差為正/負多少?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "4度" },
+        { "id": 2, "option": "B", "text": "6度" },
+        { "id": 3, "option": "C", "text": "8度" }
       ]
     },
     {
       "id": 143,
-      "title": "",
-      "answer": "",
+      "title": "關於在側風情況下使用ADF導向目標,何者為真?目標導向",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "至電台其飛行軌跡為一曲線" },
+        { "id": 2, "option": "B", "text": "不論是朝向電台或是飛離電台,在側風情況下都需要實際經驗" },
+        { "id": 3, "option": "C", "text": "至電台,ADF需備有自動或手動可旋轉之方位角" }
       ]
     },
     {
       "id": 144,
-      "title": "",
-      "answer": "",
+      "title": "在側風情況下使用ADF攔截所需之幅向,何者為真?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "當飛離電台,航向需轉至遠離ADF指針" },
+        { "id": 2, "option": "B", "text": "當飛離電台時,以適當的攔截軌跡來修正側風所造成之偏離,ADF針尾將會偏向向風面" },
+        { "id": 3, "option": "C", "text": "當飛向電台時,以適當的攔截軌跡來修正側風所造成之偏離,ADF針頭將會偏向向風面" }
       ]
     },
     {
       "id": 145,
-      "title": "",
-      "answer": "",
+      "title": "飛機之位置如第一號儀表顯示;當飛機轉向磁航向090度時,相對幅向為何?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "150度" },
+        { "id": 2, "option": "B", "text": "190度" },
+        { "id": 3, "option": "C", "text": "250度" }
+      ],
+      "image": 16
     },
     {
       "id": 146,
-      "title": "",
-      "answer": "",
+      "title": "(參閱Fig16.)飛機之位置如第一號儀表顯示;欲以30度夾角攔截330度磁幅向到電台,飛機該如何轉?(如圖A21_Fig16)",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "左轉航向270度" },
+        { "id": 2, "option": "B", "text": "右轉航向330度" },
+        { "id": 3, "option": "C", "text": "右轉航向360度" }
+      ],
+      "image": 16
     },
     {
       "id": 147,
-      "title": "",
-      "answer": "",
+      "title": "(參閱Fig16.)若飛機繼續保持三號儀表之航向,當飛機以030度磁幅向飛離電台,其相對幅向為何?(如圖A21_Fig16)",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "030度" },
+        { "id": 2, "option": "B", "text": "060度" },
+        { "id": 3, "option": "C", "text": "240度" }
+      ],
+      "image": 16
     },
     {
       "id": 148,
-      "title": "",
-      "answer": "",
+      "title": "上坡跑道對起飛性能有何影響?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "增加起飛速度" },
+        { "id": 2, "option": "B", "text": "拉長起飛距離" },
+        { "id": 3, "option": "C", "text": "減少起飛距離" }
       ]
     },
     {
       "id": 149,
-      "title": "",
-      "answer": "",
+      "title": "(參閱Fig 32)機場壓力高度…4,000呎 場溫…攝氏12度 巡航空層壓力高度…9,000呎 巡航空層溫度…攝氏零下4度 爬升至巡航高度所需之距離為何?(如圖A21_FIG32)",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "6哩" },
+        { "id": 2, "option": "B", "text": "8.5哩" },
+        { "id": 3, "option": "C", "text": "11哩" }
+      ],
+      "image": 17
     },
     {
       "id": 150,
-      "title": "",
-      "answer": "",
+      "title": "當輕型,高單翼飛機滑行遭遇45度強尾風時,應如何使用副翼?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "全時保持水平" },
+        { "id": 2, "option": "B", "text": "副翼朝向來風面" },
+        { "id": 3, "option": "C", "text": "與風向相反操作" }
       ]
     },
     {
       "id": 151,
-      "title": "",
-      "answer": "",
+      "title": "(參閱Fig17)若飛機維持現有航向,哪一個圖表顯示飛機將以60度角攔截060幅向接近電台?(如圖A21_Fig17)",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "6" },
+        { "id": 2, "option": "B", "text": "4" },
+        { "id": 3, "option": "C", "text": "5" }
+      ],
+      "image": 18
     },
     {
       "id": 152,
-      "title": "",
-      "answer": "",
+      "title": "(參閱Fig17.)依據圖表2,如果飛機保持現有航向,哪一個答案是正確的?飛機將(如圖A21_Fig17)",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "以45度角穿越180幅向飛離電台" },
+        { "id": 2, "option": "B", "text": "以45度角攔截225度幅向" },
+        { "id": 3, "option": "C", "text": "以45度角攔截360度幅向" }
+      ],
+      "image": 18
     },
     {
       "id": 153,
-      "title": "",
-      "answer": "",
+      "title": "(參閱 Fig. 17)哪一個圖表顯示飛機保持現有航向，以75度角攔截060幅向飛離電台?(如圖A21_Fig17)",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "4" },
+        { "id": 2, "option": "B", "text": "5" },
+        { "id": 3, "option": "C", "text": "6" }
+      ],
+      "image": 18
     },
     {
       "id": 154,
-      "title": "",
-      "answer": "",
+      "title": "(參閱 Fig. 17) 哪一圖表顯示飛機需左轉150度後才能以60度角攔截360幅向飛向電台?(如圖A21_Fig17)",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "1" },
+        { "id": 2, "option": "B", "text": "2" },
+        { "id": 3, "option": "C", "text": "3" }
+      ],
+      "image": 18
     },
     {
       "id": 155,
-      "title": "",
-      "answer": "",
+      "title": "(參閱Fig17.)依據圖表4,如果飛機保持現有航向,哪一個答案是正確的?飛機將(如圖A21_Fig17)",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "以15度角穿越060幅向." },
+        { "id": 2, "option": "B", "text": "以30度角攔截240度幅向." },
+        { "id": 3, "option": "C", "text": "以75度角攔截180度幅向." }
+      ],
+      "image": 18
     },
     {
       "id": 156,
-      "title": "",
-      "answer": "",
+      "title": "(參閱Fig18.)要以30度角攔截240度磁方位,飛機需(如圖A21_FIG18)",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "左轉065." },
+        { "id": 2, "option": "B", "text": "左轉125." },
+        { "id": 3, "option": "C", "text": "右轉270." }
+      ],
+      "image": 19
     },
     {
       "id": 157,
-      "title": "",
-      "answer": "",
+      "title": "(參閱Fig18)若飛機持續保持圖上所示之航向,飛機將以35度角攔截哪一個磁方位飛離電台?(如圖A21_FIG18)",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "035度" },
+        { "id": 2, "option": "B", "text": "070度" },
+        { "id": 3, "option": "C", "text": "215度" }
+      ],
+      "image": 19
     },
     {
       "id": 158,
-      "title": "",
-      "answer": "",
+      "title": "(參閱Fig19)若飛機持續保持圖上所示之航向,飛機將以35度角攔截哪一個磁方位飛離電台?(如圖A21_FIG19)",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "090度" },
+        { "id": 2, "option": "B", "text": "270度" },
+        { "id": 3, "option": "C", "text": "305度" }
+      ],
+      "image": 20
     },
     {
       "id": 159,
-      "title": "",
-      "answer": "",
+      "title": "(參閱Fig19)若飛機持續保持圖上所示之航向,飛機將以30度角攔截哪一個磁方位飛離電台?(如圖A21_FIG19)",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "090度" },
+        { "id": 2, "option": "B", "text": "270度" },
+        { "id": 3, "option": "C", "text": "310度" }
+      ],
+      "image": 20
     },
     {
       "id": 160,
-      "title": "",
-      "answer": "",
+      "title": "(參閱Fig.32)機場壓力高度2,000呎, 場溫攝氏20℃ ,巡航壓力高度10,000呎, 巡航空層溫度攝氏0℃ 爬升至巡航高度所需之油量,時間,與距離為何?(如圖A21_FIG32)",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "5加崙,9分鐘,13浬" },
+        { "id": 2, "option": "B", "text": "6加崙,11分鐘,16浬" },
+        { "id": 3, "option": "C", "text": "7加崙,12分鐘,18浬" }
+      ],
+      "image": 17
     },
     {
       "id": 161,
-      "title": "",
-      "answer": "",
+      "title": "當飛機位於機場VOR之指定檢查點時,飛行員應如何做VOR接收器之檢查?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "將OBS轉至180 +-4度間,CDI應顯示於中心,並離開電台." },
+        { "id": 2, "option": "B", "text": "將OBS調至指定幅向,CDI應維持於中心線不超過左右4度的離開電台." },
+        { "id": 3, "option": "C", "text": "將飛機朝向VOR並將OBS轉向000度,CDI應保持中心,左右不超過4度,朝向電台." }
       ]
     },
     {
       "id": 162,
-      "title": "",
-      "answer": "",
+      "title": "以190度幅向向電台飛去,飛行員選擇195度的幅向,左轉5度計時.當維持固定航向,飛行員得知CDI至正中需時10分鐘.由此得知,預計抵達電台時間為何?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "10分鐘." },
+        { "id": 2, "option": "B", "text": "15分鐘." },
+        { "id": 3, "option": "C", "text": "20分鐘." }
       ]
     },
     {
       "id": 163,
-      "title": "",
-      "answer": "",
+      "title": "以315度幅向向電台飛去,飛行員選擇320度的幅向,左轉5度計時.當維持固定航向,飛行員得知CDI至正中需時12分鐘.由此得知,預計抵達電台時間為何?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "10分鐘." },
+        { "id": 2, "option": "B", "text": "12分鐘." },
+        { "id": 3, "option": "C", "text": "24分鐘." }
       ]
     },
     {
       "id": 164,
-      "title": "",
-      "answer": "",
+      "title": "以090度幅向向電台飛去,飛行員選擇左010度OBS,右轉10度計時.當維持固定航向,飛行員得知CDI至正中需時8分鐘.由此得知,預計抵達電台時間為何?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "8分鐘." },
+        { "id": 2, "option": "B", "text": "16分鐘." },
+        { "id": 3, "option": "C", "text": "24分鐘." }
       ]
     },
     {
       "id": 165,
-      "title": "",
-      "answer": "",
+      "title": "以040度幅向向電台非去,飛行員選擇055度的幅向,左轉15度計時.當維持固定航向,飛行員得知CDI至正中需時15分鐘.由此得知,預計抵達電台時間為何?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "8分鐘." },
+        { "id": 2, "option": "B", "text": "15分鐘." },
+        { "id": 3, "option": "C", "text": "30分鐘." }
       ]
     },
     {
       "id": 166,
-      "title": "",
-      "answer": "",
+      "title": "飛機保持磁航向270度,真空速為120哩.穿過VOR之360幅向是1237,穿過350幅向是1244;到電台之時間,距離為何?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "42分鐘,84浬." },
+        { "id": 2, "option": "B", "text": "42分鐘,91浬." },
+        { "id": 3, "option": "C", "text": "44分鐘,96浬." }
       ]
     },
     {
       "id": 167,
-      "title": "",
-      "answer": "",
+      "title": "哪一部出版品中有'NORTH ATLANTIC MINIMUN NAVIGATION PERFORMANCE SPECIFICATIONS AIRSPACE?'作業說明?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "FAR PART 121." },
+        { "id": 2, "option": "B", "text": "ICAO ANNEX 1, CHAPTER 2." },
+        { "id": 3, "option": "C", "text": "FAR PART 91" }
       ]
     },
     {
       "id": 168,
-      "title": "",
-      "answer": "",
+      "title": "將發生幾秒鐘來預警飛行員?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "5秒鐘" },
+        { "id": 2, "option": "B", "text": "10秒鐘" },
+        { "id": 3, "option": "C", "text": "15秒鐘" }
       ]
     },
     {
       "id": 169,
-      "title": "",
-      "answer": "",
+      "title": "飛行員如何得知LORAN-C接收器可以操作儀器飛行?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "參閱飛機飛行手冊補充章節." },
+        { "id": 2, "option": "B", "text": "機上有一狀態卡標示'LORAN-C可於儀器飛行時航路,終端與進場使用'." },
+        { "id": 3, "option": "C", "text": "登記於機體時間記錄本上;LORAN-C接收器每30天需做一次檢查." }
       ]
     },
     {
       "id": 170,
-      "title": "",
-      "answer": "",
+      "title": "LORAN-C的導航基礎是建立於哪一種電台所產生同時到達的不同脈波?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "ㄧ群作業於108-115頻率之電台." },
+        { "id": 2, "option": "B", "text": "兩個作用於90-110頻率之電台." },
+        { "id": 3, "option": "C", "text": "ㄧ串作用於90-110頻率之電台." }
       ]
     },
     {
       "id": 171,
-      "title": "",
-      "answer": "",
+      "title": "在海拔較高之機場,儀器空速將",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "不會有改變,但地速會比較快." },
+        { "id": 2, "option": "B", "text": "會比較快,但地速不會改變." },
+        { "id": 3, "option": "C", "text": "會增加,因為空氣比較稀薄." }
       ]
     },
     {
       "id": 172,
-      "title": "",
-      "answer": "",
+      "title": "保持固定航向,相對方位15度在5分鐘內增加兩倍,如果真空速為105哩,求到電台之時間與距離.",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "5分鐘與8.7哩." },
+        { "id": 2, "option": "B", "text": "10分鐘與17哩." },
+        { "id": 3, "option": "C", "text": "15分鐘與31.2哩." }
       ]
     },
     {
       "id": 173,
-      "title": "",
-      "answer": "",
+      "title": "當在執行空中VOR接收器測試時CDI指針保持正中,全方位選擇器與飛離/飛向電台指示應得到",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "所選擇的幅向4度以內." },
+        { "id": 2, "option": "B", "text": "所選擇的幅向6度以內." },
+        { "id": 3, "option": "C", "text": "若VOR是朝向南面,0度飛向電台." }
       ]
     },
     {
       "id": 174,
-      "title": "",
-      "answer": "",
+      "title": "ADF顯示翼端方位改變10度需時2分鐘，今真空速160浬/時，請問到電台距離為何?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "15浬。" },
+        { "id": 2, "option": "B", "text": "32浬。" },
+        { "id": 3, "option": "C", "text": "36浬。" }
       ]
     },
     {
       "id": 175,
-      "title": "",
-      "answer": "",
+      "title": "飛機距離VOR電台60哩,此時CDI指示有1/5的偏離,請問此時飛機離航道的中心現有多遠?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "6哩." },
+        { "id": 2, "option": "B", "text": "2哩." },
+        { "id": 3, "option": "C", "text": "1哩." }
       ]
     },
     {
       "id": 176,
-      "title": "",
-      "answer": "",
+      "title": "就轉彎協調儀與轉彎指示儀,兩者在操作上有何差異?轉彎協調儀",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "永遠為電子驅動;轉彎指示儀為真空驅動." },
+        { "id": 2, "option": "B", "text": "只顯示轉彎角度,轉彎指示儀顯示轉彎之速率." },
+        { "id": 3, "option": "C", "text": "指示滾轉率與轉彎率;轉彎指示儀顯示轉彎率與協調性." }
       ]
     },
     {
-      "id": 171,
-      "title": "",
-      "answer": "",
+      "id": 177,
+      "title": "當飛機上已配備一套真空驅動之迴轉儀,再加裝依電子式轉彎協調儀,其轉彎協調儀之優勢為何?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "只是ㄧ備用系統." },
+        { "id": 2, "option": "B", "text": "可靠度比真空驅動來的高." },
+        { "id": 3, "option": "C", "text": "穩定性比真空驅動要好." }
       ]
     },
     {
       "id": 178,
-      "title": "",
-      "answer": "",
+      "title": "要攔截215度幅向飛離電台,建議將OBS調整至",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "215度,並將航向朝向CDI指針." },
+        { "id": 2, "option": "B", "text": "215度,並將航向遠離CDI指針." },
+        { "id": 3, "option": "C", "text": "035度,並將航向朝向CDI指針." }
       ]
     },
     {
       "id": 179,
-      "title": "",
-      "answer": "",
+      "title": "(參閱Fig20) 哪一個儀器圖顯示飛機在左轉90度後,攔截到幅向180?(如圖A21_Fig20)",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "2" },
+        { "id": 2, "option": "B", "text": "3" },
+        { "id": 3, "option": "C", "text": "4" }
+      ],
+      "image": 21
     },
     {
       "id": 180,
-      "title": "",
-      "answer": "",
+      "title": "(參閱Fig20.)哪一些圖表顯示飛機漸漸遠離電台?(如圖A21_Fig20)",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "4" },
+        { "id": 2, "option": "B", "text": "1 & 4" },
+        { "id": 3, "option": "C", "text": "2 & 3" }
+      ],
+      "image": 21
     },
     {
       "id": 181,
-      "title": "",
-      "answer": "",
+      "title": "(參閱Fig20) 哪一個儀器圖顯示飛機在VORTAC的西北方?(如圖A21_Fig20)",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "1" },
+        { "id": 2, "option": "B", "text": "2" },
+        { "id": 3, "option": "C", "text": "3" }
+      ],
+      "image": 21
     },
     {
       "id": 182,
-      "title": "",
-      "answer": "",
+      "title": "(參閱Fig20) 哪一個儀器圖顯示飛機在轉180度後,以30度角攔截到幅向150?(如圖A21_Fig20)",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "2" },
+        { "id": 2, "option": "B", "text": "3" },
+        { "id": 3, "option": "C", "text": "4" }
+      ],
+      "image": 21
     },
     {
       "id": 183,
-      "title": "",
-      "answer": "",
+      "title": "(參閱Fig20) 運用儀表三,飛機左轉180度再直飛,將會攔截到哪一個幅向?(如圖A21_Fig20)",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "幅向135." },
+        { "id": 2, "option": "B", "text": "幅向270." },
+        { "id": 3, "option": "C", "text": "幅向360." }
+      ],
+      "image": 21
     },
     {
       "id": 184,
-      "title": "",
-      "answer": "",
+      "title": "要攔截180度幅向飛離電台,建議將OBS調整至",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "360度,並將航向朝向CDI指針." },
+        { "id": 2, "option": "B", "text": "180度,並將航向遠離CDI指針." },
+        { "id": 3, "option": "C", "text": "180度,並將航向朝向CDI指針." }
       ]
     },
     {
       "id": 185,
-      "title": "",
-      "answer": "",
+      "title": "哪一種情況會造成VOR接收器反向感應?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "飛行的航向與OBS所選擇的方位相反." },
+        { "id": 2, "option": "B", "text": "設定OBS與飛機所在方位成90度角." },
+        { "id": 3, "option": "C", "text": "當飛機過電台後,OBS自飛向電台調整至飛離電台產生錯誤." }
       ]
     },
     {
       "id": 186,
-      "title": "",
-      "answer": "",
+      "title": "壓力高度:12000呎, 溫度:華氏50度,求密度高度為何?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "11900呎." },
+        { "id": 2, "option": "B", "text": "14130呎." },
+        { "id": 3, "option": "C", "text": "18150呎." }
       ]
     },
     {
       "id": 187,
-      "title": "",
-      "answer": "",
+      "title": "壓力高度: 5000呎, 溫度:攝氏30度,求密度高度為何?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "7200呎." },
+        { "id": 2, "option": "B", "text": "7800呎." },
+        { "id": 3, "option": "C", "text": "9000呎." }
       ]
     },
     {
       "id": 188,
-      "title": "",
-      "answer": "",
+      "title": "壓力高度: 6000呎 溫度…華式30度 求密度高度為何?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "5000呎." },
+        { "id": 2, "option": "B", "text": "5500呎." },
+        { "id": 3, "option": "C", "text": "9000呎." }
       ]
     },
     {
       "id": 189,
-      "title": "",
-      "answer": "",
+      "title": "機翼之升力最佳解釋為何?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "作用力與相對風成垂直." },
+        { "id": 2, "option": "B", "text": "不同之壓力垂直於翼弦上." },
+        { "id": 3, "option": "C", "text": "因空氣流經機翼上方弧形之流線曲面造成減壓,垂直升力因而產生於機翼下方較平坦之弧面." }
       ]
     },
     {
       "id": 190,
-      "title": "",
-      "answer": "",
+      "title": "磁航向350度,ADF指針顯示相對幅向為240度,此時飛向電台之磁幅向為?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "050度." },
+        { "id": 2, "option": "B", "text": "230度." },
+        { "id": 3, "option": "C", "text": "295度." }
       ]
     },
     {
       "id": 191,
-      "title": "",
-      "answer": "",
+      "title": "當飛機保持磁航向265度時,ADF顯示相對幅向為065度,表示飛機正經過?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "065度磁幅向飛離電台." },
+        { "id": 2, "option": "B", "text": "150度磁幅向飛離電台." },
+        { "id": 3, "option": "C", "text": "330度磁幅向飛離電台." }
       ]
     },
     {
       "id": 192,
-      "title": "",
-      "answer": "",
+      "title": "磁航向315度,ADF指針顯示相對幅向為140度,此時飛離電台之磁幅向為?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "095度." },
+        { "id": 2, "option": "B", "text": "175度." },
+        { "id": 3, "option": "C", "text": "275度." }
       ]
     },
     {
       "id": 193,
-      "title": "",
-      "answer": "",
+      "title": "當使用VOR測試設備測試VOR接收器時, CDI指針須保持正中間OBS必須顯示飛機是在",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "090幅向." },
+        { "id": 2, "option": "B", "text": "180幅向." },
+        { "id": 3, "option": "C", "text": "360幅向." }
       ]
     },
     {
       "id": 194,
-      "title": "",
-      "answer": "",
+      "title": "壓力高度:7000呎 ,溫度:攝氏15度 ,求密度高度為何?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "5000呎." },
+        { "id": 2, "option": "B", "text": "8500呎." },
+        { "id": 3, "option": "C", "text": "9500呎." }
       ]
     },
     {
       "id": 195,
-      "title": "",
-      "answer": "",
+      "title": "ADF之相對方位從090度轉至095度需時1.5分鐘,若真空速為115哩,到電台之距離是",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "12.5浬." },
+        { "id": 2, "option": "B", "text": "24.5浬." },
+        { "id": 3, "option": "C", "text": "34.5浬." }
       ]
     },
     {
       "id": 196,
-      "title": "",
-      "answer": "",
+      "title": "將ADF轉向電台,若磁航向為040度,相對幅向是290度,飛向電台之磁幅向為何?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "150度." },
+        { "id": 2, "option": "B", "text": "285度." },
+        { "id": 3, "option": "C", "text": "330度." }
       ]
     },
     {
       "id": 197,
-      "title": "",
-      "answer": "",
+      "title": "(參閱Fig25)以百分之70之馬力設定起飛至爬升共耗10分鐘,試計算耗油量?(如圖A21_Fig25)",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "2.66加崙" },
+        { "id": 2, "option": "B", "text": "2.88加崙" },
+        { "id": 3, "option": "C", "text": "3.2加崙" }
+      ],
+      "image": 22
     },
     {
       "id": 198,
-      "title": "",
-      "answer": "",
+      "title": "(參閱Fig25)以百分之75之馬力設定起爬升7分鐘,試計算耗油量?(如圖A21_Fig25)",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "1.82加崙" },
+        { "id": 2, "option": "B", "text": "1.97加崙" },
+        { "id": 3, "option": "C", "text": "2.15加崙" }
+      ],
+      "image": 22
     },
     {
       "id": 199,
-      "title": "",
-      "answer": "",
+      "title": "(參閱Fig25) 油量…65加侖 最佳平飛馬力設定…55％ 需保留白晝目視法定需求由輛之情況下,可飛多久?(如圖A21_Fig25)",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "4小時17分." },
+        { "id": 2, "option": "B", "text": "4小時30分." },
+        { "id": 3, "option": "C", "text": "5小時4分." }
+      ],
+      "image": 22
     },
     {
       "id": 200,
-      "title": "",
-      "answer": "",
+      "title": "(參閱Fig25) 油量…47加侖 巡航馬力設定…55％ 需保留夜間目視法定需求由輛之情況下,可飛多久?(如圖A21_Fig25)",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "3小時8分." },
+        { "id": 2, "option": "B", "text": "3小時22分." },
+        { "id": 3, "option": "C", "text": "3小時43分." }
+      ],
+      "image": 22
     },
     {
       "id": 201,
-      "title": "",
-      "answer": "",
+      "title": "(參閱Fig25)以百分隻55的巡航馬力,38加崙的油量在符合夜間目視飛行要求之保留油量情況下,可飛多少時間?(如圖A21_Fig25)",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "2小時34分." },
+        { "id": 2, "option": "B", "text": "2小時49分." },
+        { "id": 3, "option": "C", "text": "3小時18分." }
+      ],
+      "image": 22
     },
     {
       "id": 202,
-      "title": "",
-      "answer": "",
+      "title": "(參閱Fig. 33) 用最大爬升率自引擎啟動爬升至10,000呎之壓力高度所消耗之油量為何飛機重…3,800磅 機場壓力高度…4,000呎 場溫…攝氏30度。(如圖A21_Fig33)",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "28磅。" },
+        { "id": 2, "option": "B", "text": "35磅。" },
+        { "id": 3, "option": "C", "text": "40磅。" }
+      ],
+      "image": 23
     },
     {
       "id": 203,
-      "title": "",
-      "answer": "",
+      "title": "(參閱 Fig. 33)用最大爬升率自引擎啟動爬升至6,000呎之壓力高度所消耗之油量為何飛機重…3,200磅 機場壓力高度…2,000呎 場溫…攝氏27度。(如圖A21_Fig33)",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "10磅。" },
+        { "id": 2, "option": "B", "text": "14磅。" },
+        { "id": 3, "option": "C", "text": "24磅。" }
+      ],
+      "image": 23
     },
     {
       "id": 204,
-      "title": "",
-      "answer": "",
+      "title": "(參閱Fig26)用一般爬升率自引擎啟動爬升至12,000呎之壓力高度所消耗之油量為何? 飛機重…3,800磅 機場壓力高度…4,000呎 場溫…攝氏26度.(如圖A21_FIG26)",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "46磅." },
+        { "id": 2, "option": "B", "text": "51磅." },
+        { "id": 3, "option": "C", "text": "58磅." }
+      ],
+      "image": 24
     },
     {
       "id": 205,
-      "title": "",
-      "answer": "",
+      "title": "(參閱Fig26)用一般爬升率自引擎啟動爬升至10,000呎之壓力高度所消耗之油量為何? 飛機重…3,500磅 機場壓力高度…4,000呎 場溫…攝氏21度.(如圖A21_FIG26)",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "23磅." },
+        { "id": 2, "option": "B", "text": "31磅." },
+        { "id": 3, "option": "C", "text": "35磅." }
+      ],
+      "image": 24
     },
     {
       "id": 206,
-      "title": "",
-      "answer": "",
+      "title": "(參閱Fig27)當馬力設定是百分之64,引擎轉速2500轉,試計算48加崙之餘油飛行與7,500呎之高空時,可飛多遠?(如圖A21_Fig27)",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "635哩." },
+        { "id": 2, "option": "B", "text": "645哩." },
+        { "id": 3, "option": "C", "text": "810哩." }
+      ],
+      "image": 25
     },
     {
       "id": 207,
-      "title": "",
-      "answer": "",
+      "title": "(參閱Fig27)當馬力設定是百分之52,試計算48加崙之餘油飛行與7,500呎之高空時,可飛多久?(如圖A21_Fig27)",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "6.1小時" },
+        { "id": 2, "option": "B", "text": "7.7小時" },
+        { "id": 3, "option": "C", "text": "8.0小時" }
+      ],
+      "image": 25
     },
     {
       "id": 208,
-      "title": "",
-      "answer": "",
+      "title": "(參閱Fig27)當馬力設定是百分之52,試計算飛行與7,500呎之高空時之真空速與每小時之油耗.(如圖A21_Fig27)",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "103哩/每小時,7.7加崙/每小時." },
+        { "id": 2, "option": "B", "text": "105哩/每小時,6.1加崙/每小時." },
+        { "id": 3, "option": "C", "text": "105哩/每小時,6.2加崙/每小時." }
+      ],
+      "image": 25
     },
     {
       "id": 209,
-      "title": "",
-      "answer": "",
+      "title": "(參閱Fig30)以正常馬力爬升,試算出爬升至壓力高度8,000呎所需之時間?飛機重量…3,400磅 機場壓力高度…4,000呎 溫度…攝氏14度(如圖A21_Fig30)",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "4.8分鐘" },
+        { "id": 2, "option": "B", "text": "5分鐘" },
+        { "id": 3, "option": "C", "text": "5.5分鐘" }
+      ],
+      "image": 26
     },
     {
       "id": 210,
-      "title": "",
-      "answer": "",
+      "title": "(參閱Fig28) 壓力高度…18,000呎 溫度…攝氏零下1度 馬力設定…2200 RPM,20吋MP 可用餘油344磅 根據上述之數據，試計算在合乎晝間目視天氣的情況下可飛多久?(如圖A21_Fig28)",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "4小時50分" },
+        { "id": 2, "option": "B", "text": "5小時20分" },
+        { "id": 3, "option": "C", "text": "5小時59分" }
+      ],
+      "image": 27
     },
     {
       "id": 211,
-      "title": "",
-      "answer": "",
+      "title": "(參閱Fig28) 壓力高度…18,000呎 溫度…攝氏零下21度 馬力設定…2400 RPM,28吋mp 可用餘油425磅 根據上述之數據,試計算在合乎晝間目視天氣的情況下可飛多久?(如圖A21_Fig28)",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "3小時46分" },
+        { "id": 2, "option": "B", "text": "4小時1分" },
+        { "id": 3, "option": "C", "text": "4小時31分" }
+      ],
+      "image": 27
     },
     {
       "id": 212,
-      "title": "",
-      "answer": "",
+      "title": "(參閱Fig28) 壓力高度…18,000呎 溫度…攝氏零下41度 馬力設定…2500 RPM,26吋mp 可用餘油318磅 根據上述之數據,試計算在合乎夜間目視天氣的情況下可飛多久?(如圖A21_Fig28)",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "2小時27分" },
+        { "id": 2, "option": "B", "text": "3小時12分" },
+        { "id": 3, "option": "C", "text": "3小時42分" }
+      ],
+      "image": 27
     },
     {
       "id": 213,
-      "title": "",
-      "answer": "",
+      "title": "(參閱Fig29)以最大馬力爬升,試算出爬升至壓力高度8,000呎所需之時間?飛機重量…4,000磅 機場壓力高度…2,000呎 溫度…攝氏32度(如圖A21_Fig29)",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "7分鐘" },
+        { "id": 2, "option": "B", "text": "8.4分鐘" },
+        { "id": 3, "option": "C", "text": "11.2分鐘" }
+      ],
+      "image": 28
     },
     {
       "id": 214,
-      "title": "",
-      "answer": "",
+      "title": "(參閱Fig29)以最大馬力爬升,試算自引擎啟動至爬升至壓力高度16,000呎所耗之油量?飛機重量…3,400磅 機場壓力高度…6,000呎 溫度…攝氏10度(如圖A21_Fig29)",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "43磅" },
+        { "id": 2, "option": "B", "text": "45磅" },
+        { "id": 3, "option": "C", "text": "49磅" }
+      ],
+      "image": 28
     },
     {
       "id": 215,
-      "title": "",
-      "answer": "",
+      "title": "(參閱Fig30)以正常馬力爬升,試算自引擎啟動至爬升至壓力高度12,000呎所耗之油量?飛機重量…3,700磅 機場壓力高度…4,000呎 溫度…攝氏21度(如圖A21_Fig30)",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "30磅" },
+        { "id": 2, "option": "B", "text": "37磅" },
+        { "id": 3, "option": "C", "text": "46磅" }
+      ],
+      "image": 29
     },
     {
       "id": 216,
-      "title": "",
-      "answer": "",
+      "title": "(參閱Fig31)塔台播報地面風向010,風速18哩,使用08跑道落地,側風為何?(如圖A21_Fig31)",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "7哩" },
+        { "id": 2, "option": "B", "text": "15哩" },
+        { "id": 3, "option": "C", "text": "17哩" }
+      ],
+      "image": 30
     },
     {
       "id": 217,
-      "title": "",
-      "answer": "",
+      "title": "(參閱Fig. 31) 使用30跑道落地。若Vso為60節(浬/時)，請問會超過飛機0.2Vso側風限制的地面風為何?(如圖A21_Fig31)",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "260度的20節" },
+        { "id": 2, "option": "B", "text": "275度的25節" },
+        { "id": 3, "option": "C", "text": "315度的35節" }
+      ],
+      "image": 30
     },
     {
       "id": 218,
-      "title": "",
-      "answer": "",
+      "title": "(參閱Fig31)13跑道起飛,風向190,風速15哩,請問頂頭風風速為何?(如圖A21_Fig31)",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "7哩" },
+        { "id": 2, "option": "B", "text": "13哩" },
+        { "id": 3, "option": "C", "text": "15哩" }
+      ],
+      "image": 30
     },
     {
       "id": 219,
-      "title": "",
-      "answer": "",
+      "title": "(參閱Fig31)地面風向180,風速25哩,當使用13跑道落地時,側風為何?(如圖A21_Fig31)",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "19哩" },
+        { "id": 2, "option": "B", "text": "21哩" },
+        { "id": 3, "option": "C", "text": "23哩" }
+      ],
+      "image": 30
     },
     {
       "id": 220,
-      "title": "",
-      "answer": "",
+      "title": "翼端方位改變…5度 方位改變所需時間…5分鐘 真空速…115哩 到電台之距離為",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "36浬" },
+        { "id": 2, "option": "B", "text": "57.5浬" },
+        { "id": 3, "option": "C", "text": "115浬" }
       ]
     },
     {
       "id": 221,
-      "title": "",
-      "answer": "",
+      "title": "翼端幅向改變15度 , 幅向改變之時間差7.5分鐘, 真空速85哩 ,油耗率9.6,gal/hr; 飛至電台所需時間,距離與油量為何?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "30分鐘, 42.5哩,4.80加崙" },
+        { "id": 2, "option": "B", "text": "32分鐘, 48哩,5.58加崙" },
+        { "id": 3, "option": "C", "text": "48分鐘, 48哩,4.58加崙" }
       ]
     }
   ]
