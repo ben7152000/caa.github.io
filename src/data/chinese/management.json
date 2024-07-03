@@ -220,7 +220,7 @@
         { "id": 2, "option": "B", "text": "通過中央標誌之黃色虛線後" },
         { "id": 3, "option": "C", "text": "通過中央標誌之黃色實線後" }
       ],
-      "image": true
+      "image": 1
     },
     {
       "id": 21,
@@ -232,7 +232,7 @@
         { "id": 2, "option": "B", "text": "在滑行道與一般道路交接處，且可能造成誤判時" },
         { "id": 3, "option": "C", "text": "在接近使用儀器降落系統進場之跑道頭前" }
       ],
-      "image": true
+      "image": 1
     },
     {
       "id": 22,
@@ -244,7 +244,7 @@
         { "id": 2, "option": "B", "text": "中央黃色標誌" },
         { "id": 3, "option": "C", "text": "下方黃色標誌" }
       ],
-      "image": true
+      "image": 1
     },
     {
       "id": 23,
@@ -256,7 +256,7 @@
         { "id": 2, "option": "B", "text": "上方紅色標誌" },
         { "id": 3, "option": "C", "text": "中央黃色標誌" }
       ],
-      "image": true
+      "image": 1
     },
     {
       "id": 24,
@@ -268,7 +268,7 @@
         { "id": 2, "option": "B", "text": "中央黃色標誌" },
         { "id": 3, "option": "C", "text": "下方黃色標誌" }
       ],
-      "image": true
+      "image": 1
     },
     {
       "id": 25,
