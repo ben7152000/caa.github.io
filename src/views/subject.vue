@@ -38,7 +38,7 @@
           <span>{{ passRate() }}%</span>
         </div>
         <div class="grade-subjects">
-          <div v-for="(sub, index) of getGradeLists()" class="grade-subject">
+          <div v-for="(sub, index) of getGradeLists()" class="grade-subject" @click="goQuestion(sub, index)">
             <span class="grade-number">({{ index + 1 }}.)</span>
             <span :class="['grade-title', checkGradeAnswer(sub.answer, sub.userAnswer)]">{{ sub.title }}</span>
           </div>
@@ -192,6 +192,13 @@ const goNext = () => {
   if (activeIndex.value === questionCounts.value - 1) return
   activeIndex.value++
   checked.value = ''
+}
+
+const goQuestion = (question, index) => {
+  if (topic.value === 'test') return
+  activeIndex.value = index
+  checked.value = question.userAnswer
+  showGradeLists.value = false
 }
 
 const selectOption = (option) => {
