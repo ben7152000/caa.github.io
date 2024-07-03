@@ -3,2882 +3,2656 @@
   "questions": [
     {
       "id": 1,
-      "title": "",
-      "answer": "",
+      "title": "於進場及落地階段時,襟翼的主要功能之一是:",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "降低下降角度而不增加其空速" },
+        { "id": 2, "option": "B", "text": "可以較低的空速提供相同的升力" },
+        { "id": 3, "option": "C", "text": "減少升力, 可以採取比正常下降角度為陡的方式進場" }
       ]
     },
     {
       "id": 2,
-      "title": "",
-      "answer": "",
+      "title": "於平飛轉彎時使用襟翼, 何者為真 ?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "伸放襟翼, 會增加失速速度" },
+        { "id": 2, "option": "B", "text": "收襟翼, 會增加失速速度" },
+        { "id": 3, "option": "C", "text": "收襟翼, 需增加向前的駕駛桿力量" }
       ]
     },
     {
       "id": 3,
-      "title": "",
-      "answer": "",
+      "title": "相較於其它翼形, 平直翼的失速傾向發生在何處 ?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "失速由翼尖向翼根延伸" },
+        { "id": 2, "option": "B", "text": "失速由翼根向翼尖延伸" },
+        { "id": 3, "option": "C", "text": "失速由翼後緣中間部位向翼根及翼尖延伸" }
       ]
     },
     {
       "id": 4,
-      "title": "",
-      "answer": "",
+      "title": "機翼攻角直接控制著",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "機翼傾角" },
+        { "id": 2, "option": "B", "text": "機翼上/下方氣流流量" },
+        { "id": 3, "option": "C", "text": "作用於機翼的壓力分佈" }
       ]
     },
     {
       "id": 5,
-      "title": "",
-      "answer": "",
+      "title": "機翼上翼面結霜, 經常會導致",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "高於正常攻角而失速" },
+        { "id": 2, "option": "B", "text": "低於正常攻角而失速" },
+        { "id": 3, "option": "C", "text": "因阻力係數較大, 而無法獲得足夠的起飛速度" }
       ]
     },
     {
       "id": 6,
-      "title": "",
-      "answer": "",
+      "title": "機翼的失速攻角保持恆定, 與何者無關 ?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "重量, 動壓, 坡度或俯仰姿態" },
+        { "id": 2, "option": "B", "text": "動壓, 但隨著重量, 坡度及俯仰姿態而改變" },
+        { "id": 3, "option": "C", "text": "重量及俯仰姿態, 但隨著動壓及坡度而改變" }
       ]
     },
     {
       "id": 7,
-      "title": "",
-      "answer": "",
+      "title": "飛機減速至VA以下, 是基於下列那項天氣現象所需 ?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "使失速速度增加的高密度高度" },
+        { "id": 2, "option": "B", "text": "使失速速度增加的亂流" },
+        { "id": 3, "option": "C", "text": "使失速速度減低的亂流" }
       ]
     },
     {
       "id": 8,
-      "title": "",
-      "answer": "",
+      "title": "失速速度受那些因素影響 ?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "重量, 負荷因數及動力" },
+        { "id": 2, "option": "B", "text": "負荷因數, 攻角及動力" },
+        { "id": 3, "option": "C", "text": "攻角, 重量及空氣密度" }
       ]
     },
     {
       "id": 9,
-      "title": "",
-      "answer": "",
+      "title": "飛機失速速度主要是受什麼影響 ?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "空氣密度變化" },
+        { "id": 2, "option": "B", "text": "飛行姿態變化" },
+        { "id": 3, "option": "C", "text": "飛機負荷變化" }
       ]
     },
     {
       "id": 10,
-      "title": "",
-      "answer": "",
+      "title": "飛機失速是在相同的",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "攻角, 與相對於地平線的姿態無關" },
+        { "id": 2, "option": "B", "text": "空速, 與相對於地平線的姿態無關" },
+        { "id": 3, "option": "C", "text": "攻角及相對於地平線的姿態" }
       ]
     },
     {
       "id": 11,
-      "title": "",
-      "answer": "",
+      "title": "俯衝時迅速改正, 負荷因數效應會造成失速速度 ?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "提高" },
+        { "id": 2, "option": "B", "text": "降低" },
+        { "id": 3, "option": "C", "text": "不變" }
       ]
     },
     {
       "id": 12,
-      "title": "",
-      "answer": "",
+      "title": "飛機於何種情形下作失速改正會較為困難 ?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "重心後移" },
+        { "id": 2, "option": "B", "text": "重心前移" },
+        { "id": 3, "option": "C", "text": "升降舵配平向下調整" }
       ]
     },
     {
       "id": 13,
-      "title": "",
-      "answer": "",
+      "title": "關於攻角變化, 何者為真 ?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "降低攻角, 會增加下翼面壓力及減少阻力" },
+        { "id": 2, "option": "B", "text": "增加攻角會增加阻力" },
+        { "id": 3, "option": "C", "text": "增加攻角, 會減少下翼面壓力及增加阻力" }
       ]
     },
     {
       "id": 14,
-      "title": "",
-      "answer": "",
+      "title": "當高度增加時, 為產生相同升力, 飛機必須飛行在",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "相同真空速, 而與攻角無關" },
+        { "id": 2, "option": "B", "text": "較低的真空速及較大的攻角" },
+        { "id": 3, "option": "C", "text": "任何已知的攻角下較高的真空速" }
       ]
     },
     {
       "id": 15,
-      "title": "",
-      "answer": "",
+      "title": "當坡度增加時, 升力的垂直分量",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "減少, 而且升力的水平分量增加" },
+        { "id": 2, "option": "B", "text": "增加, 而且升力的水平分量減少" },
+        { "id": 3, "option": "C", "text": "減少, 而且升力的水平分量保持定值" }
       ]
     },
     {
       "id": 16,
-      "title": "",
-      "answer": "",
+      "title": "於穩定狀態下降中的飛機, 下列有關的作用力何者為真 ?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "上升力的總合小於下降力的總合" },
+        { "id": 2, "option": "B", "text": "向後力的總合大於向前力的總合" },
+        { "id": 3, "option": "C", "text": "向前力的總合等於向後力的總合" }
       ]
     },
     {
       "id": 17,
-      "title": "",
-      "answer": "",
+      "title": "由平直飛行轉換至爬升過程中, 攻角增加而升力",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "暫時減少" },
+        { "id": 2, "option": "B", "text": "維持不變" },
+        { "id": 3, "option": "C", "text": "暫時增加" }
       ]
     },
     {
       "id": 18,
-      "title": "",
-      "answer": "",
+      "title": "當飛機減速時, 為了保持高度則縱向控制應如何改變 ?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "增加攻角以產生比阻力更大的升力" },
+        { "id": 2, "option": "B", "text": "增加攻角以補償減少的升力" },
+        { "id": 3, "option": "C", "text": "降低攻角以補償增加的升力" }
       ]
     },
     {
       "id": 19,
-      "title": "",
-      "answer": "",
+      "title": "於穩定定速飛行時, 下列有關升力何者為真 ?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "低速時攻角減小, 以產生足夠的升力來保持高度" },
+        { "id": 2, "option": "B", "text": "對每個攻角而言, 皆有一對應的指示空速, 以產生足夠的升力來保持高度" },
+        { "id": 3, "option": "C", "text": "一翼切形會在相同的指示空速下失速; 因此, 當重量增加時需加速, 以產生足夠的升力來保持高度" }
       ]
     },
     {
       "id": 20,
-      "title": "",
-      "answer": "",
+      "title": "理論上, 飛機平飛時如加速至 2倍的速度, 則寄生阻力會變成",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "2倍" },
+        { "id": 2, "option": "B", "text": "1/2倍" },
+        { "id": 3, "option": "C", "text": "4倍" }
       ]
     },
     {
       "id": 21,
-      "title": "",
-      "answer": "",
+      "title": "理論上, 如攻角及其它因數保持恆定而速度增加至2倍, 則在高速下升力會",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "與低速時相同" },
+        { "id": 2, "option": "B", "text": "較低速時大2倍" },
+        { "id": 3, "option": "C", "text": "較低速時大4倍" }
       ]
     },
     {
       "id": 22,
-      "title": "",
-      "answer": "",
+      "title": "當飛機脫離地面效應時會",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "使地面摩擦減少, 而需要稍微減推力" },
+        { "id": 2, "option": "B", "text": "使誘導阻力增加, 而需要更大的推力" },
+        { "id": 3, "option": "C", "text": "需要較低的攻角, 以保持相同的升力係數" }
       ]
     },
     {
       "id": 23,
-      "title": "",
-      "answer": "",
+      "title": "飛機於地面效應中, 為了產生與無地面效應相同的升力, 需要",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "降低攻角" },
+        { "id": 2, "option": "B", "text": "相同的攻角" },
+        { "id": 3, "option": "C", "text": "較大的攻角" }
       ]
     },
     {
       "id": 24,
-      "title": "",
-      "answer": "",
+      "title": "縱向安定性所包含的飛機運動, 受制於",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "方向舵" },
+        { "id": 2, "option": "B", "text": "升降舵" },
+        { "id": 3, "option": "C", "text": "副翼" }
       ]
     },
     {
       "id": 25,
-      "title": "",
-      "answer": "",
+      "title": "如飛機載重接近於重心範圍的後部, 對於那個軸會傾向於不安定 ?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "垂直軸" },
+        { "id": 2, "option": "B", "text": "橫軸" },
+        { "id": 3, "option": "C", "text": "縱軸" }
       ]
     },
     {
       "id": 26,
-      "title": "",
-      "answer": "",
+      "title": "於平飛轉彎時加速, 必須採取什麼動作以保持高度 ? 攻角",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "及坡度必須減小" },
+        { "id": 2, "option": "B", "text": "必須增加或坡度減小" },
+        { "id": 3, "option": "C", "text": "必須減小或坡度增加" }
       ]
     },
     {
       "id": 27,
-      "title": "",
-      "answer": "",
+      "title": "於平飛轉彎保持固定坡度, 如轉彎率改變則負荷因數",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "保持恆定, 與空氣密度及合力的升力向量無關" },
+        { "id": 2, "option": "B", "text": "因為合力的升力向量是成比例的變化, 將隨著速度及空氣密度而改變" },
+        { "id": 3, "option": "C", "text": "隨著合力的升力向量而改變" }
       ]
     },
     {
       "id": 28,
-      "title": "",
-      "answer": "",
+      "title": "在增加轉彎率的同時減小轉彎半徑, 則駕駛員應",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "保持坡度並減速" },
+        { "id": 2, "option": "B", "text": "增加坡度並加速" },
+        { "id": 3, "option": "C", "text": "增加坡度並減速" }
       ]
     },
     {
       "id": 29,
-      "title": "",
-      "answer": "",
+      "title": "飛機在同高度作協調轉彎時, 關於轉彎率及轉彎半徑何者為真 ?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "對特定的坡度及空速而言, 其轉彎率及轉彎半徑不變" },
+        { "id": 2, "option": "B", "text": "為保持穩定的轉彎率, 當空速減小時必須增加坡度" },
+        { "id": 3, "option": "C", "text": "真空速愈大, 轉彎率及轉彎半徑也愈大, 而與坡度無關" }
       ]
     },
     {
       "id": 30,
-      "title": "",
-      "answer": "",
+      "title": "協調轉彎時, 保持固定坡度及高度, 當空速增加, 則",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "轉彎率減小, 導致負荷因數減小" },
+        { "id": 2, "option": "B", "text": "轉彎率減小, 負荷因數不變" },
+        { "id": 3, "option": "C", "text": "轉彎率增加, 負荷因數不變" }
       ]
     },
     {
       "id": 31,
-      "title": "",
-      "answer": "",
+      "title": "轉彎時為保持高度, 為何需增加升降舵反壓 ? 以補償",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "升力垂直分量的損失" },
+        { "id": 2, "option": "B", "text": "升力水平分量的損失, 及增加離心力" },
+        { "id": 3, "option": "C", "text": "方向舵偏轉及轉彎時略微的反副翼" }
       ]
     },
     {
       "id": 32,
-      "title": "",
-      "answer": "",
+      "title": "飛機在一已知坡度下作等高度協調轉彎, 所承受之負荷因數",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "為恆定且失速速度提高" },
+        { "id": 2, "option": "B", "text": "隨轉彎率而改變" },
+        { "id": 3, "option": "C", "text": "為恆定且失速速度降低" }
       ]
     },
     {
       "id": 33,
-      "title": "",
-      "answer": "",
+      "title": "飛機於穩定氣流中作平飛協調轉彎, 其翼負荷決定於",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "轉彎率" },
+        { "id": 2, "option": "B", "text": "坡度" },
+        { "id": 3, "option": "C", "text": "真空速" }
       ]
     },
     {
       "id": 34,
-      "title": "",
-      "answer": "",
+      "title": "最大結構巡航速度, 為飛機於何種情形下所能操作的最大速度 ?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "粗猛操控" },
+        { "id": 2, "option": "B", "text": "正常操作" },
+        { "id": 3, "option": "C", "text": "平穩氣流中飛行" }
       ]
     },
     {
       "id": 35,
-      "title": "",
-      "answer": "",
+      "title": "為何應避免飛行速度大於VNE ?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "過度的誘導阻力會導致結構故障" },
+        { "id": 2, "option": "B", "text": "如遭遇陣風, 可能超過設計的負荷因數極限" },
+        { "id": 3, "option": "C", "text": "因操控效率嚴重損失, 造成飛機失控" }
       ]
     },
     {
       "id": 36,
-      "title": "",
-      "answer": "",
+      "title": "校正空速為指示空速經過何種修正後的最佳表示 ?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "安裝及儀器誤差" },
+        { "id": 2, "option": "B", "text": "無動力(慢車)失速速度" },
+        { "id": 3, "option": "C", "text": "操控速度" }
       ]
     },
     {
       "id": 37,
-      "title": "",
-      "answer": "",
+      "title": "如飛機陀螺儀已具備真空系統裝置, 則電針球儀的優點是 ?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "作為真空系統失效時的備用裝置" },
+        { "id": 2, "option": "B", "text": "比真空驅動轉彎指示儀可靠" },
+        { "id": 3, "option": "C", "text": "不會產生如真空驅動轉彎指示儀般的翻滾" }
       ]
     },
     {
       "id": 38,
-      "title": "",
-      "answer": "",
+      "title": "為避開剛落地的大型噴射機可能之機尾擾流, 起飛前應計劃於跑道何處離地 ?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "通過噴射機的著陸點" },
+        { "id": 2, "option": "B", "text": "於噴射機著陸點或該點之前" },
+        { "id": 3, "option": "C", "text": "於噴射機著陸點前約 500 ft" }
       ]
     },
     {
       "id": 39,
-      "title": "",
-      "answer": "",
+      "title": "關於機尾擾流, 何者敘述正確 ?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "渦流產生開始於起飛滾行初期" },
+        { "id": 2, "option": "B", "text": "主要危險是因為誘導滾轉而引起的失控" },
+        { "id": 3, "option": "C", "text": "最大的渦流強度來自於重型, 外形全收及高速航機" }
       ]
     },
     {
       "id": 40,
-      "title": "",
-      "answer": "",
+      "title": "如大型噴射航機在你同高度 1浬前方, 由左向右通過航路, 應遵循何種程序以避開其機尾擾流 ?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "確定略高於其航跡" },
+        { "id": 2, "option": "B", "text": "減速至 VA並保持高度及航路" },
+        { "id": 3, "option": "C", "text": "確定略低於其航跡並與其航路垂直" }
       ]
     },
     {
       "id": 41,
-      "title": "",
-      "answer": "",
+      "title": "當跟在大型航機後落地時, 應遵循何種程序以避開其渦流 ?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "落地前全程保持於其最後進場航跡上方" },
+        { "id": 2, "option": "B", "text": "保持於其最後進場航跡下方的側邊" },
+        { "id": 3, "option": "C", "text": "保持於其最後進場航跡的後下方至少 2,000 呎" }
       ]
     },
     {
       "id": 42,
-      "title": "",
-      "answer": "",
+      "title": "如必須於雪泥道面上起飛, 如何使起落架結構冰凍情況減至最低 ?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "重覆收/放起落架" },
+        { "id": 2, "option": "B", "text": "延遲收起落架" },
+        { "id": 3, "option": "C", "text": "先加速至VLE再收起落架" }
       ]
     },
     {
       "id": 43,
-      "title": "",
-      "answer": "",
+      "title": "當遭遇強烈亂流時, 駕駛員應減速至",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "最低操作速度" },
+        { "id": 2, "option": "B", "text": "設計操作速度 (VA)" },
+        { "id": 3, "option": "C", "text": "最大結構巡航速度 (VNO)" }
       ]
     },
     {
       "id": 44,
-      "title": "",
-      "answer": "",
+      "title": "飛行於強烈亂流中時, 使翼負荷因數減至最小的最佳操作技術為 ?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "視需要調整油門位置, 以保持定速" },
+        { "id": 2, "option": "B", "text": "使用油門控制速度, 保持機翼水平, 容許高度變化" },
+        { "id": 3, "option": "C", "text": "使用油門及配平控制速度等於或低於操作速度 (VA), 保持機翼水平, 並容許空速及高度變化" }
       ]
     },
     {
       "id": 45,
-      "title": "",
-      "answer": "",
+      "title": "駕駛員遇及強烈的晴空亂流播報區域, 在遭遇到第一波亂流時, 所採取的適當反應是",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "保持高度及空速" },
+        { "id": 2, "option": "B", "text": "調整空速至建議的穿越亂流速度" },
+        { "id": 3, "option": "C", "text": "使用操作速度, 以淺平爬升或下降的方式進入亂流區" }
       ]
     },
     {
       "id": 46,
-      "title": "",
-      "answer": "",
+      "title": "於特定外形下, 其失速速度或最低穩定飛行速度的正確符號是",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "VS" },
+        { "id": 2, "option": "B", "text": "VS1" },
+        { "id": 3, "option": "C", "text": "VS0" }
       ]
     },
     {
       "id": 47,
-      "title": "",
-      "answer": "",
+      "title": "以小飛機而言, 正常螺旋改正會變得較困難, 如果",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "重心過度後移, 並繞著縱軸旋轉" },
+        { "id": 2, "option": "B", "text": "重心過度後移, 並繞著重心旋轉" },
+        { "id": 3, "option": "C", "text": "進入螺旋是在完全失速之前" }
       ]
     },
     {
       "id": 48,
-      "title": "",
-      "answer": "",
+      "title": "對螺旋槳飛機而言, 最大升/阻比之飛行性能為 ?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "在已知距離內, 獲得最大高度" },
+        { "id": 2, "option": "B", "text": "最大航程及最大下滑距離" },
+        { "id": 3, "option": "C", "text": "最大升力係數及最大阻力係數" }
       ]
     },
     {
       "id": 49,
-      "title": "",
-      "answer": "",
+      "title": "航機飛行中，機翼上之氣動力與飛機重量之比值，下列敘述者為真?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "此比值稱為負荷因數，直接影響失速速度" },
+        { "id": 2, "option": "B", "text": "此比值稱為展弦比，直接影響失速速度" },
+        { "id": 3, "option": "C", "text": "此比值稱為負荷因數，與失速速度無關" }
       ]
     },
     {
       "id": 50,
-      "title": "",
-      "answer": "",
+      "title": "有關負荷因數之定義，下列敘述何者為真?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "負荷因數為機翼所產生的昇力除以飛機總重量" },
+        { "id": 2, "option": "B", "text": "負荷因數為機翼所產生的昇力乘以飛機總重量" },
+        { "id": 3, "option": "C", "text": "負荷因數為機翼所產生的昇力除以飛機基本空重" }
       ]
     },
     {
       "id": 51,
-      "title": "",
-      "answer": "",
+      "title": "飛機在一已知坡度下作等高度協調轉彎, 所承受之負荷因數",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "為恆定，但失速速度較未轉彎時為高" },
+        { "id": 2, "option": "B", "text": "隨轉彎率而改變" },
+        { "id": 3, "option": "C", "text": "為恆定，但失速速度較未轉彎時為低" }
       ]
     },
     {
       "id": 52,
-      "title": "",
-      "answer": "",
+      "title": "飛機於穩定氣流中作平飛協調轉彎, 其翼負荷決定於",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "轉彎率" },
+        { "id": 2, "option": "B", "text": "坡度" },
+        { "id": 3, "option": "C", "text": "真空速" }
       ]
     },
     {
       "id": 53,
-      "title": "",
-      "answer": "",
+      "title": "飛機俯衝時所作之迅速改正, 其負荷因數效應會使失速速度",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "提高" },
+        { "id": 2, "option": "B", "text": "降低" },
+        { "id": 3, "option": "C", "text": "不變" }
       ]
     },
     {
       "id": 54,
-      "title": "",
-      "answer": "",
+      "title": "飛機總重2000磅,於 60°坡度同高度轉彎總負載為",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "3000磅" },
+        { "id": 2, "option": "B", "text": "4000磅" },
+        { "id": 3, "option": "C", "text": "12000磅" }
       ]
     },
     {
       "id": 55,
-      "title": "",
-      "answer": "",
+      "title": "協調轉彎時, 保持固定坡度及高度, 當空速增加, 則",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "轉彎率減小, 導致負荷因數減小" },
+        { "id": 2, "option": "B", "text": "轉彎率減小, 負荷因數不變" },
+        { "id": 3, "option": "C", "text": "轉彎率增加, 負荷因數不變" }
       ]
     },
     {
       "id": 56,
-      "title": "",
-      "answer": "",
+      "title": "有關機翼上之升力，最合適的定義為",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "與相對風垂直之作用力" },
+        { "id": 2, "option": "B", "text": "與翼弦垂直之壓力分量" },
+        { "id": 3, "option": "C", "text": "機翼上半部表面層流對機翼所產生的壓力，其與翼弦垂直之壓力分量" }
       ]
     },
     {
       "id": 57,
-      "title": "",
-      "answer": "",
+      "title": "於平飛轉彎保持固定坡度, 如轉彎率改變則負荷因數",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "保持恆定, 與空氣密度及合力的升力向量無關" },
+        { "id": 2, "option": "B", "text": "會隨著速度及空氣密度而改變" },
+        { "id": 3, "option": "C", "text": "隨著合力的升力向量而改變" }
       ]
     },
     {
       "id": 58,
-      "title": "",
-      "answer": "",
+      "title": "理論上, 飛機平飛時如加速至 2倍的速度, 則寄生阻力會變成",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "2倍" },
+        { "id": 2, "option": "B", "text": "1/2倍" },
+        { "id": 3, "option": "C", "text": "4倍" }
       ]
     },
     {
       "id": 59,
-      "title": "",
-      "answer": "",
+      "title": "平飛時, 當空速低於最大升/阻比的速度, 飛機總阻力會",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "減少, 因為寄生阻力較小" },
+        { "id": 2, "option": "B", "text": "增加, 因為誘導阻力增加" },
+        { "id": 3, "option": "C", "text": "增加, 因為寄生阻力增加" }
       ]
     },
     {
       "id": 60,
-      "title": "",
-      "answer": "",
+      "title": "飛機以60度坡度轉彎，空速從90哩加速至135哩負荷因數會",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "負荷因數增加,失速速度增加" },
+        { "id": 2, "option": "B", "text": "負荷因數減少,失速速度增加" },
+        { "id": 3, "option": "C", "text": "負荷因數一樣但轉彎半徑增加" }
       ]
     },
     {
       "id": 61,
-      "title": "",
-      "answer": "",
+      "title": "有關空氣力學阻力，下列何者為真(如圖A22_Fig1)",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "誘導阻力是完全由空氣阻力而產生的" },
+        { "id": 2, "option": "B", "text": "所有的空氣力學阻力完全是由昇力所產生的" },
+        { "id": 3, "option": "C", "text": "誘導阻力是伴隨昇力而產生且受空速影響很大" }
+      ],
+      "image": 1
     },
     {
       "id": 62,
-      "title": "",
-      "answer": "",
+      "title": "(參考Fig1) 一穩定飛行的飛機如果保持在A點空速, 則此飛機將,(如圖A22_Fig1)",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "有最大的昇阻比" },
+        { "id": 2, "option": "B", "text": "有最小的昇阻比" },
+        { "id": 3, "option": "C", "text": "有最大的昇力係數" }
+      ],
+      "image": 1
     },
     {
       "id": 63,
-      "title": "",
-      "answer": "",
+      "title": "(參考Fig1) 一穩定飛行的飛機如果保持在B點空速, 則飛行員可以預期得到飛機最大之 (如圖A22_Fig1)",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "滯空時間" },
+        { "id": 2, "option": "B", "text": "滑降距離" },
+        { "id": 3, "option": "C", "text": "昇力係數" }
+      ],
+      "image": 1
     },
     {
       "id": 64,
-      "title": "",
-      "answer": "",
+      "title": "(參考Fig1)機翼上的減速板的主要功用是為減少(如圖A22_Fig1)",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "阻力" },
+        { "id": 2, "option": "B", "text": "落地速度" },
+        { "id": 3, "option": "C", "text": "機翼上的昇力" }
+      ],
+      "image": 1
     },
     {
       "id": 65,
-      "title": "",
-      "answer": "",
+      "title": "關於攻角變化, 何者為真 ?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "降低攻角, 會增加下翼面壓力及減少阻力" },
+        { "id": 2, "option": "B", "text": "增加攻角會增加阻力" },
+        { "id": 3, "option": "C", "text": "增加攻角, 會減少下翼面壓力及增加阻力" }
       ]
     },
     {
       "id": 66,
-      "title": "",
-      "answer": "",
+      "title": "(參考Fig2) 關於失速速度之敘述，下列何者為真(如圖A22_Fig2)",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "無動力的狀下，襟翼及起落架放下時會有較高之失速速度" },
+        { "id": 2, "option": "B", "text": "飛機在60°坡度轉彎時，起落架收起會有較低之失速速度" },
+        { "id": 3, "option": "C", "text": "有動力的狀下，低轉彎坡度會有較低之失速速度" }
+      ],
+      "image": 2
     },
     {
       "id": 67,
-      "title": "",
-      "answer": "",
+      "title": "(參考Fig2) 關於失速速度之敘述，下列何者為真(如圖A22_Fig2)",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "有動力及於60° 坡度轉彎的狀況下，飛機起落架及襟翼收起時之失速速度較起落架及襟翼放下時之失速速度高10浬/小時" },
+        { "id": 2, "option": "B", "text": "無動力的狀況下，於60° 坡度轉彎、襟翼及起落架收起時之失速速度會較平飛、襟翼及起落架放下時之失速速度低35浬/小時" },
+        { "id": 3, "option": "C", "text": "有動力的狀況下，飛機起落架及襟翼放下時，45° 坡度轉彎之失速速度較平飛時失速速度高10浬/小時" }
+      ],
+      "image": 2
     },
     {
       "id": 68,
-      "title": "",
-      "answer": "",
+      "title": "於平飛轉彎時使用襟翼, 何者為真 ?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "伸放襟翼, 會增加失速速度" },
+        { "id": 2, "option": "B", "text": "收襟翼, 會增加失速速度" },
+        { "id": 3, "option": "C", "text": "收襟翼, 需增加向前的駕駛桿力" }
       ]
     },
     {
       "id": 69,
-      "title": "",
-      "answer": "",
+      "title": "於進場及落地階段時,襟翼的主要功能之一是:",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "降低下降角度而不增加其空速" },
+        { "id": 2, "option": "B", "text": "可以較低的空速提供相同的升力" },
+        { "id": 3, "option": "C", "text": "減少升力, 可以採取比正常下降角度為陡的方式進場" }
       ]
     },
     {
       "id": 70,
-      "title": "",
-      "answer": "",
+      "title": "飛機在同高度作協調轉彎時, 關於轉彎率及轉彎半徑何者為真 ?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "對特定的坡度及空速而言, 其轉彎率及轉彎半徑不變" },
+        { "id": 2, "option": "B", "text": "為保持穩定的轉彎率, 當空速減小時必須增加坡度" },
+        { "id": 3, "option": "C", "text": "真空速愈大, 轉彎率及轉彎半徑也愈大, 而與坡度無關" }
       ]
     },
     {
       "id": 71,
-      "title": "",
-      "answer": "",
+      "title": "轉彎時為保持高度, 為何需增加升降舵反壓 ? 這是為了補償",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "升力垂直分量的損失" },
+        { "id": 2, "option": "B", "text": "升力水平分量的損失, 及增加離心力" },
+        { "id": 3, "option": "C", "text": "方向舵偏轉及轉彎時略微的反副翼" }
       ]
     },
     {
       "id": 72,
-      "title": "",
-      "answer": "",
+      "title": "為保持高度轉彎而提高攻角是補償何者減少",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "拉力相反方向的力" },
+        { "id": 2, "option": "B", "text": "垂直方向的昇力" },
+        { "id": 3, "option": "C", "text": "水平方向的昇力" }
       ]
     },
     {
       "id": 73,
-      "title": "",
-      "answer": "",
+      "title": "失速速度受那些因素影響 ?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "重量, 負荷因數及發動機動力" },
+        { "id": 2, "option": "B", "text": "負荷因數, 攻角及發動機動力" },
+        { "id": 3, "option": "C", "text": "攻角, 重量及空氣密度" }
       ]
     },
     {
       "id": 74,
-      "title": "",
-      "answer": "",
+      "title": "相較於其它翼形, 平直翼的失速傾向發生在何處 ?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "失速由翼尖向翼根延伸" },
+        { "id": 2, "option": "B", "text": "失速由翼根向翼尖延伸" },
+        { "id": 3, "option": "C", "text": "失速由翼後緣中間部位向翼根及翼尖延伸" }
       ]
     },
     {
       "id": 75,
-      "title": "",
-      "answer": "",
+      "title": "藉著機翼攻角的改變, 駕駛員可控制飛機的",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "升力, 空速及阻力" },
+        { "id": 2, "option": "B", "text": "升力, 空速及重心" },
+        { "id": 3, "option": "C", "text": "升力及空速, 但不含阻力" }
       ]
     },
     {
       "id": 76,
-      "title": "",
-      "answer": "",
+      "title": "機翼攻角直接控制著",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "機翼傾角" },
+        { "id": 2, "option": "B", "text": "機翼上/下方氣流流量" },
+        { "id": 3, "option": "C", "text": "作用於機翼的壓力分佈" }
       ]
     },
     {
       "id": 77,
-      "title": "",
-      "answer": "",
+      "title": "機翼在設計上會產生升力是由於",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "機翼的下方之負壓與機翼的上方之真空所產生的壓力差" },
+        { "id": 2, "option": "B", "text": "機翼的下方的真空與機翼上方之正壓所產生的壓力差" },
+        { "id": 3, "option": "C", "text": "機翼下方的高壓和機翼上方的低壓所產生的壓力差造成的" }
       ]
     },
     {
       "id": 78,
-      "title": "",
-      "answer": "",
+      "title": "於機翼上與昇力垂直和阻力平行的為",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "翼弦" },
+        { "id": 2, "option": "B", "text": "航跡" },
+        { "id": 3, "option": "C", "text": "縱軸" }
       ]
     },
     {
       "id": 79,
-      "title": "",
-      "answer": "",
+      "title": "飛機於穩定飛行狀態下何者為真",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "所有的力均相等" },
+        { "id": 2, "option": "B", "text": "推力大於阻力，升力等於重力" },
+        { "id": 3, "option": "C", "text": "推力大於阻力，升力大於重力" }
       ]
     },
     {
       "id": 80,
-      "title": "",
-      "answer": "",
+      "title": "以小飛機而言, 正常螺旋改正會變得較困難, 如果",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "重心過度後移, 並繞著縱軸旋轉" },
+        { "id": 2, "option": "B", "text": "重心過度後移, 並繞著重心旋轉" },
+        { "id": 3, "option": "C", "text": "進入螺旋是在完全失速之前" }
       ]
     },
     {
       "id": 81,
-      "title": "",
-      "answer": "",
+      "title": "飛機於何種情形下作失速改正會較為困難 ?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "重心後移" },
+        { "id": 2, "option": "B", "text": "重心前移" },
+        { "id": 3, "option": "C", "text": "升降舵配平向下調整" }
       ]
     },
     {
       "id": 82,
-      "title": "",
-      "answer": "",
+      "title": "如飛機載重接近於重心範圍的後部, 對於那個軸會傾向於不安定 ?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "垂直軸" },
+        { "id": 2, "option": "B", "text": "橫軸" },
+        { "id": 3, "option": "C", "text": "縱軸" }
       ]
     },
     {
       "id": 83,
-      "title": "",
-      "answer": "",
+      "title": "當飛機脫離地面效應時會",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "使地面摩擦減少, 而需要稍微減推力" },
+        { "id": 2, "option": "B", "text": "使誘導阻力增加, 而需要更大的推力" },
+        { "id": 3, "option": "C", "text": "需要較低的攻角, 以保持相同的升力係數" }
       ]
     },
     {
       "id": 84,
-      "title": "",
-      "answer": "",
+      "title": "於平飛轉彎時加速, 必須採取什麼動作以保持高度 ? 攻角",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "及坡度必須減小" },
+        { "id": 2, "option": "B", "text": "必須增加或坡度減小" },
+        { "id": 3, "option": "C", "text": "必須減小或坡度增加" }
       ]
     },
     {
       "id": 85,
-      "title": "",
-      "answer": "",
+      "title": "飛機失速速度主要是受什麼影響 ?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "空氣密度變化" },
+        { "id": 2, "option": "B", "text": "飛行姿態變化" },
+        { "id": 3, "option": "C", "text": "飛機負荷變化" }
       ]
     },
     {
       "id": 86,
-      "title": "",
-      "answer": "",
+      "title": "依據規定, VF定義為 :",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "襟翼設計速度" },
+        { "id": 2, "option": "B", "text": "襟翼操作速度" },
+        { "id": 3, "option": "C", "text": "襟翼伸放時之最大速度" }
       ]
     },
     {
       "id": 87,
-      "title": "",
-      "answer": "",
+      "title": "依據規定, VNO定義為 :",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "最大結構巡航速度" },
+        { "id": 2, "option": "B", "text": "正常操作速度" },
+        { "id": 3, "option": "C", "text": "最大操作速度" }
       ]
     },
     {
       "id": 88,
-      "title": "",
-      "answer": "",
+      "title": "依據規定, VLE定義為 :",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "起落架伸放時之最大速度" },
+        { "id": 2, "option": "B", "text": "起落架操作時之最大速度" },
+        { "id": 3, "option": "C", "text": "翼前緣襟翼伸放時之最大速度" }
       ]
     },
     {
       "id": 89,
-      "title": "",
-      "answer": "",
+      "title": "依據規定, VNE定義為 :",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "鼻輪伸放時之最大速度" },
+        { "id": 2, "option": "B", "text": "決不可超過的速度" },
+        { "id": 3, "option": "C", "text": "起落架伸放時之最大速度" }
       ]
     },
     {
       "id": 90,
-      "title": "",
-      "answer": "",
+      "title": "依據規定, Vy定義為 :",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "最佳下降率速度" },
+        { "id": 2, "option": "B", "text": "最佳爬升角速度" },
+        { "id": 3, "option": "C", "text": "最佳爬升率速度" }
       ]
     },
     {
       "id": 91,
-      "title": "",
-      "answer": "",
+      "title": "何者為主飛操面？",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "襟翼前緣" },
+        { "id": 2, "option": "B", "text": "升降舵" },
+        { "id": 3, "option": "C", "text": "機背安定翼" }
       ]
     },
     {
       "id": 92,
-      "title": "",
-      "answer": "",
+      "title": "飛行時，哪四種力作用於飛機上？",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "升力、重力、推力與地心吸力" },
+        { "id": 2, "option": "B", "text": "升力、重力、推力與阻力" },
+        { "id": 3, "option": "C", "text": "升力、地心吸力、引擎動力與摩擦力" }
       ]
     },
     {
       "id": 93,
-      "title": "",
-      "answer": "",
+      "title": "在飛行時，飛機什麼狀況下，升力、重力、推力與阻力四種力處於平衡？",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "加速度" },
+        { "id": 2, "option": "B", "text": "等速度" },
+        { "id": 3, "option": "C", "text": "停止於地面時" }
       ]
     },
     {
       "id": 94,
-      "title": "",
-      "answer": "",
+      "title": "在何種速度下，內副翼會正常地作用？",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "低速及高速飛行時" },
+        { "id": 2, "option": "B", "text": "高速飛行時" },
+        { "id": 3, "option": "C", "text": "低速飛行時" }
       ]
     },
     {
       "id": 95,
-      "title": "",
-      "answer": "",
+      "title": "在重型航空器起飛之後，顧及機尾渦流的危險性，飛行員應如何避免亂流？",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "在重型航空器下方及下風處飛行" },
+        { "id": 2, "option": "B", "text": "在重型航空器下方及上風處飛行" },
+        { "id": 3, "option": "C", "text": "在重型航空器上方及上風處飛行" }
       ]
     },
     {
       "id": 96,
-      "title": "",
-      "answer": "",
+      "title": "何種力使飛機轉彎？",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "升力之垂直分力" },
+        { "id": 2, "option": "B", "text": "升力之水平分力" },
+        { "id": 3, "option": "C", "text": "離心力" }
       ]
     },
     {
       "id": 97,
-      "title": "",
-      "answer": "",
+      "title": "當飛機處於穩定狀況，指的是？",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "不需費力控制" },
+        { "id": 2, "option": "B", "text": "不易失速" },
+        { "id": 3, "option": "C", "text": "不會進入螺旋" }
       ]
     },
     {
       "id": 98,
-      "title": "",
-      "answer": "",
+      "title": "(參考Fig3)飛機重4500磅，以45度坡度轉彎並保持高度不變，飛機本身結構承受多少力量？(如圖A22_Fig3)",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "4563磅" },
+        { "id": 2, "option": "B", "text": "6363磅" },
+        { "id": 3, "option": "C", "text": "9063磅" }
+      ],
+      "image": 3
     },
     {
       "id": 99,
-      "title": "",
-      "answer": "",
+      "title": "(參考Fig3)飛機重2300磅 ， 在以60度並保持高度轉彎 ， 飛機本身結構承受多少重量？(如圖A22_Fig3)",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "4600公斤" },
+        { "id": 2, "option": "B", "text": "4600磅" },
+        { "id": 3, "option": "C", "text": "3450磅" }
+      ],
+      "image": 3
     },
     {
       "id": 100,
-      "title": "",
-      "answer": "",
+      "title": "(參考Fig3)飛機重3300磅 ， 在以30度並保持高度轉彎 ， 飛機本身結構承受多少重量？(如圖A22_Fig3)",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "3810公斤" },
+        { "id": 2, "option": "B", "text": "3810磅" },
+        { "id": 3, "option": "C", "text": "6600磅" }
+      ],
+      "image": 3
     },
     {
       "id": 101,
-      "title": "",
-      "answer": "",
+      "title": "在機翼失速的情況下，攻角會",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "增加，如果重心往前移" },
+        { "id": 2, "option": "B", "text": "隨著重量之增加而增加" },
+        { "id": 3, "option": "C", "text": "保持不變，與重量無關" }
       ]
     },
     {
       "id": 102,
-      "title": "",
-      "answer": "",
+      "title": "下列何者會決定飛機之縱向穩定度？",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "升力中心與重心的相互關係位置" },
+        { "id": 2, "option": "B", "text": "水平安定面、方向舵與方向舵調整片的作用影響" },
+        { "id": 3, "option": "C", "text": "升力、重力、推力與阻力彼此相互關係" }
       ]
     },
     {
       "id": 103,
-      "title": "",
-      "answer": "",
+      "title": "機翼襟翼的作用為何？",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "能使飛行員操作較大角度進場落地而無需增加空速" },
+        { "id": 2, "option": "B", "text": "減輕飛行員加諸於控制面之壓力" },
+        { "id": 3, "option": "C", "text": "減少機翼面積以改變升力" }
       ]
     },
     {
       "id": 104,
-      "title": "",
-      "answer": "",
+      "title": "當飛機直線平飛時，其升力、重力、推力與阻力彼此相互關係？",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "升力等於重力、推力等於阻力" },
+        { "id": 2, "option": "B", "text": "升力、重力及阻力都等於推力" },
+        { "id": 3, "option": "C", "text": "升力與重力分別等於推力與阻力" }
       ]
     },
     {
       "id": 105,
-      "title": "",
-      "answer": "",
+      "title": "飛機上方向舵的目的為何？",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "為控制坡度傾向過大" },
+        { "id": 2, "option": "B", "text": "控制方位移動" },
+        { "id": 3, "option": "C", "text": "控制滾轉" }
       ]
     },
     {
       "id": 106,
-      "title": "",
-      "answer": "",
+      "title": "當進場落地時，因地面效應而發生平飄現象，大部分是什麼原因？",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "距離地面高度約兩倍翼展之長" },
+        { "id": 2, "option": "B", "text": "較正常攻角為高時" },
+        { "id": 3, "option": "C", "text": "距離地面高度小於一倍翼展之長" }
       ]
     },
     {
       "id": 107,
-      "title": "",
-      "answer": "",
+      "title": "進場及落地時，襟翼的主要功能為何？",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "在不需增加空速的條件下，可以增大落地的角度" },
+        { "id": 2, "option": "B", "text": "在不需增加空速的條件下，可以減少落地的角度" },
+        { "id": 3, "option": "C", "text": "允許教較大的指示空速著陸" }
       ]
     },
     {
       "id": 108,
-      "title": "",
-      "answer": "",
+      "title": "由於什麼造成超過總負載而衝擊機翼",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "重心的位置" },
+        { "id": 2, "option": "B", "text": "負載突然的改變" },
+        { "id": 3, "option": "C", "text": "飛機的速度" }
       ]
     },
     {
       "id": 109,
-      "title": "",
-      "answer": "",
+      "title": "大型飛機所產生的翼尖渦流傾向於",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "上揚影響航機路線" },
+        { "id": 2, "option": "B", "text": "上揚影響起飛或落地航機穿越跑道路線" },
+        { "id": 3, "option": "C", "text": "產生下沉、低於航機的亂流" }
       ]
     },
     {
       "id": 110,
-      "title": "",
-      "answer": "",
+      "title": "在什麼飛行狀況下，飛機會進入螺旋？",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "當一邊機翼較低偏向失速時" },
+        { "id": 2, "option": "B", "text": "失速" },
+        { "id": 3, "option": "C", "text": "陡峭地向下作螺旋形下降" }
       ]
     },
     {
       "id": 111,
-      "title": "",
-      "answer": "",
+      "title": "在大型噴射機之後進場落地, 駕駛員如何將翼尖渦流的危險減至最低 ?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "低於大型噴射機最後進場路徑及落在大型噴射機著陸點之前" },
+        { "id": 2, "option": "B", "text": "高於大型噴射機最後進場路徑及落在大型噴射機著陸點之前" },
+        { "id": 3, "option": "C", "text": "高於大型噴射機最後進場路徑及落在大型噴射機著陸點更遠之處" }
       ]
     },
     {
       "id": 112,
-      "title": "",
-      "answer": "",
+      "title": "當飛機裝載使得重心落在重心後限而不符飛機性能，飛行員可能會遭遇什麼情況？",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "較長的起飛距離" },
+        { "id": 2, "option": "B", "text": "失速時，難以補救" },
+        { "id": 3, "option": "C", "text": "較大的正常速度失速" }
       ]
     },
     {
       "id": 113,
-      "title": "",
-      "answer": "",
+      "title": "在落地時，遇到哪一種機尾擾流的風向狀況需特別注意？",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "強烈的頂風" },
+        { "id": 2, "option": "B", "text": "微風，1/4方向頂風" },
+        { "id": 3, "option": "C", "text": "微風，1/4方向尾風" }
       ]
     },
     {
       "id": 114,
-      "title": "",
-      "answer": "",
+      "title": "裝載在重心之後會造成飛機什麼狀況？",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "低速時較不穩定，但高速穩定" },
+        { "id": 2, "option": "B", "text": "不論在任何速度下都不穩定" },
+        { "id": 3, "option": "C", "text": "高速時較不穩定，但低速穩定" }
       ]
     },
     {
       "id": 115,
-      "title": "",
-      "answer": "",
+      "title": "翼尖渦流在什麼情況發生？",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "產生升力時" },
+        { "id": 2, "option": "B", "text": "高速飛行時" },
+        { "id": 3, "option": "C", "text": "較重的裝載" }
       ]
     },
     {
       "id": 116,
-      "title": "",
-      "answer": "",
+      "title": "什麼條件下的飛機情形會產生最大的渦流強度？",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "重型，髒污及快速" },
+        { "id": 2, "option": "B", "text": "重型，外型平順及慢速" },
+        { "id": 3, "option": "C", "text": "輕型，髒污及快速" }
       ]
     },
     {
       "id": 117,
-      "title": "",
-      "answer": "",
+      "title": "攻角的定義？",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "形成於飛機縱軸與翼弦之間" },
+        { "id": 2, "option": "B", "text": "介於飛機爬升角與地平線" },
+        { "id": 3, "option": "C", "text": "介於翼弦與相對風之角度" }
       ]
     },
     {
       "id": 118,
-      "title": "",
-      "answer": "",
+      "title": "因地面效應而產生什麼問題？",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "在起飛速度到達之前，飛機開始離地" },
+        { "id": 2, "option": "B", "text": "當落地接近地面時，突發性不穩定" },
+        { "id": 3, "option": "C", "text": "即使速度足夠達到正常起飛需求，仍無能力起飛" }
       ]
     },
     {
       "id": 119,
-      "title": "",
-      "answer": "",
+      "title": "當動力減少而未調整升降舵配平時，會造成機頭下沉，其所造成原因為何？",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "當推力與阻力減少時，重心往前移動" },
+        { "id": 2, "option": "B", "text": "當推力減少到低於重力，升力也一併減少時，機翼不足以支撐重量" },
+        { "id": 3, "option": "C", "text": "螺旋槳所產生的氣流下洗到升降舵減少時，造成升降舵效力減少" }
       ]
     },
     {
       "id": 120,
-      "title": "",
-      "answer": "",
+      "title": "當飛機向左進入螺旋時，哪一邊機翼處於失速狀況？",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "左右皆失速" },
+        { "id": 2, "option": "B", "text": "左翼失速" },
+        { "id": 3, "option": "C", "text": "右翼失速" }
       ]
     },
     {
       "id": 121,
-      "title": "",
-      "answer": "",
+      "title": "在重型航空器之後，起飛或落地必需顧及機尾渦流的危險性，其所考量亂流會造成",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "轉彎率減小, 導致負荷因數減小" },
+        { "id": 2, "option": "B", "text": "飛機下沉或翻滾" },
+        { "id": 3, "option": "C", "text": "轉彎率增加, 負荷因數不變" }
       ]
     },
     {
       "id": 122,
-      "title": "",
-      "answer": "",
+      "title": "當進場時，增加負載因素會使飛機處於何種狀況？",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "在高速情形下失速" },
+        { "id": 2, "option": "B", "text": "開始傾向進入螺旋" },
+        { "id": 3, "option": "C", "text": "更難控制" }
       ]
     },
     {
       "id": 123,
-      "title": "",
-      "answer": "",
+      "title": "相較於直線平飛，哪一項飛行操作會造成負載因素增加？",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "轉彎" },
+        { "id": 2, "option": "B", "text": "爬升" },
+        { "id": 3, "option": "C", "text": "失速" }
       ]
     },
     {
       "id": 124,
-      "title": "",
-      "answer": "",
+      "title": "高度增加時，根據指示空速飛機失速的速度會",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "減少，當真空速減少時" },
+        { "id": 2, "option": "B", "text": "減少，當真空速增加時" },
+        { "id": 3, "option": "C", "text": "不變，與高度無關" }
       ]
     },
     {
       "id": 125,
-      "title": "",
-      "answer": "",
+      "title": "什麼是地面效應？",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "機翼上誘導阻力增加 ， 造成的氣流改變" },
+        { "id": 2, "option": "B", "text": "一種介於地面與飛機之間的空氣流動" },
+        { "id": 3, "option": "C", "text": "飛行時，機翼無法支撐飛機，造成氣流的分離" }
       ]
     },
     {
       "id": 126,
-      "title": "",
-      "answer": "",
+      "title": "起飛時，機翼上的霜會如何影響飛機性能？",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "霜會改變機翼上的弧度，增加升力" },
+        { "id": 2, "option": "B", "text": "霜會干擾機翼上的平順氣流，影響飛機升力性能" },
+        { "id": 3, "option": "C", "text": "霜會增加飛機攻角，減少失速速度" }
       ]
     },
     {
       "id": 127,
-      "title": "",
-      "answer": "",
+      "title": "在什麼飛行狀況單引擎飛機扭力效應最大？",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "低速，大馬力，高攻角" },
+        { "id": 2, "option": "B", "text": "低速，小馬力，低攻角" },
+        { "id": 3, "option": "C", "text": "高速，大馬力，高攻角" }
       ]
     },
     {
       "id": 128,
-      "title": "",
-      "answer": "",
+      "title": "P因素造成飛機向左偏轉的原因為何？",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "右邊的槳葉下降較左邊槳葉上升產生更多的推力" },
+        { "id": 2, "option": "B", "text": "引擎順時針方向旋轉及螺旋槳反時針方向旋轉" },
+        { "id": 3, "option": "C", "text": "旋轉槳葉造成施力往前90度作用在另一點上" }
       ]
     },
     {
       "id": 129,
-      "title": "",
-      "answer": "",
+      "title": "何時P因素造成飛機向左偏轉？",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "當高攻角時" },
+        { "id": 2, "option": "B", "text": "當低攻角時" },
+        { "id": 3, "option": "C", "text": "當高速度時" }
       ]
     },
     {
       "id": 130,
-      "title": "",
-      "answer": "",
+      "title": "高升力裝置其主要是增加",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "升力，在低速時" },
+        { "id": 2, "option": "B", "text": "升阻力比" },
+        { "id": 3, "option": "C", "text": "阻力及減低空速" }
       ]
     },
     {
       "id": 131,
-      "title": "",
-      "answer": "",
+      "title": "在空中，阻力板的目的？",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "減少升力而不需增加空速" },
+        { "id": 2, "option": "B", "text": "增加機翼上的弧度" },
+        { "id": 3, "option": "C", "text": "在高攻角時，導引氣流通過機翼上方" }
       ]
     },
     {
       "id": 132,
-      "title": "",
-      "answer": "",
+      "title": "在地面，阻力板的目的？",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "落地時減少機翼升力" },
+        { "id": 2, "option": "B", "text": "轉彎時，輔助飛機滾轉" },
+        { "id": 3, "option": "C", "text": "增加下降率，在不增加空速" }
       ]
     },
     {
       "id": 133,
-      "title": "",
-      "answer": "",
+      "title": "亂流如何影響、造成失速速度增加？",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "減低攻角" },
+        { "id": 2, "option": "B", "text": "突然地影響相對風" },
+        { "id": 3, "option": "C", "text": "快速地減少負載因素" }
       ]
     },
     {
       "id": 134,
-      "title": "",
-      "answer": "",
+      "title": "在進場落地低空速飛行時，此時可提供相同升力的操控裝置是",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "副翼" },
+        { "id": 2, "option": "B", "text": "襟翼" },
+        { "id": 3, "option": "C", "text": "升降舵" }
       ]
     },
     {
       "id": 135,
-      "title": "",
-      "answer": "",
+      "title": "在平飛轉彎時，若收起襟翼可增加失速速度。",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "正確" },
+        { "id": 2, "option": "B", "text": "不正確" },
+        { "id": 3, "option": "C", "text": "對失速空速沒有任何影響" }
       ]
     },
     {
       "id": 136,
-      "title": "",
-      "answer": "",
+      "title": "若飛機有四方型的機翼(rectangular wing)設計時，會先有翼尖失速(wing tips stall)再進一步有翼根失速(wing roots stall)的情況",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "正確" },
+        { "id": 2, "option": "B", "text": "不正確" },
+        { "id": 3, "option": "C", "text": "在翼尖失速和翼根失速沒有任何先後差異" }
       ]
     },
     {
       "id": 137,
-      "title": "",
-      "answer": "",
+      "title": "飛行員藉由改變機翼攻角的大小，產生不同的升力、空速和飛機重心(CG)。",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "正確" },
+        { "id": 2, "option": "B", "text": "不正確" },
+        { "id": 3, "option": "C", "text": "攻角大小改變不會有任何影響" }
       ]
     },
     {
       "id": 138,
-      "title": "",
-      "answer": "",
+      "title": "機翼的攻角是藉由改變",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "機翼的傾角" },
+        { "id": 2, "option": "B", "text": "機翼上方和機翼下方的壓力差，而產生升力" },
+        { "id": 3, "option": "C", "text": "流經機翼上方和機翼下方的氣流差，而產生升力" }
       ]
     },
     {
       "id": 139,
-      "title": "",
-      "answer": "",
+      "title": "當霜(Frost)在機翼上方(Upper Surface of Wing)形成時",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "機翼的失速攻角角度會較平常大" },
+        { "id": 2, "option": "B", "text": "氣流會在低攻角時就產生氣流分流(Airflow Separation)，導致容易在起飛時的失速" },
+        { "id": 3, "option": "C", "text": "起飛時會產生較大的阻力" }
       ]
     },
     {
       "id": 140,
-      "title": "",
-      "answer": "",
+      "title": "對失速空速沒有任何影響的因素是",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "改變密度高度(Density altitude)和攻角(Angle of attack)" },
+        { "id": 2, "option": "B", "text": "增加飛機載重" },
+        { "id": 3, "option": "C", "text": "增加飛機坡度(bank angle)" }
       ]
     },
     {
       "id": 141,
-      "title": "",
-      "answer": "",
+      "title": "機翼的設計主要是藉由何種方式產生升力？",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "藉由在機翼下方產生負壓區及在機翼上方產生真空狀態，而產生升力" },
+        { "id": 2, "option": "B", "text": "藉由在機翼下方產生高壓區及機翼上方產生低壓區，而產生升力" },
+        { "id": 3, "option": "C", "text": "機翼下方及機翼上方產生高流量區" }
       ]
     },
     {
       "id": 142,
-      "title": "",
-      "answer": "",
+      "title": "當飛行在平穩空氣中，做水平協調轉彎時，機翼的負荷值( load factor )是",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "因為轉彎率而定" },
+        { "id": 2, "option": "B", "text": "因為轉彎坡度而定" },
+        { "id": 3, "option": "C", "text": "地速" }
       ]
     },
     {
       "id": 143,
-      "title": "",
-      "answer": "",
+      "title": "若飛機淨重1500磅，並做坡度(Angle of Bank) 60°水平轉彎時，此時對飛機的負荷值是多少？",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "3,000磅" },
+        { "id": 2, "option": "B", "text": "4,000磅" },
+        { "id": 3, "option": "C", "text": "12,000磅" }
       ]
     },
     {
       "id": 144,
-      "title": "",
-      "answer": "",
+      "title": "在做坡度(Angle of Bank) 45°水平轉彎時，若指示空速由 110 knots 增加到 150 knots，此時負荷值( load factor)會有何改變？",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "負荷值增加，失速速度此時亦增加" },
+        { "id": 2, "option": "B", "text": "負荷值減少，失速速度此時則增加" },
+        { "id": 3, "option": "C", "text": "負荷值相同，但轉彎半徑則增加" }
       ]
     },
     {
       "id": 145,
-      "title": "",
-      "answer": "",
+      "title": "將70磅重的行李放置在行李艙，該行李艙限重100磅，若飛機的 Positive Load Factor 是 3.0G，則行李的總負載是",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "315磅，且可能會超過限制" },
+        { "id": 2, "option": "B", "text": "210磅，且不會超過限制" },
+        { "id": 3, "option": "C", "text": "350磅，且不會超過限制" }
       ]
     },
     {
       "id": 146,
-      "title": "",
-      "answer": "",
+      "title": "在遭遇特殊天氣狀況時，操控飛機指示空速低於VA的原因是",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "高密度高度(High density altitude)的天氣會增加失速速度(stall speed)" },
+        { "id": 2, "option": "B", "text": "亂流(Turbulence)會增加失速速度" },
+        { "id": 3, "option": "C", "text": "亂流(Turbulence)會減少失速速度" }
       ]
     },
     {
       "id": 147,
-      "title": "",
-      "answer": "",
+      "title": "constant-speed propeller 的飛機主要的原理是",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "飛行員操控油門大小，槳葉變速器 ( prop governor )設定槳葉攻角角度(pitch angle of the propeller blades )不變" },
+        { "id": 2, "option": "B", "text": "在飛機起飛時，若槳葉高攻角或槳葉增加攻角時，減少槳葉的阻力" },
+        { "id": 3, "option": "C", "text": "控制發動機的槳葉轉速" }
       ]
     },
     {
       "id": 148,
-      "title": "",
-      "answer": "",
+      "title": "以下何者是失速速度(Stalling Speed) 或最低穩定飛行速度(minimum steady flight speed)的縮寫？",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "VS" },
+        { "id": 2, "option": "B", "text": "VS1" },
+        { "id": 3, "option": "C", "text": "VSo" }
       ]
     },
     {
       "id": 149,
-      "title": "",
-      "answer": "",
+      "title": "當飛機離開地面效應(Ground Effect)時",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "會增加誘導阻力(induced drag)並需增加油門推力" },
+        { "id": 2, "option": "B", "text": "需要較低的攻角(Angle of attack)以保持相同的升力" },
+        { "id": 3, "option": "C", "text": "地面的磨擦力(ground friction)減少並需收油門" }
       ]
     },
     {
       "id": 150,
-      "title": "",
-      "answer": "",
+      "title": "真空速是藉由校正空速經過何種修正而得到的",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "儀器安裝位置和儀器誤差" },
+        { "id": 2, "option": "B", "text": "非標準大氣溫度" },
+        { "id": 3, "option": "C", "text": "高度差異和非標準大氣溫度" }
       ]
     },
     {
       "id": 151,
-      "title": "",
-      "answer": "",
+      "title": "在平飛時，當指示空速低於最大升力阻力比值時， 飛機的總阻力是",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "減少，因為較低的寄生阻力" },
+        { "id": 2, "option": "B", "text": "增加，因為增加誘導阻力" },
+        { "id": 3, "option": "C", "text": "增加，因為增加寄生阻力" }
       ]
     },
     {
       "id": 152,
-      "title": "",
-      "answer": "",
+      "title": "在大型噴射機之後進場落地, 駕駛員如何避開翼尖渦流的危險?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "保持高於前機的下滑道下降高度，直到前面的飛機落地位置" },
+        { "id": 2, "option": "B", "text": "保持低於前面飛機的下滑道任一側邊下降高度" },
+        { "id": 3, "option": "C", "text": "保持低於前機的下滑道下降高度，落地時於前機落地位置之前2000呎落地" }
       ]
     },
     {
       "id": 153,
-      "title": "",
-      "answer": "",
+      "title": "飛機在水平平飛時，改為爬升，攻角需增加，飛機的升力是",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "暫時性減少" },
+        { "id": 2, "option": "B", "text": "仍然相同" },
+        { "id": 3, "option": "C", "text": "暫時性增加" }
       ]
     },
     {
       "id": 154,
-      "title": "",
-      "answer": "",
+      "title": "機翼上的升力可定義為",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "垂直作用在相對風的力" },
+        { "id": 2, "option": "B", "text": "垂直作用在機翼弦線上的壓力差" },
+        { "id": 3, "option": "C", "text": "機翼上方的層流(laminar flow) 所形成的低壓區垂直作用在機翼上" }
       ]
     },
     {
       "id": 155,
-      "title": "",
-      "answer": "",
+      "title": "螺旋槳飛機在做最大的升力阻力比值飛行時，會產生",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "在固定的距離內可以爬升到最大高度" },
+        { "id": 2, "option": "B", "text": "巡航距離和最大滑降距離( maximum distance glide )" },
+        { "id": 3, "option": "C", "text": "升力和最低阻力" }
       ]
     },
     {
       "id": 156,
-      "title": "",
-      "answer": "",
+      "title": "在大型噴射機之後起飛時，飛行員如何將翼尖渦流(Wingtip vortex)的影響減至最小？",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "增加滾行距離(takeoff roll)，離地位置在前機之後" },
+        { "id": 2, "option": "B", "text": "保持高於前機的飛行路線，直到不受影響為止" },
+        { "id": 3, "option": "C", "text": "保持較正常\"起飛\"及\"爬升\"所需較大的指示空速" }
       ]
     },
     {
       "id": 157,
-      "title": "",
-      "answer": "",
+      "title": "VNO的定義是",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "一般操作速度(normal operating speed)" },
+        { "id": 2, "option": "B", "text": "最大結構巡航速度(maximum structural cruising speed)" },
+        { "id": 3, "option": "C", "text": "最大操作速度(maximum operating speed)" }
       ]
     },
     {
       "id": 158,
-      "title": "",
-      "answer": "",
+      "title": "以下何種情況會導致\"不易\"失速改正",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "飛機重心(Center of Gravity)前移" },
+        { "id": 2, "option": "B", "text": "升降舵配平(Elevator Trim)調整向下" },
+        { "id": 3, "option": "C", "text": "飛機重心後移" }
       ]
     },
     {
       "id": 159,
-      "title": "",
-      "answer": "",
+      "title": "飛行員何時可以拒絕落地後暫停於跑道？",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "濕滑跑道或是跑道上有異物" },
+        { "id": 2, "option": "B", "text": "基於任何影響飛行安全皆可" },
+        { "id": 3, "option": "C", "text": "只要航管人員同意即可" }
       ]
     },
     {
       "id": 160,
-      "title": "",
-      "answer": "",
+      "title": "若有大型噴射機在你前方1 miles由左至右飛行而過，飛行員如何將翼尖渦流(Wingtip vortex)的影響減至最小？",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "飛行高於大型噴射機的飛行路線上" },
+        { "id": 2, "option": "B", "text": "將空速控制低於VA並保持原本的飛行高度和方向" },
+        { "id": 3, "option": "C", "text": "飛行低於大型噴射機的飛行路線上，並保持和大型噴射機垂直的飛行方向" }
       ]
     },
     {
       "id": 161,
-      "title": "",
-      "answer": "",
+      "title": "當低溫下操作飛機時，對於預熱飛機時，以下敘述何者正確？",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "座艙(cabin area)和發動機皆需同時預熱" },
+        { "id": 2, "option": "B", "text": "座艙(cabin area)不需預熱" },
+        { "id": 3, "option": "C", "text": "直接將熱空氣藉由空氣進氣口吹進發動機內" }
       ]
     },
     {
       "id": 162,
-      "title": "",
-      "answer": "",
+      "title": "對等速螺旋槳的飛機而言，在爬升階段時，發動機的爬升推力是藉由：減低歧管壓力(manifold pressure )和",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "藉由降低槳葉攻角(propeller blade angle)而增加轉速(RPM)" },
+        { "id": 2, "option": "B", "text": "藉由增加槳葉攻角(propeller blade angle)而減少轉速(RPM)" },
+        { "id": 3, "option": "C", "text": "藉由減少槳葉攻角(propeller blade angle)而減少轉速(RPM)" }
       ]
     },
     {
       "id": 163,
-      "title": "",
-      "answer": "",
+      "title": "固定攻角螺旋槳(fixed-pitch propeller)在以下何種狀況下有最佳的效能(efficiency)?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "同時設定高度和轉速(RPM)" },
+        { "id": 2, "option": "B", "text": "同時設定指示空速和高度" },
+        { "id": 3, "option": "C", "text": "同時設定指示空速和轉速(RPM)" }
       ]
     },
     {
       "id": 164,
-      "title": "",
-      "answer": "",
+      "title": "使用螺旋槳飛機時，螺旋槳的效能(Propeller efficiency)是如何計算的？",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "推力馬力(thrust horsepower) 輸出和制動馬力( brake horsepower )輸出比" },
+        { "id": 2, "option": "B", "text": "螺旋槳每轉動一圈所前進的距離" },
+        { "id": 3, "option": "C", "text": "幾何仰角和有效仰角的比" }
       ]
     },
     {
       "id": 165,
-      "title": "",
-      "answer": "",
+      "title": "若飛機已配備抽真空陀螺相關儀器 ， 又再裝設供電式的轉彎協調指示器( electric turn coordinator )，會有哪些優點？",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "供電式的轉彎協調指示器( electric turn coordinator )提供飛機的更高的可信賴度" },
+        { "id": 2, "option": "B", "text": "抽真空陀螺相關儀器失效的機會相當低" },
+        { "id": 3, "option": "C", "text": "若抽真空陀螺相關儀器失效時，供電式的轉彎協調指示器可做為飛機的備用系統" }
       ]
     },
     {
       "id": 166,
-      "title": "",
-      "answer": "",
+      "title": "誰可以做最後決定是否接受 \"land and hold short\" (LAHSO)",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "航空公司" },
+        { "id": 2, "option": "B", "text": "塔台" },
+        { "id": 3, "option": "C", "text": "機長" }
       ]
     },
     {
       "id": 167,
-      "title": "",
-      "answer": "",
+      "title": "以下哪些速度無法藉由空速表上的顏色區段加以區別",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "VNE" },
+        { "id": 2, "option": "B", "text": "失速速度" },
+        { "id": 3, "option": "C", "text": "VA" }
       ]
     },
     {
       "id": 168,
-      "title": "",
-      "answer": "",
+      "title": "單發動機失效時之進場及落地的建議程序為 ?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "大致與正常進場及落地之航路及程序相同" },
+        { "id": 2, "option": "B", "text": "比正常進場之高度及空速為高" },
+        { "id": 3, "option": "C", "text": "除通過跑道頭前不可伸放起落架及襟翼外, 其餘與正常進場相同" }
       ]
     },
     {
       "id": 169,
-      "title": "",
-      "answer": "",
+      "title": "落地時如高於建議之著陸速度, 對水漂現象有何影響 ?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "對水漂無影響, 但增加落地滾行距離" },
+        { "id": 2, "option": "B", "text": "如使用較大煞車可降低水漂可能性" },
+        { "id": 3, "option": "C", "text": "增加水漂可能性而與煞車無關" }
       ]
     },
     {
       "id": 170,
-      "title": "",
-      "answer": "",
+      "title": "在何種速度下, 增加上仰姿態會促使飛機爬升 ?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "低速" },
+        { "id": 2, "option": "B", "text": "高速" },
+        { "id": 3, "option": "C", "text": "任何速度" }
       ]
     },
     {
       "id": 171,
-      "title": "",
-      "answer": "",
+      "title": "駕駛員如何能在增加轉彎率的同時又減少轉彎半徑 ?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "增加坡度及空速" },
+        { "id": 2, "option": "B", "text": "增加坡度及減速" },
+        { "id": 3, "option": "C", "text": "減少坡度及加速" }
       ]
     },
     {
       "id": 172,
-      "title": "",
-      "answer": "",
+      "title": "與溫度, 風及飛機重量等有關的條件相比, 著陸於高高度之機場對地速有何影響 ?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "高於低高度機場" },
+        { "id": 2, "option": "B", "text": "低於低高度機場" },
+        { "id": 3, "option": "C", "text": "兩者相同" }
       ]
     },
     {
       "id": 173,
-      "title": "",
-      "answer": "",
+      "title": "向上的跑道坡度對於起飛性能有何影響 ?",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "增加起飛距離" },
+        { "id": 2, "option": "B", "text": "降低起飛速度" },
+        { "id": 3, "option": "C", "text": "縮短起飛距離" }
       ]
     },
     {
       "id": 174,
-      "title": "",
-      "answer": "",
+      "title": "當外界壓力降低時, 輸出推力",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "增加, 因噴射機於稀薄空氣中效率較佳" },
+        { "id": 2, "option": "B", "text": "維持不變, 因受壓縮之進氣道空氣將補償降低的大氣壓力" },
+        { "id": 3, "option": "C", "text": "降低, 因高密度高度之故" }
       ]
     },
     {
       "id": 175,
-      "title": "",
-      "answer": "",
+      "title": "落地時如發生水漂現象, 則減速之最佳方法為 ?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "只能使用全(最大)主輪煞車" },
+        { "id": 2, "option": "B", "text": "瞬間交互使用鼻輪及主輪煞車" },
+        { "id": 3, "option": "C", "text": "使用氣動力煞車達最大效益" }
       ]
     },
     {
       "id": 176,
-      "title": "",
-      "answer": "",
+      "title": "變更機翼的攻角，飛行員可以控制飛機的",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "昇力, 空速及阻力" },
+        { "id": 2, "option": "B", "text": "昇力, 空速及重心" },
+        { "id": 3, "option": "C", "text": "昇力及空速, 但不能控制阻力" }
       ]
     },
     {
-      "id": 171,
-      "title": "",
-      "answer": "",
+      "id": 177,
+      "title": "機翼的攻角直接控制",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "機翼的入射角" },
+        { "id": 2, "option": "B", "text": "機翼上方及下方的氣流" },
+        { "id": 3, "option": "C", "text": "作用在機翼上的壓力分佈" }
       ]
     },
     {
       "id": 178,
-      "title": "",
-      "answer": "",
+      "title": "有關一穩定平飛航機上的各作用力, 下列敘述何者為真",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "各作用力大小相同" },
+        { "id": 2, "option": "B", "text": "推力大於阻力, 重力等於昇力" },
+        { "id": 3, "option": "C", "text": "推力大於阻力, 昇力大於重力" }
       ]
     },
     {
       "id": 179,
-      "title": "",
-      "answer": "",
+      "title": "當飛行高度增加時, 如要產生相同的昇力, 則飛機需",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "無論攻角如何變化都保持相同的真空速飛行" },
+        { "id": 2, "option": "B", "text": "以較低的真空速及較大的攻角飛行" },
+        { "id": 3, "option": "C", "text": "無論攻角如何變化都以較高的真空速飛行" }
       ]
     },
     {
       "id": 180,
-      "title": "",
-      "answer": "",
+      "title": "當空速降低時,飛機之縱向控制必需作何者改變, 以維持相同高度",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "增加攻角, 以產生較大之昇力及阻力" },
+        { "id": 2, "option": "B", "text": "增加攻角, 以補償減少的昇力" },
+        { "id": 3, "option": "C", "text": "減小攻角, 以補償增加的阻力" }
       ]
     },
     {
       "id": 181,
-      "title": "",
-      "answer": "",
+      "title": "理論上, 如果飛機平飛時的空速加倍. 則其寄生阻力會",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "變為兩倍" },
+        { "id": 2, "option": "B", "text": "減為一半" },
+        { "id": 3, "option": "C", "text": "變為四倍" }
       ]
     },
     {
       "id": 182,
-      "title": "",
-      "answer": "",
+      "title": "如果飛機平飛時的空速減至低於最大昇阻比所對應的速度時，飛機的總阻力會",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "減小, 因為寄生阻力減少" },
+        { "id": 2, "option": "B", "text": "增加, 因為誘導阻力增加" },
+        { "id": 3, "option": "C", "text": "增加, 因為寄生阻力增加" }
       ]
     },
     {
       "id": 183,
-      "title": "",
-      "answer": "",
+      "title": "當飛機從直線平飛改為爬昇時, 攻角需增加且升力會",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "暫時性減少" },
+        { "id": 2, "option": "B", "text": "不變" },
+        { "id": 3, "option": "C", "text": "暫時性增加" }
       ]
     },
     {
       "id": 184,
-      "title": "",
-      "answer": "",
+      "title": "機翼上的昇力可以定義為",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "與相對風垂直的作用力" },
+        { "id": 2, "option": "B", "text": "與翼弦垂直的壓力差" },
+        { "id": 3, "option": "C", "text": "流經上翼面層流所造成且與機翼弧面垂直的壓力差" }
       ]
     },
     {
       "id": 185,
-      "title": "",
-      "answer": "",
+      "title": "飛機機翼之所以會產生昇力是因為下列何者之壓力差所造成",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "機翼下方之負壓及機翼上方之真空" },
+        { "id": 2, "option": "B", "text": "機翼下方之真空及機翼上方之高壓" },
+        { "id": 3, "option": "C", "text": "機翼下方之高壓及機翼上方之低壓" }
       ]
     },
     {
       "id": 186,
-      "title": "",
-      "answer": "",
+      "title": "對一穩定未加速飛機之昇力，下列敘述何者為真",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "較低速的飛機, 其攻角也必須減小, 以提供能維持高度之足夠昇力" },
+        { "id": 2, "option": "B", "text": "任一攻角都有一對應的指示空速, 以提供能維持高度之足夠昇力" },
+        { "id": 3, "option": "C", "text": "一機翼在相同指示空速下始終發生失速的狀況，因為重量增加時必須也增加速度, 以提供能維持高度之足夠昇力" }
       ]
     },
     {
       "id": 187,
-      "title": "",
-      "answer": "",
+      "title": "在機翼上，下列何者與昇力的方向垂直，而與阻力的方向平行?",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "弦線方向" },
+        { "id": 2, "option": "B", "text": "飛行路徑" },
+        { "id": 3, "option": "C", "text": "飛機縱軸" }
       ]
     },
     {
       "id": 188,
-      "title": "",
-      "answer": "",
+      "title": "對一架以穩定狀態下降的飛機其所受之作用力, 下列敘述合者為真",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "上昇力小於下降力" },
+        { "id": 2, "option": "B", "text": "向後力大於向前力" },
+        { "id": 3, "option": "C", "text": "向前力等於向後力" }
       ]
     },
     {
       "id": 189,
-      "title": "",
-      "answer": "",
+      "title": "在維持最遠飛行距離的前提下, 當重量下降, 下列何者會隨之減小",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "高度" },
+        { "id": 2, "option": "B", "text": "空速" },
+        { "id": 3, "option": "C", "text": "攻角" }
       ]
     },
     {
       "id": 190,
-      "title": "",
-      "answer": "",
+      "title": "下列何種情況會使小型飛機從旋轉中復原變得困難",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "重心太後方, 且旋轉以縱軸為中心" },
+        { "id": 2, "option": "B", "text": "重心太後方, 且旋轉以重心為中心" },
+        { "id": 3, "option": "C", "text": "在飛機失速前就進入旋轉狀況" }
       ]
     },
     {
       "id": 191,
-      "title": "",
-      "answer": "",
+      "title": "如果一架飛機之裝載重心偏後方, 則該飛機容易繞著下列何者產生不穩定現象",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "垂向軸線" },
+        { "id": 2, "option": "B", "text": "橫向軸線" },
+        { "id": 3, "option": "C", "text": "縱向軸線" }
       ]
     },
     {
       "id": 192,
-      "title": "",
-      "answer": "",
+      "title": "飛機失速會發生在下列何者相同的狀況",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "攻角, 無論姿態與水平線的關係為何" },
+        { "id": 2, "option": "B", "text": "空速, 無論姿態與水平線的關係為何" },
+        { "id": 3, "option": "C", "text": "攻角及與水平線有關的姿態" }
       ]
     },
     {
       "id": 193,
-      "title": "",
-      "answer": "",
+      "title": "縱向穩定度與下列那一飛機操控有關",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "方向舵" },
+        { "id": 2, "option": "B", "text": "昇降舵" },
+        { "id": 3, "option": "C", "text": "副翼" }
       ]
     },
     {
       "id": 194,
-      "title": "",
-      "answer": "",
+      "title": "將昇降舵控制桿往前扳了之後釋放, 如果飛機的姿態有回覆原點的傾向,則此飛機具有",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "正向的動態穩定度" },
+        { "id": 2, "option": "B", "text": "正向的靜態穩定度" },
+        { "id": 3, "option": "C", "text": "中性的動態穩定度" }
       ]
     },
     {
       "id": 195,
-      "title": "",
-      "answer": "",
+      "title": "如果昇降舵控制器往前壓而使飛機的姿態改變至一新的位置後放開, 若飛機之姿態不再變化, 則此飛機具有",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "中性的縱向靜態穩定度" },
+        { "id": 2, "option": "B", "text": "正向的縱向靜態穩定度" },
+        { "id": 3, "option": "C", "text": "中性的縱向動態穩定度" }
       ]
     },
     {
       "id": 196,
-      "title": "",
-      "answer": "",
+      "title": "飛機可以從下列何種現象看出具有縱向動態不穩定性",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "左右擺動幅度愈來愈大" },
+        { "id": 2, "option": "B", "text": "前後擺動幅度愈來愈大" },
+        { "id": 3, "option": "C", "text": "三軸旋轉擺動幅度愈來愈大" }
       ]
     },
     {
       "id": 197,
-      "title": "",
-      "answer": "",
+      "title": "當飛機進行一固定高度的協調轉彎時, 有關其轉彎率和轉彎半徑的敘述, 下列何者為正確",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "對某一固定的傾角和速度, 轉彎率和轉彎半徑會維持不變" },
+        { "id": 2, "option": "B", "text": "如要維持一固定的轉彎率, 傾角必須隨速度之減少而增加" },
+        { "id": 3, "option": "C", "text": "無論傾角為何, 轉彎率及轉彎半徑都會隨真空速的增加而增加" }
       ]
     },
     {
       "id": 198,
-      "title": "",
-      "answer": "",
+      "title": "當轉彎時為何需要增加昇降舵的背壓以維持固定高度? 這是為了要補償",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "昇力的垂直分量減少" },
+        { "id": 2, "option": "B", "text": "昇力的水平分量減少及為增加離心力" },
+        { "id": 3, "option": "C", "text": "轉彎時舵面的偏轉及副翼微量的反向作動" }
       ]
     },
     {
       "id": 199,
-      "title": "",
-      "answer": "",
+      "title": "轉彎時如要維持高度不變, 則攻角必須增加以補償下列何者的損失",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "與總阻力反向之力量" },
+        { "id": 2, "option": "B", "text": "昇力的垂直分量" },
+        { "id": 3, "option": "C", "text": "昇力的水平分量" }
       ]
     },
     {
       "id": 200,
-      "title": "",
-      "answer": "",
+      "title": "轉彎中如果速度增加, 則必須採取何動作才能維持高度不變, 即攻角",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "及傾角必須減小" },
+        { "id": 2, "option": "B", "text": "必須增加或傾角必須減小" },
+        { "id": 3, "option": "C", "text": "必須減小或傾角必須增加" }
       ]
     },
     {
       "id": 201,
-      "title": "",
-      "answer": "",
+      "title": "任何飛機若維持一固定的傾角, 則作用在一諧調及等高度轉彎的負荷係數",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "為一固定值且其失速速度會隨傾角之增加而增加" },
+        { "id": 2, "option": "B", "text": "會隨著轉彎率變化" },
+        { "id": 3, "option": "C", "text": "為一固定值且其失速速度會隨傾角之增加而減少" }
       ]
     },
     {
       "id": 202,
-      "title": "",
-      "answer": "",
+      "title": "在一固定高度的協調轉彎中, 機翼上的負荷大小取決於",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "轉彎率" },
+        { "id": 2, "option": "B", "text": "傾角" },
+        { "id": 3, "option": "C", "text": "真空速" }
       ]
     },
     {
       "id": 203,
-      "title": "",
-      "answer": "",
+      "title": "在一60度傾角的等高度轉彎中, 如果速度從90節增加到135節, 則負荷係數會",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "增加, 且失速速度也會增加" },
+        { "id": 2, "option": "B", "text": "減少, 但失速速度會增加" },
+        { "id": 3, "option": "C", "text": "不變, 但轉彎半徑會增加" }
       ]
     },
     {
       "id": 204,
-      "title": "",
-      "answer": "",
+      "title": "(參考圖2) 有關失速速度,下列敘述何者為真? (如圖A22_Fig2)",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "如果起落架和襟翼都是放下的狀況, 無動力的飛機會比有動力的飛機有較高之失速速度" },
+        { "id": 2, "option": "B", "text": "在60度傾角時, 起落架收起時會比起落架放下時有較低的失速速度" },
+        { "id": 3, "option": "C", "text": "有動力的狀況下, 小傾斜角的飛機會比大傾斜角的飛機具有較低之失速速度" }
+      ],
+      "image": 2
     },
     {
       "id": 205,
-      "title": "",
-      "answer": "",
+      "title": "(參考圖2)有關失速速度,下列敘述何者為真? (如圖A22_Fig2)",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "一有動力且傾角為60度的飛機, 其起落架和襟翼都收起時之失速速度, 會較起落架和襟翼都放下時之失速度高10節" },
+        { "id": 2, "option": "B", "text": "一無動力, 襟翼收起且傾角為60度的飛機, 其失速速度較一無動力, 襟翼放下且維持平飛者低25節" },
+        { "id": 3, "option": "C", "text": "一45度傾角且有動力的飛機, 其失速速度較一無傾角且襟翼放下者高10節" }
+      ],
+      "image": 2
     },
     {
       "id": 206,
-      "title": "",
-      "answer": "",
+      "title": "(參考圖4) 一無加速度的飛機, 如其失速速度為60節, 則如果該飛機遭遇2G的負荷係數時, 其失速速度變為? (如圖A22_Fig4)",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "66節" },
+        { "id": 2, "option": "B", "text": "74節" },
+        { "id": 3, "option": "C", "text": "84節" }
+      ],
+      "image": 4
     },
     {
       "id": 207,
-      "title": "",
-      "answer": "",
+      "title": "在減少轉彎半徑的同時如要增加轉彎率, 則飛行員須",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "維持傾角不變且減低空速" },
+        { "id": 2, "option": "B", "text": "增加傾角及空速" },
+        { "id": 3, "option": "C", "text": "增加傾角但減低空速" }
       ]
     },
     {
       "id": 208,
-      "title": "",
-      "answer": "",
+      "title": "當傾角增加時, 昇力之垂直分量會",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "減少且昇力之水平分量會增加" },
+        { "id": 2, "option": "B", "text": "增加且昇力之水平分量會減少" },
+        { "id": 3, "option": "C", "text": "減少且昇力之水平分量會不變" }
       ]
     },
     {
       "id": 209,
-      "title": "",
-      "answer": "",
+      "title": "等高度轉彎時, 有關襟翼的使用, 下列敘述何者為真",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "放下襟翼會增加失速速度" },
+        { "id": 2, "option": "B", "text": "收起襟翼會增加失速速度" },
+        { "id": 3, "option": "C", "text": "收起襟翼時會需要增加操縱桿向前的力量" }
       ]
     },
     {
       "id": 210,
-      "title": "",
-      "answer": "",
+      "title": "機翼上的總空氣動力和飛機重量的比值稱為",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "負荷係數, 其直接影響失速速度" },
+        { "id": 2, "option": "B", "text": "展弦比, 其直接影響失速速度" },
+        { "id": 3, "option": "C", "text": "負荷係數, 其與失速速度無關" }
       ]
     },
     {
       "id": 211,
-      "title": "",
-      "answer": "",
+      "title": "負荷係數為飛機翼面上的昇力",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "除以飛機的總重" },
+        { "id": 2, "option": "B", "text": "乘以飛機的總重" },
+        { "id": 3, "option": "C", "text": "除以飛機的基本空重" }
       ]
     },
     {
       "id": 212,
-      "title": "",
-      "answer": "",
+      "title": "飛機從一俯衝姿態急速回復平飛時, 負荷係數會導至失速速度",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "增加" },
+        { "id": 2, "option": "B", "text": "減少" },
+        { "id": 3, "option": "C", "text": "不變" }
       ]
     },
     {
       "id": 213,
-      "title": "",
-      "answer": "",
+      "title": "如果飛機的重量為2,000磅, 則在一坡度為60度的等高度轉彎中, 飛機的總負荷為",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "3,000磅" },
+        { "id": 2, "option": "B", "text": "4,000磅" },
+        { "id": 3, "option": "C", "text": "12,000磅" }
       ]
     },
     {
       "id": 214,
-      "title": "",
-      "answer": "",
+      "title": "當進行一固定傾角及高度之諧調轉彎時, 增加空速將會",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "使轉彎率變小並導致負荷因素降低" },
+        { "id": 2, "option": "B", "text": "使轉彎率變小但不影響負荷因素" },
+        { "id": 3, "option": "C", "text": "使轉彎率變大但不影響負荷因素" }
       ]
     },
     {
       "id": 215,
-      "title": "",
-      "answer": "",
+      "title": "在一等高度轉彎中保持傾角不變, 則當轉彎率變化時, 負荷係數將",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "維持不變, 不受空氣密度及昇力方向之影響" },
+        { "id": 2, "option": "B", "text": "與空氣密度及昇力方向之變化成正比" },
+        { "id": 3, "option": "C", "text": "與昇力方向之變化有關" }
       ]
     },
     {
       "id": 216,
-      "title": "",
-      "answer": "",
+      "title": "(參考圖4) 當坡度從60度增加到80度時, 負荷係數會增加 (如圖A22_Fig4)",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "3 Gs" },
+        { "id": 2, "option": "B", "text": "3.5 Gs" },
+        { "id": 3, "option": "C", "text": "3.7 Gs" }
+      ],
+      "image": 4
     },
     {
       "id": 217,
-      "title": "",
-      "answer": "",
+      "title": "失速速度會受下列何者影響",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "重量, 負荷係數及動力" },
+        { "id": 2, "option": "B", "text": "負荷係數, 攻角及動力" },
+        { "id": 3, "option": "C", "text": "攻角, 重量及空氣密度" }
       ]
     },
     {
       "id": 218,
-      "title": "",
-      "answer": "",
+      "title": "飛機的失速速度大部份受何影響?",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "空氣密度的改變" },
+        { "id": 2, "option": "B", "text": "飛行高度的變化" },
+        { "id": 3, "option": "C", "text": "飛機負荷的改變" }
       ]
     },
     {
       "id": 219,
-      "title": "",
-      "answer": "",
+      "title": "在下列何種狀況下會使任一飛機從失速中復原變得困難",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "重心向後移動" },
+        { "id": 2, "option": "B", "text": "重心向前移動" },
+        { "id": 3, "option": "C", "text": "昇降舵調整片調至機鼻朝下" }
       ]
     },
     {
       "id": 220,
-      "title": "",
-      "answer": "",
+      "title": "下列何種天氣現象會需要將飛機之速度減至VA以下",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "較高的密度高, 其將導致指示失速速度增加" },
+        { "id": 2, "option": "B", "text": "亂流, 其將導致失速速度增加" },
+        { "id": 3, "option": "C", "text": "亂流, 其將導致失速速度降低" }
       ]
     },
     {
       "id": 221,
-      "title": "",
-      "answer": "",
+      "title": "機翼發生失速時之攻角會維持不變, 其與",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "重量, 動壓, 傾角或俯仰姿態無關" },
+        { "id": 2, "option": "B", "text": "動壓無關, 但會隨重量, 傾角及俯仰姿態之變化而變化" },
+        { "id": 3, "option": "C", "text": "重量及俯仰姿態無關, 但會隨動壓及傾角之變化而變化" }
       ]
     },
     {
       "id": 222,
-      "title": "",
-      "answer": "",
+      "title": "襟翼在飛機進場落地時的主要功能是",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "在不需增加速度的狀況下減少下降角" },
+        { "id": 2, "option": "B", "text": "在較低的速度下維持一樣的昇力" },
+        { "id": 3, "option": "C", "text": "減少昇力, 以便飛機能以較陡之角度進場" }
       ]
     },
     {
       "id": 223,
-      "title": "",
-      "answer": "",
+      "title": "下列何種裝置伸展後會使昇力及阻力都增加",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "襟翼" },
+        { "id": 2, "option": "B", "text": "減速板" },
+        { "id": 3, "option": "C", "text": "前襟翼" }
       ]
     },
     {
       "id": 224,
-      "title": "",
-      "answer": "",
+      "title": "長方形的翼面和其他形狀之翼面相較, 其失速會最先發生在",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "翼尖, 然後朝翼根擴散" },
+        { "id": 2, "option": "B", "text": "翼根, 然後朝翼尖擴散" },
+        { "id": 3, "option": "C", "text": "機翼尾緣中央, 然後分朝翼根及翼尖擴散" }
       ]
     },
     {
       "id": 225,
-      "title": "",
-      "answer": "",
+      "title": "從螺槳後方看螺槳以順時針方向旋轉, 其所產生漩渦狀的氣流, 如果從力矩的效應來看會使飛機",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "繞垂直軸向右轉, 及繞縱軸左轉" },
+        { "id": 2, "option": "B", "text": "繞垂直軸向左轉, 及繞縱軸右轉" },
+        { "id": 3, "option": "C", "text": "繞垂直軸向左轉, 及繞縱軸左轉" }
       ]
     },
     {
       "id": 226,
-      "title": "",
-      "answer": "",
+      "title": "飛機離開地面效應區時會",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "遭遇地面摩擦力增加的狀況, 因此需要增加一些動力" },
+        { "id": 2, "option": "B", "text": "遭遇誘導阻力增加的狀況因此需要增加一些推力" },
+        { "id": 3, "option": "C", "text": "需要降低攻角以維持相同的昇力係數" }
       ]
     },
     {
       "id": 227,
-      "title": "",
-      "answer": "",
+      "title": "在有地面效應和沒有地面效應的的比較下, 如要產生相同的昇力, 則飛機須",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "維持較小之攻角" },
+        { "id": 2, "option": "B", "text": "維持相同之攻角" },
+        { "id": 3, "option": "C", "text": "維持較大之攻角" }
       ]
     },
     {
       "id": 228,
-      "title": "",
-      "answer": "",
+      "title": "在有地面效應和沒有地面效應的的比較下, 如維持攻角不變, 則昇力會",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "增加, 且誘導阻力將減少" },
+        { "id": 2, "option": "B", "text": "減少, 且誘導阻力將增加" },
+        { "id": 3, "option": "C", "text": "增加, 且誘導阻力也將增加" }
       ]
     },
     {
       "id": 229,
-      "title": "",
-      "answer": "",
+      "title": "有關尾流之敘述, 下列敘述何者為真",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "指飛機起飛抬頭時會產生之渦流" },
+        { "id": 2, "option": "B", "text": "其主要的危害是會讓飛機產生誘導滾動而失控" },
+        { "id": 3, "option": "C", "text": "當飛機較重,較乾淨及較快的情況下, 會產生較大的渦流" }
       ]
     },
     {
       "id": 230,
-      "title": "",
-      "answer": "",
+      "title": "在大型噴射機離場後接著起飛, 飛行員可藉由下列合種方式降低翼尖渦流之危害",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "在到達大型噴射機之飛行路徑前, 儘速轉彎以脫離其尾流" },
+        { "id": 2, "option": "B", "text": "在起飛及爬昇時增加額外的速度" },
+        { "id": 3, "option": "C", "text": "延長起飛滾行的距離直到超過大型噴射機起飛抬頭位置之後" }
       ]
     },
     {
       "id": 231,
-      "title": "",
-      "answer": "",
+      "title": "如果一架大型噴射機在前方一哩的位置由左至右穿越你的飛行路徑, 你會採取何種程序以避免進入其紊亂的尾流區中",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "將飛行路徑稍微向上調整, 確保在噴射客機之上即可" },
+        { "id": 2, "option": "B", "text": "減速至VA , 然後保持高度及航向" },
+        { "id": 3, "option": "C", "text": "將飛行路徑稍微向下調整, 確保在噴射客機和航向垂直即可" }
       ]
     },
     {
       "id": 232,
-      "title": "",
-      "answer": "",
+      "title": "如果一架大型噴射機在你起飛前降落, 你會在跑道何處離地, 以避免進入其紊亂的尾流區中",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "在大型噴射機著地點之後" },
+        { "id": 2, "option": "B", "text": "在大型噴射機著地點之前" },
+        { "id": 3, "option": "C", "text": "在大型噴射機著地點之前500呎" }
       ]
     },
     {
       "id": 233,
-      "title": "",
-      "answer": "",
+      "title": "在一大型航機之後降落, 應採取何種程序以避免進入其紊亂的尾流區中",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "始終保持在大型機最後進場路徑之上, 直到飛機著地" },
+        { "id": 2, "option": "B", "text": "始終保持在大型機最後進場路徑之下, 直到飛機著地" },
+        { "id": 3, "option": "C", "text": "始終保持在大型機最後進場路徑之下, 並與大型機相隔至少2,000呎" }
       ]
     },
     {
       "id": 234,
-      "title": "",
-      "answer": "",
+      "title": "滑翔機由昇力而產生之阻力稱為",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "誘導阻力, 其與空速大小無關" },
+        { "id": 2, "option": "B", "text": "誘導阻力, 其與空速大小有關" },
+        { "id": 3, "option": "C", "text": "寄生阻力, 其與空速大小有關" }
       ]
     },
     {
       "id": 235,
-      "title": "",
-      "answer": "",
+      "title": "滑翔機最佳昇阻比是發生於寄生阻力",
+      "answer": "A",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "等於誘導阻力時" },
+        { "id": 2, "option": "B", "text": "小於誘導阻力時" },
+        { "id": 3, "option": "C", "text": "大於誘導阻力時" }
       ]
     },
     {
       "id": 236,
-      "title": "",
-      "answer": "",
+      "title": "在某一固定空速下,空氣密度增加會對滑翔機之昇力和阻力造成何種影響",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "昇力和阻力都減少" },
+        { "id": 2, "option": "B", "text": "昇力增加, 但阻力減少" },
+        { "id": 3, "option": "C", "text": "昇力和阻力都增加" }
       ]
     },
     {
       "id": 237,
-      "title": "",
-      "answer": "",
+      "title": "如果滑翔機之空速由每小時45哩增至每小時90哩, 則寄生阻力會",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "增加2倍" },
+        { "id": 2, "option": "B", "text": "增加4倍" },
+        { "id": 3, "option": "C", "text": "增加6倍" }
       ]
     },
     {
       "id": 238,
-      "title": "",
-      "answer": "",
+      "title": "如果滑翔機之指示空速由每小時90哩減至每小時45哩, 則誘導阻力會",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "減少4倍" },
+        { "id": 2, "option": "B", "text": "增加2倍" },
+        { "id": 3, "option": "C", "text": "增加4倍" }
       ]
     },
     {
       "id": 239,
-      "title": "",
-      "answer": "",
+      "title": "(參考圖5) 從C點到E點的水平虛線代表(如圖A22_Fig5)",
+      "answer": "B",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
-      ]
+        { "id": 1, "option": "A", "text": "無限的負荷係數" },
+        { "id": 2, "option": "B", "text": "負荷係數的上限" },
+        { "id": 3, "option": "C", "text": "正常操作之空速範圍" }
+      ],
+      "image": 5
     },
     {
       "id": 240,
-      "title": "",
-      "answer": "",
+      "title": "理論上, 如攻角及其他因素不變, 空速加倍, 則高空速的昇力",
+      "answer": "C",
       "userAnswer": "",
       "options": [
-        { "id": 1, "option": "A", "text": "" },
-        { "id": 2, "option": "B", "text": "" },
-        { "id": 3, "option": "C", "text": "" },
-        { "id": 4, "option": "D", "text": "" }
+        { "id": 1, "option": "A", "text": "和低空速之昇力相同" },
+        { "id": 2, "option": "B", "text": "為低空速之昇力之一倍" },
+        { "id": 3, "option": "C", "text": "為低空速之昇力之四倍" }
       ]
     }
   ]
